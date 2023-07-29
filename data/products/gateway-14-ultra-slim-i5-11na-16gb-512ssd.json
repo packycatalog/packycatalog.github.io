@@ -1,0 +1,25 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Compacta",
+  "Images": [
+    "/images/products/gateway-14-ultra-slim-i5-11na-16gb-512ssd-1.webp",
+    "/images/products/gateway-14-ultra-slim-i5-11na-16gb-512ssd-2.webp"
+  ],
+  "Description": "Standing screen display size \t‎14.1 Inches\nScreen Resolution \t‎1920 x 1080 pixels\nMax Screen Resolution \t‎1920 x 1080 Pixels\nProcessor \t‎2.4 GHz core_i5_family  i5-1135G7\nRAM \t‎16 GB DDR4\nHard Drive \t‎512 GB SSD\nGraphics Coprocessor \t‎Intel Iris Xe Graphics\nChipset Brand \t‎Intel\nCard Description \t‎Integrated\nNumber of USB 3.0 Ports \t‎2\nAverage Battery Life (in hours) \t‎10 Hours \n\nBrand \t‎Gateway\nItem model number \t‎GWTN141-10BK\nItem Weight \t‎3.5 pounds\nProduct Dimensions \t‎8.9 x 0.6 x 13.1 inches\nItem Dimensions LxWxH \t‎8.9 x 0.6 x 13.1 inches\nRear Webcam Resolution \t‎1 MP\nProcessor Brand \t‎Intel\nNumber of Processors \t‎4\nComputer Memory Type \t‎DDR4 SDRAM\nHard Drive Interface \t‎Solid State",
+  "Price": 430.00,
+  "Features": [
+    "Táctil",
+    "3LB",
+    "10H",
+    "IPS",
+    "FHD",
+    "Huella",
+    "Iris Xe",
+    "DDR4",
+    "2xUSB"
+  ],
+  "Date": "2023-07-08T20:06:13.7524655-04:00",
+  "Update": "2023-07-28T18:18:14.8524144-04:00",
+  "Discount": 0.0,
+  "Label": "Gateway 14 Ultra Slim, i5 11na, 16GB, 512SSD"
+}
