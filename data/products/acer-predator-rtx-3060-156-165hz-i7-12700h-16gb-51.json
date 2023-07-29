@@ -1,0 +1,29 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/acer-predator-rtx-3060-156-165hz-i7-12700h-16gb-51-1.webp",
+    "/images/products/acer-predator-rtx-3060-156-165hz-i7-12700h-16gb-51-2.webp",
+    "/images/products/acer-predator-rtx-3060-156-165hz-i7-12700h-16gb-51-3.webp",
+    "/images/products/acer-predator-rtx-3060-156-165hz-i7-12700h-16gb-51-4.webp",
+    "/images/products/acer-predator-rtx-3060-156-165hz-i7-12700h-16gb-51-5.webp"
+  ],
+  "Description": "General\n\n    Product Name\n    Predator Helios 300 - 15.6\" FHD 165Hz Gaming Laptop - Intel     Core i7 - 16GB DDR5 - NVIDIA GeForce RTX 3060 - 512GB SSD\n    Brand:     Acer\n    Year of Release: 2022\n    Color Category:  Black\n\nDisplay\n\tDisplay Type:  LED\n\tScreen Size: 15.6 inches\n\tScreen Resolution: 1920 x 1080 (Full HD)\n\tTouch Screen: No\n\tRefresh Rate: 165Hz\n\tBrightness: 300 nits\n\tColor Gamut (Standard RGB):100 percent\n\nProcessor: Intel 12700H Generation Core i7\nStorage: 512 SSD\n    \nMemory\n            System Memory (RAM): 16 gigabytes\n\tType of Memory (RAM): DDR5\n\nGraphics\n\tGPU Brand:\tNVIDIA\n\tGraphics:\tNVIDIA GeForce RTX 3060\n\tAdvanced Graphics Rendering Technique(s):\tDLSS (Deep Learning Super Sampling), Ray tracing\n\tVideo Memory Type: Dedicated\n\nCompatibility\n    Operating System: Windows 11 Home\n\nConnectivity\n    Microphone Input:   Yes\n    Number Of Ethernet Ports:   1\n    Number of HDMI Outputs (Total):  1\n    Number of USB Ports (Total): 4\n    Number of USB 3.2 Type A Ports: 3\n    Number of USB Type C Charging Ports:  1\n    Number of DisplayPort Ver. 1.4 Outputs: 1\n    Number of Thunderbolt 4 Ports: 1\n   \nPower\n    Battery Type: Lithium-ion\n\nCamera\n    Front-Facing Camera: Yes\n    Front Facing Camera Video Resolution: 1080p\n    Built-In Microphone: Yes\n\nFeatures\n    Backlit Keyboard: Yes\n    Touchpad Type: Precision\n\nDimension\n    Product Weight: 5.73 pounds",
+  "Price": 1275.00,
+  "Features": [
+    "DDR5",
+    "3xUSB",
+    "300nits",
+    "DLSS",
+    "12da",
+    "FHD",
+    "NVMe",
+    "RJ-45",
+    "5.7LB",
+    "NVidia"
+  ],
+  "Date": "2023-07-08T19:18:40.5536002-04:00",
+  "Update": "2023-07-29T00:31:55.070832-04:00",
+  "Discount": 0.0,
+  "Label": "Acer Predator RTX 3060, 15.6 165Hz, i7-12700H, 16GB, 512SSD"
+}
