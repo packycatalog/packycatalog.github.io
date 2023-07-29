@@ -1,0 +1,193 @@
+{
+  "Laptops": {
+    "Compacta": [
+      {
+        "Price": 430.00,
+        "Features": [
+          "Táctil",
+          "3LB",
+          "10H",
+          "IPS",
+          "FHD",
+          "Huella",
+          "Iris Xe",
+          "DDR4",
+          "2xUSB"
+        ],
+        "Date": "2023-07-08T20:06:13.7524655-04:00",
+        "Update": "2023-07-28T18:18:14.8524144-04:00",
+        "Discount": 0.0,
+        "Label": "Gateway 14 Ultra Slim, i5 11na, 16GB, 512SSD"
+      },
+      {
+        "Price": 625.00,
+        "Features": [
+          "Táctil",
+          "10H",
+          "3LB",
+          "3xUSB",
+          "IPS",
+          "FHD",
+          "Huella",
+          "Iris Xe",
+          "DDR4"
+        ],
+        "Date": "2023-07-08T20:06:15.3165388-04:00",
+        "Update": "2023-07-29T00:31:55.169115-04:00",
+        "Discount": 0.0,
+        "Label": "Gateway 14 Ultra Slim, i7 12va, 8GB, 512SSD"
+      }
+    ],
+    "Versatil": [
+      {
+        "Price": 595.00,
+        "Features": [
+          "IPS",
+          "Backlit",
+          "3xUSB",
+          "7H",
+          "NVMe",
+          "Thunderbolt 4",
+          "DDR4",
+          "Iris Xe",
+          "RJ-45"
+        ],
+        "Date": "2023-07-08T18:28:50.6415529-04:00",
+        "Update": "2023-07-28T20:20:56.783086-04:00",
+        "Discount": 0.0,
+        "Label": "Acer Aspire i5 12va, 15.6FHD, 16GB, 512SSD"
+      },
+      {
+        "Price": 670.00,
+        "Features": [
+          "Backlit",
+          "3xUSB",
+          "IPS",
+          "4LB",
+          "NVMe",
+          "DDR4",
+          "Iris Xe"
+        ],
+        "Date": "2023-07-08T19:02:14.8162062-04:00",
+        "Update": "2023-07-28T20:23:47.2002968-04:00",
+        "Discount": 0.0,
+        "Label": "Acer +Bolso, i7 11na, 15.6FHD, 16GB, 512SSD"
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 1275.00,
+        "Features": [
+          "DDR5",
+          "3xUSB",
+          "300nits",
+          "DLSS",
+          "12da",
+          "FHD",
+          "NVMe",
+          "RJ-45",
+          "5.7LB",
+          "NVidia"
+        ],
+        "Date": "2023-07-08T19:18:40.5536002-04:00",
+        "Update": "2023-07-29T00:31:55.070832-04:00",
+        "Discount": 0.0,
+        "Label": "Acer Predator RTX 3060, 15.6 165Hz, i7-12700H, 16GB, 512SSD"
+      },
+      {
+        "Price": 825.00,
+        "Features": [
+          "IPS",
+          "Backlit",
+          "5LB",
+          "NVMe",
+          "FHD",
+          "RJ-45",
+          "4GB GDDR6",
+          "12da",
+          "NVidia"
+        ],
+        "Date": "2023-07-08T20:06:18.4294543-04:00",
+        "Update": "2023-07-29T00:31:55.0875854-04:00",
+        "Discount": 0.0,
+        "Label": "HP Victus GTX 1650, 15.6 144Hz, i5-12450H, 16GB*, 512SSD"
+      },
+      {
+        "Price": 1495.00,
+        "Features": [
+          "RGB",
+          "Backlit",
+          "12va",
+          "2xUSB",
+          "FHD",
+          "NVMe",
+          "7LB",
+          "DDR4"
+        ],
+        "Date": "2023-07-08T20:06:22.3149295-04:00",
+        "Update": "2023-07-29T00:31:55.1064272-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Pulse RTX 3070, 17.3 360Hz, i7-12700H, 16GB, 1TB SSD"
+      },
+      {
+        "Price": 1335.00,
+        "Features": [
+          "DDR5",
+          "IPS",
+          "FHD",
+          "RJ-45",
+          "12va",
+          "4.4LB",
+          "DLSS3",
+          "2xUSB"
+        ],
+        "Date": "2023-07-08T20:06:20.2761745-04:00",
+        "Update": "2023-07-29T00:31:55.122675-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Cyborg RTX 4060, 15.6 144Hz, i7-12650H, 16GB*, 512SSD"
+      },
+      {
+        "Price": 1595.00,
+        "Features": [
+          "AMOLED",
+          "DDR5",
+          "UHD+",
+          "Thunderbolt 4",
+          "PCIe Gen4 SSD",
+          "8GB GDDR6",
+          "5LB",
+          "Backlit",
+          "NVMe",
+          "RJ-45"
+        ],
+        "Date": "2023-07-08T20:06:16.9751304-04:00",
+        "Update": "2023-07-29T00:31:55.1384546-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte AERO RTX 3070Ti, 16 4K 360Hz, i7-12700H, 32GB, 2T SSD"
+      }
+    ],
+    "Pro": [
+      {
+        "Price": 715.00,
+        "Features": [
+          "12xCore",
+          "3LB",
+          "Slim",
+          "Backlit",
+          "3xUSB",
+          "IPS",
+          "DDR4",
+          "NVMe",
+          "Huella",
+          "FHD",
+          "250nit",
+          "Iris Xe"
+        ],
+        "Date": "2023-07-08T19:25:29.8011511-04:00",
+        "Update": "2023-07-29T00:31:55.153573-04:00",
+        "Discount": 0.0,
+        "Label": "ASUS Vivobook i5-1240P, 15.6, 16GB*, 512SSD"
+      }
+    ]
+  }
+}
