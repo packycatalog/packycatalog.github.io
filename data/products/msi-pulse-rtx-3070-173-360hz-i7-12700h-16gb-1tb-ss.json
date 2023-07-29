@@ -1,0 +1,29 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/msi-pulse-rtx-3070-173-360hz-i7-12700h-16gb-1tb-ss-1.webp",
+    "/images/products/msi-pulse-rtx-3070-173-360hz-i7-12700h-16gb-1tb-ss-2.webp",
+    "/images/products/msi-pulse-rtx-3070-173-360hz-i7-12700h-16gb-1tb-ss-3.webp",
+    "/images/products/msi-pulse-rtx-3070-173-360hz-i7-12700h-16gb-1tb-ss-4.webp",
+    "/images/products/msi-pulse-rtx-3070-173-360hz-i7-12700h-16gb-1tb-ss-5.webp",
+    "/images/products/msi-pulse-rtx-3070-173-360hz-i7-12700h-16gb-1tb-ss-6.webp",
+    "/images/products/msi-pulse-rtx-3070-173-360hz-i7-12700h-16gb-1tb-ss-7.webp"
+  ],
+  "Description": "Model\nSeries: Raider\nModel: gl76 17\n\n\nQuick Info\nColor: Black\nCPU: i7-12700H\nGraphics Card: GeForce RTX 3070\nVideo Memory: 8 GB\n\n\nCPU\nCPU Type: Intel Core i7 12th Gen\nCPU Speed: 12700H (2.30GHz)\nNumber of Cores: 14-core (6P+8E) Processor\nTurbo Frequency: 4.7 GHz\n\n\nDisplay\nScreen Size: 17.3\"\nTouchscreen: No\nDisplay Type: Full HD\nResolution: 1920 x 1200\nLCD Features: LED backlight\n\n\nOperating Systems\nOperating System: Windows 11 Home\n\n\nGraphics\nGPU/VPU: NVIDIA GeForce RTX 3070 Laptop GPU\nVideo Memory: 8GB\nGraphic Type: Dedicated Card\n\n\nStorage\nSSD: 1 TB PCIe\nHDD: No\n\n\nMemory\nMemory: 16GB DDR4\n\n\nCommunications\nBluetooth: Yes\n\n\nPorts\nUSB: 2\nHDMI: 1 x HDMI\nAudio Ports: 1 x Headphone/Microphone Combo Jack\n\n\nAudio\nAudio: Integrated Sound card\nSpeaker: Internal Speakers\n\n\nInput Device\nTouchpad: Yes\nKeyboard: Full size with Keyboard light\nBacklit Keyboard: Backlit\nWebcam: Yes\nCard Reader: 2-in-1\n\n\nGeneral\nStyle: Standard\nType: Gaming\nUsage: Consumer\n\n\n\nPackage Content: Laptop, Charger\nPackage Type: Retail\n\n\nDimensions & Weight\nWeight: 6 - 6.9 lbs.",
+  "Price": 1495.00,
+  "Features": [
+    "RGB",
+    "Backlit",
+    "12va",
+    "2xUSB",
+    "FHD",
+    "NVMe",
+    "7LB",
+    "DDR4"
+  ],
+  "Date": "2023-07-08T20:06:22.3149295-04:00",
+  "Update": "2023-07-29T00:31:55.1064272-04:00",
+  "Discount": 0.0,
+  "Label": "MSI Pulse RTX 3070, 17.3 360Hz, i7-12700H, 16GB, 1TB SSD"
+}
