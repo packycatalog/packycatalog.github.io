@@ -1,0 +1,23 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Versatil",
+  "Images": [
+    "/images/products/acer-bolso-i7-11na-156fhd-16gb-512ssd-1.webp",
+    "/images/products/acer-bolso-i7-11na-156fhd-16gb-512ssd-2.webp"
+  ],
+  "Description": "Acer Aspire Vero AV15-51-7617 \n15.6\" FHD IPS 100% sRGB-Display\n11th Gen Intel Core i7-1195G7\nIntel Iris Xe Graphics \n16GB DDR4 \n512GB NVMe SSD \nWi-Fi 6 \nVero-Sleeve\n\nMarca: \t‎Acer\nColor :\t‎Gris\nPantalla: 15,6 Pulgadas\nResolución: 1920 x 1080\nAlmacenamiento:‎512 GB SSD, ‎PCI Express x4\nProcesador: i7 - 1195G7, 5 GHz \nRAM \t‎16 GB DDR4\nVelocidad de memoria \t‎2666 MHz\nDisco Duro \t‎512 SSD\nSistema operativo:‎Windows 11 Home\nDimensiones del producto :‎14,31 x 9,39 x 0,7 pulgadas\n\nTipo de conexión inalámbrica \t‎802.11ax\nNúmero de puertos USB 2.0 \t‎1\nNúmero de puertos USB 3.0 \t‎3",
+  "Price": 670.00,
+  "Features": [
+    "Backlit",
+    "3xUSB",
+    "IPS",
+    "4LB",
+    "NVMe",
+    "DDR4",
+    "Iris Xe"
+  ],
+  "Date": "2023-07-08T19:02:14.8162062-04:00",
+  "Update": "2023-07-28T20:23:47.2002968-04:00",
+  "Discount": 0.0,
+  "Label": "Acer +Bolso, i7 11na, 15.6FHD, 16GB, 512SSD"
+}
