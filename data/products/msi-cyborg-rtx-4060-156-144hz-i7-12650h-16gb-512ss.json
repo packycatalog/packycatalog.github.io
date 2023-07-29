@@ -1,0 +1,28 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/msi-cyborg-rtx-4060-156-144hz-i7-12650h-16gb-512ss-1.webp",
+    "/images/products/msi-cyborg-rtx-4060-156-144hz-i7-12650h-16gb-512ss-2.webp",
+    "/images/products/msi-cyborg-rtx-4060-156-144hz-i7-12650h-16gb-512ss-3.webp",
+    "/images/products/msi-cyborg-rtx-4060-156-144hz-i7-12650h-16gb-512ss-4.webp",
+    "/images/products/msi-cyborg-rtx-4060-156-144hz-i7-12650h-16gb-512ss-5.webp",
+    "/images/products/msi-cyborg-rtx-4060-156-144hz-i7-12650h-16gb-512ss-6.webp"
+  ],
+  "Description": "Brand\n    MSI\n    Model Number\n    CYBORG1512043\n    Year of Release\n    2023\n    Color\n    Black\n    Color Category\n    Black\n\nDisplay\n\n    Screen Type: IPS\n    Screen Size: 15.6 inches\n    Screen Resolution: 1920 x 1080 (Full HD)\n    Touch Screen: No\n    Refresh Rate:  144Hz\n\nProcessor\n\n    Processor Brand:    Intel\n    Processor Model:    Intel 12th Generation Core i7\n    Processor Model Number:  12650H\n\nStorage\n\n    Storage Type:    SSD\n    Total Storage Capacity:    512 gigabytes\n    Solid State Drive Capacity:   512 gigabytes\n\nMemory\n\n    System Memory (RAM): 16 gigabytes\n    Type of Memory (RAM): DDR5\n    System Memory RAM Speed: 4800 megahertz\n    Number Of Memory Slots: 2\n    System Memory RAM Expandable To:   64 gigabytes\n\nGraphics\n    Graphics Type: Dedicated\n    GPU Brand: NVIDIA\n    Graphics: NVIDIA GeForce RTX 4060\n    Advanced Graphics Rendering Technique(s)\n    DLSS 3 (Deep Learning Super Sampling), Ray tracing\n    GPU Video Memory (RAM):     8 gigabytes\n\nCompatibility\n    Operating System:     Windows 11 Home\n\nConnectivity\n\n    Display Connector(s): 1 x HDMI 2.1\n    Number of HDMI Outputs (Total): 1\n    USB Ports: 2 x USB-A 3.1, 1 x USB-C 3.1\n    Number of USB Ports (Total): 3\n    Headphone Jack: Yes\n    Wireless Connectivity: Bluetooth, Wi-Fi\n    Wireless Standard: AX\n Wireless Networking Standard:     Wi-Fi 6\n\n\nPower\n    Battery Cells\n    4-cell\n    Battery Type\n    Lithium-ion polymer\n\nExpansion\n    Number of M.2 Slots:   1\n\nCamera\n    Front-Facing Camera:   Yes\n    Front Facing Camera Video Resolution:   720p\n    Built-In Microphone:    Yes\n\nFeatures\n    Backlit Keyboard:     Yes\n    \nDimensions\n    Product Weight: 4.37 pounds",
+  "Price": 1335.00,
+  "Features": [
+    "DDR5",
+    "IPS",
+    "FHD",
+    "RJ-45",
+    "12va",
+    "4.4LB",
+    "DLSS3",
+    "2xUSB"
+  ],
+  "Date": "2023-07-08T20:06:20.2761745-04:00",
+  "Update": "2023-07-29T00:31:55.122675-04:00",
+  "Discount": 0.0,
+  "Label": "MSI Cyborg RTX 4060, 15.6 144Hz, i7-12650H, 16GB*, 512SSD"
+}
