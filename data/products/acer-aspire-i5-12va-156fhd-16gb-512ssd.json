@@ -1,0 +1,31 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Versatil",
+  "Images": [
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-1.webp",
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-2.webp",
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-3.webp",
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-4.webp",
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-5.webp",
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-6.webp",
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-7.webp",
+    "/images/products/acer-aspire-i5-12va-156fhd-16gb-512ssd-8.webp"
+  ],
+  "Description": "Brand: Acer\nSeries: Aspire 5\nColor: Steel Gray\nOperating System: Windows 11 Home 64-bit\nCPU: Intel Core i5-1235U 1.30 GHz\nScreen: 15.6\" IPS\nMemory: 16 GB DDR4 \nStorage: 512 GB NVMe SSD\nGraphics Card: Intel Iris Xe Graphics\nVideo Memory: Shared memory\nDimensions (W x D x H): 14.29\" x 9.36\" x 0.70\"\n\n\nCPU\nCPU Type: Intel Core i5 12th Gen\nCPU Speed: 1235U (1.30GHz)\nTurbo Frequency: Up to 4.40 GHz\nNumber of Cores: 10-core (2P+8E) Processor\nCPU L3 Cache: 12 MB\n\n\nDisplay\nScreen Size: 15.6\"\nTouchscreen: No\nWide Screen Support: Yes\nDisplay Type: Full HD\nResolution: 1920 x 1080\nPanel: IPS\n\n\nMax Memory Supported: 32 GB\n\n\nCommunications\nLAN: 10/100/1000Mbps\nWLAN: 802.11ax Wi-Fi 6 Dual-Band 2.4GHz and 5GHz MU-MIMO technology\nWiFi Generation: Wi-Fi 6\nBluetooth: Bluetooth 5.1\n\n\nPorts\nUSB: 3 x USB 3.2 Gen 1 Type-A (one with Power-off Charging)\nThunderbolt: 1 x Thunderbolt 4\nHDMI: 1 x HDMI 2.1\nEthernet: 1 x RJ-45 (1Gbps)\nAudio Ports: 1 x Headphone/Microphone Combo Jack\n\n\nInput Device\nTouchpad: Multi-gesture touchpad with two buttons\nBacklit Keyboard: Backlit\nWebcam: HD Webcam (1280 x 720) with Blue Glass Lens supporting 720 HD Video\n\n\nPower\nBattery: Lithium Ion\nBattery Life: Up to 7.5 Hours",
+  "Price": 595.00,
+  "Features": [
+    "IPS",
+    "Backlit",
+    "3xUSB",
+    "7H",
+    "NVMe",
+    "Thunderbolt 4",
+    "DDR4",
+    "Iris Xe",
+    "RJ-45"
+  ],
+  "Date": "2023-07-08T18:28:50.6415529-04:00",
+  "Update": "2023-07-28T20:20:56.783086-04:00",
+  "Discount": 0.0,
+  "Label": "Acer Aspire i5 12va, 15.6FHD, 16GB, 512SSD"
+}
