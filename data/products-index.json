@@ -40,24 +40,6 @@
     ],
     "Versatil": [
       {
-        "Price": 595.00,
-        "Features": [
-          "IPS",
-          "Backlit",
-          "3xUSB",
-          "7H",
-          "NVMe",
-          "Thunderbolt 4",
-          "DDR4",
-          "Iris Xe",
-          "RJ-45"
-        ],
-        "Date": "2023-07-08T18:28:50.6415529-04:00",
-        "Update": "2023-07-28T20:20:56.783086-04:00",
-        "Discount": 0.0,
-        "Label": "Acer Aspire i5 12va, 15.6FHD, 16GB, 512SSD"
-      },
-      {
         "Price": 670.00,
         "Features": [
           "Backlit",
