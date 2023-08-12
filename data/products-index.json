@@ -110,65 +110,6 @@
         "Update": "2023-07-29T00:31:55.1064272-04:00",
         "Discount": 0.0,
         "Label": "MSI Pulse RTX 3070, 17.3 360Hz, i7-12700H, 16GB, 1TB SSD"
-      },
-      {
-        "Price": 1335.00,
-        "Features": [
-          "DDR5",
-          "IPS",
-          "FHD",
-          "RJ-45",
-          "12va",
-          "4.4LB",
-          "DLSS3",
-          "2xUSB"
-        ],
-        "Date": "2023-07-08T20:06:20.2761745-04:00",
-        "Update": "2023-07-29T00:31:55.122675-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Cyborg RTX 4060, 15.6 144Hz, i7-12650H, 16GB*, 512SSD"
-      },
-      {
-        "Price": 1595.00,
-        "Features": [
-          "AMOLED",
-          "DDR5",
-          "UHD+",
-          "Thunderbolt 4",
-          "PCIe Gen4 SSD",
-          "8GB GDDR6",
-          "5LB",
-          "Backlit",
-          "NVMe",
-          "RJ-45"
-        ],
-        "Date": "2023-07-08T20:06:16.9751304-04:00",
-        "Update": "2023-07-29T00:31:55.1384546-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte AERO RTX 3070Ti, 16 4K 360Hz, i7-12700H, 32GB, 2T SSD"
-      }
-    ],
-    "Pro": [
-      {
-        "Price": 715.00,
-        "Features": [
-          "12xCore",
-          "3LB",
-          "Slim",
-          "Backlit",
-          "3xUSB",
-          "IPS",
-          "DDR4",
-          "NVMe",
-          "Huella",
-          "FHD",
-          "250nit",
-          "Iris Xe"
-        ],
-        "Date": "2023-07-08T19:25:29.8011511-04:00",
-        "Update": "2023-07-29T00:31:55.153573-04:00",
-        "Discount": 0.0,
-        "Label": "ASUS Vivobook i5-1240P, 15.6, 16GB*, 512SSD"
       }
     ]
   }
