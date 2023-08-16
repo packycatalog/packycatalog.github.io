@@ -198,17 +198,6 @@
         "Label": "Flash USB - Kingston 32GB"
       },
       {
-        "Price": 17.00,
-        "Features": [
-          "ORICO",
-          "USB 3.0"
-        ],
-        "Date": "2023-08-16T09:46:44.8274405-04:00",
-        "Update": "2023-08-16T10:50:35.0812722-04:00",
-        "Discount": 0.0,
-        "Label": "Enclosure 2.5"
-      },
-      {
         "Price": 26.00,
         "Features": [
           "Orico",
@@ -220,6 +209,14 @@
         "Update": "2023-08-16T10:50:35.089633-04:00",
         "Discount": 0.0,
         "Label": "Enclosure M.2"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-08-16T09:46:44.8274405-04:00",
+        "Update": "2023-08-16T11:09:56.7537412-04:00",
+        "Discount": 0.0,
+        "Label": "Enclosure 2.5, ORICO, USB 3.0"
       }
     ],
     "SHDD EXT": [
