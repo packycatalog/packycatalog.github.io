@@ -183,21 +183,75 @@
         "Discount": 0.0,
         "Label": "Mouse Logitech M185"
       }
+    ],
+    "": [
+      {
+        "Price": 13.00,
+        "Features": [
+          "DataTraveler",
+          "100 G3",
+          "USB 3.0"
+        ],
+        "Date": "2023-08-16T09:46:42.1083883-04:00",
+        "Update": "2023-08-16T10:50:35.0715038-04:00",
+        "Discount": 0.0,
+        "Label": "Flash USB - Kingston 32GB"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "ORICO",
+          "USB 3.0"
+        ],
+        "Date": "2023-08-16T09:46:44.8274405-04:00",
+        "Update": "2023-08-16T10:50:35.0812722-04:00",
+        "Discount": 0.0,
+        "Label": "Enclosure 2.5"
+      },
+      {
+        "Price": 26.00,
+        "Features": [
+          "Orico",
+          "USB-A/C",
+          "USB3.1 Gen2",
+          "[MM2C3-G2]"
+        ],
+        "Date": "2023-08-16T09:46:46.4991974-04:00",
+        "Update": "2023-08-16T10:50:35.089633-04:00",
+        "Discount": 0.0,
+        "Label": "Enclosure M.2"
+      }
+    ],
+    "SHDD EXT": [
+      {
+        "Price": 85.00,
+        "Features": [
+          "RGB",
+          "2TB",
+          "USB 3.0"
+        ],
+        "Date": "2023-08-16T09:46:51.7650723-04:00",
+        "Update": "2023-08-16T10:50:35.0981738-04:00",
+        "Discount": 0.0,
+        "Label": "Seagate Firecuda"
+      }
+    ],
+    "HDD EXT": [
+      {
+        "Price": 80.00,
+        "Features": [
+          "2TB",
+          "USB 3.0"
+        ],
+        "Date": "2023-08-16T09:46:54.5473918-04:00",
+        "Update": "2023-08-16T10:50:35.1067857-04:00",
+        "Discount": 0.0,
+        "Label": "Toshiba Canvio Basics"
+      }
     ]
   },
   "componentes": {
     "SSD M.2": [
-      {
-        "Price": 79.00,
-        "Features": [
-          "1TB",
-          "5000/4800"
-        ],
-        "Date": "2023-07-15T20:50:46.5787982-04:00",
-        "Update": "2023-07-15T21:43:37.3478502-04:00",
-        "Discount": 0.0,
-        "Label": "Silicon Power UD90"
-      },
       {
         "Price": 55.00,
         "Features": [
@@ -230,6 +284,17 @@
         "Update": "2023-07-16T15:29:42.8057058-04:00",
         "Discount": 0.0,
         "Label": "Samsung 980"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "1TB",
+          "5000/4800"
+        ],
+        "Date": "2023-07-15T20:50:46.5787982-04:00",
+        "Update": "2023-08-16T10:50:35.043871-04:00",
+        "Discount": 0.0,
+        "Label": "Silicon Power UD90"
       }
     ],
     "SSD 2.5": [
@@ -267,33 +332,6 @@
         "Label": "Crucial BX500"
       }
     ],
-    "HDD 2.5": [
-      {
-        "Price": 59.00,
-        "Features": [
-          "1TB",
-          "5400RPM",
-          "128MB",
-          "Sata3",
-          "[ST1000LM048]"
-        ],
-        "Date": "2023-07-16T12:06:38.728482-04:00",
-        "Update": "2023-07-16T15:29:42.8247888-04:00",
-        "Discount": 0.0,
-        "Label": "Seagate BarraCuda"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "2TB",
-          "2.5\""
-        ],
-        "Date": "2023-07-16T12:06:37.010469-04:00",
-        "Update": "2023-08-16T09:35:19.6133104-04:00",
-        "Discount": 0.0,
-        "Label": "Seagate"
-      }
-    ],
     "RAM": [
       {
         "Price": 55.00,
@@ -304,6 +342,33 @@
         "Update": "2023-07-16T15:31:58.1605374-04:00",
         "Discount": 0.0,
         "Label": "DDR5L - Team Elite 16GB 4800mhz"
+      }
+    ],
+    "HDD 2.5": [
+      {
+        "Price": 79.00,
+        "Features": [
+          "2TB",
+          "2.5\""
+        ],
+        "Date": "2023-07-16T12:06:37.010469-04:00",
+        "Update": "2023-08-16T09:35:19.6133104-04:00",
+        "Discount": 0.0,
+        "Label": "Seagate"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "1TB",
+          "5400RPM",
+          "128MB",
+          "Sata3",
+          "[ST1000LM048]"
+        ],
+        "Date": "2023-07-16T12:06:38.728482-04:00",
+        "Update": "2023-08-16T10:50:35.0531124-04:00",
+        "Discount": 0.0,
+        "Label": "Seagate BarraCuda"
       }
     ]
   }
