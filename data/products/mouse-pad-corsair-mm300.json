@@ -1,0 +1,20 @@
+{
+  "Category": "Accesorios",
+  "SubCategory": "mouse-pad",
+  "Images": [
+    "/images/products/mouse-pad-corsair-mm300-1.webp",
+    "/images/products/mouse-pad-corsair-mm300-2.webp",
+    "/images/products/mouse-pad-corsair-mm300-3.webp",
+    "/images/products/mouse-pad-corsair-mm300-4.webp",
+    "/images/products/mouse-pad-corsair-mm300-5.webp",
+    "/images/products/mouse-pad-corsair-mm300-6.webp",
+    "/images/products/mouse-pad-corsair-mm300-7.webp"
+  ],
+  "Description": "",
+  "Price": 49.00,
+  "Features": [],
+  "Date": "2023-07-15T20:29:09.7905522-04:00",
+  "Update": "2023-08-16T09:35:19.564878-04:00",
+  "Discount": 0.0,
+  "Label": "Mouse Pad - Corsair MM300"
+}
