@@ -1,0 +1,20 @@
+{
+  "Category": "componentes",
+  "SubCategory": "HDD 2.5",
+  "Images": [
+    "/images/products/seagate-barracuda-1.webp"
+  ],
+  "Description": "",
+  "Price": 59.00,
+  "Features": [
+    "1TB",
+    "5400RPM",
+    "128MB",
+    "Sata3",
+    "[ST1000LM048]"
+  ],
+  "Date": "2023-07-16T12:06:38.728482-04:00",
+  "Update": "2023-07-16T15:29:42.8247888-04:00",
+  "Discount": 0.0,
+  "Label": "Seagate BarraCuda"
+}
