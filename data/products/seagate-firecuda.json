@@ -1,0 +1,24 @@
+{
+  "Category": "Accesorios",
+  "SubCategory": "SHDD EXT",
+  "Images": [
+    "/images/products/seagate-firecuda-1.webp",
+    "/images/products/seagate-firecuda-2.webp",
+    "/images/products/seagate-firecuda-3.webp",
+    "/images/products/seagate-firecuda-4.webp",
+    "/images/products/seagate-firecuda-5.webp",
+    "/images/products/seagate-firecuda-6.webp",
+    "/images/products/seagate-firecuda-7.webp"
+  ],
+  "Description": "Model\nBrand: Seagate\nSeries: FireCuda\nModel: STKL2000400\n\n\nPerformance\nInterface: USB 3.2 Gen 1\nCapacity: 2TB\n\n\nFeatures\nFeatures: Create an epic gaming atmosphere with customizable RGB LED lighting\n\nCustomizable RGB with full color and pattern control with free Seagate Toolkit software\n\nWorks with Razer Chroma RGB to sync all your battlestation's compatible peripherals\n\nUp to 5TB of capacity builds the ultimate gaming library without sacrificing titles\n\nSimple plug-and-play compatibility with USB 3.2 Gen 1\n\nUSB bus-powered for quick function and less clutter\nSystem Requirements: Compatible with most Windows and macOS systems. Visit seagate.com/os for details1,2\n\n1 Reformatting for Mac may be required.\n2 Compatibility may vary depending on user's hardware configuration and operating system.\n\n\nDimensions & Weight\nForm Factor: 3.5\"\nDimensions: 0.57\" x 3.15\" x 4.82\"\nWeight: 0.37 lb.\n\n\nPackaging\nPackage Contents: Seagate FireCuda Hard Drive\n18-inch (45.72cm) USB 3.0 cable\nQuick Install Guide",
+  "Price": 85.00,
+  "Features": [
+    "RGB",
+    "2TB",
+    "USB 3.0"
+  ],
+  "Date": "2023-08-16T09:46:51.7650723-04:00",
+  "Update": "2023-08-16T10:50:35.0981738-04:00",
+  "Discount": 0.0,
+  "Label": "Seagate Firecuda"
+}
