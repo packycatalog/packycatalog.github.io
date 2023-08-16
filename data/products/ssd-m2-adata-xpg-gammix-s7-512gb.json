@@ -2,15 +2,19 @@
   "Category": "componentes",
   "SubCategory": "SSD M.2",
   "Images": [
-    "/images/products/ssd-m2-adata-xpg-gammix-s7-512gb-1.webp"
+    "/images/products/ssd-m2-adata-xpg-gammix-s7-512gb-1.webp",
+    "/images/products/ssd-m2-adata-xpg-gammix-s7-512gb-2.webp",
+    "/images/products/ssd-m2-adata-xpg-gammix-s7-512gb-3.webp",
+    "/images/products/ssd-m2-adata-xpg-gammix-s7-512gb-4.webp",
+    "/images/products/ssd-m2-adata-xpg-gammix-s7-512gb-5.webp"
   ],
-  "Description": "",
+  "Description": "Sobre este artículo\r\nRendimiento (máximo) lectura 3500 MB/s, escritura 3000 MB/s\r\nInterfaz PCIe Gen3x4 Factor de forma M.2 2280\r\nNAND Flash: 3D NAND\r\nMTBF: 2.000.000 horas\r\nFabricante limitado de 5 años\n\nDisco Duro: 512 GB Disco SSD\nMarca: XPG\nNúmero de modelo del producto: AGAMMIXS7-512GT-C\nPlataforma de hardware: PC\nDimensiones del paquete: 4,09 x 3,98 x 0,75 pulgadas\nColor: [S7] 3500/3000MB/s\nTamaño de memoria flash: 512 Modificador desconocido\nInterfaz de la unidad de disco duro: Raid\nFabricante: ADATA\nASIN: B08CNL6XSC\nProducto en amazon.com desde: Junio 23, 2020\nOpinión media de los clientes: 4.7\r\n4,972 calificaciones\r\n4.7 de 5 estrellas\nClasificación en los más vendidos de Amazon: nº2,530 en Unidades de Estado Sólido Interno\n",
   "Price": 55.00,
   "Features": [
     "3500/3000"
   ],
   "Date": "2023-07-15T20:50:55.6751472-04:00",
-  "Update": "2023-08-16T11:34:15.4101272-04:00",
+  "Update": "2023-08-16T12:26:32.6254193-04:00",
   "Discount": 0.0,
   "Label": "SSD M.2 - ADATA XPG GAMMIX S7, 512GB"
 }
