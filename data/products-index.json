@@ -259,6 +259,30 @@
         "Update": "2023-07-16T15:31:58.1605374-04:00",
         "Discount": 0.0,
         "Label": "DDR5L - Team Elite 16GB 4800mhz"
+      },
+      {
+        "Price": 19.00,
+        "Features": [],
+        "Date": "2023-08-16T11:47:35.3031221-04:00",
+        "Update": "2023-08-16T12:00:46.9838471-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4L - Micron 4GB (1x4GB) 2666Mhz"
+      },
+      {
+        "Price": 22.00,
+        "Features": [],
+        "Date": "2023-08-16T11:47:44.2147086-04:00",
+        "Update": "2023-08-16T12:00:46.9928294-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4L - Samsung 4GB 3200MHz"
+      },
+      {
+        "Price": 60.00,
+        "Features": [],
+        "Date": "2023-08-16T11:47:54.867386-04:00",
+        "Update": "2023-08-16T12:00:47.005268-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4L - Team Elite 16GB (3200)"
       }
     ],
     "SSD M.2": [
