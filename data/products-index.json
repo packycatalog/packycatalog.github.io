@@ -112,5 +112,199 @@
         "Label": "MSI Pulse RTX 3070, 17.3 360Hz, i7-12700H, 16GB, 1TB SSD"
       }
     ]
+  },
+  "Accesorios": {
+    "Mochila": [
+      {
+        "Price": 29.00,
+        "Features": [
+          "Backpack",
+          "B210"
+        ],
+        "Date": "2023-07-15T16:37:40.7775915-04:00",
+        "Update": "2023-07-15T17:50:30.7266625-04:00",
+        "Discount": 0.0,
+        "Label": "Lenovo, 15.6\", Laptop, Grey"
+      }
+    ],
+    "Bolso": [
+      {
+        "Price": 25.00,
+        "Features": [
+          "Bag",
+          "T210"
+        ],
+        "Date": "2023-07-15T16:37:47.1291784-04:00",
+        "Update": "2023-07-15T17:54:35.0698822-04:00",
+        "Discount": 0.0,
+        "Label": "Lenovo, 15.6\", Laptop, Black"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "Bag",
+          "T210"
+        ],
+        "Date": "2023-07-15T16:37:45.3835233-04:00",
+        "Update": "2023-07-15T18:00:59.5274055-04:00",
+        "Discount": 0.0,
+        "Label": "Lenovo, 15.6\", Laptop, Blue"
+      }
+    ],
+    "mouse-pad": [
+      {
+        "Price": 49.00,
+        "Features": [],
+        "Date": "2023-07-15T20:29:09.7905522-04:00",
+        "Update": "2023-08-16T09:35:19.564878-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad - Corsair MM300"
+      },
+      {
+        "Price": 65.00,
+        "Features": [],
+        "Date": "2023-07-15T20:29:07.3400741-04:00",
+        "Update": "2023-08-16T09:35:19.5724072-04:00",
+        "Discount": 0.0,
+        "Label": "Asus ROG Sheath Pink LTD"
+      }
+    ],
+    "mouse": [
+      {
+        "Price": 23.00,
+        "Features": [
+          "Inalámbirco",
+          "2.4 GHz",
+          "1000 DP",
+          "Gris Swift"
+        ],
+        "Date": "2023-07-16T15:30:40.3880006-04:00",
+        "Update": "2023-08-16T09:35:19.6243176-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Logitech M185"
+      }
+    ]
+  },
+  "componentes": {
+    "SSD M.2": [
+      {
+        "Price": 79.00,
+        "Features": [
+          "1TB",
+          "5000/4800"
+        ],
+        "Date": "2023-07-15T20:50:46.5787982-04:00",
+        "Update": "2023-07-15T21:43:37.3478502-04:00",
+        "Discount": 0.0,
+        "Label": "Silicon Power UD90"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "512GB",
+          "3500/3000"
+        ],
+        "Date": "2023-07-15T20:50:55.6751472-04:00",
+        "Update": "2023-07-15T21:43:37.3478553-04:00",
+        "Discount": 0.0,
+        "Label": "ADATA XPG GAMMIX S7"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "512GB",
+          "3500/3000"
+        ],
+        "Date": "2023-07-15T20:50:58.39317-04:00",
+        "Update": "2023-07-15T21:43:37.3539956-04:00",
+        "Discount": 0.0,
+        "Label": "ADATA XPG SX8100"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "500GB",
+          "(3100/2600)"
+        ],
+        "Date": "2023-07-15T20:50:41.29977-04:00",
+        "Update": "2023-07-16T15:29:42.8057058-04:00",
+        "Discount": 0.0,
+        "Label": "Samsung 980"
+      }
+    ],
+    "SSD 2.5": [
+      {
+        "Price": 49.00,
+        "Features": [
+          "512 GB",
+          "550/520"
+        ],
+        "Date": "2023-07-16T12:06:26.329043-04:00",
+        "Update": "2023-07-16T15:25:36.7133165-04:00",
+        "Discount": 0.0,
+        "Label": "Team Group EX2"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "512GB",
+          "(560/530)"
+        ],
+        "Date": "2023-07-16T12:06:17.0899957-04:00",
+        "Update": "2023-08-16T09:35:19.5799811-04:00",
+        "Discount": 0.0,
+        "Label": "Silicon Power Ace A55"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "480GB",
+          "(540/500)"
+        ],
+        "Date": "2023-07-16T12:06:06.7956306-04:00",
+        "Update": "2023-08-16T09:35:19.5874909-04:00",
+        "Discount": 0.0,
+        "Label": "Crucial BX500"
+      }
+    ],
+    "HDD 2.5": [
+      {
+        "Price": 59.00,
+        "Features": [
+          "1TB",
+          "5400RPM",
+          "128MB",
+          "Sata3",
+          "[ST1000LM048]"
+        ],
+        "Date": "2023-07-16T12:06:38.728482-04:00",
+        "Update": "2023-07-16T15:29:42.8247888-04:00",
+        "Discount": 0.0,
+        "Label": "Seagate BarraCuda"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "2TB",
+          "2.5\""
+        ],
+        "Date": "2023-07-16T12:06:37.010469-04:00",
+        "Update": "2023-08-16T09:35:19.6133104-04:00",
+        "Discount": 0.0,
+        "Label": "Seagate"
+      }
+    ],
+    "RAM": [
+      {
+        "Price": 55.00,
+        "Features": [
+          "laptop"
+        ],
+        "Date": "2023-07-15T19:58:39.9045174-04:00",
+        "Update": "2023-07-16T15:31:58.1605374-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5L - Team Elite 16GB 4800mhz"
+      }
+    ]
   }
 }
