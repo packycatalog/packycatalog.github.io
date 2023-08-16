@@ -283,16 +283,6 @@
         "Label": "SSD M.2 - ADATA XPG GAMMIX S7, 512GB"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "3500/3000"
-        ],
-        "Date": "2023-07-15T20:50:58.39317-04:00",
-        "Update": "2023-08-16T11:34:15.4176412-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 - ADATA XPG SX8100, 512GB"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "3100/2600"
@@ -301,6 +291,16 @@
         "Update": "2023-08-16T11:45:19.6432757-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 - Samsung 980, 500GB"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "3500/3000"
+        ],
+        "Date": "2023-07-15T20:50:58.39317-04:00",
+        "Update": "2023-08-16T11:46:15.2604049-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 - ADATA XPG SX8100, 512GB"
       }
     ],
     "SSD 2.5": [
