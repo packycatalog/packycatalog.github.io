@@ -1,0 +1,23 @@
+{
+  "Category": "componentes",
+  "SubCategory": "SSD 2.5",
+  "Images": [
+    "/images/products/team-group-ex2-1.webp",
+    "/images/products/team-group-ex2-2.webp",
+    "/images/products/team-group-ex2-3.webp",
+    "/images/products/team-group-ex2-4.webp",
+    "/images/products/team-group-ex2-5.webp",
+    "/images/products/team-group-ex2-6.webp",
+    "/images/products/team-group-ex2-7.webp"
+  ],
+  "Description": "Model\nBrand: Team Group\nSeries: EX2\nModel: T253E2512G0C101\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: 2.5\"\nCapacity: 512GB\nMemory Components: 3D NAND\nInterface: SATA III\n\n\nPerformance\nMax Sequential Read: Up to 550 MBps\nMax Sequential Write: Up to 520 MBps\nTerabytes Written (TBW): 400TB\nMTBF: 1,000,000 hours\n\n\nFeatures\nFeatures: Blazing read/write speed\n\nOptimized performance\n\nComplete lineup of capacities\n\nTrustworthy reliability\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1500G\nMax Vibration Resistance: 20G (non-operating)\n\n\nDimensions & Weight\nHeight: 7.00mm\nWidth: 69.90mm\nDepth: 100.00mm",
+  "Price": 49.00,
+  "Features": [
+    "512 GB",
+    "550/520"
+  ],
+  "Date": "2023-07-16T12:06:26.329043-04:00",
+  "Update": "2023-07-16T15:25:36.7133165-04:00",
+  "Discount": 0.0,
+  "Label": "Team Group EX2"
+}
