@@ -227,26 +227,24 @@
         "Price": 85.00,
         "Features": [
           "RGB",
-          "2TB",
           "USB 3.0"
         ],
         "Date": "2023-08-16T09:46:51.7650723-04:00",
-        "Update": "2023-08-16T10:50:35.0981738-04:00",
+        "Update": "2023-08-16T11:43:24.9463579-04:00",
         "Discount": 0.0,
-        "Label": "Seagate Firecuda"
+        "Label": "HDD EXT - Seagate Firecuda, 2TB"
       }
     ],
     "HDD EXT": [
       {
         "Price": 80.00,
         "Features": [
-          "2TB",
           "USB 3.0"
         ],
         "Date": "2023-08-16T09:46:54.5473918-04:00",
-        "Update": "2023-08-16T10:50:35.1067857-04:00",
+        "Update": "2023-08-16T11:43:24.956423-04:00",
         "Discount": 0.0,
-        "Label": "Toshiba Canvio Basics"
+        "Label": "HDD EXT - Toshiba Canvio Basics, 2TB"
       }
     ]
   },
@@ -261,33 +259,6 @@
         "Update": "2023-07-16T15:31:58.1605374-04:00",
         "Discount": 0.0,
         "Label": "DDR5L - Team Elite 16GB 4800mhz"
-      }
-    ],
-    "HDD 2.5": [
-      {
-        "Price": 79.00,
-        "Features": [
-          "2TB",
-          "2.5\""
-        ],
-        "Date": "2023-07-16T12:06:37.010469-04:00",
-        "Update": "2023-08-16T09:35:19.6133104-04:00",
-        "Discount": 0.0,
-        "Label": "Seagate"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "1TB",
-          "5400RPM",
-          "128MB",
-          "Sata3",
-          "[ST1000LM048]"
-        ],
-        "Date": "2023-07-16T12:06:38.728482-04:00",
-        "Update": "2023-08-16T10:50:35.0531124-04:00",
-        "Discount": 0.0,
-        "Label": "Seagate BarraCuda"
       }
     ],
     "SSD M.2": [
@@ -364,6 +335,32 @@
         "Update": "2023-08-16T11:34:15.4634093-04:00",
         "Discount": 0.0,
         "Label": "SDD 2.5 - Crucial BX500, 480GB, (540/500)"
+      }
+    ],
+    "HDD 2.5": [
+      {
+        "Price": 59.00,
+        "Features": [
+          "1TB",
+          "5400RPM",
+          "128MB",
+          "Sata3",
+          "[ST1000LM048]"
+        ],
+        "Date": "2023-07-16T12:06:38.728482-04:00",
+        "Update": "2023-08-16T11:43:24.9270667-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 2.5 - Seagate BarraCuda"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "SATA 6.0Gb/s"
+        ],
+        "Date": "2023-07-16T12:06:37.010469-04:00",
+        "Update": "2023-08-16T11:43:24.9375227-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 2.5 - Seagate Barracuda 2TB"
       }
     ]
   }
