@@ -1,0 +1,18 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/hp-victus-rtx-2050-156-fhd-144hz-r5-7535h-16gb-ddr-1.webp",
+    "/images/products/hp-victus-rtx-2050-156-fhd-144hz-r5-7535h-16gb-ddr-2.webp",
+    "/images/products/hp-victus-rtx-2050-156-fhd-144hz-r5-7535h-16gb-ddr-3.webp",
+    "/images/products/hp-victus-rtx-2050-156-fhd-144hz-r5-7535h-16gb-ddr-4.webp",
+    "/images/products/hp-victus-rtx-2050-156-fhd-144hz-r5-7535h-16gb-ddr-5.webp"
+  ],
+  "Description": "Pantalla: \n- Tamaño 15.6\"\n- Resolución 1920 x 1080 (Full HD)\n- Táctil: No\n-  Full HD de 144 Hz \n\nProcesador (CPU):\n- Procesador AMD Ryzen 5 7535HS\n-  3.3 (reloj base garantizado) a 4.55 GHz (boost) y admiten SMT/Hyperthreading (12 hilos).\n- 6 nucleos basados en arquitectura Zen 3+\nMemoria del sistema (RAM): 16GB DDR5\n\nAlmacenamiento: 512GB SSD\n\nGráficos: NVIDIA GeForce RTX 2050  Dedicado\n\nSistema operativo: Windows 11 Home\n\nPuertos: 1xHDMI Output,1xUSB Tipo A Puerto de Carga,3xPuertos USB (Total),1xAuriculares,1xPuerto Ethernet\n\nTeclado retroiluminado: Sí\n\nLector de huellas dactilares: No\n\nConectividad: Bluetooth, Wi-Fi\n\nBatería: polímero de iones de litio de 3 celdas\n\nDimensiones (pulgadas): 14.09x10.04x0.93\"\n\nPeso (libras): 5.06 libras\n\nColor: Mica Plata",
+  "Price": 865.00,
+  "Features": [],
+  "Date": "2023-08-19T10:48:36.3112137-04:00",
+  "Update": "2023-08-21T10:27:21.2554838-04:00",
+  "Discount": 0.0,
+  "Label": "HP Victus RTX 2050 15.6 FHD 144Hz, R5 7535H, 16GB DDR5, 512SSD"
+}
