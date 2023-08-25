@@ -1,43 +1,5 @@
 {
   "Laptops": {
-    "Compacta": [
-      {
-        "Price": 430.00,
-        "Features": [
-          "Táctil",
-          "3LB",
-          "10H",
-          "IPS",
-          "FHD",
-          "Huella",
-          "Iris Xe",
-          "DDR4",
-          "2xUSB"
-        ],
-        "Date": "2023-07-08T20:06:13.7524655-04:00",
-        "Update": "2023-07-28T18:18:14.8524144-04:00",
-        "Discount": 0.0,
-        "Label": "Gateway 14 Ultra Slim, i5 11na, 16GB, 512SSD"
-      },
-      {
-        "Price": 625.00,
-        "Features": [
-          "Táctil",
-          "10H",
-          "3LB",
-          "3xUSB",
-          "IPS",
-          "FHD",
-          "Huella",
-          "Iris Xe",
-          "DDR4"
-        ],
-        "Date": "2023-07-08T20:06:15.3165388-04:00",
-        "Update": "2023-07-29T00:31:55.169115-04:00",
-        "Discount": 0.0,
-        "Label": "Gateway 14 Ultra Slim, i7 12va, 8GB, 512SSD"
-      }
-    ],
     "Versatil": [
       {
         "Price": 670.00,
@@ -120,6 +82,26 @@
         "Update": "2023-08-21T10:29:06.7777582-04:00",
         "Discount": 0.0,
         "Label": "HP Victus RTX 2050, 15.6FHD 144Hz, R5 7535H, 16GB DDR5, 512SSD"
+      }
+    ],
+    "Compacta": [
+      {
+        "Price": 625.00,
+        "Features": [
+          "Táctil",
+          "10H",
+          "3LB",
+          "3xUSB",
+          "IPS",
+          "FHD",
+          "Huella",
+          "Iris Xe",
+          "DDR4"
+        ],
+        "Date": "2023-07-08T20:06:15.3165388-04:00",
+        "Update": "2023-07-29T00:31:55.169115-04:00",
+        "Discount": 0.0,
+        "Label": "Gateway 14 Ultra Slim, i7 12va, 8GB, 512SSD"
       }
     ],
     "GAMER": [
