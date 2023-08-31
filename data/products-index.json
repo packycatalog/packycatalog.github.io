@@ -1,43 +1,6 @@
 {
   "Laptops": {
-    "Versatil": [
-      {
-        "Price": 670.00,
-        "Features": [
-          "Backlit",
-          "3xUSB",
-          "IPS",
-          "4LB",
-          "NVMe",
-          "DDR4",
-          "Iris Xe"
-        ],
-        "Date": "2023-07-08T19:02:14.8162062-04:00",
-        "Update": "2023-07-28T20:23:47.2002968-04:00",
-        "Discount": 0.0,
-        "Label": "Acer +Bolso, i7 11na, 15.6FHD, 16GB, 512SSD"
-      }
-    ],
     "Gamer": [
-      {
-        "Price": 1275.00,
-        "Features": [
-          "DDR5",
-          "3xUSB",
-          "300nits",
-          "DLSS",
-          "12da",
-          "FHD",
-          "NVMe",
-          "RJ-45",
-          "5.7LB",
-          "NVidia"
-        ],
-        "Date": "2023-07-08T19:18:40.5536002-04:00",
-        "Update": "2023-07-29T00:31:55.070832-04:00",
-        "Discount": 0.0,
-        "Label": "Acer Predator RTX 3060, 15.6 165Hz, i7-12700H, 16GB, 512SSD"
-      },
       {
         "Price": 825.00,
         "Features": [
