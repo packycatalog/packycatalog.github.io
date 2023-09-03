@@ -2,7 +2,7 @@
   "Laptops": {
     "Gamer": [
       {
-        "Price": 825.00,
+        "Price": 785.00,
         "Features": [
           "IPS",
           "Backlit",
@@ -20,7 +20,7 @@
         "Label": "HP Victus GTX 1650, 15.6 144Hz, i5-12450H, 16GB*, 512SSD"
       },
       {
-        "Price": 1495.00,
+        "Price": 1435.00,
         "Features": [
           "RGB",
           "Backlit",
@@ -37,7 +37,7 @@
         "Label": "MSI Pulse RTX 3070, 17.3 360Hz, i7-12700H, 16GB, 1TB SSD"
       },
       {
-        "Price": 865.00,
+        "Price": 795.00,
         "Features": [
           "IPS"
         ],
@@ -49,7 +49,7 @@
     ],
     "Compacta": [
       {
-        "Price": 625.00,
+        "Price": 595.00,
         "Features": [
           "Táctil",
           "10H",
@@ -69,7 +69,7 @@
     ],
     "GAMER": [
       {
-        "Price": 1115.00,
+        "Price": 1095.00,
         "Features": [
           "IPS"
         ],
