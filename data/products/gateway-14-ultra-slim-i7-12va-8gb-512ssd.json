@@ -1,6 +1,6 @@
 {
   "Category": "Laptops",
-  "SubCategory": "Compacta",
+  "SubCategory": "",
   "Images": [
     "/images/products/gateway-14-ultra-slim-i7-12va-8gb-512ssd-1.webp",
     "/images/products/gateway-14-ultra-slim-i7-12va-8gb-512ssd-2.webp",
@@ -21,7 +21,7 @@
     "DDR4"
   ],
   "Date": "2023-07-08T20:06:15.3165388-04:00",
-  "Update": "2023-07-29T00:31:55.169115-04:00",
+  "Update": "2023-09-06T00:08:34.5769628-04:00",
   "Discount": 0.0,
   "Label": "Gateway 14 Ultra Slim, i7 12va, 8GB, 512SSD"
 }
