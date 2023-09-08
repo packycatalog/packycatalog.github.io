@@ -175,6 +175,20 @@
         "Update": "2023-08-16T11:43:24.956423-04:00",
         "Label": "HDD EXT - Toshiba Canvio Basics, 2TB"
       }
+    ],
+    "SHDD EXT": [
+      {
+        "Price": 85.00,
+        "Features": [
+          "USB 3.2",
+          "HDD",
+          "SDD",
+          "SHDD"
+        ],
+        "Date": "2023-08-16T09:46:51.7650723-04:00",
+        "Update": "2023-09-08T10:24:39.3114616-04:00",
+        "Label": "Externo 2.5 Seagate FireCuda Gaming RGB 2TB"
+      }
     ]
   },
   "componentes": {
