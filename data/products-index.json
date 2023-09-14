@@ -57,6 +57,16 @@
         "Date": "2023-09-13T13:20:57.8907965-04:00",
         "Update": "2023-09-13T13:35:46.44946-04:00",
         "Label": "Acer Swift 3"
+      },
+      {
+        "Price": 990.00,
+        "Features": [
+          "144Hz",
+          "IPS"
+        ],
+        "Date": "2023-09-13T13:21:05.6251408-04:00",
+        "Update": "2023-09-14T10:14:47.1885185-04:00",
+        "Label": "Lenovo LOQ 15.6FHD, i5-13420H i5-13420H, RTX 3050, 16GB DDR5, 1TB NVMe"
       }
     ],
     "GAMER": [
@@ -101,6 +111,21 @@
         "Date": "2023-09-13T13:21:24.2475646-04:00",
         "Update": "2023-09-14T09:55:30.7324731-04:00",
         "Label": "AICHESON 1000RPM Fans"
+      }
+    ],
+    "Lap stand": [
+      {
+        "Price": 35.00,
+        "Features": [
+          "7 Angles Adjustable",
+          "Ergonomic",
+          "Foldable",
+          "Portable",
+          "Desktop Holder"
+        ],
+        "Date": "2023-09-13T13:21:26.4758156-04:00",
+        "Update": "2023-09-14T10:14:47.1971144-04:00",
+        "Label": "Base para laptop ORICO"
       }
     ]
   },
