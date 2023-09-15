@@ -215,17 +215,6 @@
         "Label": "Enclosure M.2"
       }
     ],
-    "HDD EXT": [
-      {
-        "Price": 80.00,
-        "Features": [
-          "USB 3.0"
-        ],
-        "Date": "2023-08-16T09:46:54.5473918-04:00",
-        "Update": "2023-08-16T11:43:24.956423-04:00",
-        "Label": "HDD EXT - Toshiba Canvio Basics, 2TB"
-      }
-    ],
     "SHDD EXT": [
       {
         "Price": 85.00,
