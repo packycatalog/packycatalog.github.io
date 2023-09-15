@@ -1,6 +1,6 @@
 {
   "Category": "Laptops",
-  "SubCategory": "Gamer",
+  "SubCategory": "Pro",
   "Images": [
     "/images/products/acer-swift-3-i5-1240p-14fhd-16gb-512gb-ssd-1.webp",
     "/images/products/acer-swift-3-i5-1240p-14fhd-16gb-512gb-ssd-2.webp",
@@ -18,6 +18,6 @@
     "Win 11 Home"
   ],
   "Date": "2023-09-13T13:20:57.8907965-04:00",
-  "Update": "2023-09-14T22:09:36.7842311-04:00",
+  "Update": "2023-09-14T22:30:44.4595464-04:00",
   "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
 }
