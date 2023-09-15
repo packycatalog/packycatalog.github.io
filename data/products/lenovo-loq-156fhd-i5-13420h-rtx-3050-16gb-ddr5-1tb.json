@@ -1,0 +1,22 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/lenovo-loq-156fhd-i5-13420h-rtx-3050-16gb-ddr5-1tb-1.webp",
+    "/images/products/lenovo-loq-156fhd-i5-13420h-rtx-3050-16gb-ddr5-1tb-2.webp",
+    "/images/products/lenovo-loq-156fhd-i5-13420h-rtx-3050-16gb-ddr5-1tb-3.webp",
+    "/images/products/lenovo-loq-156fhd-i5-13420h-rtx-3050-16gb-ddr5-1tb-4.webp",
+    "/images/products/lenovo-loq-156fhd-i5-13420h-rtx-3050-16gb-ddr5-1tb-5.webp",
+    "/images/products/lenovo-loq-156fhd-i5-13420h-rtx-3050-16gb-ddr5-1tb-6.webp",
+    "/images/products/lenovo-loq-156fhd-i5-13420h-rtx-3050-16gb-ddr5-1tb-7.webp"
+  ],
+  "Description": "Model\nBrand: Lenovo\nSeries: LOQ 15IRH8\n\n\nQuick Info\nColor: Grey\n\nCPU\nCPU Type: Intel Core i5 13th Gen\nCPU Speed: 2.10GHz\nNumber of Cores: 8-core Processor\nTurbo Frequency: 4.6 GHz\nCPU L3 Cache: 12MB Cache\n\nDisplay\nScreen Size: 15.6\"\nTouchscreen: No\nResolution: 1920 x 1080\nRefresh Rate: 144 Hz\n\nOperating Systems\nOperating System: Windows 11 Home\n\nGraphics\nGPU/VPU: NVIDIA GeForce RTX 3050 Laptop GPU\nGraphic Type: Dedicated Card\n\nStorage\nSSD: 1 TB\nHDD: No\nStorage Spec: 1TB PCIe SSD\n\nMemory\nMemory: 16GB\nMemory Speed: DDR5\nMemory Type: SO-DIMM\n\nOptical Drive\nOptical Drive Type: No Optical Drive\n\nCommunications\nWLAN: 802.11ax  Wireless LAN\nBluetooth: Bluetooth 5.2\n\nPorts\nHDMI: 1 x HDMI\nAudio Ports: 1 x Headphone/Microphone Combo Jack\n\nInput Device\nKeyboard: Standard\nBacklit Keyboard: Backlit\nWebcam: Yes\nCard Reader: No",
+  "Price": 990.00,
+  "Features": [
+    "144Hz",
+    "IPS"
+  ],
+  "Date": "2023-09-13T13:21:05.6251408-04:00",
+  "Update": "2023-09-14T22:31:57.1556521-04:00",
+  "Label": "Lenovo LOQ 15.6FHD, i5-13420H, RTX 3050, 16GB DDR5, 1TB NVMe"
+}
