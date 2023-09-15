@@ -1,0 +1,22 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/lenovo-legion-pro-7i-16-i9-13900hx-rtx-4080-64gb-d-1.webp",
+    "/images/products/lenovo-legion-pro-7i-16-i9-13900hx-rtx-4080-64gb-d-2.webp",
+    "/images/products/lenovo-legion-pro-7i-16-i9-13900hx-rtx-4080-64gb-d-3.webp",
+    "/images/products/lenovo-legion-pro-7i-16-i9-13900hx-rtx-4080-64gb-d-4.webp",
+    "/images/products/lenovo-legion-pro-7i-16-i9-13900hx-rtx-4080-64gb-d-5.webp",
+    "/images/products/lenovo-legion-pro-7i-16-i9-13900hx-rtx-4080-64gb-d-6.webp"
+  ],
+  "Description": "CPU: Procesador Intel Core i9-13900HX de 13ª generación (24 núcleos, 32 hilos, caché de 36 MB, base a 2.20 GHz, hasta 5.40 GHz)\n\nMemoria:  64 GB DDR5 RAM\n\nDisco duro: 4 TB PCIe NVMe M.2 unidad de estado sólido\n\nSistema operativo: Windows 11 Home\n\nPantalla: Pantalla LCD WQHD IPS de 240Hz de 16 pulgadas\n\nResolución de pantalla: 2560 x 1600\n\nTeclado retroiluminado RGB: retroiluminación RGB por tecla (con lente de iluminación en la parte frontal)\n\nTeclado numérico: Sí\n\nPuertos: 1 x USB 3.2 Gen 2 Tipo-C, 4 x USB 3.2 Gen 1 Tipo-A, 1 x Thunderbolt 4, 1 x HDMI, 1 x RJ-45, 1 x combo de auriculares/micrófono\n\nTarjeta Gráfica: NVIDIA GeForce RTX 4080 (12GB GDDR6)\n\nUnidad de medios: Ninguno\n\nUnidad óptica: Ninguno\n\nConectividad inalámbrica: Wi-Fi 6E y Bluetooth combo\n\nFuente de alimentación: 330W\n\nWebcam: Sí, con E-privacy Shutter\n\nBluetooth: Sí\n\nPeso: 6.16lbs\n\nColor: Gris ónix",
+  "Price": 2795.00,
+  "Features": [
+    "IPS",
+    "WQHD",
+    "240Hz"
+  ],
+  "Date": "2023-09-13T13:21:08.1828138-04:00",
+  "Update": "2023-09-14T22:02:53.8152149-04:00",
+  "Label": "Lenovo Legion Pro 7i, 16\", i9-13900HX, RTX 4080, 64GB DDR5, 4TB SSD"
+}
