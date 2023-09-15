@@ -112,35 +112,6 @@
         "Label": "Gateway 14 Ultra Slim, i7 12va, 8GB, 512SSD"
       }
     ],
-    "Lap Cooling": [
-      {
-        "Price": 37.00,
-        "Features": [
-          "Portable",
-          "Blue",
-          "LEDs",
-          "[S007]"
-        ],
-        "Date": "2023-09-13T13:21:24.2475646-04:00",
-        "Update": "2023-09-14T09:55:30.7324731-04:00",
-        "Label": "AICHESON 1000RPM Fans"
-      }
-    ],
-    "Lap stand": [
-      {
-        "Price": 35.00,
-        "Features": [
-          "7 Angles Adjustable",
-          "Ergonomic",
-          "Foldable",
-          "Portable",
-          "Desktop Holder"
-        ],
-        "Date": "2023-09-13T13:21:26.4758156-04:00",
-        "Update": "2023-09-14T10:14:47.1971144-04:00",
-        "Label": "Base para laptop ORICO"
-      }
-    ],
     "Pro": [
       {
         "Price": 750.00,
@@ -267,6 +238,35 @@
         "Date": "2023-08-16T09:46:51.7650723-04:00",
         "Update": "2023-09-08T10:24:39.3114616-04:00",
         "Label": "Externo 2.5 Seagate FireCuda Gaming RGB 2TB"
+      }
+    ],
+    "Lap Cooling": [
+      {
+        "Price": 37.00,
+        "Features": [
+          "Portable",
+          "Blue",
+          "LEDs",
+          "[S007]"
+        ],
+        "Date": "2023-09-13T13:21:24.2475646-04:00",
+        "Update": "2023-09-14T22:36:42.3513364-04:00",
+        "Label": "AICHESON 1000RPM Fans"
+      }
+    ],
+    "Lap stand": [
+      {
+        "Price": 35.00,
+        "Features": [
+          "7 Angles Adjustable",
+          "Ergonomic",
+          "Foldable",
+          "Portable",
+          "Desktop Holder"
+        ],
+        "Date": "2023-09-13T13:21:26.4758156-04:00",
+        "Update": "2023-09-14T22:36:42.3610403-04:00",
+        "Label": "Base para laptop ORICO"
       }
     ]
   },
