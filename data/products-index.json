@@ -2,23 +2,6 @@
   "Laptops": {
     "Gamer": [
       {
-        "Price": 785.00,
-        "Features": [
-          "IPS",
-          "Backlit",
-          "5LB",
-          "NVMe",
-          "FHD",
-          "RJ-45",
-          "4GB GDDR6",
-          "12da",
-          "NVidia"
-        ],
-        "Date": "2023-07-08T20:06:18.4294543-04:00",
-        "Update": "2023-07-29T00:31:55.0875854-04:00",
-        "Label": "HP Victus GTX 1650, 15.6 144Hz, i5-12450H, 16GB*, 512SSD"
-      },
-      {
         "Price": 1435.00,
         "Features": [
           "RGB",
@@ -74,13 +57,6 @@
         "Label": "Lenovo Legion Pro 7i, 16\", i9-13900HX, RTX 4080, 64GB DDR5, 4TB SSD"
       },
       {
-        "Price": 1195.00,
-        "Features": [],
-        "Date": "2023-09-13T13:21:14.8489965-04:00",
-        "Update": "2023-09-14T22:02:53.8245168-04:00",
-        "Label": "MSI Creator M16, i7-12650H RTX 3060 32GB 1TB SSD, QHD+"
-      },
-      {
         "Price": 750.00,
         "Features": [
           "Touch",
@@ -89,6 +65,31 @@
         "Date": "2023-09-13T13:20:57.8907965-04:00",
         "Update": "2023-09-14T22:09:36.7842311-04:00",
         "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
+      },
+      {
+        "Price": 785.00,
+        "Features": [
+          "IPS",
+          "Backlit",
+          "5LB",
+          "NVMe",
+          "RJ-45",
+          "4GB GDDR6",
+          "12da",
+          "144Hz"
+        ],
+        "Date": "2023-07-08T20:06:18.4294543-04:00",
+        "Update": "2023-09-14T22:14:16.0387894-04:00",
+        "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
+      },
+      {
+        "Price": 1195.00,
+        "Features": [
+          "QHD+"
+        ],
+        "Date": "2023-09-13T13:21:14.8489965-04:00",
+        "Update": "2023-09-14T22:14:16.0523378-04:00",
+        "Label": "MSI Creator M16, i7-12650H, RTX 3060, 32GB, 1TB SSD,"
       }
     ],
     "GAMER": [
