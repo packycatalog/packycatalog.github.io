@@ -44,21 +44,6 @@
         "Label": "HP Victus RTX 2050, 15.6FHD 144Hz, R5 7535H, 16GB DDR5, 512SSD"
       },
       {
-        "Price": 750.00,
-        "Features": [
-          "14\"",
-          "FHD",
-          "Touch",
-          "i5-1240P",
-          "16GB",
-          "512GB SSD",
-          "Win 11 Home"
-        ],
-        "Date": "2023-09-13T13:20:57.8907965-04:00",
-        "Update": "2023-09-13T13:35:46.44946-04:00",
-        "Label": "Acer Swift 3"
-      },
-      {
         "Price": 990.00,
         "Features": [
           "144Hz",
@@ -94,6 +79,16 @@
         "Date": "2023-09-13T13:21:14.8489965-04:00",
         "Update": "2023-09-14T22:02:53.8245168-04:00",
         "Label": "MSI Creator M16, i7-12650H RTX 3060 32GB 1TB SSD, QHD+"
+      },
+      {
+        "Price": 750.00,
+        "Features": [
+          "Touch",
+          "Win 11 Home"
+        ],
+        "Date": "2023-09-13T13:20:57.8907965-04:00",
+        "Update": "2023-09-14T22:09:36.7842311-04:00",
+        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
       }
     ],
     "GAMER": [
