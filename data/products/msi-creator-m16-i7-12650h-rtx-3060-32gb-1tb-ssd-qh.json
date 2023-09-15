@@ -1,0 +1,18 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/msi-creator-m16-i7-12650h-rtx-3060-32gb-1tb-ssd-qh-1.webp",
+    "/images/products/msi-creator-m16-i7-12650h-rtx-3060-32gb-1tb-ssd-qh-2.webp",
+    "/images/products/msi-creator-m16-i7-12650h-rtx-3060-32gb-1tb-ssd-qh-3.webp",
+    "/images/products/msi-creator-m16-i7-12650h-rtx-3060-32gb-1tb-ssd-qh-4.webp",
+    "/images/products/msi-creator-m16-i7-12650h-rtx-3060-32gb-1tb-ssd-qh-5.webp",
+    "/images/products/msi-creator-m16-i7-12650h-rtx-3060-32gb-1tb-ssd-qh-6.webp"
+  ],
+  "Description": "MSI Creator M16[A12UEV-468] (Creator M16 Series)\n\nProcessor:\nIntel Core i7-12650H 10 x 1.7 - 4.7 GHz, Alder Lake-H\n\nGraphics :\nNVIDIA GeForce RTX 3060 Laptop GPU - 6 GB VRAM, GDDR6\n\nMemory\n32 GB \n, DDR4-3200\n\nDisplay:\n16.00 inch 16:10, 2560 x 1600 pixel 189 PPI, glossy: no, 60 Hz\n\nStorage:\n1TB SSD\n\nPorts:\n1 USB 2.0, 3 USB 3.0 / 3.1 Gen1, Audio Connections: 3.5mm, 1 \n\nNetworking\n10/100/1000 LAN Card (10/100/1000MBit/s), Intel Wi-Fi 6 AX201 (a/b/g/h/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.2\n\nSize\nheight x width x depth (in mm): 27.5 x 359 x 259 ( = 1.08 x 14.13 x 10.2 in)\n\nBattery\n53.5 Wh Lithium-Polymer, 3-cell\n\nOperating System\nMicrosoft Windows 11 Home\n\nCamera\nWebcam: HD 720p\n\nAdditional features\nSpeakers: Stereo, Keyboard: Chiclet, Keyboard Light: yes\n\nWeight\n2.26 kg ( = 79.72 oz / 4.98 pounds) ( = 0 oz / 0 pounds)",
+  "Price": 1195.00,
+  "Features": [],
+  "Date": "2023-09-13T13:21:14.8489965-04:00",
+  "Update": "2023-09-14T22:02:53.8245168-04:00",
+  "Label": "MSI Creator M16, i7-12650H RTX 3060 32GB 1TB SSD, QHD+"
+}
