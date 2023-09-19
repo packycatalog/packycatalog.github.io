@@ -1,22 +1,17 @@
 {
   "Laptops": {
-    "Gamer": [
+    "GAMER": [
       {
-        "Price": 1435.00,
+        "Price": 1095.00,
         "Features": [
-          "RGB",
-          "Backlit",
-          "12va",
-          "2xUSB",
-          "FHD",
-          "NVMe",
-          "7LB",
-          "DDR4"
+          "IPS"
         ],
-        "Date": "2023-07-08T20:06:22.3149295-04:00",
-        "Update": "2023-07-29T00:31:55.1064272-04:00",
-        "Label": "MSI Pulse RTX 3070, 17.3 360Hz, i7-12700H, 16GB, 1TB SSD"
-      },
+        "Date": "2023-08-16T12:44:44.1250075-04:00",
+        "Update": "2023-08-19T13:11:20.035006-04:00",
+        "Label": "MSI Katana RTX 3050 Ti, i7-12700H, 17.3FHD, 144 Hz, 16GB DDR4, 512SSD"
+      }
+    ],
+    "Gamer": [
       {
         "Price": 795.00,
         "Features": [
@@ -64,15 +59,6 @@
         "Label": "Lenovo LOQ 15.6FHD, i5-13420H, RTX 3050, 16GB DDR5, 1TB NVMe"
       },
       {
-        "Price": 1195.00,
-        "Features": [
-          "QHD+"
-        ],
-        "Date": "2023-09-13T13:21:14.8489965-04:00",
-        "Update": "2023-09-14T22:33:35.7589443-04:00",
-        "Label": "MSI Creator M16, i7-12650H, RTX 3060, 32GB, 1TB SSD"
-      },
-      {
         "Price": 1250.00,
         "Features": [
           "FHD"
@@ -80,17 +66,6 @@
         "Date": "2023-09-13T13:21:02.8176254-04:00",
         "Update": "2023-09-14T22:34:51.8563177-04:00",
         "Label": "GIGABYTE G5 15.6\" 144 Hz, i5 12500H, RTX 4060, 16GB*, 512SSD"
-      }
-    ],
-    "GAMER": [
-      {
-        "Price": 1095.00,
-        "Features": [
-          "IPS"
-        ],
-        "Date": "2023-08-16T12:44:44.1250075-04:00",
-        "Update": "2023-08-19T13:11:20.035006-04:00",
-        "Label": "MSI Katana RTX 3050 Ti, i7-12700H, 17.3FHD, 144 Hz, 16GB DDR4, 512SSD"
       }
     ],
     "": [
