@@ -1,26 +1,6 @@
 {
   "Laptops": {
-    "GAMER": [
-      {
-        "Price": 1095.00,
-        "Features": [
-          "IPS"
-        ],
-        "Date": "2023-08-16T12:44:44.1250075-04:00",
-        "Update": "2023-08-19T13:11:20.035006-04:00",
-        "Label": "MSI Katana RTX 3050 Ti, i7-12700H, 17.3FHD, 144 Hz, 16GB DDR4, 512SSD"
-      }
-    ],
     "Gamer": [
-      {
-        "Price": 795.00,
-        "Features": [
-          "IPS"
-        ],
-        "Date": "2023-08-19T10:48:36.3112137-04:00",
-        "Update": "2023-08-21T10:29:06.7777582-04:00",
-        "Label": "HP Victus RTX 2050, 15.6FHD 144Hz, R5 7535H, 16GB DDR5, 512SSD"
-      },
       {
         "Price": 785.00,
         "Features": [
@@ -38,26 +18,49 @@
         "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
       },
       {
+        "Price": 795.00,
+        "Features": [
+          "144Hz",
+          "IPS"
+        ],
+        "Date": "2023-08-19T10:48:36.3112137-04:00",
+        "Update": "2023-09-23T16:51:58.5351594-04:00",
+        "Label": "HP Victus RTX 2050, 15.6FHD, R5 7535HS, 16GB* DDR5, 512SSD"
+      },
+      {
         "Price": 990.00,
         "Features": [
           "144Hz",
           "IPS"
         ],
         "Date": "2023-09-13T13:21:05.6251408-04:00",
-        "Update": "2023-09-14T22:31:57.1556521-04:00",
-        "Label": "Lenovo LOQ 15.6FHD, i5-13420H, RTX 3050, 16GB DDR5, 1TB NVMe"
+        "Update": "2023-09-23T16:51:58.5772276-04:00",
+        "Label": "Lenovo LOQ 15.6FHD, i5-13420H, RTX 3050, 16GB DDR5, 1TB SSD"
       },
       {
         "Price": 1250.00,
         "Features": [
-          "FHD"
+          "144 Hz"
         ],
         "Date": "2023-09-13T13:21:02.8176254-04:00",
-        "Update": "2023-09-14T22:34:51.8563177-04:00",
-        "Label": "GIGABYTE G5 15.6\" 144 Hz, i5 12500H, RTX 4060, 16GB*, 512SSD"
+        "Update": "2023-09-23T16:51:58.5888793-04:00",
+        "Label": "GIGABYTE G5 15.6FHD, i5 12500H, RTX 4060, 16GB*, 512SSD"
       }
     ],
-    "": [
+    "GAMER": [
+      {
+        "Price": 1095.00,
+        "Features": [
+          "144 Hz",
+          "IPS",
+          "RETRIOILUMINADA"
+        ],
+        "Date": "2023-08-16T12:44:44.1250075-04:00",
+        "Update": "2023-09-23T16:51:58.5246153-04:00",
+        "Label": "MSI Katana RTX 3050 Ti, i7-12700H, 17.3FHD, 16GB, 512SSD"
+      }
+    ],
+    "Pro": [
       {
         "Price": 595.00,
         "Features": [
@@ -72,19 +75,17 @@
           "DDR4"
         ],
         "Date": "2023-07-08T20:06:15.3165388-04:00",
-        "Update": "2023-09-06T00:08:34.5769628-04:00",
+        "Update": "2023-09-23T16:51:58.5442784-04:00",
         "Label": "Gateway 14 Ultra Slim, i7 12va, 8GB, 512SSD"
-      }
-    ],
-    "Pro": [
+      },
       {
         "Price": 750.00,
         "Features": [
-          "Touch",
+          "TACTIL",
           "Win 11 Home"
         ],
         "Date": "2023-09-13T13:20:57.8907965-04:00",
-        "Update": "2023-09-14T22:30:44.4595464-04:00",
+        "Update": "2023-09-23T16:51:58.5594344-04:00",
         "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
       }
     ]
