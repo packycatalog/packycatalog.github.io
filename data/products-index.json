@@ -2,7 +2,7 @@
   "Laptops": {
     "Gamer": [
       {
-        "Price": 785.00,
+        "Price": 725.00,
         "Features": [
           "IPS",
           "Backlit",
@@ -18,7 +18,7 @@
         "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
       },
       {
-        "Price": 795.00,
+        "Price": 735.00,
         "Features": [
           "144Hz",
           "IPS"
@@ -28,17 +28,7 @@
         "Label": "HP Victus RTX 2050, 15.6FHD, R5 7535HS, 16GB* DDR5, 512SSD"
       },
       {
-        "Price": 990.00,
-        "Features": [
-          "144Hz",
-          "IPS"
-        ],
-        "Date": "2023-09-13T13:21:05.6251408-04:00",
-        "Update": "2023-09-23T16:51:58.5772276-04:00",
-        "Label": "Lenovo LOQ 15.6FHD, i5-13420H, RTX 3050, 16GB DDR5, 1TB SSD"
-      },
-      {
-        "Price": 1220.00,
+        "Price": 1195.00,
         "Features": [
           "144 Hz"
         ],
@@ -49,7 +39,7 @@
     ],
     "GAMER": [
       {
-        "Price": 1095.00,
+        "Price": 1050.00,
         "Features": [
           "144 Hz",
           "IPS",
@@ -62,7 +52,7 @@
     ],
     "Pro": [
       {
-        "Price": 595.00,
+        "Price": 500.00,
         "Features": [
           "Táctil",
           "10H",
