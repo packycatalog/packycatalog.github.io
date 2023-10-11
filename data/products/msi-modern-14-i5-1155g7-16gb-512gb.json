@@ -1,0 +1,27 @@
+{
+  "Category": "Laptop",
+  "SubCategory": "PRO",
+  "Images": [
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-1.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-2.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-3.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-4.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-5.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-6.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-7.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-8.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-9.webp",
+    "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-10.webp"
+  ],
+  "Description": "Brand: MSI\nModel: Modern 14 C11M-068US\n\nQuick Info\nColor: Classic Black\nOperating System: Windows 11 Home 64-bit\nCPU: Intel Core i5-1155G7 2.50 GHz to 4.50 GHz\nScreen: 14\" IPS, FHD\nResolution: 1920 x 1080\nMemory: 16 GB DDR4  3200\nStorage: 512 GB NVMe SSD PCIe\nDimensions (W x D x H): 14.13\" x 9.49\" x 0.78\"\nWeight: 3.75 lbs.\nCommunications: WLAN: Intel Wi-Fi 6 AX201 (2x2 ax) Bluetooth 5.2\n\nPorts\nUSB: 1 x USB 3.2 Gen 1 Type-A / 1 x USB 3.2 Gen 2 Type-C / 2 x USB 2.0/1.1\nHDMI: 1 x HDMI 1.4 (4K @ 30Hz)\nAudio Ports: Mic-in/Headphone-out Combo\n\nInput Device\nTouchpad: Multi Touch\nKeyboard: White backlight keyboard (84 Key)\nBacklit Keyboard: Backlit\nWebcam: 720p HD Webcam\nCard Reader: Micro SD\n\nType: Work / Business\nUsage: Business\n\nPower\nAC Adapter: 65W (DC-in)\nBattery: 3 cell (39Whr) Li-Polymer",
+  "Price": 650.00,
+  "Features": [
+    "NVMe",
+    "Win 11",
+    "IPS",
+    "Backlit"
+  ],
+  "Date": "2023-10-08T09:31:24.0075693-04:00",
+  "Update": "2023-10-11T12:21:33.232964-04:00",
+  "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
+}
