@@ -1,4 +1,107 @@
 {
+  "Laptop": {
+    "GAMER": [
+      {
+        "Price": 725.00,
+        "Features": [
+          "IPS",
+          "Backlit",
+          "5LB",
+          "NVMe",
+          "RJ-45",
+          "4GB GDDR6",
+          "12da",
+          "144Hz"
+        ],
+        "Date": "2023-07-08T20:06:18.4294543-04:00",
+        "Update": "2023-10-11T09:50:56.4560298-04:00",
+        "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
+      },
+      {
+        "Price": 1050.00,
+        "Features": [
+          "144 Hz",
+          "IPS",
+          "RETRIOILUMINADA"
+        ],
+        "Date": "2023-08-16T12:44:44.1250075-04:00",
+        "Update": "2023-10-11T09:50:56.4693265-04:00",
+        "Label": "MSI Katana RTX 3050 Ti, i7-12700H, 17.3FHD, 16GB, 512SSD"
+      },
+      {
+        "Price": 735.00,
+        "Features": [
+          "144Hz",
+          "IPS"
+        ],
+        "Date": "2023-08-19T10:48:36.3112137-04:00",
+        "Update": "2023-10-11T09:50:56.4786707-04:00",
+        "Label": "HP Victus RTX 2050, 15.6FHD, R5 7535HS, 16GB* DDR5, 512SSD"
+      },
+      {
+        "Price": 1195.00,
+        "Features": [
+          "144 Hz"
+        ],
+        "Date": "2023-09-13T13:21:02.8176254-04:00",
+        "Update": "2023-10-11T12:18:21.8439951-04:00",
+        "Label": "GIGABYTE 15.6FHD, i5 12500H, RTX 4060, 16GB*, 512SSD"
+      },
+      {
+        "Price": 1250.00,
+        "Features": [
+          "350 Nits",
+          "IPS",
+          "144Hz",
+          "DDR5",
+          "5600Mhz"
+        ],
+        "Date": "2023-10-03T11:48:18.4424856-04:00",
+        "Update": "2023-10-11T12:21:33.2448889-04:00",
+        "Label": "Lenovo LOQ RTX 4060, 15.6FHD, R7-7840HS, 16G, 512GB NVMe"
+      }
+    ],
+    "PRO": [
+      {
+        "Price": 750.00,
+        "Features": [
+          "TACTIL",
+          "Win 11",
+          "PORTABLE"
+        ],
+        "Date": "2023-09-13T13:20:57.8907965-04:00",
+        "Update": "2023-10-11T09:50:56.499229-04:00",
+        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
+      },
+      {
+        "Price": 650.00,
+        "Features": [
+          "NVMe",
+          "Win 11",
+          "IPS",
+          "Backlit"
+        ],
+        "Date": "2023-10-08T09:31:24.0075693-04:00",
+        "Update": "2023-10-11T12:21:33.232964-04:00",
+        "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
+      }
+    ],
+    "Ultra SLIM": [
+      {
+        "Price": 500.00,
+        "Features": [
+          "TACTIL",
+          "IPS",
+          "Huella",
+          "10H",
+          "8G"
+        ],
+        "Date": "2023-07-08T20:06:15.3165388-04:00",
+        "Update": "2023-10-11T11:53:33.3738954-04:00",
+        "Label": "i7 12Gen, 14FHD, 512SSD"
+      }
+    ]
+  },
   "Accesorios": {
     "Mochila": [
       {
