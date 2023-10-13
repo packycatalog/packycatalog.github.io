@@ -1,6 +1,6 @@
 {
   "Category": "Laptop",
-  "SubCategory": "Ultra SLIM",
+  "SubCategory": "",
   "Images": [
     "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-1.webp",
     "/images/products/msi-modern-14-i5-1155g7-16gb-512gb-2.webp",
@@ -23,6 +23,6 @@
     "Backlit"
   ],
   "Date": "2023-10-08T09:31:24.0075693-04:00",
-  "Update": "2023-10-13T10:49:11.1622182-04:00",
+  "Update": "2023-10-13T14:39:48.3668412-04:00",
   "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
 }
