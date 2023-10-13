@@ -11,7 +11,7 @@
     "/images/products/acer-swift-3-i5-1240p-14fhd-16gb-512gb-ssd-7.webp",
     "/images/products/acer-swift-3-i5-1240p-14fhd-16gb-512gb-ssd-8.webp"
   ],
-  "Description": "Model: Acer Swift 3 [SF314-512T-56CT]\nColor: Pure Silver\nOperating System: Windows 11 Home 64-bit\nCPU: Intel core i5-1240P(1.70GHz) 12 GEN\nScreen: 14\" Full HD (1920 x 1080)\nRAM : 16GB LPDDR4X\nStorage: 512GB SSD\nGraphics Card: Intel Iris Xe Graphics\n\nCommunications\nWLAN: IEEE 802.11 a/b/g/n/ac/ax\nWiFi Generation: Wi-Fi 6E AX211\nBluetooth: Bluetooth 5.1\n\n\nPorts\nThunderbolt: 1 x Thunderbolt 4\nHDMI: 1 x HDMI",
+  "Description": "Model: Acer Swift 3 [SF314-512T-56CT]\nColor: Pure Silver\nOperating System: Windows 11 Home 64-bit\nCPU: Intel core i5-1240P(1.70GHz) 12 GEN\nScreen: 14\" Full HD (1920 x 1080 Táctil\nRAM : 16GB LPDDR4X\nStorage: 512GB SSD\nGraphics Card: Intel Iris Xe Graphics\n\nCommunications\nWLAN: IEEE 802.11 a/b/g/n/ac/ax\nWiFi Generation: Wi-Fi 6E AX211\nBluetooth: Bluetooth 5.1\n\n\nPorts\nThunderbolt: 1 x Thunderbolt 4\nHDMI: 1 x HDMI",
   "Price": 750.00,
   "Features": [
     "TACTIL",
@@ -19,6 +19,6 @@
     "PORTABLE"
   ],
   "Date": "2023-09-13T13:20:57.8907965-04:00",
-  "Update": "2023-10-13T10:38:08.158255-04:00",
+  "Update": "2023-10-13T10:38:43.0170268-04:00",
   "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
 }
