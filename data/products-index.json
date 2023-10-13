@@ -61,31 +61,6 @@
         "Label": "Lenovo LOQ RTX 4060, 15.6FHD, R7-7840HS, 16G, 512GB NVMe"
       }
     ],
-    "PRO": [
-      {
-        "Price": 750.00,
-        "Features": [
-          "TACTIL",
-          "Win 11",
-          "PORTABLE"
-        ],
-        "Date": "2023-09-13T13:20:57.8907965-04:00",
-        "Update": "2023-10-11T09:50:56.499229-04:00",
-        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
-      },
-      {
-        "Price": 650.00,
-        "Features": [
-          "NVMe",
-          "Win 11",
-          "IPS",
-          "Backlit"
-        ],
-        "Date": "2023-10-08T09:31:24.0075693-04:00",
-        "Update": "2023-10-13T10:26:28.9323931-04:00",
-        "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
-      }
-    ],
     "Ultra SLIM": [
       {
         "Price": 500.00,
@@ -99,6 +74,31 @@
         "Date": "2023-07-08T20:06:15.3165388-04:00",
         "Update": "2023-10-11T11:53:33.3738954-04:00",
         "Label": "i7 12Gen, 14FHD, 512SSD"
+      }
+    ],
+    "PRO": [
+      {
+        "Price": 650.00,
+        "Features": [
+          "NVMe",
+          "Win 11",
+          "IPS",
+          "Backlit"
+        ],
+        "Date": "2023-10-08T09:31:24.0075693-04:00",
+        "Update": "2023-10-13T10:26:28.9323931-04:00",
+        "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
+      },
+      {
+        "Price": 750.00,
+        "Features": [
+          "TACTIL",
+          "Win 11",
+          "PORTABLE"
+        ],
+        "Date": "2023-09-13T13:20:57.8907965-04:00",
+        "Update": "2023-10-13T10:38:08.158255-04:00",
+        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
       }
     ]
   },
