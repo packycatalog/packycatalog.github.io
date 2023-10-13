@@ -2,22 +2,6 @@
   "Laptop": {
     "GAMER": [
       {
-        "Price": 725.00,
-        "Features": [
-          "IPS",
-          "Backlit",
-          "5LB",
-          "NVMe",
-          "RJ-45",
-          "4GB GDDR6",
-          "12da",
-          "144Hz"
-        ],
-        "Date": "2023-07-08T20:06:18.4294543-04:00",
-        "Update": "2023-10-11T09:50:56.4560298-04:00",
-        "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
-      },
-      {
         "Price": 1050.00,
         "Features": [
           "144 Hz",
@@ -59,6 +43,22 @@
         "Date": "2023-10-03T11:48:18.4424856-04:00",
         "Update": "2023-10-11T12:21:33.2448889-04:00",
         "Label": "Lenovo LOQ RTX 4060, 15.6FHD, R7-7840HS, 16G, 512GB NVMe"
+      },
+      {
+        "Price": 725.00,
+        "Features": [
+          "IPS",
+          "Backlit",
+          "5LB",
+          "NVMe",
+          "RJ-45",
+          "4GB GDDR6",
+          "12da",
+          "144Hz"
+        ],
+        "Date": "2023-07-08T20:06:18.4294543-04:00",
+        "Update": "2023-10-13T10:56:01.870518-04:00",
+        "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
       }
     ],
     "Ultra SLIM": [
