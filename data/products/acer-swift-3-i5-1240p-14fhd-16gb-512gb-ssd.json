@@ -1,6 +1,6 @@
 {
   "Category": "Laptops",
-  "SubCategory": "PRO",
+  "SubCategory": "PROFESINAL",
   "Images": [
     "/images/products/acer-swift-3-i5-1240p-14fhd-16gb-512gb-ssd-1.webp",
     "/images/products/acer-swift-3-i5-1240p-14fhd-16gb-512gb-ssd-2.webp",
@@ -19,6 +19,6 @@
     "PORTABLE"
   ],
   "Date": "2023-09-13T13:20:57.8907965-04:00",
-  "Update": "2023-10-16T11:03:14.5180283-04:00",
+  "Update": "2023-10-16T11:46:44.6086263-04:00",
   "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
 }
