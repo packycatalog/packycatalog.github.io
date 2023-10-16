@@ -1,6 +1,6 @@
 {
   "Category": "Laptops",
-  "SubCategory": "",
+  "SubCategory": "ULTRA SLIM",
   "Images": [
     "/images/products/gateway-i7-12th-14fhd-512ssd-1.webp",
     "/images/products/gateway-i7-12th-14fhd-512ssd-2.webp",
@@ -17,6 +17,6 @@
     "8G"
   ],
   "Date": "2023-07-08T20:06:15.3165388-04:00",
-  "Update": "2023-10-16T11:03:14.6059262-04:00",
+  "Update": "2023-10-16T11:49:25.1423773-04:00",
   "Label": "GATEWAY i7 12th, 14FHD, 512SSD"
 }
