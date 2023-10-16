@@ -276,19 +276,6 @@
     ],
     "HDD 2.5": [
       {
-        "Price": 59.00,
-        "Features": [
-          "1TB",
-          "5400RPM",
-          "128MB",
-          "Sata3",
-          "[ST1000LM048]"
-        ],
-        "Date": "2023-07-16T12:06:38.728482-04:00",
-        "Update": "2023-10-16T08:54:15.4112757-04:00",
-        "Label": "HDD 2.5 - Seagate BarraCuda"
-      },
-      {
         "Price": 79.00,
         "Features": [
           "SATA 6.0Gb/s"
