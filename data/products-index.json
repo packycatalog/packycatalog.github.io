@@ -26,17 +26,6 @@
         "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
       },
       {
-        "Price": 1195.00,
-        "Features": [
-          "144 Hz",
-          "IPS",
-          "Backlit"
-        ],
-        "Date": "2023-09-13T13:21:02.8176254-04:00",
-        "Update": "2023-10-16T11:03:14.5426381-04:00",
-        "Label": "GIGABYTE RTX 4060, 15.6FHD, i5 12500H, 16GB*, 512SSD"
-      },
-      {
         "Price": 1050.00,
         "Features": [
           "144 Hz",
@@ -46,6 +35,17 @@
         "Date": "2023-08-16T12:44:44.1250075-04:00",
         "Update": "2023-10-16T11:03:14.5557307-04:00",
         "Label": "MSI Katana RTX 3050 Ti, 17.3FHD, i7-12700H, 16GB, 512SSD"
+      },
+      {
+        "Price": 1195.00,
+        "Features": [
+          "144 Hz",
+          "IPS",
+          "Backlit"
+        ],
+        "Date": "2023-09-13T13:21:02.8176254-04:00",
+        "Update": "2023-10-16T11:51:09.0174044-04:00",
+        "Label": "GIGABYTE RTX 4060, 15.6FHD, i5 12500H, 16GB*, 512SSD"
       }
     ],
     "PROFESIONAL": [
