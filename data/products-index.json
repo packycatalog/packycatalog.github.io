@@ -48,19 +48,6 @@
         "Label": "GIGABYTE RTX 4060, 15.6FHD, i5 12500H, 16GB*, 512SSD"
       }
     ],
-    "PROFESIONAL": [
-      {
-        "Price": 750.00,
-        "Features": [
-          "TACTIL",
-          "Win 11",
-          "PORTABLE"
-        ],
-        "Date": "2023-09-13T13:20:57.8907965-04:00",
-        "Update": "2023-10-16T11:46:51.2605163-04:00",
-        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
-      }
-    ],
     "ULTRA SLIM": [
       {
         "Price": 500.00,
@@ -87,6 +74,19 @@
         "Date": "2023-10-08T09:31:24.0075693-04:00",
         "Update": "2023-10-16T11:49:25.1534127-04:00",
         "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
+      }
+    ],
+    "PROFESIONAL": [
+      {
+        "Price": 750.00,
+        "Features": [
+          "TACTIL",
+          "Win 11",
+          "PORTABLE"
+        ],
+        "Date": "2023-09-13T13:20:57.8907965-04:00",
+        "Update": "2023-10-16T11:55:52.5509418-04:00",
+        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
       }
     ]
   },
