@@ -48,7 +48,20 @@
         "Label": "MSI Katana RTX 3050 Ti, 17.3FHD, i7-12700H, 16GB, 512SSD"
       }
     ],
-    "": [
+    "PROFESIONAL": [
+      {
+        "Price": 750.00,
+        "Features": [
+          "TACTIL",
+          "Win 11",
+          "PORTABLE"
+        ],
+        "Date": "2023-09-13T13:20:57.8907965-04:00",
+        "Update": "2023-10-16T11:46:51.2605163-04:00",
+        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
+      }
+    ],
+    "ULTRA SLIM": [
       {
         "Price": 500.00,
         "Features": [
@@ -59,7 +72,7 @@
           "8G"
         ],
         "Date": "2023-07-08T20:06:15.3165388-04:00",
-        "Update": "2023-10-16T11:03:14.6059262-04:00",
+        "Update": "2023-10-16T11:49:25.1423773-04:00",
         "Label": "GATEWAY i7 12th, 14FHD, 512SSD"
       },
       {
@@ -72,21 +85,8 @@
           "Backlit"
         ],
         "Date": "2023-10-08T09:31:24.0075693-04:00",
-        "Update": "2023-10-16T11:03:14.6234696-04:00",
+        "Update": "2023-10-16T11:49:25.1534127-04:00",
         "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
-      }
-    ],
-    "PROFESIONAL": [
-      {
-        "Price": 750.00,
-        "Features": [
-          "TACTIL",
-          "Win 11",
-          "PORTABLE"
-        ],
-        "Date": "2023-09-13T13:20:57.8907965-04:00",
-        "Update": "2023-10-16T11:46:51.2605163-04:00",
-        "Label": "Acer Swift 3, i5-1240P, 14FHD, 16GB, 512GB SSD"
       }
     ]
   },
