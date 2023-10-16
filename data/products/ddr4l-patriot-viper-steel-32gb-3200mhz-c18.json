@@ -1,0 +1,15 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "RAM",
+  "Images": [
+    "/images/products/ddr4l-patriot-viper-steel-32gb-3200mhz-c18-1.webp",
+    "/images/products/ddr4l-patriot-viper-steel-32gb-3200mhz-c18-2.webp",
+    "/images/products/ddr4l-patriot-viper-steel-32gb-3200mhz-c18-3.webp"
+  ],
+  "Description": "Model\nBrand: Patriot\nSeries: Viper Steel\nModel: PVS432G320C8S\n\nDetails\nCapacity: 32GB\nType: 260-Pin DDR4 SO-DIMM\nSpeed: DDR4 3200 (PC4 25600)\nCAS Latency: 18\nTiming: 18-24-24-44\nVoltage: 1.35V\nECC: No\nFeatures: Series: Viper Steel SODIMM\nFeature Overclock: XMP 2.0\n\nCompatibility: Tested on the latest Intel premium/high-end platforms and AMD platforms for reliably fast performance",
+  "Price": 85.00,
+  "Features": [],
+  "Date": "2023-10-15T12:56:25.0943105-04:00",
+  "Update": "2023-10-16T08:33:43.435034-04:00",
+  "Label": "DDR4L - Patriot Viper Steel 32GB 3200mhz C18"
+}
