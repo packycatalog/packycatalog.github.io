@@ -50,7 +50,7 @@
     ],
     "ULTRA SLIM": [
       {
-        "Price": 500.00,
+        "Price": 495.00,
         "Features": [
           "TACTIL",
           "IPS",
@@ -63,7 +63,7 @@
         "Label": "GATEWAY i7 12th, 14FHD, 512SSD"
       },
       {
-        "Price": 650.00,
+        "Price": 595.00,
         "Features": [
           "ULTRA-DELGADA",
           "NVMe",
@@ -91,18 +91,6 @@
     ]
   },
   "Accesorios": {
-    "Mochila": [
-      {
-        "Price": 29.00,
-        "Features": [
-          "Backpack",
-          "B210"
-        ],
-        "Date": "2023-07-15T16:37:40.7775915-04:00",
-        "Update": "2023-07-15T17:50:30.7266625-04:00",
-        "Label": "Lenovo, 15.6\", Laptop, Grey"
-      }
-    ],
     "Bolso": [
       {
         "Price": 25.00,
@@ -140,7 +128,7 @@
     ],
     "SHDD EXT": [
       {
-        "Price": 70.00,
+        "Price": 75.00,
         "Features": [
           "USB 3.2",
           "HDD",
@@ -164,21 +152,6 @@
         "Date": "2023-09-13T13:21:24.2475646-04:00",
         "Update": "2023-09-14T22:36:42.3513364-04:00",
         "Label": "AICHESON 1000RPM Fans"
-      }
-    ],
-    "Lap stand": [
-      {
-        "Price": 35.00,
-        "Features": [
-          "7 Angles Adjustable",
-          "Ergonomic",
-          "Foldable",
-          "Portable",
-          "Desktop Holder"
-        ],
-        "Date": "2023-09-13T13:21:26.4758156-04:00",
-        "Update": "2023-09-14T22:36:42.3610403-04:00",
-        "Label": "Base para laptop ORICO"
       }
     ],
     "Mouse-Pad": [
@@ -215,7 +188,7 @@
         "Label": "DDR4L - Patriot Viper Steel 32GB (3200MHz) C18"
       },
       {
-        "Price": 55.00,
+        "Price": 60.00,
         "Features": [],
         "Date": "2023-10-15T12:56:30.844215-04:00",
         "Update": "2023-10-16T08:47:15.8853626-04:00",
@@ -236,20 +209,11 @@
         "Label": "DDR4L - Samsung 4GB (3200MHz)"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [],
         "Date": "2023-08-16T11:47:54.867386-04:00",
         "Update": "2023-10-16T08:48:28.6365525-04:00",
         "Label": "DDR4L - Team Elite 16GB (3200MHz)"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "laptop"
-        ],
-        "Date": "2023-07-15T19:58:39.9045174-04:00",
-        "Update": "2023-10-16T08:49:13.7776443-04:00",
-        "Label": "DDR5L - Team Elite 16GB 4800mhz"
       }
     ],
     "SSD 2.5": [
