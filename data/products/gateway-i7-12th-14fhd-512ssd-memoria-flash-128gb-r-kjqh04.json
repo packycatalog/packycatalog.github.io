@@ -1,0 +1,21 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "ULTRA SLIM",
+  "Images": [
+    "/images/products/gateway-i7-12th-14fhd-512ssd-memoria-flash-128gb-r-kjqh04-1.webp",
+    "/images/products/gateway-i7-12th-14fhd-512ssd-memoria-flash-128gb-r-kjqh04-2.webp",
+    "/images/products/gateway-i7-12th-14fhd-512ssd-memoria-flash-128gb-r-kjqh04-3.webp",
+    "/images/products/gateway-i7-12th-14fhd-512ssd-memoria-flash-128gb-r-kjqh04-4.webp"
+  ],
+  "Description": "Windows 11 Home\nMarca: Gateway\nCPU Intel Core i7-1255U\nProcessor (2.80 GHz, Up to 4.70 GHz, 12M Cache)\n\nSCREEN 14.1 LCD IPS FHD Táctil, (1920 x 1080)\nFingerprint Scanner\n512 Solid State Drive\nMicro SD Slot x 1 (Up to 512 GB)\n8 GB Memory (RAM)\n2.0 MP Front-Facing Camera with Camera Shutter\n\nPORTS\nHDMI Output x 1\nUSB 3.1 x 2\nUSB Type-C x 1\nBuilt-in Stereo Speakers x 2\nBluetooth 5.1\nBuilt-in Microphone\nTuned by THX Audio\nUp to 10 hours of battery life\n\nProduct Dimensions: 12.75 x 9.80 x 0.80\nWeight: 3.65 lbs.",
+  "Price": 495.00,
+  "Features": [
+    "TACTIL",
+    "IPS",
+    "Huella",
+    "10H"
+  ],
+  "Date": "2023-07-08T20:06:15.3165388-04:00",
+  "Update": "2023-10-29T11:12:56.2558483-04:00",
+  "Label": "GATEWAY i7 12th, 14FHD, 512SSD + MEMORIA FLASH 128GB REGALO"
+}
