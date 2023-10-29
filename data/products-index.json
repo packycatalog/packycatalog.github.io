@@ -61,18 +61,6 @@
         "Date": "2023-10-08T09:31:24.0075693-04:00",
         "Update": "2023-10-16T11:57:16.63496-04:00",
         "Label": "MSI Modern 14\", i5-1155G7 16GB, 512GB"
-      },
-      {
-        "Price": 495.00,
-        "Features": [
-          "TACTIL",
-          "IPS",
-          "Huella",
-          "10H"
-        ],
-        "Date": "2023-07-08T20:06:15.3165388-04:00",
-        "Update": "2023-10-29T11:12:56.2558483-04:00",
-        "Label": "GATEWAY i7 12th, 14FHD, 512SSD + MEMORIA FLASH 128GB REGALO"
       }
     ],
     "PRO": [
@@ -96,6 +84,20 @@
         "Date": "2023-10-23T13:08:00.5369718-04:00",
         "Update": "2023-10-23T14:11:53.3616395-04:00",
         "Label": "MSI 15.6FHD, i9-13900H, 32GB, 1TB M.2"
+      }
+    ],
+    "": [
+      {
+        "Price": 495.00,
+        "Features": [
+          "TACTIL",
+          "IPS",
+          "Huella",
+          "10H"
+        ],
+        "Date": "2023-07-08T20:06:15.3165388-04:00",
+        "Update": "2023-10-29T11:15:12.7561016-04:00",
+        "Label": "GATEWAY i7 12th, 14FHD, 512SSD + MEMORIA FLASH 128GB REGALO"
       }
     ]
   },
