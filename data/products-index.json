@@ -73,19 +73,6 @@
     ],
     "": [
       {
-        "Price": 595.00,
-        "Features": [
-          "ULTRA-DELGADA",
-          "NVMe",
-          "Win 11",
-          "IPS",
-          "Backlit"
-        ],
-        "Date": "2023-10-08T09:31:24.0075693-04:00",
-        "Update": "2023-10-29T12:38:17.4307025-04:00",
-        "Label": "MSI Modern 14\", i5-1155G7 16GB RAM, 512SSD"
-      },
-      {
         "Price": 495.00,
         "Features": [
           "TACTIL",
@@ -96,6 +83,18 @@
         "Date": "2023-07-08T20:06:15.3165388-04:00",
         "Update": "2023-10-30T09:59:32.2191679-04:00",
         "Label": "GATEWAY i7 12th, 14FHD, 512SSD + Bolso Original (REGALO)"
+      },
+      {
+        "Price": 595.00,
+        "Features": [
+          "ULTRA-DELGADA",
+          "NVMe",
+          "IPS",
+          "Backlit"
+        ],
+        "Date": "2023-10-08T09:31:24.0075693-04:00",
+        "Update": "2023-10-30T10:00:55.3982831-04:00",
+        "Label": "MSI 14FHD, i5-1155G7, 16GB RAM, 512SSD"
       }
     ]
   },
