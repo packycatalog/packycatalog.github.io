@@ -254,17 +254,6 @@
         "Update": "2023-10-16T08:54:15.4239907-04:00",
         "Label": "HDD 2.5 - Seagate Barracuda 2TB"
       }
-    ],
-    "SSD 2.5": [
-      {
-        "Price": 45.00,
-        "Features": [
-          "550/500"
-        ],
-        "Date": "2023-10-16T09:05:49.6674353-04:00",
-        "Update": "2023-10-16T10:32:11.1222061-04:00",
-        "Label": "SSD 2.5 - Team Group T-FORCE VULCAN G, 512GB"
-      }
     ]
   }
 }
