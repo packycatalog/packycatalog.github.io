@@ -2,16 +2,6 @@
   "Laptops": {
     "GAMER": [
       {
-        "Price": 735.00,
-        "Features": [
-          "144Hz",
-          "IPS"
-        ],
-        "Date": "2023-08-19T10:48:36.3112137-04:00",
-        "Update": "2023-11-01T07:42:08.4268136-04:00",
-        "Label": "HP Victus⚡ RTX 2050, 15.6FHD, R5 7535HS, 16GB* DDR5, 512SSD"
-      },
-      {
         "Price": 725.00,
         "Features": [
           "IPS",
@@ -61,7 +51,7 @@
         "Label": "Acer Swift⚡i5-1240P, 14FHD, 16GB, 512GB SSD"
       },
       {
-        "Price": 1250.00,
+        "Price": 1175.00,
         "Features": [
           "IPS",
           "NVMe"
