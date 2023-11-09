@@ -1,6 +1,6 @@
 {
   "Category": "Laptops",
-  "SubCategory": "Empresarial",
+  "SubCategory": "Compacta",
   "Images": [
     "/images/products/msi-14fhd-i5-1155g7-16gb-ram-512ssd-1.webp",
     "/images/products/msi-14fhd-i5-1155g7-16gb-ram-512ssd-2.webp",
@@ -22,6 +22,6 @@
     "Backlit"
   ],
   "Date": "2023-10-08T09:31:24.0075693-04:00",
-  "Update": "2023-11-09T09:28:22.7765263-05:00",
+  "Update": "2023-11-09T09:28:59.228434-05:00",
   "Label": "MSI 14FHD, i5-1155G7, 16GB RAM, 512SSD"
 }
