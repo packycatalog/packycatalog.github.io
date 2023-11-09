@@ -1,0 +1,22 @@
+{
+  "Category": "Laptops",
+  "SubCategory": "PRO",
+  "Images": [
+    "/images/products/msi-i9-13900h-156fhd-32gb-1tb-m2-1.webp",
+    "/images/products/msi-i9-13900h-156fhd-32gb-1tb-m2-2.webp",
+    "/images/products/msi-i9-13900h-156fhd-32gb-1tb-m2-3.webp",
+    "/images/products/msi-i9-13900h-156fhd-32gb-1tb-m2-4.webp",
+    "/images/products/msi-i9-13900h-156fhd-32gb-1tb-m2-5.webp",
+    "/images/products/msi-i9-13900h-156fhd-32gb-1tb-m2-6.webp",
+    "/images/products/msi-i9-13900h-156fhd-32gb-1tb-m2-7.webp"
+  ],
+  "Description": "LA MEJOR OPCION para PROFESIONALES: Desarrolladores, Ciberneticos, ESTUDIANTES de Ingenierias etc.. \n\nCPU\tUp to 13th Gen Intel® Core™ i9 13900H Processor\nOS\tWindows 11 Home (MSI recommends Windows 11 Pro for business.)\nDISPLAY\t15.6\" FHD (1920x1080), IPS-Level\nGRAPHICS\tUp to Intel® Iris® Xe graphics\n\nMEMORY\t32GB, Max 64GB DDR4-3200 (2 Slots)\nSTORAGE \t1TB M.2 SSD (1x slot NVMe PCIe Gen4)\nWEBCAM\tHD type (30fps, 720p)\nKEYBOARD\tSingle Backlit Keyboard (White)\n\nCOMMUNICATION\t802.11 ax Wi-Fi 6E + Bluetooth v5.3\nAUDIO\t2x 2W Speaker\nAUDIO JACK\t1x Mic-in/Headphone-out Combo Jack\n\nI/O PORTS\t1x Type-C (USB3.2 Gen2 / DP) with PD charging\n3x Type-A USB3.2 Gen2\n1x Micro SD Card Reader\n1x HDMI™ 2.1 (4K @ 60Hz)\n\nSECURITY\tFirmware Trusted Platform Module(fTPM) 2.0\nBATTERY\t3-Cell\n39.3/53.8 Battery (Whr)\nAC ADAPTER\t90W adapter\nWEIGHT (W/ BATTERY)\t1.7-1.9 kg\nDIMENSION (WXDXH)\t359 x 241 x 19.9 mm\nCOLOR\tClassic Black",
+  "Price": 1149.00,
+  "Features": [
+    "IPS",
+    "NVMe"
+  ],
+  "Date": "2023-10-23T13:08:00.5369718-04:00",
+  "Update": "2023-11-09T09:28:22.751779-05:00",
+  "Label": "MSI i9-13900H, 15.6FHD, 32GB, 1TB M.2"
+}
