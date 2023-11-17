@@ -2,7 +2,7 @@
   "Laptops": {
     "GAMER": [
       {
-        "Price": 765.00,
+        "Price": 725.00,
         "Features": [
           "IPS",
           "Backlit",
@@ -16,7 +16,7 @@
         "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
       },
       {
-        "Price": 1025.00,
+        "Price": 965.00,
         "Features": [
           "144 Hz",
           "IPS",
@@ -27,7 +27,7 @@
         "Label": "MSI Katana RTX 3050 Ti, 17.3FHD, i7-12700H, 16GB, 512SSD"
       },
       {
-        "Price": 1050.00,
+        "Price": 1025.00,
         "Features": [
           "144 Hz",
           "IPS",
@@ -40,7 +40,7 @@
     ],
     "PRO": [
       {
-        "Price": 725.00,
+        "Price": 625.00,
         "Features": [
           "TACTIL",
           "Win 11",
@@ -51,7 +51,7 @@
         "Label": "Acer Swift I5-1240P, 14FHD, 16GB, 512GB SSD"
       },
       {
-        "Price": 1149.00,
+        "Price": 1095.00,
         "Features": [
           "IPS",
           "NVMe"
@@ -63,7 +63,7 @@
     ],
     "Compacta": [
       {
-        "Price": 495.00,
+        "Price": 485.00,
         "Features": [
           "TACTIL",
           "IPS",
@@ -75,7 +75,7 @@
         "Label": "GATEWAY i7 12th, 14FHD, 512SSD + Bolso Original (REGALO)"
       },
       {
-        "Price": 595.00,
+        "Price": 565.00,
         "Features": [
           "ULTRA-DELGADA",
           "NVMe",
