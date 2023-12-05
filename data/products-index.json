@@ -16,7 +16,7 @@
         "Label": "HP Victus GTX 1650, 15.6FHD, i5-12450H, 16GB*, 512SSD"
       },
       {
-        "Price": 965.00,
+        "Price": 935.00,
         "Features": [
           "144 Hz",
           "IPS",
@@ -27,7 +27,7 @@
         "Label": "MSI Katana RTX 3050 Ti, 17.3FHD, i7-12700H, 16GB, 512SSD"
       },
       {
-        "Price": 1025.00,
+        "Price": 950.00,
         "Features": [
           "144 Hz",
           "IPS",
@@ -40,18 +40,7 @@
     ],
     "PRO": [
       {
-        "Price": 625.00,
-        "Features": [
-          "TACTIL",
-          "Win 11",
-          "PORTABLE"
-        ],
-        "Date": "2023-09-13T13:20:57.8907965-04:00",
-        "Update": "2023-11-09T09:28:22.7390706-05:00",
-        "Label": "Acer Swift I5-1240P, 14FHD, 16GB, 512GB SSD"
-      },
-      {
-        "Price": 1095.00,
+        "Price": 1090.00,
         "Features": [
           "IPS",
           "NVMe"
@@ -73,18 +62,6 @@
         "Date": "2023-07-08T20:06:15.3165388-04:00",
         "Update": "2023-11-09T09:28:59.2167062-05:00",
         "Label": "GATEWAY i7 12th, 14FHD, 512SSD + Bolso Original (REGALO)"
-      },
-      {
-        "Price": 565.00,
-        "Features": [
-          "ULTRA-DELGADA",
-          "NVMe",
-          "IPS",
-          "Backlit"
-        ],
-        "Date": "2023-10-08T09:31:24.0075693-04:00",
-        "Update": "2023-11-09T09:28:59.228434-05:00",
-        "Label": "MSI 14FHD, i5-1155G7, 16GB RAM, 512SSD"
       }
     ]
   },
