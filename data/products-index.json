@@ -191,17 +191,6 @@
         "Label": "DDR4L - Team Elite 16GB (3200MHz)"
       }
     ],
-    "HDD 2.5": [
-      {
-        "Price": 79.00,
-        "Features": [
-          "SATA 6.0Gb/s"
-        ],
-        "Date": "2023-07-16T12:06:37.010469-04:00",
-        "Update": "2023-10-16T08:54:15.4239907-04:00",
-        "Label": "HDD 2.5 - Seagate Barracuda 2TB"
-      }
-    ],
     "SSD M.2": [
       {
         "Price": 89.00,
