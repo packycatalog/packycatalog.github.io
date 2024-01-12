@@ -2,18 +2,6 @@
   "Laptops": {
     "GAMER": [
       {
-        "Price": 915.00,
-        "Features": [
-          "144 Hz",
-          "IPS",
-          "Backlit",
-          "[G5 KF-E3US333SH]"
-        ],
-        "Date": "2023-09-13T13:21:02.8176254-04:00",
-        "Update": "2024-01-12T11:14:55.0029946-05:00",
-        "Label": "GIGABYTE - RTX 4060, i5 12500H, 15.6FHD, 16GB* RAM, 512SSD"
-      },
-      {
         "Price": 1000.00,
         "Features": [
           "DDR5",
@@ -46,6 +34,18 @@
         "Date": "2024-01-04T13:51:16.2950497-05:00",
         "Update": "2024-01-12T11:14:55.0692407-05:00",
         "Label": "MSI Katana - RTX 3070 Ti, i9-12900H, 32GB RAM, 15.6FHD, 1TB SSD"
+      },
+      {
+        "Price": 915.00,
+        "Features": [
+          "144 Hz",
+          "IPS",
+          "Backlit",
+          "[G5 KF-E3US333SH]"
+        ],
+        "Date": "2023-09-13T13:21:02.8176254-04:00",
+        "Update": "2024-01-12T11:24:14.7642298-05:00",
+        "Label": "GIGABYTE - RTX 4060, i5 12500H, 15.6FHD, 16GB* RAM, 512SSD"
       }
     ],
     "PRO": [
