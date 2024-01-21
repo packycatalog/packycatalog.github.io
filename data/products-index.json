@@ -137,14 +137,52 @@
       {
         "Price": 85.00,
         "Features": [
-          "rosa",
-          "bloques armables",
+          "Rosa",
           "171pcs",
-          "> 3 años"
+          "Bloques armables",
+          "+3 años"
         ],
         "Date": "2023-09-02T12:57:43.759136-04:00",
-        "Update": "2024-01-21T14:03:58.5088804-05:00",
+        "Update": "2024-01-21T14:37:11.1336832-05:00",
         "Label": "Castillo de princesa"
+      }
+    ],
+    "Muñeca": [
+      {
+        "Price": 75.00,
+        "Features": [
+          "15\"",
+          "Chupetes",
+          "Gorras",
+          "+18 meses"
+        ],
+        "Date": "2023-09-06T00:54:37.8264767-04:00",
+        "Update": "2024-01-21T14:37:11.1470074-05:00",
+        "Label": "Bebés LUKE & LUCY"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "10\"",
+          "Ojos Grandes",
+          "Ropa Intercambiable",
+          "+3 años"
+        ],
+        "Date": "2023-09-06T00:54:35.5031489-04:00",
+        "Update": "2024-01-21T14:37:11.160526-05:00",
+        "Label": "Kindi Kids Tiara Sparkles"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "Accesorios",
+          "Ropa y Zapatos Intercambiables",
+          "10\"",
+          "+3 años"
+        ],
+        "Date": "2023-09-06T00:54:32.7642304-04:00",
+        "Update": "2024-01-21T14:37:11.1821502-05:00",
+        "Label": "Kindi Kids Rainbow Kate"
       }
     ]
   }
