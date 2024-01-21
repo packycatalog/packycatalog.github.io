@@ -1,0 +1,25 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Lanza Dardos",
+  "Images": [
+    "/images/products/dinosquad-raptor-slash-1.webp",
+    "/images/products/dinosquad-raptor-slash-2.webp",
+    "/images/products/dinosquad-raptor-slash-3.webp",
+    "/images/products/dinosquad-raptor-slash-4.webp",
+    "/images/products/dinosquad-raptor-slash-5.webp",
+    "/images/products/dinosquad-raptor-slash-6.webp",
+    "/images/products/dinosquad-raptor-slash-7.webp"
+  ],
+  "Description": "Modelo: NERF DinoSquad Raptor-Slash (F2475)\n\nImpresionante diseño de dinosaurio Velociraptor\n\nTambor giratorio de 6 dardos para que puedas lanzar 6 dardos seguidos. Dispara 1 dardo por vez, o dispara los 6 dardos rápido\n\nIncluye 6 dardos de espuma Nerf Elite oficiales que son ideales para aventuras al aire libre e interior\n\nDimensiones del producto: 2,63 x 12,5 x 9,5 pulgadas",
+  "Price": 35.00,
+  "Features": [
+    "Diseño Dinosaurio",
+    "Tambor Giratorio",
+    "Ráfaga",
+    "6x Dardos",
+    "+ 8 años"
+  ],
+  "Date": "2023-09-06T00:33:21.161585-04:00",
+  "Update": "2024-01-21T14:24:44.1624201-05:00",
+  "Label": "DinoSquad Raptor-Slash"
+}
