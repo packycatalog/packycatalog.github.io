@@ -42,6 +42,35 @@
         "Date": "2023-09-06T00:33:24.5998082-04:00",
         "Update": "2024-01-21T12:55:04.7453956-05:00",
         "Label": "Nerf Elite Ace SD-1"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Ráfaga",
+          "Tambor Giratorio",
+          "27 metros",
+          "12x Dardos",
+          "Pistola",
+          "+ 8 años",
+          "Niño"
+        ],
+        "Date": "2023-09-06T00:33:23.099854-04:00",
+        "Update": "2024-01-21T14:03:58.5390888-05:00",
+        "Label": "Nerf Elite 2.0 Commander RD-6"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "Precisión Avanzada",
+          "Ráfaga",
+          "8x Dardos",
+          "27 metros",
+          "Bloqueo Gatillo",
+          "+ 14 años"
+        ],
+        "Date": "2023-09-06T00:33:39.9200993-04:00",
+        "Update": "2024-01-21T14:03:58.5527481-05:00",
+        "Label": "Rival Vision XXII-800"
       }
     ],
     "Cocina": [
@@ -78,6 +107,20 @@
         "Date": "2023-07-22T19:23:28.6972686-04:00",
         "Update": "2024-01-21T12:55:04.827367-05:00",
         "Label": "JOYIN COMBO Rescate. Ambulancia +Bombero +Helicóptero +10x Figuras"
+      }
+    ],
+    "Constucción": [
+      {
+        "Price": 85.00,
+        "Features": [
+          "rosa",
+          "bloques armables",
+          "171pcs",
+          "> 3 años"
+        ],
+        "Date": "2023-09-02T12:57:43.759136-04:00",
+        "Update": "2024-01-21T14:03:58.5088804-05:00",
+        "Label": "Castillo de princesa"
       }
     ]
   }
