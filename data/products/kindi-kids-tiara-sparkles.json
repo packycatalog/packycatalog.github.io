@@ -1,0 +1,22 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Muñeca",
+  "Images": [
+    "/images/products/kindi-kids-tiara-sparkles-1.webp",
+    "/images/products/kindi-kids-tiara-sparkles-2.webp",
+    "/images/products/kindi-kids-tiara-sparkles-3.webp",
+    "/images/products/kindi-kids-tiara-sparkles-4.webp",
+    "/images/products/kindi-kids-tiara-sparkles-5.webp"
+  ],
+  "Description": "Muñeca KINDI KIDS Tiara Sparkles\n\nEdad recomendada por el fabricante: +3 años \n\nMueve la Cabeza\n\nZapatos extraíbles y ropa intercambiable\n\nDimensiones del producto: 5,55 x 3,98 x 9,96 pulgadas",
+  "Price": 65.00,
+  "Features": [
+    "10\"",
+    "Ojos Grandes",
+    "Ropa Intercambiable",
+    "+3 años"
+  ],
+  "Date": "2023-09-06T00:54:35.5031489-04:00",
+  "Update": "2024-01-21T14:37:11.160526-05:00",
+  "Label": "Kindi Kids Tiara Sparkles"
+}
