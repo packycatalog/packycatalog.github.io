@@ -1,201 +1,83 @@
 {
-  "Laptops": {
-    "GAMER": [
+  "Juguetes": {
+    "Lanza Dardos": [
       {
-        "Price": 895.00,
+        "Price": 67.00,
         "Features": [
-          "IPS",
-          "144Hz",
-          "[GF63 12VE-066US]"
+          "Curva 360",
+          "12x Rondas",
+          "27 metros",
+          "Pistola",
+          "Niño"
         ],
-        "Date": "2023-11-16T20:24:36.5443561-05:00",
-        "Update": "2024-01-12T11:14:55.0524463-05:00",
-        "Label": "MSI Thin - RTX 4050, i7-12650H, 15.6FHD, 16GB RAM, 512SSD"
+        "Date": "2023-09-06T00:33:37.4755239-04:00",
+        "Update": "2024-01-21T12:55:04.6683843-05:00",
+        "Label": "Nerf Rival Curve Shot"
       },
       {
-        "Price": 915.00,
+        "Price": 63.00,
         "Features": [
-          "144 Hz",
-          "IPS",
-          "Backlit",
-          "[G5 KF-E3US333SH]"
+          "Ráfaga",
+          "8x Dardos",
+          "36 metros",
+          "+8 Años",
+          "Pistola",
+          "Niño"
         ],
-        "Date": "2023-09-13T13:21:02.8176254-04:00",
-        "Update": "2024-01-12T11:30:16.9649698-05:00",
-        "Label": "GIGABYTE - RTX 4060, i5 12500H, 15.6FHD, 16GB* RAM, 512SSD"
+        "Date": "2023-09-06T00:33:47.9100143-04:00",
+        "Update": "2024-01-21T12:55:04.7032723-05:00",
+        "Label": "Nerf Ultra Three"
       },
       {
-        "Price": 1050.00,
+        "Price": 63.00,
         "Features": [
-          "DDR5",
-          "144Hz",
-          "IPS",
-          "[ G5 KF5]"
+          "10x Pistolas",
+          "Fiesta",
+          "2x Colores",
+          "+8 Años",
+          "20x Dardos",
+          "Niño",
+          "Pistola"
         ],
-        "Date": "2023-12-07T11:41:21.3838685-05:00",
-        "Update": "2024-01-12T11:30:16.9793721-05:00",
-        "Label": "GIGABYTE - RTX 4060, i7-12650H, 15.6FHD, 16GB RAM, 512GB SSD"
-      },
-      {
-        "Price": 1550.00,
-        "Features": [
-          "144Hz",
-          "IPS",
-          "[GF6612831]"
-        ],
-        "Date": "2024-01-04T13:51:16.2950497-05:00",
-        "Update": "2024-01-16T12:13:28.6120423-05:00",
-        "Label": "MSI Katana - RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
+        "Date": "2023-09-06T00:33:24.5998082-04:00",
+        "Update": "2024-01-21T12:55:04.7453956-05:00",
+        "Label": "Nerf Elite Ace SD-1"
       }
     ],
-    "PRO": [
+    "Cocina": [
       {
-        "Price": 1095.00,
+        "Price": 35.00,
         "Features": [
-          "IPS",
-          "NVMe"
+          "27x Utensilios",
+          "Platos",
+          "Tazas",
+          "Cubiertos",
+          "Calderos",
+          "+18 Meses",
+          "Niña"
         ],
-        "Date": "2023-10-23T13:08:00.5369718-04:00",
-        "Update": "2024-01-12T11:18:59.583405-05:00",
-        "Label": "MSI - i9-13900H, 15.6FHD, 32GB RAM, 1TB SSD M.2"
-      }
-    ]
-  },
-  "Accesorios": {
-    "Bolso": [
-      {
-        "Price": 25.00,
-        "Features": [
-          "Bag",
-          "T210"
-        ],
-        "Date": "2023-07-15T16:37:47.1291784-04:00",
-        "Update": "2023-07-15T17:54:35.0698822-04:00",
-        "Label": "Lenovo, 15.6\", Laptop, Black"
-      },
-      {
-        "Price": 25.00,
-        "Features": [
-          "Bag",
-          "T210"
-        ],
-        "Date": "2023-07-15T16:37:45.3835233-04:00",
-        "Update": "2023-07-15T18:00:59.5274055-04:00",
-        "Label": "Lenovo, 15.6\", Laptop, Blue"
+        "Date": "2023-07-22T19:23:41.0946748-04:00",
+        "Update": "2024-01-21T12:55:04.7816463-05:00",
+        "Label": "KidKraft Juego de cocina"
       }
     ],
-    "": [
+    "Vehículo": [
       {
-        "Price": 6.00,
+        "Price": 73.00,
         "Features": [
-          "DataTraveler",
-          "100 G3",
-          "USB 3.0"
+          "Coches de Fricción",
+          "Luces",
+          "Sonido",
+          "Personal médico",
+          "Pacientes",
+          "Policías",
+          "+3 Años",
+          "Niño",
+          "Carro"
         ],
-        "Date": "2023-08-16T09:46:42.1083883-04:00",
-        "Update": "2023-08-16T10:50:35.0715038-04:00",
-        "Label": "Flash USB - Kingston 32GB"
-      }
-    ],
-    "SHDD EXT": [
-      {
-        "Price": 75.00,
-        "Features": [
-          "USB 3.2",
-          "HDD",
-          "SDD",
-          "SHDD"
-        ],
-        "Date": "2023-08-16T09:46:51.7650723-04:00",
-        "Update": "2023-09-08T10:24:39.3114616-04:00",
-        "Label": "Externo 2.5 Seagate FireCuda Gaming RGB 2TB"
-      }
-    ],
-    "Lap Cooling": [
-      {
-        "Price": 37.00,
-        "Features": [
-          "Portable",
-          "Blue",
-          "LEDs",
-          "[S007]"
-        ],
-        "Date": "2023-09-13T13:21:24.2475646-04:00",
-        "Update": "2023-09-14T22:36:42.3513364-04:00",
-        "Label": "AICHESON 1000RPM Fans"
-      }
-    ],
-    "Mouse-Pad": [
-      {
-        "Price": 45.00,
-        "Features": [],
-        "Date": "2023-07-15T20:29:09.7905522-04:00",
-        "Update": "2023-10-13T14:15:53.6502024-04:00",
-        "Label": "Mouse Pad - Corsair MM300"
-      }
-    ],
-    "Mouse": [
-      {
-        "Price": 23.00,
-        "Features": [
-          "Inalámbirco",
-          "2.4 GHz",
-          "1000 DP",
-          "Gris Swift"
-        ],
-        "Date": "2023-07-16T15:30:40.3880006-04:00",
-        "Update": "2023-10-13T14:15:53.6694805-04:00",
-        "Label": "Mouse Logitech M185"
-      }
-    ]
-  },
-  "Componentes": {
-    "RAM": [
-      {
-        "Price": 85.00,
-        "Features": [],
-        "Date": "2023-10-15T12:56:25.0943105-04:00",
-        "Update": "2023-10-16T08:47:15.8717663-04:00",
-        "Label": "DDR4L - Patriot Viper Steel 32GB (3200MHz) C18"
-      },
-      {
-        "Price": 60.00,
-        "Features": [],
-        "Date": "2023-10-15T12:56:30.844215-04:00",
-        "Update": "2023-10-16T08:47:15.8853626-04:00",
-        "Label": "DDR4L - Team T-CREATE CLASSIC 16GB (3200MHz) C22"
-      },
-      {
-        "Price": 40.00,
-        "Features": [],
-        "Date": "2023-10-15T12:56:36.9559642-04:00",
-        "Update": "2023-10-16T08:47:15.8976335-04:00",
-        "Label": "DDR4L - Timetec 8GB (3200MHz) C22"
-      },
-      {
-        "Price": 22.00,
-        "Features": [],
-        "Date": "2023-08-16T11:47:44.2147086-04:00",
-        "Update": "2023-10-16T08:48:28.6125287-04:00",
-        "Label": "DDR4L - Samsung 4GB (3200MHz)"
-      },
-      {
-        "Price": 55.00,
-        "Features": [],
-        "Date": "2023-08-16T11:47:54.867386-04:00",
-        "Update": "2024-01-05T17:23:54.2462668-05:00",
-        "Label": "DDR4L - Team Elite 16GB (3200MHz) C40"
-      }
-    ],
-    "SSD M.2": [
-      {
-        "Price": 115.00,
-        "Features": [
-          "3500/2700"
-        ],
-        "Date": "2023-10-16T09:15:31.7134015-04:00",
-        "Update": "2023-10-16T10:55:59.2729696-04:00",
-        "Label": "SSD M.2 - Intel 670P, 2TB"
+        "Date": "2023-07-22T19:23:28.6972686-04:00",
+        "Update": "2024-01-21T12:55:04.827367-05:00",
+        "Label": "JOYIN COMBO Rescate. Ambulancia +Bombero +Helicóptero +10x Figuras"
       }
     ]
   }
