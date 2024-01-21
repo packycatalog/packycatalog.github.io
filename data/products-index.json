@@ -44,21 +44,6 @@
         "Label": "Nerf Elite Ace SD-1"
       },
       {
-        "Price": 35.00,
-        "Features": [
-          "Ráfaga",
-          "Tambor Giratorio",
-          "27 metros",
-          "12x Dardos",
-          "Pistola",
-          "+ 8 años",
-          "Niño"
-        ],
-        "Date": "2023-09-06T00:33:23.099854-04:00",
-        "Update": "2024-01-21T14:03:58.5390888-05:00",
-        "Label": "Nerf Elite 2.0 Commander RD-6"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "Precisión Avanzada",
@@ -71,6 +56,45 @@
         "Date": "2023-09-06T00:33:39.9200993-04:00",
         "Update": "2024-01-21T14:03:58.5527481-05:00",
         "Label": "Rival Vision XXII-800"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Diseño Dinosaurio",
+          "Tambor Giratorio",
+          "Ráfaga",
+          "6x Dardos",
+          "+ 8 años"
+        ],
+        "Date": "2023-09-06T00:33:21.161585-04:00",
+        "Update": "2024-01-21T14:24:44.1624201-05:00",
+        "Label": "DinoSquad Raptor-Slash"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Tambor Giratorio",
+          "Ráfaga",
+          "12x Dardos",
+          "27 metros",
+          "Pistola",
+          "+ 8 años",
+          "Niño"
+        ],
+        "Date": "2023-09-06T00:33:23.099854-04:00",
+        "Update": "2024-01-21T14:24:44.1760074-05:00",
+        "Label": "Nerf Elite 2.0 Commander RD-6"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "ALETA  de TIBURON para recargar",
+          "Codigo desbloqueo en Videojuego",
+          "> 8 años"
+        ],
+        "Date": "2023-09-06T00:33:42.2955205-04:00",
+        "Update": "2024-01-21T14:24:44.1906681-05:00",
+        "Label": "Roblox MM2"
       }
     ],
     "Cocina": [
