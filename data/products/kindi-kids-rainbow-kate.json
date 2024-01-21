@@ -1,0 +1,23 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Muñeca",
+  "Images": [
+    "/images/products/kindi-kids-rainbow-kate-1.webp",
+    "/images/products/kindi-kids-rainbow-kate-2.webp",
+    "/images/products/kindi-kids-rainbow-kate-3.webp",
+    "/images/products/kindi-kids-rainbow-kate-4.webp",
+    "/images/products/kindi-kids-rainbow-kate-5.webp",
+    "/images/products/kindi-kids-rainbow-kate-6.webp"
+  ],
+  "Description": "Muñeca KINDI KIDS Rainbow Kate\n\nEdad recomendada por el fabricante: +3años \n\nMueve la Cabeza\n\nZapatos extraíbles y ropa intercambiable\n\nCon accesorios: dulce y caja de jugo\n\nDimensiones del producto: 5,2 x 4,17 x 11,08 pulgadas",
+  "Price": 69.00,
+  "Features": [
+    "Accesorios",
+    "Ropa y Zapatos Intercambiables",
+    "10\"",
+    "+3 años"
+  ],
+  "Date": "2023-09-06T00:54:32.7642304-04:00",
+  "Update": "2024-01-21T14:37:11.1821502-05:00",
+  "Label": "Kindi Kids Rainbow Kate"
+}
