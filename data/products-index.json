@@ -185,5 +185,21 @@
         "Label": "Kindi Kids Rainbow Kate"
       }
     ]
+  },
+  "Electrónica": {
+    "Laptop": [
+      {
+        "Price": 895.00,
+        "Features": [
+          "GAMER",
+          "IPS",
+          "144Hz",
+          "[GF63 12VE-066US]"
+        ],
+        "Date": "2023-11-16T20:24:36.5443561-05:00",
+        "Update": "2024-01-21T20:16:42.2329024-05:00",
+        "Label": "MSI Thin - RTX 4050, i7-12650H, 15.6FHD, 16GB RAM, 512SSD"
+      }
+    ]
   }
 }
