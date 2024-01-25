@@ -11,7 +11,7 @@
     "/images/products/gigabyte-rtx-4060-i7-12650h-156fhd-16gb-ram-512gb--6w0ycc-7.webp",
     "/images/products/gigabyte-rtx-4060-i7-12650h-156fhd-16gb-ram-512gb--6w0ycc-8.webp"
   ],
-  "Description": "Marca:  GIGABYTE\nModelo:  G5 KF5\nTamaño de pantalla:  15,6 Pulgadas\nColor:  Negro \nSistema operativo:  Windows 11 Home\n\nCaracterísticas Especiales:  DDR5, Recubrimiento antidestellos, Audio HD, Ranura SD, Teclado retroiluminado RGB, Teclado numérico, \n   \nRAM: 16GB DDR5 SDRAM 4800 Mhz \nSTORAGE :512 GB PCI-E NVMe\n\nCPU: Intel Core i7-12650H, 10 núcleos( 6 núcleos de rendimiento + 4 núcleos eficientes de 16 hilos) Hasta 4.7 GHz con tecnología Intel Turbo Boost 24 MB de caché Inteligente)\n \nGPU: NVIDIA GeForce RTX 4060 con 8 GB GDDR6\n\nPantalla: 15.6 pulgadas FHD (1920 x 1080) 144 Hz, LCD de bisel delgado, IPS, 300nits antirreflejo 45% NTSC.\n\nTeclado retroiluminado RGB de una sola zona de tamaño completo\nCámara Numpad 720p HD 54Whr \nBatería de iones de litio de 4 celdas (hasta 6 horas de duración de la batería) 14.2 x 9.4 x 0.94 pulgadas, adaptador de CA de 150 W\n    \n\n[Conexión y puertos] Intel Wi-Fi 6 AX201 (2x2) Bluetooth 5.1, 2x USB-C 3.2 Gen 1 (5Gbps), 1 USB 3.2 Gen 1 (5Gbps), 1 USB 2.0, 1 RJ-45, 1 HDMI v1.4, 1 conector combinado de auriculares y micrófono. 1 x 32 Unidad USB GB incluida.",
+  "Description": "Marca:  GIGABYTE\nModelo:  G5 KF5\nColor:  Negro \nScreen: 15.6\"FHD 144 Hz, IPS, 300nits antirreflejo 45% NTSC\nSO:  Windows 11 Home\n\nCPU: Intel Core i7-12650H, 10 núcleos, 16 hilos 4.7GHz, 24MB de caché Inteligente \nRAM: 16GB DDR5 SDRAM 4800 Mhz\nGPU: NVIDIA GeForce RTX 4060 con 8 GB GDDR6\nSTORAGE :512GB PCIe NVMe\n \nCOMMUNICATION\nWi-Fi 6 AX201 (2x2)\nBluetooth 5.1\n\nPOWER\nAC Adapter: 150-watt AC Adapter \nBattery: Lithium-Ion  4celdas 54Whr (hasta 6 horas de duración de la batería)\nDimensions (W x D x H): 14.20\" x 9.40\" x 0.94\"\nWeight: 4.39 lbs\n\nPORTS:\n1 x USB 2.0 port (Type A)\n1 x USB 3.2 Gen 1 port (Type A, 5Gbps)\n2 x USB 3.2 Gen 1 port (Type C, 5Gbps)\n1 x RJ-45 LAN port\n1 x HDMI™ (v1.4)\n1 x Mini DP 1.4\n1 x 2-in-1 Audio Jack (Headphone / Microphone)\n1 x Microphone Jack\n1 x DC-in Jack\n1 x 32 Unidad USB GB incluida.\n\nCARACTERISTICAS ESPECIALES\nTecnología de CPU Intel Turbo Boost. Teclado retroiluminado RGB de una sola zona de tamaño completo. Pantalla LCD de bisel delgado. Cámara Numpad 720p HD",
   "Price": 1050.00,
   "Features": [
     "DDR5",
@@ -21,6 +21,6 @@
     "G5 KF5"
   ],
   "Date": "2023-12-07T11:41:21.3838685-05:00",
-  "Update": "2024-01-22T11:36:42.66014-05:00",
+  "Update": "2024-01-25T12:55:30.2710099-05:00",
   "Label": "GIGABYTE RTX 4060, i7-12650H, 15.6FHD, 16GB RAM, 512GB SSD"
 }
