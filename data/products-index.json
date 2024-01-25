@@ -213,18 +213,6 @@
         "Label": "MSI PRO i9-13900H, 15.6FHD, 32GB RAM, 1TB SSD M.2"
       },
       {
-        "Price": 1550.00,
-        "Features": [
-          "Backlit",
-          "144Hz",
-          "IPS",
-          "GF6612831"
-        ],
-        "Date": "2024-01-04T13:51:16.2950497-05:00",
-        "Update": "2024-01-25T12:55:30.303079-05:00",
-        "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
-      },
-      {
         "Price": 895.00,
         "Features": [
           "GAMER",
@@ -248,6 +236,18 @@
         "Date": "2023-09-13T13:21:02.8176254-04:00",
         "Update": "2024-01-25T12:55:30.3342484-05:00",
         "Label": "GIGABYTE RTX 4060, i5 12500H, 15.6FHD, 16GB* RAM, 512SSD"
+      },
+      {
+        "Price": 1550.00,
+        "Features": [
+          "Backlit",
+          "144Hz",
+          "IPS",
+          "GF6612831"
+        ],
+        "Date": "2024-01-04T13:51:16.2950497-05:00",
+        "Update": "2024-01-25T12:57:59.0538902-05:00",
+        "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       }
     ]
   }
