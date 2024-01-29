@@ -97,23 +97,6 @@
         "Label": "DinoSquad Raptor-Slash"
       }
     ],
-    "Cocina": [
-      {
-        "Price": 35.00,
-        "Features": [
-          "27x Utensilios",
-          "Platos",
-          "Tazas",
-          "Cubiertos",
-          "Calderos",
-          "+18 Meses",
-          "Niña"
-        ],
-        "Date": "2023-07-22T19:23:41.0946748-04:00",
-        "Update": "2024-01-21T12:55:04.7816463-05:00",
-        "Label": "KidKraft Juego de cocina"
-      }
-    ],
     "Vehículo": [
       {
         "Price": 73.00,
