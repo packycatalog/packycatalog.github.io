@@ -244,6 +244,50 @@
         "Update": "2024-01-30T09:51:35.5856537-05:00",
         "Label": "TeganPlay COMBO Rescate. Helicóptero + Bombero con Manguera + Bombero con escalera"
       }
+    ],
+    "Construcción": [
+      {
+        "Price": 53.00,
+        "Features": [
+          "80 Bloques",
+          "Bolsa Azul",
+          "+1 Año",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2023-09-16T12:57:25.9054364-04:00",
+        "Update": "2024-01-30T11:06:24.4838699-05:00",
+        "Label": "MEGA Blocks"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "80 Blocks",
+          "Bolsa Azul",
+          "+1 Año",
+          "Niño",
+          "Niña",
+          "Educativo"
+        ],
+        "Date": "2023-09-02T12:58:02.9079573-04:00",
+        "Update": "2024-01-30T11:06:24.5018697-05:00",
+        "Label": "MEGA Blocks"
+      },
+      {
+        "Price": 52.00,
+        "Features": [
+          "80 Blocks",
+          "Bolsa Rosa",
+          "+1 Año",
+          "Niño",
+          "Niña",
+          "Educativo"
+        ],
+        "Date": "2023-09-16T12:57:24.0529082-04:00",
+        "Update": "2024-01-30T11:06:24.5201356-05:00",
+        "Label": "MEGA Blocks"
+      }
     ]
   },
   "Electrónica": {
