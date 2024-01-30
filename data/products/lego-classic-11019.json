@@ -1,0 +1,23 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Construcción",
+  "Images": [
+    "/images/products/lego-classic-11019-1.webp",
+    "/images/products/lego-classic-11019-2.webp",
+    "/images/products/lego-classic-11019-3.webp",
+    "/images/products/lego-classic-11019-4.webp",
+    "/images/products/lego-classic-11019-5.webp"
+  ],
+  "Description": "LEGO Classic 11019\n\nIncluye \n500 piezas de LEGO \nojos y Ruedas\nManual de Ayuda con 7 ideas para configurar\n\nLos niños pueden construir y jugar con las 7 ideas de modelos incluidas, luego innovar y descubrir formas imaginativas de crear sus propios juguetes LEGO\n\nPude combinarse con otros juegos de LEGO para más creatividad\n\nDifrentes colores, formas y tamaños\n\nEdad recomendada por el fabricante: +5 Años",
+  "Price": 60.00,
+  "Features": [
+    "500 piezas",
+    "+5 Años",
+    "Educativo",
+    "Niña",
+    "Niño"
+  ],
+  "Date": "2023-09-02T12:57:58.2250093-04:00",
+  "Update": "2024-01-30T11:14:01.6621101-05:00",
+  "Label": "LEGO Classic 11019"
+}
