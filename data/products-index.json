@@ -116,20 +116,6 @@
         "Label": "JOYIN COMBO Rescate. Ambulancia +Bombero +Helicóptero +10x Figuras"
       },
       {
-        "Price": 57.00,
-        "Features": [
-          "Fricción",
-          "Luces",
-          "Sonido",
-          "Niño",
-          "Carro",
-          "+ 3 años"
-        ],
-        "Date": "2024-01-25T16:32:54.6935702-05:00",
-        "Update": "2024-01-25T17:43:58.2298818-05:00",
-        "Label": "JOYIN COMBO POLICIA. Ambulancia + Policía + Helicóptero"
-      },
-      {
         "Price": 63.00,
         "Features": [
           "Carcasa de Metal",
@@ -146,6 +132,20 @@
         "Date": "2024-01-25T16:33:04.402215-05:00",
         "Update": "2024-01-26T13:47:27.5624689-05:00",
         "Label": "Todoterreno Monster Truck 4x4"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "Fricción",
+          "Luces",
+          "Sonido",
+          "Niño",
+          "Carro",
+          "+ 3 años"
+        ],
+        "Date": "2024-01-25T16:32:54.6935702-05:00",
+        "Update": "2024-01-30T09:33:59.1729236-05:00",
+        "Label": "JOYIN COMBO POLICIA. Ambulancia + Patrulla + Helicóptero"
       }
     ],
     "Constucción": [
