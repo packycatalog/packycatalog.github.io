@@ -287,6 +287,19 @@
         "Date": "2023-09-16T12:57:24.0529082-04:00",
         "Update": "2024-01-30T11:06:24.5201356-05:00",
         "Label": "MEGA Blocks"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "2 Jugadores",
+          "+7 Años",
+          "Niña",
+          "Niño",
+          "Estrategia"
+        ],
+        "Date": "2024-01-25T16:33:06.3240064-05:00",
+        "Update": "2024-01-30T11:08:00.1256375-05:00",
+        "Label": "Tablero Battleship"
       }
     ]
   },
