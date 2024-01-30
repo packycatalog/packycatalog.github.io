@@ -73,17 +73,6 @@
         "Label": "Nerf Elite 2.0 Commander RD-6"
       },
       {
-        "Price": 60.00,
-        "Features": [
-          "ALETA  de TIBURON para recargar",
-          "Codigo desbloqueo en Videojuego",
-          "> 8 años"
-        ],
-        "Date": "2023-09-06T00:33:42.2955205-04:00",
-        "Update": "2024-01-21T14:24:44.1906681-05:00",
-        "Label": "Roblox MM2"
-      },
-      {
         "Price": 35.00,
         "Features": [
           "Diseño Dinosaurio",
@@ -95,6 +84,17 @@
         "Date": "2023-09-06T00:33:21.161585-04:00",
         "Update": "2024-01-21T14:37:46.2979812-05:00",
         "Label": "DinoSquad Raptor-Slash"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "ALETA  de TIBURON para recargar",
+          "Código desbloqueo en Videojuego",
+          "> 8 años"
+        ],
+        "Date": "2023-09-06T00:33:42.2955205-04:00",
+        "Update": "2024-01-30T09:34:30.2249256-05:00",
+        "Label": "Roblox MM2"
       }
     ],
     "Vehículo": [
