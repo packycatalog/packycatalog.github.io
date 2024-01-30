@@ -1,0 +1,25 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Construcción",
+  "Images": [
+    "/images/products/mega-blocks-1.webp",
+    "/images/products/mega-blocks-2.webp",
+    "/images/products/mega-blocks-3.webp",
+    "/images/products/mega-blocks-4.webp",
+    "/images/products/mega-blocks-5.webp",
+    "/images/products/mega-blocks-6.webp"
+  ],
+  "Description": "El juguete de construcción de preescolar número 1 en los Estados Unidos\n\n\nIncluye \n1 bolsa de almacenamiento\n80 grandes bloques de construcción\n\nDesarrolla la imaginación\n\nLos bloques son compatibles con todos los juguetes de construcción MEGA BLOKS para una diversión de aprendizaje sin fin \n\nEdad recomendada por el fabricante: +1 Año\nModelo: DCH62",
+  "Price": 52.00,
+  "Features": [
+    "80 Blocks",
+    "Bolsa Rosa",
+    "+1 Año",
+    "Niño",
+    "Niña",
+    "Educativo"
+  ],
+  "Date": "2023-09-16T12:57:24.0529082-04:00",
+  "Update": "2024-01-30T11:06:24.5201356-05:00",
+  "Label": "MEGA Blocks"
+}
