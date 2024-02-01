@@ -1,0 +1,24 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Vehículo",
+  "Images": [
+    "/images/products/combo-joyin-18-carritos-1.webp",
+    "/images/products/combo-joyin-18-carritos-2.webp",
+    "/images/products/combo-joyin-18-carritos-3.webp",
+    "/images/products/combo-joyin-18-carritos-4.webp",
+    "/images/products/combo-joyin-18-carritos-5.webp",
+    "/images/products/combo-joyin-18-carritos-6.webp",
+    "/images/products/combo-joyin-18-carritos-7.webp",
+    "/images/products/combo-joyin-18-carritos-8.webp"
+  ],
+  "Description": "incluye 18 autos de juguete en total: \ncamión de bomberos, automóvil de limpieza, camión volquete, excavadora, grúa y más.\n\nVehículos de fricción para niños \n\nPuede soportar el uso áspero y los golpes en la pared. \n\nNo hay bordes afilados o esquinas que puedan dañar a su hijo.\n\nNo necesita batería. Simplemente jala hacia atrás y deja que avance naturalmente, las ruedas suaves pueden mantener el coche funcionando durante mucho tiempo.",
+  "Price": 35.00,
+  "Features": [
+    "Fricción",
+    "Carro",
+    "Nño"
+  ],
+  "Date": "2024-02-01T15:44:25.6423826-05:00",
+  "Update": "2024-02-01T16:00:05.8275333-05:00",
+  "Label": "COMBO JOYIN 18 Carritos"
+}
