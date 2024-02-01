@@ -1,0 +1,27 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Construcción",
+  "Images": [
+    "/images/products/lego-classic-10698-caja-1.webp",
+    "/images/products/lego-classic-10698-caja-2.webp",
+    "/images/products/lego-classic-10698-caja-3.webp",
+    "/images/products/lego-classic-10698-caja-4.webp",
+    "/images/products/lego-classic-10698-caja-5.webp",
+    "/images/products/lego-classic-10698-caja-6.webp",
+    "/images/products/lego-classic-10698-caja-7.webp",
+    "/images/products/lego-classic-10698-caja-8.webp",
+    "/images/products/lego-classic-10698-caja-9.webp"
+  ],
+  "Description": "LEGO Classic 10698\n\n\nIncluye\n790 piezas de Lego\nGuía con 9 construcciones creativas \n\n39 colores diferentes\n\nConstruye un castillo, camára fotografíca, edificio, casa, oso, lagarto, excavadora, motocicleta.....\n\nKit de construcción \n\nEdad recomendada por el fabricante: +4 Años",
+  "Price": 85.00,
+  "Features": [
+    "790 piezas",
+    "+4 Años",
+    "Educativo",
+    "Niña",
+    "Niño"
+  ],
+  "Date": "2023-09-02T12:57:48.6280021-04:00",
+  "Update": "2024-02-01T15:21:41.0812223-05:00",
+  "Label": "LEGO Classic 10698 + Caja"
+}
