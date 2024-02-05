@@ -410,7 +410,7 @@
   "Electrónica": {
     "Laptop": [
       {
-        "Price": 1050.00,
+        "Price": 1000.00,
         "Features": [
           "DDR5",
           "Backlit RGB",
@@ -471,7 +471,7 @@
         "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       },
       {
-        "Price": 1050.00,
+        "Price": 1075.00,
         "Features": [
           "144Hz IPS,"
         ],
@@ -580,6 +580,21 @@
         "Date": "2024-02-04T17:27:22.4535485-05:00",
         "Update": "2024-02-05T00:53:58.3920723-05:00",
         "Label": "Cable - Mini Displayport Cable 3ft 8K DP 1.4 Supports to 8K 60Hz 4K 144Hz 1080p 240Hz HBR3 32.4Gbps HDR HDCP 2.2 G-sync and Freesync on The Gaming Monitor HDTV Laptop etc"
+      }
+    ]
+  },
+  "Seguridad": {
+    "Videoportero": [
+      {
+        "Price": 135.00,
+        "Features": [
+          "LCD",
+          "7\"TFT",
+          "IR"
+        ],
+        "Date": "2023-09-06T00:19:57.1503915-04:00",
+        "Update": "2024-02-05T16:37:07.2547401-05:00",
+        "Label": "Videoportero + Keypad, Blanco"
       }
     ]
   }
