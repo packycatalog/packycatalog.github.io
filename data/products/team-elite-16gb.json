@@ -1,0 +1,17 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/team-elite-16gb-1.webp"
+  ],
+  "Description": "",
+  "Price": 69.00,
+  "Features": [
+    "DDR5",
+    "4800MHz",
+    "C40"
+  ],
+  "Date": "2024-01-05T17:25:12.7041664-05:00",
+  "Update": "2024-02-05T00:53:58.3157426-05:00",
+  "Label": "Team Elite 16GB"
+}
