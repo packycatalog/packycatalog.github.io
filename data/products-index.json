@@ -483,42 +483,6 @@
         "Label": "Team Group CX1 480GB"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "RAM",
-          "DDR4",
-          "3200MHz",
-          "C18"
-        ],
-        "Date": "2023-10-15T12:56:25.0943105-04:00",
-        "Update": "2024-02-05T01:03:52.7291706-05:00",
-        "Label": "Patriot Viper Steel 32GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "RAM",
-          "DDR4",
-          "3200MHz",
-          "C22"
-        ],
-        "Date": "2023-10-15T12:56:30.844215-04:00",
-        "Update": "2024-02-05T01:03:52.7527861-05:00",
-        "Label": "T-CREATE Classic 16GB"
-      },
-      {
-        "Price": 40.00,
-        "Features": [
-          "RAM",
-          "DDR4",
-          "3200MHz",
-          "C22"
-        ],
-        "Date": "2023-10-15T12:56:36.9559642-04:00",
-        "Update": "2024-02-05T01:03:52.7683634-05:00",
-        "Label": "Timetec 8GB"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "RAM",
@@ -541,6 +505,39 @@
         "Date": "2024-01-05T17:25:12.7041664-05:00",
         "Update": "2024-02-05T13:19:24.6927248-05:00",
         "Label": "Team Elite 16GB DDR5"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "RAM",
+          "3200MHz",
+          "C18"
+        ],
+        "Date": "2023-10-15T12:56:25.0943105-04:00",
+        "Update": "2024-02-05T13:21:55.2726382-05:00",
+        "Label": "Patriot Viper Steel 32GB DDR4"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "RAM",
+          "3200MHz",
+          "C22"
+        ],
+        "Date": "2023-10-15T12:56:30.844215-04:00",
+        "Update": "2024-02-05T13:21:55.286522-05:00",
+        "Label": "T-CREATE Classic 16GB DDR4"
+      },
+      {
+        "Price": 40.00,
+        "Features": [
+          "RAM",
+          "3200MHz",
+          "C22"
+        ],
+        "Date": "2023-10-15T12:56:36.9559642-04:00",
+        "Update": "2024-02-05T13:21:55.3004955-05:00",
+        "Label": "Timetec 8GB DDR4"
       }
     ],
     "Laptop Accesorios": [
