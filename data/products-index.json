@@ -470,6 +470,72 @@
         "Update": "2024-01-25T12:57:59.0538902-05:00",
         "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       }
+    ],
+    "Laptop Componentes": [
+      {
+        "Price": 69.00,
+        "Features": [
+          "DDR5",
+          "4800MHz"
+        ],
+        "Date": "2023-07-15T19:58:39.9045174-04:00",
+        "Update": "2024-02-05T00:53:58.2576576-05:00",
+        "Label": "Team Elite 16GB"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "SSD 2.5",
+          "530/470"
+        ],
+        "Date": "2023-10-16T08:58:43.7124996-04:00",
+        "Update": "2024-02-05T00:53:58.2724665-05:00",
+        "Label": "Team Group CX1 480GB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "DDR5",
+          "4800MHz",
+          "C40"
+        ],
+        "Date": "2024-01-05T17:25:12.7041664-05:00",
+        "Update": "2024-02-05T00:53:58.3157426-05:00",
+        "Label": "Team Elite 16GB"
+      }
+    ],
+    "Laptop Accesorios": [
+      {
+        "Price": 25.00,
+        "Features": [
+          "Mouse",
+          "Silent",
+          "Wireless",
+          "2.4Ghz",
+          "Optical",
+          "Pink"
+        ],
+        "Date": "2024-01-11T13:06:35.6791034-05:00",
+        "Update": "2024-02-05T00:53:58.3315932-05:00",
+        "Label": "Logitech M220"
+      },
+      {
+        "Price": 23.00,
+        "Features": [
+          "15.6\"",
+          "Azul"
+        ],
+        "Date": "2024-02-04T17:26:55.8309617-05:00",
+        "Update": "2024-02-05T00:53:58.3614247-05:00",
+        "Label": "Bag - Lenovo"
+      },
+      {
+        "Price": 30.00,
+        "Features": [],
+        "Date": "2024-02-04T17:27:22.4535485-05:00",
+        "Update": "2024-02-05T00:53:58.3920723-05:00",
+        "Label": "Cable - Mini Displayport Cable 3ft 8K DP 1.4 Supports to 8K 60Hz 4K 144Hz 1080p 240Hz HBR3 32.4Gbps HDR HDCP 2.2 G-sync and Freesync on The Gaming Monitor HDTV Laptop etc"
+      }
     ]
   }
 }
