@@ -1,0 +1,23 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Accesorios",
+  "Images": [
+    "/images/products/bag-lenovo-1.webp",
+    "/images/products/bag-lenovo-2.webp",
+    "/images/products/bag-lenovo-3.webp",
+    "/images/products/bag-lenovo-4.webp",
+    "/images/products/bag-lenovo-5.webp",
+    "/images/products/bag-lenovo-6.webp",
+    "/images/products/bag-lenovo-7.webp",
+    "/images/products/bag-lenovo-8.webp"
+  ],
+  "Description": "Model\nBrand: Lenovo\nModel: T210\nCase Type: Carrying Case\nColor: Black\nFit Most Screen Size: 15.6\"\n\nDimensions & Weight\nDimensions: 15.7 x 11.8 x 2.1\nWeight: 0.6\n\nIts water-repellent fabric\noptimal laptop protection\nspacious storage, thoughtful organization",
+  "Price": 23.00,
+  "Features": [
+    "15.6\"",
+    "Azul"
+  ],
+  "Date": "2024-02-04T17:26:55.8309617-05:00",
+  "Update": "2024-02-05T00:53:58.3614247-05:00",
+  "Label": "Bag - Lenovo"
+}
