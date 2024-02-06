@@ -1,0 +1,28 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Accesorios",
+  "Images": [
+    "/images/products/logitech-m325-1.webp",
+    "/images/products/logitech-m325-2.webp",
+    "/images/products/logitech-m325-3.webp",
+    "/images/products/logitech-m325-4.webp",
+    "/images/products/logitech-m325-5.webp",
+    "/images/products/logitech-m325-6.webp",
+    "/images/products/logitech-m325-7.webp",
+    "/images/products/logitech-m325-8.webp",
+    "/images/products/logitech-m325-9.webp",
+    "/images/products/logitech-m325-10.webp"
+  ],
+  "Description": "Dimensiones del mouse (altura x ancho x profundidad): 2.24 pulgadas (57 mm) x 3.73 pulgadas (94.7 mm) x 1.54 pulgadas (39.1 mm).",
+  "Price": 23.00,
+  "Features": [
+    "Mouse",
+    "Wireless",
+    "2.4GHz",
+    "Opctical",
+    "Gray"
+  ],
+  "Date": "2024-01-11T13:06:32.3766642-05:00",
+  "Update": "2024-02-06T13:29:42.8568596-05:00",
+  "Label": "Logitech M325"
+}
