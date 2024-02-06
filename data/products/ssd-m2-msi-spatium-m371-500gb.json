@@ -1,0 +1,20 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-1.webp",
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-2.webp",
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-3.webp",
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-4.webp",
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-5.webp"
+  ],
+  "Description": "Velocidad de lectura de hasta 500 MB/s\nVelocidad de escritura de hasta 450MB/s",
+  "Price": 60.00,
+  "Features": [
+    "2200/1150 Mbs",
+    "110TBW"
+  ],
+  "Date": "2024-02-06T13:31:27.7823595-05:00",
+  "Update": "2024-02-06T13:58:50.3070313-05:00",
+  "Label": "SSD M.2 - MSI SPatium M371 500GB"
+}
