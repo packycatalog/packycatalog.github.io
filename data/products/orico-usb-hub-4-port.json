@@ -1,0 +1,20 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Accesorios",
+  "Images": [
+    "/images/products/orico-usb-hub-4-port-1.webp",
+    "/images/products/orico-usb-hub-4-port-2.webp",
+    "/images/products/orico-usb-hub-4-port-3.webp",
+    "/images/products/orico-usb-hub-4-port-4.webp",
+    "/images/products/orico-usb-hub-4-port-5.webp"
+  ],
+  "Description": "Brand: ORICO\nModel: ORICO AH-13-GY\n\nDetails\nColor: Grey\nType: USB\nPorts: 1 x USB 3.0, 3 x USB 2.0",
+  "Price": 15.00,
+  "Features": [
+    "Type C to USB 3.0",
+    "USB 2.0"
+  ],
+  "Date": "2023-09-06T00:18:17.0474044-04:00",
+  "Update": "2024-02-06T13:01:46.0411038-05:00",
+  "Label": "ORICO USB Hub 4 Port"
+}
