@@ -1,0 +1,19 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Accesorios",
+  "Images": [
+    "/images/products/microsd-team-elite-16gb-1.webp",
+    "/images/products/microsd-team-elite-16gb-2.webp"
+  ],
+  "Description": "Model\nBrand: Team\nModel: TUSDH16GCL10U03\nType: microSDHC\n\nDetails\nCapacity: 16GB\nSpeed Class Rating: UHS-I / U1 / Class 10\nRead Speed: Up to 80MB/s\nWrite Speed: Up to 15MB/s\n\nFeatures\nFeatures: Supports for UHS-I ultra high-speed bus interface.\n\nEnough to satisfy the high-speed access requirement of smartphones, tablets and vehicle recorders.",
+  "Price": 5.00,
+  "Features": [
+    "MicroSD",
+    "Adapter",
+    "80MB/s",
+    "TUSDH16GCL10U03"
+  ],
+  "Date": "2024-01-25T11:53:23.9176268-05:00",
+  "Update": "2024-02-06T13:29:23.1646189-05:00",
+  "Label": "microSD Team Elite 16GB"
+}
