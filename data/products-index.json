@@ -599,23 +599,6 @@
         "Label": "Logitech M220"
       },
       {
-        "Price": 23.00,
-        "Features": [
-          "15.6\"",
-          "Azul"
-        ],
-        "Date": "2024-02-04T17:26:55.8309617-05:00",
-        "Update": "2024-02-05T00:53:58.3614247-05:00",
-        "Label": "Bag - Lenovo"
-      },
-      {
-        "Price": 30.00,
-        "Features": [],
-        "Date": "2024-02-04T17:27:22.4535485-05:00",
-        "Update": "2024-02-05T00:53:58.3920723-05:00",
-        "Label": "Cable - Mini Displayport Cable 3ft 8K DP 1.4 Supports to 8K 60Hz 4K 144Hz 1080p 240Hz HBR3 32.4Gbps HDR HDCP 2.2 G-sync and Freesync on The Gaming Monitor HDTV Laptop etc"
-      },
-      {
         "Price": 15.00,
         "Features": [
           "Type C to USB 3.0",
@@ -624,13 +607,6 @@
         "Date": "2023-09-06T00:18:17.0474044-04:00",
         "Update": "2024-02-06T13:01:46.0411038-05:00",
         "Label": "ORICO USB Hub 4 Port"
-      },
-      {
-        "Price": 23.00,
-        "Features": [],
-        "Date": "2024-02-04T17:26:58.5612555-05:00",
-        "Update": "2024-02-06T13:12:17.1121473-05:00",
-        "Label": "Bag - Lenovo 15.6\" - Negro"
       },
       {
         "Price": 45.00,
@@ -651,6 +627,48 @@
         "Date": "2023-07-16T15:30:40.3880006-04:00",
         "Update": "2024-02-06T13:15:06.2727129-05:00",
         "Label": "Logitech M185"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "Portable",
+          "Blue",
+          "LEDs",
+          "[S007]",
+          "Base Refrescadora"
+        ],
+        "Date": "2023-09-13T13:21:24.2475646-04:00",
+        "Update": "2024-02-06T13:28:35.0665875-05:00",
+        "Label": "AICHESON 1000RPM Fans"
+      },
+      {
+        "Price": 23.00,
+        "Features": [],
+        "Date": "2024-02-04T17:26:55.8309617-05:00",
+        "Update": "2024-02-06T13:28:35.0808876-05:00",
+        "Label": "Bolso Lenovo 15.6\" Azul"
+      },
+      {
+        "Price": 23.00,
+        "Features": [],
+        "Date": "2024-02-04T17:26:58.5612555-05:00",
+        "Update": "2024-02-06T13:28:35.095244-05:00",
+        "Label": "Bolso Lenovo 15.6\" Negro"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "DP 1.4",
+          "3ft",
+          "8K 60Hz",
+          "4K 144Hz",
+          "1080p 240Hz",
+          "HBR3 32.4Gbps",
+          "HDR HDCP"
+        ],
+        "Date": "2024-02-04T17:27:22.4535485-05:00",
+        "Update": "2024-02-06T13:28:35.1094785-05:00",
+        "Label": "Mini Displayport"
       }
     ]
   },
