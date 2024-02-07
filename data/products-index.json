@@ -400,6 +400,94 @@
       }
     ]
   },
+  "Barbería": {
+    "": [
+      {
+        "Price": 10.00,
+        "Features": [
+          "Profesional",
+          "Resistente al Agua",
+          "Ajustable"
+        ],
+        "Date": "2023-08-19T17:49:34.3506879-04:00",
+        "Update": "2024-02-06T22:29:28.6485053-05:00",
+        "Label": "Capa de Barberia"
+      }
+    ],
+    "Afeitadora": [
+      {
+        "Price": 108.00,
+        "Features": [
+          "AFEITADORA",
+          "Recargable",
+          "60 Min"
+        ],
+        "Date": "2023-08-26T12:13:32.2018693-04:00",
+        "Update": "2024-02-06T22:29:28.6633348-05:00",
+        "Label": "Wahl Superclose Professional 5-Star."
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "Super Torque",
+          "Inalámbrica",
+          "hipoalergenica",
+          "Desmontable",
+          "100 minutos"
+        ],
+        "Date": "2023-08-26T12:13:28.181128-04:00",
+        "Update": "2024-02-06T22:29:28.6778033-05:00",
+        "Label": "StyleCraft Rebel Professional"
+      },
+      {
+        "Price": 117.00,
+        "Features": [
+          "Recargable",
+          "Black",
+          "Afeita"
+        ],
+        "Date": "2023-08-26T12:13:18.6466728-04:00",
+        "Update": "2024-02-06T22:29:28.7214424-05:00",
+        "Label": "Andis 17300 RESURGE"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "+ 100 min x carga"
+        ],
+        "Date": "2023-08-26T12:13:29.5128036-04:00",
+        "Update": "2024-02-06T22:29:28.7363288-05:00",
+        "Label": "AFEITADORA Wahl Vanish. Profesional 5 Star. Inalambrica"
+      }
+    ],
+    "Máquina de Pelar": [
+      {
+        "Price": 110.00,
+        "Features": [
+          "Full Head",
+          "Ultra Close Trimming",
+          "Outlining",
+          "V5000"
+        ],
+        "Date": "2023-08-19T17:49:44.9270431-04:00",
+        "Update": "2024-02-06T22:29:28.6923511-05:00",
+        "Label": "Wahl Balding 5-Star Profesional"
+      }
+    ],
+    "Trimmer": [
+      {
+        "Price": 115.00,
+        "Features": [
+          "INALAMBRICA + BASE DE CARGA",
+          "Detailer",
+          "Cuchillas en T"
+        ],
+        "Date": "2023-08-19T17:49:46.8626933-04:00",
+        "Update": "2024-02-06T22:29:28.7071309-05:00",
+        "Label": "Maquina de Pelar WAHL Retro T-Cut"
+      }
+    ]
+  },
   "Electrónica": {
     "Laptop": [
       {
