@@ -1,0 +1,24 @@
+{
+  "Category": "Barbería",
+  "SubCategory": "Afeitadora",
+  "Images": [
+    "/images/products/stylecraft-rebel-professional-1.webp",
+    "/images/products/stylecraft-rebel-professional-2.webp",
+    "/images/products/stylecraft-rebel-professional-3.webp",
+    "/images/products/stylecraft-rebel-professional-4.webp",
+    "/images/products/stylecraft-rebel-professional-5.webp",
+    "/images/products/stylecraft-rebel-professional-6.webp"
+  ],
+  "Description": "Afeitadora REBEL StyleCraft [SC802B]\n- Motor SUPER TORQUE: 11 00 rpm, afeitado suave \n- No se mella ni se engancha.\n- Tecnología:Batería de Iones de litio \n- Autonomía:100 minutos para 1h de carga\n- Inalámbrica, puede usarse cableada\n- Agarre suave y cómodo\n- Peso:5.3 oz\n- Materialde las Hojas: Gold Titanium (oro hipoalergénico )\n- Cabezal desmontable\n  \n    INCLUYE: afeitadora, cortadora, cabezal de lámina de titanio dorado, tapa protectora, cable de carga, cepillo de limpieza\n\nNOTA: La afeitadora de láminas StyleCraft Rebel es la opción profesional para afeitarse en seco la cara, el cuello o el cuero cabelludo.\n\nColoque las láminas bajo agua corriente para enjuagar cualquier cabello o suciedad, asegúrese de que la lámina esté completamente seca antes de reemplazarla.",
+  "Price": 130.00,
+  "Features": [
+    "Super Torque",
+    "Inalámbrica",
+    "hipoalergenica",
+    "Desmontable",
+    "100 minutos"
+  ],
+  "Date": "2023-08-26T12:13:28.181128-04:00",
+  "Update": "2024-02-06T22:29:28.6778033-05:00",
+  "Label": "StyleCraft Rebel Professional"
+}
