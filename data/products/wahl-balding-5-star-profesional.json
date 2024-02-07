@@ -1,0 +1,23 @@
+{
+  "Category": "Barbería",
+  "SubCategory": "Máquina de Pelar",
+  "Images": [
+    "/images/products/wahl-balding-5-star-profesional-1.webp",
+    "/images/products/wahl-balding-5-star-profesional-2.webp",
+    "/images/products/wahl-balding-5-star-profesional-3.webp",
+    "/images/products/wahl-balding-5-star-profesional-4.webp",
+    "/images/products/wahl-balding-5-star-profesional-5.webp",
+    "/images/products/wahl-balding-5-star-profesional-6.webp"
+  ],
+  "Description": "Máquina potente  con cuchillas quirúrgicas para 0 total.\n\nIncluye:\n- 2 guías de corte (1/16 in - 3/16 in)\n- peine negro de barbero\n- cepillo para antes de afeitar\n- estuche rojo para cuchilla\n- aceite\n- cepillo de limpieza y manual de instrucciones\n\n*Motor v5000, dos veces la potencia del motor convencional *",
+  "Price": 110.00,
+  "Features": [
+    "Full Head",
+    "Ultra Close Trimming",
+    "Outlining",
+    "V5000"
+  ],
+  "Date": "2023-08-19T17:49:44.9270431-04:00",
+  "Update": "2024-02-06T22:29:28.6923511-05:00",
+  "Label": "Wahl Balding 5-Star Profesional"
+}
