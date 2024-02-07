@@ -416,17 +416,6 @@
     ],
     "Afeitadora": [
       {
-        "Price": 108.00,
-        "Features": [
-          "AFEITADORA",
-          "Recargable",
-          "60 Min"
-        ],
-        "Date": "2023-08-26T12:13:32.2018693-04:00",
-        "Update": "2024-02-06T22:29:28.6633348-05:00",
-        "Label": "Wahl Superclose Professional 5-Star."
-      },
-      {
         "Price": 130.00,
         "Features": [
           "Super Torque",
@@ -458,6 +447,17 @@
         "Date": "2023-08-26T12:13:29.5128036-04:00",
         "Update": "2024-02-06T22:29:28.7363288-05:00",
         "Label": "AFEITADORA Wahl Vanish. Profesional 5 Star. Inalambrica"
+      },
+      {
+        "Price": 108.00,
+        "Features": [
+          "AFEITADORA",
+          "Recargable",
+          "60 Min"
+        ],
+        "Date": "2023-08-26T12:13:32.2018693-04:00",
+        "Update": "2024-02-07T10:16:04.0789539-05:00",
+        "Label": "Wahl Superclose Professional 5-Star."
       }
     ],
     "Máquina de Pelar": [
@@ -849,8 +849,8 @@
           "Google Home"
         ],
         "Date": "2024-02-06T14:02:01.1962435-05:00",
-        "Update": "2024-02-06T20:31:59.1635894-05:00",
-        "Label": "Alarma Moderna WiFi GSM, 2.4in, 2x Mov, 2x Apertura, 4x control, 5x RFID"
+        "Update": "2024-02-07T10:16:04.0616158-05:00",
+        "Label": "Alarma Moderna WiFi GSM, 2.4in, 2x Mov, 2x Apertura, 2x control, 5x RFID"
       }
     ],
     "GPS": [
