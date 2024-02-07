@@ -358,15 +358,6 @@
         "Label": "JCREN Letras Magnéticas, Numeros y Símbolos Matemáticos"
       }
     ],
-    "Educativo": [
-      {
-        "Price": 15.00,
-        "Features": [],
-        "Date": "2024-01-22T14:34:53.9979365-05:00",
-        "Update": "2024-02-01T15:21:41.0433797-05:00",
-        "Label": "Tableta de Escritura - TEKFUN ,10in 2 Pack LCD, Colores, lápiz óptico. Educativo, + 3 años"
-      }
-    ],
     "ok": [
       {
         "Price": 63.00,
@@ -391,6 +382,21 @@
         "Date": "2024-01-25T16:33:08.7600689-05:00",
         "Update": "2024-02-01T15:21:41.1152174-05:00",
         "Label": "Tableta de Escritura LCD Rocambo"
+      }
+    ],
+    "Educativo": [
+      {
+        "Price": 15.00,
+        "Features": [
+          "LCD",
+          "Colores",
+          "lápiz óptico",
+          "Educativo",
+          "+3 Años"
+        ],
+        "Date": "2024-01-22T14:34:53.9979365-05:00",
+        "Update": "2024-02-06T20:37:07.0381917-05:00",
+        "Label": "Tableta de Escritura TEKFUN ,10in"
       }
     ]
   },
