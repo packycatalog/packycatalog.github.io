@@ -35,11 +35,10 @@
           "Ráfaga",
           "8x Dardos",
           "27 metros",
-          "Bloqueo Gatillo",
-          "+ 14 años"
+          "Bloqueo Gatillo"
         ],
         "Date": "2023-09-06T00:33:39.9200993-04:00",
-        "Update": "2024-01-21T14:03:58.5527481-05:00",
+        "Update": "2024-02-06T23:41:39.0197546-05:00",
         "Label": "Rival Vision XXII-800"
       },
       {
@@ -54,7 +53,7 @@
           "Niño"
         ],
         "Date": "2023-09-06T00:33:23.099854-04:00",
-        "Update": "2024-01-21T14:24:44.1760074-05:00",
+        "Update": "2024-02-06T23:41:39.035907-05:00",
         "Label": "Nerf Elite 2.0 Commander RD-6"
       },
       {
@@ -62,10 +61,10 @@
         "Features": [
           "ALETA  de TIBURON para recargar",
           "Código desbloqueo en Videojuego",
-          "> 8 años"
+          "+8 años"
         ],
         "Date": "2023-09-06T00:33:42.2955205-04:00",
-        "Update": "2024-01-30T09:34:30.2249256-05:00",
+        "Update": "2024-02-06T23:41:39.0537146-05:00",
         "Label": "Roblox MM2"
       }
     ],
@@ -360,20 +359,6 @@
     ],
     "Constucción": [
       {
-        "Price": 85.00,
-        "Features": [
-          "Rosa",
-          "171pcs",
-          "Bloques armables",
-          "+3 años",
-          "Educativo",
-          "Niña"
-        ],
-        "Date": "2023-09-02T12:57:43.759136-04:00",
-        "Update": "2024-02-06T23:28:36.6827141-05:00",
-        "Label": "Castillo de princesa"
-      },
-      {
         "Price": 25.00,
         "Features": [
           "78 pcs",
@@ -382,6 +367,20 @@
         "Date": "2023-09-02T12:58:06.049714-04:00",
         "Update": "2024-02-06T23:28:36.9875364-05:00",
         "Label": "JCREN Letras Magnéticas, Numeros y Símbolos Matemáticos"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "Rosa",
+          "171 pcs",
+          "Bloques armables",
+          "+3 años",
+          "Educativo",
+          "Niña"
+        ],
+        "Date": "2023-09-02T12:57:43.759136-04:00",
+        "Update": "2024-02-06T23:41:39.0704744-05:00",
+        "Label": "Castillo de princesa"
       }
     ],
     "Educativo": [
