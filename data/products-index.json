@@ -277,19 +277,6 @@
         "Label": "LEGO Classic 11019"
       },
       {
-        "Price": 55.00,
-        "Features": [
-          "2 Jugadores",
-          "+7 Años",
-          "Estrategia",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:06.3240064-05:00",
-        "Update": "2024-02-06T23:28:36.7214464-05:00",
-        "Label": "Tablero Battleship"
-      },
-      {
         "Price": 53.00,
         "Features": [
           "80 Blocks",
@@ -355,6 +342,20 @@
         "Date": "2023-09-02T12:57:50.6373242-04:00",
         "Update": "2024-02-06T23:28:37.0245569-05:00",
         "Label": "LEGO Classic 11011"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "Batalla Naval",
+          "2 Jugadores",
+          "+7 Años",
+          "Estrategia",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:06.3240064-05:00",
+        "Update": "2024-02-08T16:37:36.7142988-05:00",
+        "Label": "Tablero Battleship"
       }
     ],
     "Constucción": [
