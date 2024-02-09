@@ -98,6 +98,20 @@
         "Date": "2024-02-01T15:44:25.6423826-05:00",
         "Update": "2024-02-01T16:00:05.8275333-05:00",
         "Label": "COMBO JOYIN 18 Carritos"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "x Fricción",
+          "Luces",
+          "Sonido",
+          "+3 Años",
+          "Carro",
+          "Niño"
+        ],
+        "Date": "2023-07-22T19:23:33.956195-04:00",
+        "Update": "2024-02-09T18:12:08.2578869-05:00",
+        "Label": "TeganPlay COMBO Rescate. Helicóptero + Bombero + Bombero con escalera"
       }
     ],
     "Construcción": [
@@ -234,37 +248,6 @@
         "Label": "Castillo Princesa"
       }
     ],
-    "Carro": [
-      {
-        "Price": 59.00,
-        "Features": [
-          "x Fricción",
-          "Luces",
-          "Sonido",
-          "+3 Años",
-          "Carro",
-          "Niño"
-        ],
-        "Date": "2023-07-22T19:23:33.956195-04:00",
-        "Update": "2024-02-08T17:00:02.7172662-05:00",
-        "Label": "TeganPlay COMBO Rescate. Helicóptero + Bombero + Bombero con escalera"
-      }
-    ],
-    "Constucción": [
-      {
-        "Price": 25.00,
-        "Features": [
-          "78 piezas",
-          "+3 Años",
-          "Educativo",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2023-09-02T12:58:06.049714-04:00",
-        "Update": "2024-02-09T15:50:18.8444227-05:00",
-        "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
-      }
-    ],
     "Lanza Dardos": [
       {
         "Price": 35.00,
@@ -377,19 +360,6 @@
     ],
     "Otros": [
       {
-        "Price": 12.00,
-        "Features": [
-          "LCD",
-          "22cm",
-          "+2 Años",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:08.7600689-05:00",
-        "Update": "2024-02-09T16:44:51.1720123-05:00",
-        "Label": "Tableta de Escritura Rocambo"
-      },
-      {
         "Price": 15.00,
         "Features": [
           "LCD",
@@ -402,6 +372,35 @@
         "Date": "2024-01-22T14:34:53.9979365-05:00",
         "Update": "2024-02-09T16:44:51.1911052-05:00",
         "Label": "Tableta de Escritura TEKFUN"
+      },
+      {
+        "Price": 12.00,
+        "Features": [
+          "LCD",
+          "22cm",
+          "Lápiz óptico",
+          "+2 Años",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:08.7600689-05:00",
+        "Update": "2024-02-09T18:12:08.2244728-05:00",
+        "Label": "Tableta de Escritura Rocambo"
+      }
+    ],
+    "Educativo": [
+      {
+        "Price": 25.00,
+        "Features": [
+          "78 piezas",
+          "+3 Años",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2023-09-02T12:58:06.049714-04:00",
+        "Update": "2024-02-09T18:12:08.241064-05:00",
+        "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
       }
     ]
   },
