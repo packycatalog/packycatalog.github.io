@@ -354,22 +354,6 @@
         "Label": "Castillo de princesa"
       }
     ],
-    "Educativo": [
-      {
-        "Price": 15.00,
-        "Features": [
-          "LCD",
-          "10\"",
-          "Colores",
-          "lápiz óptico",
-          "Educativo",
-          "+3 Años"
-        ],
-        "Date": "2024-01-22T14:34:53.9979365-05:00",
-        "Update": "2024-02-06T23:28:37.0631046-05:00",
-        "Label": "Tableta de Escritura TEKFUN"
-      }
-    ],
     "Carro": [
       {
         "Price": 59.00,
@@ -397,8 +381,25 @@
           "Niño"
         ],
         "Date": "2023-09-02T12:58:06.049714-04:00",
-        "Update": "2024-02-09T15:37:57.9565941-05:00",
+        "Update": "2024-02-09T15:50:18.8444227-05:00",
         "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
+      }
+    ],
+    "Educativo": [
+      {
+        "Price": 15.00,
+        "Features": [
+          "LCD",
+          "10\"",
+          "Lápiz óptico",
+          "+3 Años",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-22T14:34:53.9979365-05:00",
+        "Update": "2024-02-09T15:50:18.8593643-05:00",
+        "Label": "Tableta de Escritura TEKFUN"
       }
     ]
   },
