@@ -89,17 +89,6 @@
         "Label": "Tren Eléctrico + Vías de Tren + Automovil + Figuras"
       },
       {
-        "Price": 35.00,
-        "Features": [
-          "Fricción",
-          "Carro",
-          "Nño"
-        ],
-        "Date": "2024-02-01T15:44:25.6423826-05:00",
-        "Update": "2024-02-01T16:00:05.8275333-05:00",
-        "Label": "COMBO JOYIN 18 Carritos"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "x Fricción",
@@ -112,6 +101,17 @@
         "Date": "2023-07-22T19:23:33.956195-04:00",
         "Update": "2024-02-09T18:12:08.2578869-05:00",
         "Label": "TeganPlay COMBO Rescate. Helicóptero + Bombero + Bombero con escalera"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Carro",
+          "x Fricción",
+          "Niño"
+        ],
+        "Date": "2024-02-01T15:44:25.6423826-05:00",
+        "Update": "2024-02-09T18:19:31.5471277-05:00",
+        "Label": "COMBO JOYIN 18 Carritos"
       }
     ],
     "Construcción": [
