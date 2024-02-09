@@ -1,6 +1,6 @@
 {
   "Category": "Juguetes",
-  "SubCategory": "Constucción",
+  "SubCategory": "Construcción",
   "Images": [
     "/images/products/castillo-de-princesa-1.webp",
     "/images/products/castillo-de-princesa-2.webp",
@@ -9,17 +9,17 @@
     "/images/products/castillo-de-princesa-5.webp",
     "/images/products/castillo-de-princesa-6.webp"
   ],
-  "Description": "Incluye\n171 piezas\n\n\nGran variedad de formas y colores\n\nTamaño grande (más de 1.2 x 1.2 pulgadas) son más fáciles de agarrar para manos pequeñas. Supera el rango que se puede tragar\n\nBloques de construcción seguros y de alta calidad: está hecho de ABS respetuoso con el medio ambiente, seguro y no tóxico\n \nDimensiones del producto: 50 x 50 x 30 cm\n\nEdad recomendada por el fabricante: +3 Años\n\nFabricante: Lucky Doug",
+  "Description": "Incluye\n171 piezas\n\n\nGran variedad de formas y colores\n\nTamaño grande (más de 3 x 3 cm) son más fáciles de agarrar para manos pequeñas. Supera el rango que se puede tragar\n\nBloques de construcción seguros y de alta calidad: está hecho de ABS respetuoso con el medio ambiente, seguro y no tóxico\n \nDimensiones del producto: 50 x 50 x 30 cm\n\nEdad recomendada por el fabricante: +3 Años\n\nFabricante: Lucky Doug",
   "Price": 85.00,
   "Features": [
+    "171 piezas",
     "Rosa",
-    "171 pcs",
     "Bloques armables",
     "+3 años",
     "Educativo",
     "Niña"
   ],
   "Date": "2023-09-02T12:57:43.759136-04:00",
-  "Update": "2024-02-06T23:41:39.0704744-05:00",
+  "Update": "2024-02-09T15:44:41.4023033-05:00",
   "Label": "Castillo de princesa"
 }
