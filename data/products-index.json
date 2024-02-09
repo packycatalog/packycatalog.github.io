@@ -100,44 +100,6 @@
         "Label": "COMBO JOYIN 18 Carritos"
       }
     ],
-    "Muñeca": [
-      {
-        "Price": 75.00,
-        "Features": [
-          "15\"",
-          "Chupetes",
-          "Gorras",
-          "+18 meses"
-        ],
-        "Date": "2023-09-06T00:54:37.8264767-04:00",
-        "Update": "2024-01-21T14:37:11.1470074-05:00",
-        "Label": "Bebés LUKE & LUCY"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "Accesorios",
-          "Ropa y Zapatos Intercambiables",
-          "10\"",
-          "+3 años"
-        ],
-        "Date": "2023-09-06T00:54:32.7642304-04:00",
-        "Update": "2024-01-21T14:37:11.1821502-05:00",
-        "Label": "Kindi Kids Rainbow Kate"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "10\"",
-          "Ojos Grandes",
-          "Ropa Intercambiable",
-          "+3 Años"
-        ],
-        "Date": "2023-09-06T00:54:35.5031489-04:00",
-        "Update": "2024-02-09T16:12:32.2646585-05:00",
-        "Label": "Kindi Kids Tiara Sparkles"
-      }
-    ],
     "ok": [
       {
         "Price": 63.00,
@@ -317,23 +279,6 @@
         "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
       }
     ],
-    "Educativo": [
-      {
-        "Price": 15.00,
-        "Features": [
-          "LCD",
-          "10\"",
-          "Lápiz óptico",
-          "+3 Años",
-          "Educativo",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2024-01-22T14:34:53.9979365-05:00",
-        "Update": "2024-02-09T15:50:18.8593643-05:00",
-        "Label": "Tableta de Escritura TEKFUN"
-      }
-    ],
     "Lanza Dardos": [
       {
         "Price": 35.00,
@@ -402,6 +347,63 @@
         "Date": "2023-09-06T00:33:42.2955205-04:00",
         "Update": "2024-02-09T16:12:32.2965173-05:00",
         "Label": "Roblox MM2"
+      }
+    ],
+    "Muñeca": [
+      {
+        "Price": 75.00,
+        "Features": [
+          "38cm",
+          "Chupetes",
+          "Gorras",
+          "+18 Meses"
+        ],
+        "Date": "2023-09-06T00:54:37.8264767-04:00",
+        "Update": "2024-02-09T16:24:24.1679255-05:00",
+        "Label": "Bebés LUKE & LUCY"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "25cm",
+          "Ojos Grandes Brillosos",
+          "Ropa Intercambiable",
+          "+3 Años",
+          "Niña"
+        ],
+        "Date": "2023-09-06T00:54:35.5031489-04:00",
+        "Update": "2024-02-09T16:24:24.1827973-05:00",
+        "Label": "Kindi Kids Tiara Sparkles"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "25cm",
+          "Accesorios",
+          "Ropa y Zapatos Intercambiables",
+          "+3 Años",
+          "Niña"
+        ],
+        "Date": "2023-09-06T00:54:32.7642304-04:00",
+        "Update": "2024-02-09T16:24:24.1982647-05:00",
+        "Label": "Kindi Kids Rainbow Kate"
+      }
+    ],
+    "Educativo": [
+      {
+        "Price": 15.00,
+        "Features": [
+          "LCD",
+          "25cm",
+          "Lápiz óptico",
+          "+3 Años",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-22T14:34:53.9979365-05:00",
+        "Update": "2024-02-09T16:24:24.2154727-05:00",
+        "Label": "Tableta de Escritura TEKFUN"
       }
     ]
   },
