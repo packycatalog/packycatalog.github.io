@@ -1,6 +1,6 @@
 {
   "Category": "Juguetes",
-  "SubCategory": "Educativo",
+  "SubCategory": "Otros",
   "Images": [
     "/images/products/tableta-de-escritura-tekfun-1.webp",
     "/images/products/tableta-de-escritura-tekfun-2.webp",
@@ -15,11 +15,10 @@
     "25cm",
     "Lápiz óptico",
     "+3 Años",
-    "Educativo",
     "Niña",
     "Niño"
   ],
   "Date": "2024-01-22T14:34:53.9979365-05:00",
-  "Update": "2024-02-09T16:24:24.2154727-05:00",
+  "Update": "2024-02-09T16:44:51.1911052-05:00",
   "Label": "Tableta de Escritura TEKFUN"
 }
