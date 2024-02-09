@@ -100,32 +100,6 @@
         "Label": "COMBO JOYIN 18 Carritos"
       }
     ],
-    "ok": [
-      {
-        "Price": 63.00,
-        "Features": [
-          "Luces LED de estrellas",
-          "Rosa",
-          "+ 2 Años",
-          "Niña"
-        ],
-        "Date": "2023-09-06T00:54:47.1421539-04:00",
-        "Update": "2024-02-01T15:21:41.0640013-05:00",
-        "Label": "Castillo Princesa"
-      }
-    ],
-    "Otros": [
-      {
-        "Price": 12.00,
-        "Features": [
-          "8.7\"",
-          "+2 Años"
-        ],
-        "Date": "2024-01-25T16:33:08.7600689-05:00",
-        "Update": "2024-02-01T15:21:41.1152174-05:00",
-        "Label": "Tableta de Escritura LCD Rocambo"
-      }
-    ],
     "Construcción": [
       {
         "Price": 60.00,
@@ -246,6 +220,18 @@
         "Date": "2023-09-02T12:57:43.759136-04:00",
         "Update": "2024-02-09T15:44:41.4023033-05:00",
         "Label": "Castillo de princesa"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "Luces LED de estrellas",
+          "Rosa",
+          "+ 2 Años",
+          "Niña"
+        ],
+        "Date": "2023-09-06T00:54:47.1421539-04:00",
+        "Update": "2024-02-09T16:44:51.1553337-05:00",
+        "Label": "Castillo Princesa"
       }
     ],
     "Carro": [
@@ -389,7 +375,20 @@
         "Label": "Kindi Kids Rainbow Kate"
       }
     ],
-    "Educativo": [
+    "Otros": [
+      {
+        "Price": 12.00,
+        "Features": [
+          "LCD",
+          "22cm",
+          "+2 Años",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:08.7600689-05:00",
+        "Update": "2024-02-09T16:44:51.1720123-05:00",
+        "Label": "Tableta de Escritura Rocambo"
+      },
       {
         "Price": 15.00,
         "Features": [
@@ -397,12 +396,11 @@
           "25cm",
           "Lápiz óptico",
           "+3 Años",
-          "Educativo",
           "Niña",
           "Niño"
         ],
         "Date": "2024-01-22T14:34:53.9979365-05:00",
-        "Update": "2024-02-09T16:24:24.2154727-05:00",
+        "Update": "2024-02-09T16:44:51.1911052-05:00",
         "Label": "Tableta de Escritura TEKFUN"
       }
     ]
