@@ -340,32 +340,6 @@
         "Label": "MEGA Blocks DH63 AZUL"
       }
     ],
-    "Constucción": [
-      {
-        "Price": 25.00,
-        "Features": [
-          "78 pcs",
-          "+3 Años"
-        ],
-        "Date": "2023-09-02T12:58:06.049714-04:00",
-        "Update": "2024-02-06T23:28:36.9875364-05:00",
-        "Label": "JCREN Letras Magnéticas, Numeros y Símbolos Matemáticos"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "Rosa",
-          "171 pcs",
-          "Bloques armables",
-          "+3 años",
-          "Educativo",
-          "Niña"
-        ],
-        "Date": "2023-09-02T12:57:43.759136-04:00",
-        "Update": "2024-02-06T23:41:39.0704744-05:00",
-        "Label": "Castillo de princesa"
-      }
-    ],
     "Educativo": [
       {
         "Price": 15.00,
@@ -380,6 +354,35 @@
         "Date": "2024-01-22T14:34:53.9979365-05:00",
         "Update": "2024-02-06T23:28:37.0631046-05:00",
         "Label": "Tableta de Escritura TEKFUN"
+      }
+    ],
+    "Constucción": [
+      {
+        "Price": 85.00,
+        "Features": [
+          "Rosa",
+          "171 pcs",
+          "Bloques armables",
+          "+3 años",
+          "Educativo",
+          "Niña"
+        ],
+        "Date": "2023-09-02T12:57:43.759136-04:00",
+        "Update": "2024-02-06T23:41:39.0704744-05:00",
+        "Label": "Castillo de princesa"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "78 piezas",
+          "+3 Años",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2023-09-02T12:58:06.049714-04:00",
+        "Update": "2024-02-09T15:37:57.9565941-05:00",
+        "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
       }
     ],
     "Carro": [
