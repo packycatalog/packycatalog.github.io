@@ -816,19 +816,6 @@
     ]
   },
   "Seguridad": {
-    "Videoportero": [
-      {
-        "Price": 135.00,
-        "Features": [
-          "LCD",
-          "7\"TFT",
-          "IR"
-        ],
-        "Date": "2023-09-06T00:19:57.1503915-04:00",
-        "Update": "2024-02-05T16:37:07.2547401-05:00",
-        "Label": "Videoportero + Keypad, Blanco"
-      }
-    ],
     "Alarma": [
       {
         "Price": 220.00,
