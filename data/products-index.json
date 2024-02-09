@@ -29,34 +29,6 @@
         "Label": "Nerf Ultra Three"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "Precisión Avanzada",
-          "Ráfaga",
-          "8x Dardos",
-          "27 metros",
-          "Bloqueo Gatillo"
-        ],
-        "Date": "2023-09-06T00:33:39.9200993-04:00",
-        "Update": "2024-02-06T23:41:39.0197546-05:00",
-        "Label": "Rival Vision XXII-800"
-      },
-      {
-        "Price": 35.00,
-        "Features": [
-          "Tambor Giratorio",
-          "Ráfaga",
-          "12x Dardos",
-          "27 metros",
-          "Pistola",
-          "+ 8 años",
-          "Niño"
-        ],
-        "Date": "2023-09-06T00:33:23.099854-04:00",
-        "Update": "2024-02-06T23:41:39.035907-05:00",
-        "Label": "Nerf Elite 2.0 Commander RD-6"
-      },
-      {
         "Price": 60.00,
         "Features": [
           "ALETA  de TIBURON para recargar",
@@ -66,6 +38,35 @@
         "Date": "2023-09-06T00:33:42.2955205-04:00",
         "Update": "2024-02-06T23:41:39.0537146-05:00",
         "Label": "Roblox MM2"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "Pistola",
+          "Precisión Avanzada",
+          "Ráfaga",
+          "Dispara 27m",
+          "8x Dardos",
+          "Bloqueo Gatillo"
+        ],
+        "Date": "2023-09-06T00:33:39.9200993-04:00",
+        "Update": "2024-02-09T15:57:31.0707942-05:00",
+        "Label": "Rival Vision XXII-800"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Pistola",
+          "Ráfaga",
+          "Dispara 27m",
+          "12x Dardos",
+          "Tambor Giratorio",
+          "+ 8 Años",
+          "Niño"
+        ],
+        "Date": "2023-09-06T00:33:23.099854-04:00",
+        "Update": "2024-02-09T15:57:31.0855948-05:00",
+        "Label": "Nerf Elite 2.0 Commander RD-6"
       }
     ],
     "Vehículo": [
