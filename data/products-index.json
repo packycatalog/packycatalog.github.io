@@ -338,6 +338,20 @@
         "Date": "2023-09-02T12:58:02.9079573-04:00",
         "Update": "2024-02-09T15:35:50.9031874-05:00",
         "Label": "MEGA Blocks DH63 AZUL"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "171 piezas",
+          "Rosa",
+          "Bloques armables",
+          "+3 años",
+          "Educativo",
+          "Niña"
+        ],
+        "Date": "2023-09-02T12:57:43.759136-04:00",
+        "Update": "2024-02-09T15:44:41.4023033-05:00",
+        "Label": "Castillo de princesa"
       }
     ],
     "Educativo": [
@@ -356,35 +370,6 @@
         "Label": "Tableta de Escritura TEKFUN"
       }
     ],
-    "Constucción": [
-      {
-        "Price": 85.00,
-        "Features": [
-          "Rosa",
-          "171 pcs",
-          "Bloques armables",
-          "+3 años",
-          "Educativo",
-          "Niña"
-        ],
-        "Date": "2023-09-02T12:57:43.759136-04:00",
-        "Update": "2024-02-06T23:41:39.0704744-05:00",
-        "Label": "Castillo de princesa"
-      },
-      {
-        "Price": 25.00,
-        "Features": [
-          "78 piezas",
-          "+3 Años",
-          "Educativo",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2023-09-02T12:58:06.049714-04:00",
-        "Update": "2024-02-09T15:37:57.9565941-05:00",
-        "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
-      }
-    ],
     "Carro": [
       {
         "Price": 59.00,
@@ -399,6 +384,21 @@
         "Date": "2023-07-22T19:23:33.956195-04:00",
         "Update": "2024-02-08T17:00:02.7172662-05:00",
         "Label": "TeganPlay COMBO Rescate. Helicóptero + Bombero + Bombero con escalera"
+      }
+    ],
+    "Constucción": [
+      {
+        "Price": 25.00,
+        "Features": [
+          "78 piezas",
+          "+3 Años",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2023-09-02T12:58:06.049714-04:00",
+        "Update": "2024-02-09T15:37:57.9565941-05:00",
+        "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
       }
     ]
   },
