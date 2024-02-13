@@ -227,7 +227,7 @@
           "Niña"
         ],
         "Date": "2023-09-06T00:54:35.5031489-04:00",
-        "Update": "2024-02-09T16:24:24.1827973-05:00",
+        "Update": "2024-02-13T12:14:31.5134007-05:00",
         "Label": "Kindi Kids Tiara Sparkles"
       },
       {
@@ -240,7 +240,7 @@
           "Niña"
         ],
         "Date": "2023-09-06T00:54:32.7642304-04:00",
-        "Update": "2024-02-09T16:24:24.1982647-05:00",
+        "Update": "2024-02-13T12:14:31.5436185-05:00",
         "Label": "Kindi Kids Rainbow Kate"
       }
     ],
@@ -330,34 +330,6 @@
         "Label": "Combo Joyin 18 Carritos"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "Carro",
-          "Luces",
-          "Sonido",
-          "x Fricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:00.4938877-05:00",
-        "Update": "2024-02-13T11:22:12.7941863-05:00",
-        "Label": "Combo Camiones Ciudad Joyin. Basura + Bombero + Elevador Pluma +Volteo"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "Carro",
-          "Luces",
-          "Sonido",
-          "x Fricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:32:57.1848232-05:00",
-        "Update": "2024-02-13T11:31:04.8645322-05:00",
-        "Label": "Combo Bomberos Joyin. Bomberos + Ambulancia + Helicóptero"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "Carro",
@@ -399,8 +371,36 @@
           "Niño"
         ],
         "Date": "2024-01-25T16:33:04.402215-05:00",
-        "Update": "2024-02-13T12:10:02.6800172-05:00",
+        "Update": "2024-02-13T12:14:31.5622637-05:00",
         "Label": "Todoterreno Monster Truck 4x4"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Carro",
+          "Luces",
+          "Sonido",
+          "x Fricción",
+          "+3 Años",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:00.4938877-05:00",
+        "Update": "2024-02-13T12:14:31.5787541-05:00",
+        "Label": "Combo Camiones Ciudad Joyin. Basura + Bombero + Elevador Pluma +Volteo"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "Carro",
+          "Luces",
+          "Sonido",
+          "x Fricción",
+          "+3 Años",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:32:57.1848232-05:00",
+        "Update": "2024-02-13T12:14:31.5986019-05:00",
+        "Label": "Combo Bomberos Joyin. Bomberos + Ambulancia + Helicóptero"
       }
     ]
   },
