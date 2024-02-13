@@ -834,6 +834,18 @@
         "Date": "2023-08-21T10:30:18.0726085-04:00",
         "Update": "2024-02-13T13:33:29.8487838-05:00",
         "Label": "Alarma Inalámbrica. 22x Componentes"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "Soporta línea",
+          "3x Movimiento",
+          "3x Apertura",
+          "2x Controles"
+        ],
+        "Date": "2024-02-06T14:01:59.2834708-05:00",
+        "Update": "2024-02-13T14:15:31.0491425-05:00",
+        "Label": "Alarma Inalámbrica + Wifi. 11x Componentes"
       }
     ]
   }
