@@ -812,17 +812,6 @@
     ]
   },
   "Seguridad": {
-    "Alarma": [
-      {
-        "Price": 220.00,
-        "Features": [
-          "Inalámbrica"
-        ],
-        "Date": "2023-08-21T10:30:18.0726085-04:00",
-        "Update": "2024-02-06T12:42:08.9440433-05:00",
-        "Label": "Alarma AGSHOME Basic, GSM,10x Apertura, 4x Movimiento, 4x Controles, 1x Panico"
-      }
-    ],
     "GPS": [
       {
         "Price": 69.00,
@@ -830,6 +819,21 @@
         "Date": "2023-08-28T11:03:42.3586125-04:00",
         "Update": "2024-02-06T12:47:32.3941568-05:00",
         "Label": "GPS - Accurate Tracker GSM"
+      }
+    ],
+    "Alarma": [
+      {
+        "Price": 220.00,
+        "Features": [
+          "Soporta línea",
+          "4x Movimiento",
+          "10x Apertura",
+          "4x Controles",
+          "1x Pánico"
+        ],
+        "Date": "2023-08-21T10:30:18.0726085-04:00",
+        "Update": "2024-02-13T13:32:15.461188-05:00",
+        "Label": "Alarma Inalámbrica. 22x Componentes"
       }
     ]
   }
