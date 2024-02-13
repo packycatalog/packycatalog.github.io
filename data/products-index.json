@@ -291,17 +291,6 @@
     ],
     "Vehículo": [
       {
-        "Price": 35.00,
-        "Features": [
-          "Carro",
-          "x Fricción",
-          "Niño"
-        ],
-        "Date": "2024-02-01T15:44:25.6423826-05:00",
-        "Update": "2024-02-09T18:19:31.5471277-05:00",
-        "Label": "COMBO JOYIN 18 Carritos"
-      },
-      {
         "Price": 73.00,
         "Features": [
           "Carro",
@@ -401,6 +390,17 @@
         "Date": "2024-01-25T16:32:54.6935702-05:00",
         "Update": "2024-02-09T18:30:34.1887634-05:00",
         "Label": "JOYIN COMBO POLICIA. Ambulancia + Patrulla + Helicóptero"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Carro",
+          "x Fricción",
+          "Niño"
+        ],
+        "Date": "2024-02-01T15:44:25.6423826-05:00",
+        "Update": "2024-02-13T11:11:02.3134414-05:00",
+        "Label": "COMBO JOYIN 18 Carritos"
       }
     ]
   },
