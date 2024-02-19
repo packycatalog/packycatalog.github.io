@@ -1,0 +1,24 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop",
+  "Images": [
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-1.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-2.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-3.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-4.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-5.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-6.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-7.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-8.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-9.webp",
+    "/images/products/msi-thin-gf63-rtx-4060-156fhd-i7-12650h-32gb-ram-1-gkszse-10.webp"
+  ],
+  "Description": "Marca: MSI\nModelo: Thin GF63 12VF-848US\nColor: Black\nSO: Windows 11 Home 64-bit\nScreen: 15.6\" 144 Hz IPS Full HD\n\nCPU: Intel Core i7-12650H 2.30 GHz\nRAM: 32 GB DDR4, 2 slot, max 64GB \nStorage: 1 TB NVMe Gen4x4 SSD\nGPU: NVIDIA GeForce RTX 4060  8 GB GDDR6\nDimensions (W x D x H): 14.13\" x 9.99\" x 0.85\"\nWeight: 4.10 lbs.\n\nCommunications\nLAN: 10/100/1000Mbps\nWLAN: Intel Wi-Fi 6 AX201 (2x2 ax)\nWiFi Generation: Wi-Fi 6\nBluetooth: Bluetooth 5.2\n\nPorts\n1 x USB 3.2 Gen 1 Type-C  \n2 x USB 3.2 Gen 1 Type-A\n1 x HDMI (4K @ 30Hz)\n1 x RJ-45 (1Gbps)\n1 x Mic in / 1 x headphone out\n\nTouchpad: Multi Touch\nKeyboard: Red keyboard with Anti-Ghost key (99 Key)\nBacklit Keyboard: Backlit\nWebcam: 720p HD Webcam\n\nPower\nAC Adapter: 120-watt AC Adapter\nBattery: 3 cell , 51Whr Li-Polymer\nDimensions (W x D x H): 14.13\" x 9.99\" x 0.85\"\nWeight: 4.10 lbs.",
+  "Price": 1075.00,
+  "Features": [
+    "144Hz IPS,"
+  ],
+  "Date": "2024-02-04T17:27:29.3186893-05:00",
+  "Update": "2024-02-19T18:57:40.8195278-05:00",
+  "Label": "MSI Thin GF63 RTX 4060 15.6FHD i7-12650H, 32GB RAM, 1TB SSD"
+}
