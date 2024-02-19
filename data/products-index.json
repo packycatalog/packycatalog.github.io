@@ -521,15 +521,6 @@
         "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       },
       {
-        "Price": 1075.00,
-        "Features": [
-          "144Hz IPS,"
-        ],
-        "Date": "2024-02-04T17:27:29.3186893-05:00",
-        "Update": "2024-02-05T16:03:03.1829393-05:00",
-        "Label": "MSI Thin GF63 RTX 4060 15.6FHD i7-12650H, 32GB RAM, 512SSD"
-      },
-      {
         "Price": 895.00,
         "Features": [
           "GAMER",
@@ -541,6 +532,15 @@
         "Date": "2023-11-16T20:24:36.5443561-05:00",
         "Update": "2024-02-19T18:08:47.7352175-05:00",
         "Label": "MSI Thin RTX 4050, i7-12650H, 15.6FHD, 16GB RAM, 512SSD"
+      },
+      {
+        "Price": 1075.00,
+        "Features": [
+          "144Hz IPS,"
+        ],
+        "Date": "2024-02-04T17:27:29.3186893-05:00",
+        "Update": "2024-02-19T18:57:03.3243698-05:00",
+        "Label": "MSI Thin GF63 RTX 4060 15.6FHD i7-12650H, 32GB RAM, 512SSD"
       }
     ],
     "Laptop Componentes": [
