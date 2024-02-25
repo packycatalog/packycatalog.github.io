@@ -346,23 +346,6 @@
         "Label": "Combo Rescate Joyin. Ambulancia + Bombero + Helicóptero + 10x Figuras"
       },
       {
-        "Price": 63.00,
-        "Features": [
-          "Carro de control remoto",
-          "Carcasa de Metal",
-          "Luces LED",
-          "Doble Motor",
-          "Ruedas de Respuesto",
-          "Antideslizante",
-          "Impermeable",
-          "+8 Años",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:04.402215-05:00",
-        "Update": "2024-02-13T12:32:44.6775481-05:00",
-        "Label": "Todoterreno Monster Truck 4x4"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "Carro",
@@ -532,15 +515,6 @@
         "Date": "2023-11-16T20:24:36.5443561-05:00",
         "Update": "2024-02-19T18:08:47.7352175-05:00",
         "Label": "MSI Thin RTX 4050, i7-12650H, 15.6FHD, 16GB RAM, 512SSD"
-      },
-      {
-        "Price": 1075.00,
-        "Features": [
-          "144Hz IPS,"
-        ],
-        "Date": "2024-02-04T17:27:29.3186893-05:00",
-        "Update": "2024-02-19T18:57:40.8195278-05:00",
-        "Label": "MSI Thin GF63 RTX 4060 15.6FHD i7-12650H, 32GB RAM, 1TB SSD"
       }
     ],
     "Laptop Componentes": [
@@ -717,19 +691,6 @@
         "Date": "2023-07-16T15:30:40.3880006-04:00",
         "Update": "2024-02-06T13:15:06.2727129-05:00",
         "Label": "Logitech M185"
-      },
-      {
-        "Price": 37.00,
-        "Features": [
-          "Portable",
-          "Blue",
-          "LEDs",
-          "[S007]",
-          "Base Refrescadora"
-        ],
-        "Date": "2023-09-13T13:21:24.2475646-04:00",
-        "Update": "2024-02-06T13:28:35.0665875-05:00",
-        "Label": "AICHESON 1000RPM Fans"
       },
       {
         "Price": 23.00,
