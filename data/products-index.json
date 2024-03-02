@@ -400,43 +400,6 @@
         "Label": "Capa de Barberia"
       }
     ],
-    "Afeitadora": [
-      {
-        "Price": 130.00,
-        "Features": [
-          "Super Torque",
-          "Inalámbrica",
-          "hipoalergenica",
-          "Desmontable",
-          "100 minutos"
-        ],
-        "Date": "2023-08-26T12:13:28.181128-04:00",
-        "Update": "2024-02-06T22:29:28.6778033-05:00",
-        "Label": "StyleCraft Rebel Professional"
-      },
-      {
-        "Price": 117.00,
-        "Features": [
-          "Recargable",
-          "Black",
-          "Afeita"
-        ],
-        "Date": "2023-08-26T12:13:18.6466728-04:00",
-        "Update": "2024-02-06T22:29:28.7214424-05:00",
-        "Label": "Andis 17300 RESURGE"
-      },
-      {
-        "Price": 108.00,
-        "Features": [
-          "AFEITADORA",
-          "Recargable",
-          "60 Min"
-        ],
-        "Date": "2023-08-26T12:13:32.2018693-04:00",
-        "Update": "2024-02-07T10:16:04.0789539-05:00",
-        "Label": "Wahl Superclose Professional 5-Star."
-      }
-    ],
     "Máquina de Pelar": [
       {
         "Price": 110.00,
@@ -462,6 +425,19 @@
         "Date": "2023-08-19T17:49:46.8626933-04:00",
         "Update": "2024-02-06T22:29:28.7071309-05:00",
         "Label": "Maquina de Pelar WAHL Retro T-Cut"
+      }
+    ],
+    "Afeitadora": [
+      {
+        "Price": 117.00,
+        "Features": [
+          "Recargable",
+          "Black",
+          "Afeita"
+        ],
+        "Date": "2023-08-26T12:13:18.6466728-04:00",
+        "Update": "2024-02-06T22:29:28.7214424-05:00",
+        "Label": "Andis 17300 RESURGE"
       }
     ]
   },
