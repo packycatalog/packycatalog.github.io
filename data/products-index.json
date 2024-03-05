@@ -433,7 +433,7 @@
   "Electrónica": {
     "Laptop": [
       {
-        "Price": 1000.00,
+        "Price": 950.0,
         "Features": [
           "DDR5",
           "Backlit RGB",
@@ -446,7 +446,7 @@
         "Label": "GIGABYTE RTX 4060, i7-12650H, 15.6FHD, 16GB RAM, 512GB SSD"
       },
       {
-        "Price": 1095.00,
+        "Price": 1050.0,
         "Features": [
           "Backlit",
           "IPS",
@@ -457,7 +457,7 @@
         "Label": "MSI PRO i9-13900H, 15.6FHD, 32GB RAM, 1TB SSD M.2"
       },
       {
-        "Price": 1550.00,
+        "Price": 1490.0,
         "Features": [
           "Backlit",
           "144Hz",
@@ -469,7 +469,7 @@
         "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       },
       {
-        "Price": 895.00,
+        "Price": 875.0,
         "Features": [
           "GAMER",
           "IPS",
