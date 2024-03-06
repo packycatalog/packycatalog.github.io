@@ -428,6 +428,20 @@
         "Update": "2024-02-06T22:29:28.7214424-05:00",
         "Label": "Andis 17300 RESURGE"
       }
+    ],
+    "Rasuradora": [
+      {
+        "Price": 66.00,
+        "Features": [
+          "Inalámbrica",
+          "Autoafilable",
+          "18 Piezas",
+          "3h"
+        ],
+        "Date": "2024-03-01T23:25:40.9331894-05:00",
+        "Update": "2024-03-05T23:34:58.7967839-05:00",
+        "Label": "Philips Norelco S5000"
+      }
     ]
   },
   "Electrónica": {
