@@ -1,0 +1,30 @@
+{
+  "Category": "Barbería",
+  "SubCategory": "Rasuradora",
+  "Images": [
+    "/images/products/philips-norelco-s5000-1.webp",
+    "/images/products/philips-norelco-s5000-2.webp",
+    "/images/products/philips-norelco-s5000-3.webp",
+    "/images/products/philips-norelco-s5000-4.webp",
+    "/images/products/philips-norelco-s5000-5.webp",
+    "/images/products/philips-norelco-s5000-6.webp",
+    "/images/products/philips-norelco-s5000-7.webp",
+    "/images/products/philips-norelco-s5000-8.webp",
+    "/images/products/philips-norelco-s5000-9.webp",
+    "/images/products/philips-norelco-s5000-10.webp",
+    "/images/products/philips-norelco-s5000-11.webp",
+    "/images/products/philips-norelco-s5000-12.webp",
+    "/images/products/philips-norelco-s5000-13.webp"
+  ],
+  "Description": "Recortadora todo en 1 para cara, cabeza y cuerpo: 18 piezas para todas tus necesidades de recortado.\n\nMáxima precisión con tecnología DualCut que incluye 2 cuchillas autoafilables que permanecen después de 4 años de uso.\n\nLa batería de litio ofrece 3 horas de tiempo de funcionamiento inalámbrico, o se usa mientras se enchufa para un uso continuo.\n\nPara ofrecer el máximo par de torsión y potencia, la recortadora incluye un motor de metal completo y un tren de transmisión reforzado con acero templado.\n\nProtectores de corte están reforzados con material de fibra de vidrio ultra fuerte para evitar que se doblen y se abrochen, asegurando un corte uniforme cada vez. Material de la hoja: acero.",
+  "Price": 66.00,
+  "Features": [
+    "Inalámbrica",
+    "Autoafilable",
+    "18 Piezas",
+    "3h"
+  ],
+  "Date": "2024-03-01T23:25:40.9331894-05:00",
+  "Update": "2024-03-05T23:34:58.7967839-05:00",
+  "Label": "Philips Norelco S5000"
+}
