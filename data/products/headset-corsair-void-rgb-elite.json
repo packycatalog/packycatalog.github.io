@@ -1,0 +1,24 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Accesorios",
+  "Images": [
+    "/images/products/headset-corsair-void-rgb-elite-1.webp",
+    "/images/products/headset-corsair-void-rgb-elite-2.webp",
+    "/images/products/headset-corsair-void-rgb-elite-3.webp",
+    "/images/products/headset-corsair-void-rgb-elite-4.webp",
+    "/images/products/headset-corsair-void-rgb-elite-5.webp",
+    "/images/products/headset-corsair-void-rgb-elite-6.webp",
+    "/images/products/headset-corsair-void-rgb-elite-7.webp",
+    "/images/products/headset-corsair-void-rgb-elite-8.webp",
+    "/images/products/headset-corsair-void-rgb-elite-9.webp"
+  ],
+  "Description": "Distancia máxima de funcionamiento: 40 pies. \nTipo de ajuste de auriculares: en la oreja. \nRespuesta de frecuencia de auriculares: 20 Hz a 30 kHz.\nUsos específicos para el producto: juegos.\n\nEscucha todo, desde el paso más ligero hasta la explosión más estruendosa gracias a los transductores de audio de neodimio de alta densidad de 1.97 pulgadas prémium y ajustados a medida, con un rango de frecuencia ampliado de 20 Hz-30,000 Hz.\n\nMalla de microfibra transpirable y almohadillas afelpadas de espuma viscoelástica para una comodidad duradera en largas sesiones de juego.\n\nConéctate de forma inalámbrica a tu PC o PS4/PS5 con conexión inalámbrica de 2.4 GHz de baja latencia (adaptador USB incluido)\n\nMicrófono omnidireccional que capta tu voz con una claridad excepcional, función de silencio abatible e indicador de silencio LED integrado.\n\nEStructura duradera y yugos de aluminio para durar años de juego.\n\nSonido envolvente 7.1 no compatible con dispositivos que utilizan el chip 11 de Apple.",
+  "Price": 125.00,
+  "Features": [
+    "Wireless",
+    "White"
+  ],
+  "Date": "2024-02-07T10:17:41.6403578-05:00",
+  "Update": "2024-03-11T11:42:22.2362185-04:00",
+  "Label": "Headset Corsair VOID RGB Elite"
+}
