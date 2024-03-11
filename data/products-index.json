@@ -388,19 +388,6 @@
         "Label": "Wahl Balding 5-Star Profesional"
       }
     ],
-    "Trimmer": [
-      {
-        "Price": 115.00,
-        "Features": [
-          "INALAMBRICA + BASE DE CARGA",
-          "Detailer",
-          "Cuchillas en T"
-        ],
-        "Date": "2023-08-19T17:49:46.8626933-04:00",
-        "Update": "2024-02-06T22:29:28.7071309-05:00",
-        "Label": "Maquina de Pelar WAHL Retro T-Cut"
-      }
-    ],
     "Afeitadora": [
       {
         "Price": 117.00,
@@ -426,6 +413,33 @@
         "Date": "2024-03-01T23:25:40.9331894-05:00",
         "Update": "2024-03-05T23:34:58.7967839-05:00",
         "Label": "Philips Norelco S5000"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "Cabeza",
+          "Barba",
+          "Cuerpo",
+          "Autoafilable",
+          "Impermeable",
+          "+5H"
+        ],
+        "Date": "2024-03-01T23:25:42.6919991-05:00",
+        "Update": "2024-03-11T11:35:35.5155946-04:00",
+        "Label": "Philips Norelco S7000 23x Accesorios"
+      }
+    ],
+    "Patillera": [
+      {
+        "Price": 115.00,
+        "Features": [
+          "INALAMBRICA + BASE DE CARGA",
+          "Detailer",
+          "Cuchillas en T"
+        ],
+        "Date": "2023-08-19T17:49:46.8626933-04:00",
+        "Update": "2024-03-11T11:35:35.4579708-04:00",
+        "Label": "Maquina de Pelar WAHL Retro T-Cut"
       }
     ]
   },
