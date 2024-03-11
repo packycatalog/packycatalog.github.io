@@ -1,0 +1,14 @@
+{
+  "Category": "Barbería",
+  "SubCategory": "Máquina de Pelar",
+  "Images": [
+    "/images/products/wahl-homecut-16-piezas-1.webp",
+    "/images/products/wahl-homecut-16-piezas-2.webp"
+  ],
+  "Description": "Marca: \tWahl\nLínea:\tHome\nModel: Home Cut 79449-700\nColor: \tNegro\nTipo de alimentación: Corriente eléctrica\nVoltaje: 127V\nPeso: 320 g\nMaterial: Acero al carbono\nAltura máxima de corte: 25 mm\n\n\nAccesorios incluidos:\nGuías\nLubricante\n10 peines\nMaquina de pelar",
+  "Price": 65.00,
+  "Features": [],
+  "Date": "2024-02-27T11:04:15.9623475-05:00",
+  "Update": "2024-03-11T12:39:10.9547842-04:00",
+  "Label": "Wahl HomeCut 16 Piezas"
+}
