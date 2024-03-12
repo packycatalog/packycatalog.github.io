@@ -1,0 +1,24 @@
+{
+  "Category": "Barbería",
+  "SubCategory": "Afeitadora",
+  "Images": [
+    "/images/products/philips-norelco-shaver-2300-1.webp",
+    "/images/products/philips-norelco-shaver-2300-2.webp",
+    "/images/products/philips-norelco-shaver-2300-3.webp",
+    "/images/products/philips-norelco-shaver-2300-4.webp",
+    "/images/products/philips-norelco-shaver-2300-5.webp",
+    "/images/products/philips-norelco-shaver-2300-6.webp",
+    "/images/products/philips-norelco-shaver-2300-7.webp",
+    "/images/products/philips-norelco-shaver-2300-8.webp",
+    "/images/products/philips-norelco-shaver-2300-9.webp",
+    "/images/products/philips-norelco-shaver-2300-10.webp"
+  ],
+  "Description": "Marca: Phillips Norelco\nModelo:  S1211/81\n\nTapas de cuchillas redondeadas protegen 27 cuchillas autoafilables para cortar suavemente el cabello justo por encima del nivel de la piel\n\nCabezales 4D Flex que se flexionan y flotan en 4 direcciones\n\n+ Recortador desplegable para bigote y patillas\n\nApertura con un solo toque\n\n40 minutos de afeitado inalámbrico con una carga de 8 horas. aproximadamente 13 afeitados x cada carga\n\nSe puede usar conectado a la corriente",
+  "Price": 66.00,
+  "Features": [
+    "Inalámbrica"
+  ],
+  "Date": "2024-03-01T23:25:39.3248025-05:00",
+  "Update": "2024-03-12T13:49:04.9311797-04:00",
+  "Label": "Philips Norelco Shaver 2300"
+}
