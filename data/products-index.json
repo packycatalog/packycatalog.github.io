@@ -801,6 +801,13 @@
         "Date": "2024-02-07T10:17:34.9184703-05:00",
         "Update": "2024-03-11T12:09:56.144833-04:00",
         "Label": "Headset Asus ROG Fusion II 300"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2024-02-06T22:24:30.2992989-05:00",
+        "Update": "2024-03-13T17:29:33.6115984-04:00",
+        "Label": "MicroSD ADATA 64GB"
       }
     ]
   },
@@ -839,6 +846,18 @@
         "Date": "2024-02-06T14:01:59.2834708-05:00",
         "Update": "2024-02-13T15:01:30.818021-05:00",
         "Label": "Alarma Inalámbrica + Wifi. 11x Componentes"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "Inalambrica",
+          "LCD",
+          "Alexa",
+          "Google Home"
+        ],
+        "Date": "2024-02-06T14:02:01.1962435-05:00",
+        "Update": "2024-03-13T17:29:33.6431432-04:00",
+        "Label": "Alarma Moderna WiFi GSM, 2.4in, 2x Mov, 2x Apertura, 2x control, 5x RFID"
       }
     ]
   }
