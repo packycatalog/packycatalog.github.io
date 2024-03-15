@@ -652,6 +652,16 @@
         "Date": "2024-02-06T13:31:34.9961125-05:00",
         "Update": "2024-02-06T13:58:50.3227107-05:00",
         "Label": "SSD M.2 - TeamGroup T-Force Gaming Cardea Z44L 1TB (3500/3000, 600TBW)"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "3200mhz",
+          "C22"
+        ],
+        "Date": "2024-02-06T22:24:12.1867029-05:00",
+        "Update": "2024-03-15T16:30:20.6787673-04:00",
+        "Label": "RAM CORSAIR Vengeance Sodimm 32GB DDR4"
       }
     ],
     "Laptop Accesorios": [
@@ -794,6 +804,30 @@
         "Date": "2024-02-06T22:24:30.2992989-05:00",
         "Update": "2024-03-13T17:29:33.6115984-04:00",
         "Label": "MicroSD ADATA 64GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [],
+        "Date": "2023-07-15T20:29:09.7905522-04:00",
+        "Update": "2024-03-15T16:30:20.6629177-04:00",
+        "Label": "Mouse Pad Corsair MM300"
+      },
+      {
+        "Price": 15.00,
+        "Features": [],
+        "Date": "2024-02-06T22:24:32.7529466-05:00",
+        "Update": "2024-03-15T16:30:20.694329-04:00",
+        "Label": "MicroSD - Patriot 64GB Class 10/UHS-I (U1) 80MB/S (PSF64GMDC10)"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "100MB/s",
+          "Class 10"
+        ],
+        "Date": "2024-02-06T22:24:38.6575545-05:00",
+        "Update": "2024-03-15T16:30:20.7100615-04:00",
+        "Label": "MicroSD Team Group 32GB + Adapter"
       }
     ]
   },
