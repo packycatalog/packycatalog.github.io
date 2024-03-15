@@ -229,36 +229,6 @@
         "Label": "Kindi Kids Rainbow Kate"
       }
     ],
-    "Otros": [
-      {
-        "Price": 12.00,
-        "Features": [
-          "LCD",
-          "22cm",
-          "Lápiz óptico",
-          "+2 Años",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:08.7600689-05:00",
-        "Update": "2024-02-09T18:12:08.2244728-05:00",
-        "Label": "Tableta de Escritura Rocambo"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "Batalla Naval",
-          "2 Jugadores",
-          "+7 Años",
-          "Estrategia",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:06.3240064-05:00",
-        "Update": "2024-03-15T16:50:24.6766436-04:00",
-        "Label": "Juego de mesa Tablero Battleship"
-      }
-    ],
     "Educativo": [
       {
         "Price": 25.00,
@@ -272,6 +242,20 @@
         "Date": "2023-09-02T12:58:06.049714-04:00",
         "Update": "2024-02-09T18:12:08.241064-05:00",
         "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
+      },
+      {
+        "Price": 12.00,
+        "Features": [
+          "LCD",
+          "22cm",
+          "Lápiz óptico",
+          "+2 Años",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:08.7600689-05:00",
+        "Update": "2024-03-15T17:11:01.1905059-04:00",
+        "Label": "Tableta de Escritura Rocambo"
       }
     ],
     "Vehículo": [
@@ -358,6 +342,22 @@
         "Date": "2024-01-25T16:32:57.1848232-05:00",
         "Update": "2024-02-13T12:32:44.708564-05:00",
         "Label": "Combo Bomberos Joyin. Bomberos + Ambulancia + Helicóptero"
+      }
+    ],
+    "Juego de mesa": [
+      {
+        "Price": 55.00,
+        "Features": [
+          "Batalla Naval",
+          "2 Jugadores",
+          "+7 Años",
+          "Estrategia",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:06.3240064-05:00",
+        "Update": "2024-03-15T17:11:01.1739939-04:00",
+        "Label": "Tablero Battleship"
       }
     ]
   },
