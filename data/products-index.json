@@ -293,20 +293,6 @@
         "Label": "Nerf Rival Curve"
       },
       {
-        "Price": 63.00,
-        "Features": [
-          "Pistola",
-          "Ráfaga",
-          "Dispara 36m",
-          "8x Dardos",
-          "+8 Años",
-          "Niño"
-        ],
-        "Date": "2023-09-06T00:33:47.9100143-04:00",
-        "Update": "2024-03-16T09:36:20.7172003-04:00",
-        "Label": "Nerf Ultra Three"
-      },
-      {
         "Price": 40.00,
         "Features": [
           "Pistola",
@@ -345,6 +331,20 @@
         "Date": "2023-09-06T00:33:42.2955205-04:00",
         "Update": "2024-03-16T09:36:20.7684719-04:00",
         "Label": "NERF Roblox MM2"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "Pistola",
+          "Ráfaga",
+          "36m",
+          "8x Dardos",
+          "+8 Años",
+          "Niño"
+        ],
+        "Date": "2023-09-06T00:33:47.9100143-04:00",
+        "Update": "2024-03-16T09:59:44.5296892-04:00",
+        "Label": "Nerf Ultra Three"
       }
     ]
   },
