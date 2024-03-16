@@ -120,76 +120,6 @@
         "Label": "Castillo Princesa"
       }
     ],
-    "Lanza Dardos": [
-      {
-        "Price": 67.00,
-        "Features": [
-          "Pistola",
-          "Curva 360",
-          "Dispara 27m",
-          "12x Rondas",
-          "Niño"
-        ],
-        "Date": "2023-09-06T00:33:37.4755239-04:00",
-        "Update": "2024-02-09T16:12:32.2247409-05:00",
-        "Label": "Nerf Rival Curve Shot"
-      },
-      {
-        "Price": 63.00,
-        "Features": [
-          "Pistola",
-          "Ráfaga",
-          "Dispara 36m",
-          "8x Dardos",
-          "+8 Años",
-          "Niño"
-        ],
-        "Date": "2023-09-06T00:33:47.9100143-04:00",
-        "Update": "2024-02-09T16:12:32.2482667-05:00",
-        "Label": "Nerf Ultra Three"
-      },
-      {
-        "Price": 40.00,
-        "Features": [
-          "Pistola",
-          "Ráfaga",
-          "Dispara 27m",
-          "6x Dardos",
-          "Tambor Giratorio",
-          "+ 8 Años",
-          "Niño"
-        ],
-        "Date": "2024-02-19T16:38:01.4670117-05:00",
-        "Update": "2024-03-15T16:33:29.1966386-04:00",
-        "Label": "Nerf N-Strike Elite Strongarm"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "Pistola",
-          "Precisión Avanzada",
-          "Ráfaga",
-          "Dispara 27m",
-          "8x Rondas",
-          "Bloqueo Gatillo"
-        ],
-        "Date": "2023-09-06T00:33:39.9200993-04:00",
-        "Update": "2024-03-15T17:35:55.3579753-04:00",
-        "Label": "NERF Rival Vision XXII-800"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "Pistola",
-          "Aleta de tiburon para recargar",
-          "Código desbloqueo en Videojuego",
-          "+8 Años"
-        ],
-        "Date": "2023-09-06T00:33:42.2955205-04:00",
-        "Update": "2024-03-15T17:35:55.3742578-04:00",
-        "Label": "NERF Roblox MM2"
-      }
-    ],
     "Muñeca": [
       {
         "Price": 75.00,
@@ -356,6 +286,75 @@
         "Date": "2024-02-01T15:44:25.6423826-05:00",
         "Update": "2024-03-15T17:35:55.3894634-04:00",
         "Label": "COMBO Joyin 18 Carritos"
+      }
+    ],
+    "Lanza Dardos": [
+      {
+        "Price": 67.00,
+        "Features": [
+          "Pistola",
+          "Curva 360",
+          "27m",
+          "12x Balas",
+          "Niño"
+        ],
+        "Date": "2023-09-06T00:33:37.4755239-04:00",
+        "Update": "2024-03-16T09:36:20.6994275-04:00",
+        "Label": "Nerf Rival Curve"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "Pistola",
+          "Ráfaga",
+          "Dispara 36m",
+          "8x Dardos",
+          "+8 Años",
+          "Niño"
+        ],
+        "Date": "2023-09-06T00:33:47.9100143-04:00",
+        "Update": "2024-03-16T09:36:20.7172003-04:00",
+        "Label": "Nerf Ultra Three"
+      },
+      {
+        "Price": 40.00,
+        "Features": [
+          "Pistola",
+          "Ráfaga",
+          "27m",
+          "6x Dardos",
+          "Tambor Giratorio",
+          "+ 8 Años",
+          "Niño"
+        ],
+        "Date": "2024-02-19T16:38:01.4670117-05:00",
+        "Update": "2024-03-16T09:36:20.7342773-04:00",
+        "Label": "Nerf N-Strike Elite Strongarm"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "Pistola",
+          "Precisión Avanzada",
+          "Ráfaga",
+          "27m",
+          "8x Balas"
+        ],
+        "Date": "2023-09-06T00:33:39.9200993-04:00",
+        "Update": "2024-03-16T09:36:20.7511174-04:00",
+        "Label": "NERF Rival Vision XXII-800"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "Pistola",
+          "Código Videojuego",
+          "Roja",
+          "+8 Años"
+        ],
+        "Date": "2023-09-06T00:33:42.2955205-04:00",
+        "Update": "2024-03-16T09:36:20.7684719-04:00",
+        "Label": "NERF Roblox MM2"
       }
     ]
   },
