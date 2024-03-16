@@ -1,0 +1,24 @@
+{
+  "Category": "Juguetes",
+  "SubCategory": "Educativo",
+  "Images": [
+    "/images/products/tableta-de-escritura-1.webp",
+    "/images/products/tableta-de-escritura-2.webp",
+    "/images/products/tableta-de-escritura-3.webp",
+    "/images/products/tableta-de-escritura-4.webp",
+    "/images/products/tableta-de-escritura-5.webp"
+  ],
+  "Description": "Última tecnología LCD sensible a la presión\n\nPantalla borrable\n\nPantalla colorida de 8.5 pulgadas, proporcionando colores vivos del arco iris\n\nDibuja líneas coloridas de diferentes grosores dependiendo de la fuerza de presión con un lápiz\n\nFomenta las habilidades de escritura temprana y promovue la coordinación ojo-mano\n\nDimensiones del producto: 22 x 14 cm\n\nEdad recomendada por el fabricante: +2 Años\n\nFabricante: Rocambo",
+  "Price": 12.00,
+  "Features": [
+    "LCD",
+    "22cm",
+    "Lápiz óptico",
+    "+2 Años",
+    "Niña",
+    "Niño"
+  ],
+  "Date": "2024-01-25T16:33:08.7600689-05:00",
+  "Update": "2024-03-16T09:27:34.970912-04:00",
+  "Label": "Tableta de Escritura"
+}
