@@ -347,6 +347,24 @@
         "Update": "2024-03-16T09:59:44.5296892-04:00",
         "Label": "Nerf Ultra Three"
       }
+    ],
+    "Piscina": [
+      {
+        "Price": 470.00,
+        "Features": [],
+        "Date": "2024-03-26T11:59:16.3151401-04:00",
+        "Update": "2024-03-26T12:17:32.7749779-04:00",
+        "Label": "Piscina Bestway Steel Pro Max 12'"
+      },
+      {
+        "Price": 650.00,
+        "Features": [
+          "Gris"
+        ],
+        "Date": "2024-03-26T11:59:18.4503144-04:00",
+        "Update": "2024-03-26T12:17:32.8038433-04:00",
+        "Label": "Piscina Bestway Steel Pro MAX, 14ft"
+      }
     ]
   },
   "Barbería": {
