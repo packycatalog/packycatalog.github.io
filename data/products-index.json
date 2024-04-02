@@ -335,17 +335,6 @@
         "Update": "2024-04-02T12:54:52.5388072-04:00",
         "Label": "COMBO Joyin 18 Carritos"
       }
-    ],
-    "Piscina": [
-      {
-        "Price": 650.00,
-        "Features": [
-          "Gris"
-        ],
-        "Date": "2024-03-26T11:59:18.4503144-04:00",
-        "Update": "2024-04-02T10:45:50.8462095-04:00",
-        "Label": "Piscina Bestway Steel Pro MAX, 14 pies"
-      }
     ]
   },
   "Barbería": {
@@ -881,6 +870,15 @@
         "Date": "2024-03-26T11:59:16.3151401-04:00",
         "Update": "2024-04-02T12:54:52.5540236-04:00",
         "Label": "Piscina Bestway Steel Pro Max 12 pies"
+      },
+      {
+        "Price": 650.00,
+        "Features": [
+          "Gris"
+        ],
+        "Date": "2024-03-26T11:59:18.4503144-04:00",
+        "Update": "2024-04-02T12:55:05.6584253-04:00",
+        "Label": "Piscina Bestway Steel Pro MAX, 14 pies"
       }
     ]
   }
