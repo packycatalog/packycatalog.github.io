@@ -15,19 +15,6 @@
         "Label": "LEGO Classic 11019"
       },
       {
-        "Price": 52.00,
-        "Features": [
-          "80 Blocks",
-          "+1 Año",
-          "Educativo",
-          "Niño",
-          "Niña"
-        ],
-        "Date": "2023-09-16T12:57:24.0529082-04:00",
-        "Update": "2024-02-08T17:00:02.7543734-05:00",
-        "Label": "MEGA Blocks DH62 ROSA"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "500 piezas",
@@ -105,6 +92,19 @@
         "Date": "2023-09-06T00:54:47.1421539-04:00",
         "Update": "2024-02-09T16:44:51.1553337-05:00",
         "Label": "Castillo Princesa"
+      },
+      {
+        "Price": 52.00,
+        "Features": [
+          "80 Bloques",
+          "+ 1 Año",
+          "Educativo",
+          "niño",
+          "#1 USA"
+        ],
+        "Date": "2023-09-16T12:57:24.0529082-04:00",
+        "Update": "2024-04-02T12:39:48.3747104-04:00",
+        "Label": "MEGA Blocks DH62 ROSA"
       }
     ],
     "Muñeca": [
