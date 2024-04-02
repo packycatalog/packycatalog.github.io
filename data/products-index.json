@@ -439,16 +439,6 @@
     ],
     "Máquina de Pelar": [
       {
-        "Price": 75.00,
-        "Features": [
-          "11 Peines de Colores",
-          "Tijeras"
-        ],
-        "Date": "2024-03-01T23:26:27.8789544-05:00",
-        "Update": "2024-03-12T13:22:20.9219331-04:00",
-        "Label": "Wahl Color Pro"
-      },
-      {
         "Price": 110.00,
         "Features": [
           "Cero Total",
@@ -469,6 +459,17 @@
         "Date": "2024-02-27T11:04:15.9623475-05:00",
         "Update": "2024-03-15T16:40:53.1748873-04:00",
         "Label": "Wahl HomeCut"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "11 Peines",
+          "Tijeras",
+          "Cuchillas Autoafilables"
+        ],
+        "Date": "2024-03-01T23:26:27.8789544-05:00",
+        "Update": "2024-04-02T11:37:05.3447884-04:00",
+        "Label": "Wahl Color Pro"
       }
     ]
   },
