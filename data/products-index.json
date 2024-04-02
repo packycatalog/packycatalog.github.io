@@ -491,19 +491,6 @@
         "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       },
       {
-        "Price": 835.00,
-        "Features": [
-          "GAMER",
-          "IPS",
-          "144Hz",
-          "Backlit",
-          "GF63 12VE-066US"
-        ],
-        "Date": "2023-11-16T20:24:36.5443561-05:00",
-        "Update": "2024-03-28T10:02:34.7761605-04:00",
-        "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
-      },
-      {
         "Price": 930.00,
         "Features": [
           "DDR5",
@@ -517,6 +504,19 @@
         "Label": "GIGABYTE RTX 4060, i7-12650H, 16GB RAM, 15.6FHD, 512GB SSD"
       },
       {
+        "Price": 835.00,
+        "Features": [
+          "GAMER",
+          "IPS",
+          "144Hz",
+          "Backlit",
+          "GF63 12VE-066US"
+        ],
+        "Date": "2023-11-16T20:24:36.5443561-05:00",
+        "Update": "2024-04-02T12:32:33.4370637-04:00",
+        "Label": "MSI RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
+      },
+      {
         "Price": 950.00,
         "Features": [
           "Backlit",
@@ -524,8 +524,8 @@
           "NVMe"
         ],
         "Date": "2023-10-23T13:08:00.5369718-04:00",
-        "Update": "2024-03-28T20:05:27.2206717-04:00",
-        "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
+        "Update": "2024-04-02T12:32:33.4537464-04:00",
+        "Label": "SUPER OFERTA!! MSI PRO i9 - 13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
       }
     ],
     "Laptop Componentes": [
