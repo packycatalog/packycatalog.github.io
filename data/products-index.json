@@ -406,17 +406,6 @@
     ],
     "Patillera": [
       {
-        "Price": 115.00,
-        "Features": [
-          "INALAMBRICA + BASE DE CARGA",
-          "Detailer",
-          "Cuchillas en T"
-        ],
-        "Date": "2023-08-19T17:49:46.8626933-04:00",
-        "Update": "2024-03-11T11:35:35.4579708-04:00",
-        "Label": "Maquina de Pelar WAHL Retro T-Cut"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "Trimmer"
@@ -436,22 +425,22 @@
         "Date": "2024-02-27T11:04:19.9633021-05:00",
         "Update": "2024-04-02T11:38:39.3352354-04:00",
         "Label": "Wahl Detailer 5 Star"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "INALAMBRICA + BASE DE CARGA",
+          "Detailer",
+          "Trimmer",
+          "Rasuradora",
+          "Cuchillas en T"
+        ],
+        "Date": "2023-08-19T17:49:46.8626933-04:00",
+        "Update": "2024-04-02T11:40:01.5046785-04:00",
+        "Label": "Maquina de Pelar WAHL Retro T-Cut"
       }
     ],
     "Máquina de Pelar": [
-      {
-        "Price": 110.00,
-        "Features": [
-          "Cero Total",
-          "Ultra Trimming",
-          "Outlining",
-          "Delinear",
-          "V5000"
-        ],
-        "Date": "2023-08-19T17:49:44.9270431-04:00",
-        "Update": "2024-03-15T16:40:53.1477869-04:00",
-        "Label": "Wahl Balding 5-Star Profesional"
-      },
       {
         "Price": 65.00,
         "Features": [
@@ -471,6 +460,19 @@
         "Date": "2024-03-01T23:26:27.8789544-05:00",
         "Update": "2024-04-02T11:37:05.3447884-04:00",
         "Label": "Wahl Color Pro"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "Cero Total",
+          "Ultra Trimming",
+          "Rasura",
+          "Delinear",
+          "V5000"
+        ],
+        "Date": "2023-08-19T17:49:44.9270431-04:00",
+        "Update": "2024-04-02T11:40:01.5205395-04:00",
+        "Label": "Wahl Balding 5-Star Profesional"
       }
     ]
   },
