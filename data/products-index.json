@@ -68,19 +68,6 @@
         "Label": "Castillo Princesa"
       },
       {
-        "Price": 52.00,
-        "Features": [
-          "80 Bloques",
-          "+ 1 Año",
-          "Educativo",
-          "niño",
-          "#1 USA"
-        ],
-        "Date": "2023-09-16T12:57:24.0529082-04:00",
-        "Update": "2024-04-02T12:39:48.3747104-04:00",
-        "Label": "MEGA Blocks DH62 ROSA"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "500 piezas",
@@ -834,20 +821,6 @@
         "Date": "2024-02-06T14:02:01.1962435-05:00",
         "Update": "2024-03-19T16:20:40.3807356-04:00",
         "Label": "Alarma Inalámbrica. 8x Componentes"
-      },
-      {
-        "Price": 180.00,
-        "Features": [
-          "GSM",
-          "4G",
-          "WiFi",
-          "1x Movimento",
-          "5x Apertura",
-          "4x Controles"
-        ],
-        "Date": "2024-03-19T15:40:24.441877-04:00",
-        "Update": "2024-03-23T11:31:05.3205061-04:00",
-        "Label": "Alarma Inalámbrica 12x Componentes"
       }
     ]
   },
