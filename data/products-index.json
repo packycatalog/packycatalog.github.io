@@ -536,6 +536,7 @@
         ],
         "Date": "2023-10-15T12:56:30.844215-04:00",
         "Update": "2024-02-05T13:21:55.286522-05:00",
+        "Def": true,
         "Label": "T-CREATE Classic 16GB DDR4"
       },
       {
@@ -800,6 +801,7 @@
         ],
         "Date": "2023-08-21T10:30:18.0726085-04:00",
         "Update": "2024-02-13T13:33:29.8487838-05:00",
+        "Def": true,
         "Label": "Alarma Inalámbrica. 22x Componentes"
       },
       {
@@ -834,6 +836,7 @@
         "Features": [],
         "Date": "2024-02-06T14:02:06.3567139-05:00",
         "Update": "2024-04-10T00:19:48.3303728-04:00",
+        "Def": true,
         "Label": "Sensor de Movimiento (Alarma 3,3,2)"
       },
       {
