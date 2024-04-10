@@ -15,19 +15,6 @@
         "Label": "LEGO Classic 11019"
       },
       {
-        "Price": 52.00,
-        "Features": [
-          "80 Blocks",
-          "+1 Año",
-          "Educativo",
-          "Niño",
-          "Niña"
-        ],
-        "Date": "2023-09-16T12:57:24.0529082-04:00",
-        "Update": "2024-02-08T17:00:02.7543734-05:00",
-        "Label": "MEGA Blocks DH62 ROSA"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "500 piezas",
@@ -79,19 +66,6 @@
         "Date": "2023-09-02T12:57:50.6373242-04:00",
         "Update": "2024-02-09T15:35:50.8687007-05:00",
         "Label": "LEGO Classic 11011"
-      },
-      {
-        "Price": 53.00,
-        "Features": [
-          "80 Blocks",
-          "+1 Año",
-          "Educativo",
-          "Niño",
-          "Niña"
-        ],
-        "Date": "2023-09-02T12:58:02.9079573-04:00",
-        "Update": "2024-02-09T15:35:50.9031874-05:00",
-        "Label": "MEGA Blocks DH63 AZUL"
       },
       {
         "Price": 85.00,
@@ -362,28 +336,6 @@
         "Label": "Capa de Barberia"
       }
     ],
-    "Afeitadora": [
-      {
-        "Price": 117.00,
-        "Features": [
-          "Recargable",
-          "Black",
-          "Afeita"
-        ],
-        "Date": "2023-08-26T12:13:18.6466728-04:00",
-        "Update": "2024-02-06T22:29:28.7214424-05:00",
-        "Label": "Andis 17300 RESURGE"
-      },
-      {
-        "Price": 66.00,
-        "Features": [
-          "Inalámbrica"
-        ],
-        "Date": "2024-03-01T23:25:39.3248025-05:00",
-        "Update": "2024-03-12T13:49:04.9311797-04:00",
-        "Label": "Philips Norelco Shaver 2300"
-      }
-    ],
     "Rasuradora": [
       {
         "Price": 66.00,
@@ -443,17 +395,6 @@
         "Label": "Wahl Color Pro"
       },
       {
-        "Price": 169.00,
-        "Features": [
-          "Barberos",
-          "Professional",
-          "5 Star"
-        ],
-        "Date": "2023-08-19T17:49:42.9568078-04:00",
-        "Update": "2024-03-12T13:42:05.9203557-04:00",
-        "Label": "COMBO Wahl Legend + Hero Trimmer"
-      },
-      {
         "Price": 110.00,
         "Features": [
           "Cero Total",
@@ -475,12 +416,23 @@
         "Update": "2024-03-15T16:40:53.1748873-04:00",
         "Label": "Wahl HomeCut"
       }
+    ],
+    "Afeitadora": [
+      {
+        "Price": 66.00,
+        "Features": [
+          "Inalámbrica"
+        ],
+        "Date": "2024-03-01T23:25:39.3248025-05:00",
+        "Update": "2024-03-12T13:49:04.9311797-04:00",
+        "Label": "Philips Norelco Shaver 2300"
+      }
     ]
   },
   "Electrónica": {
     "Laptop": [
       {
-        "Price": 1450.0,
+        "Price": 1335.00,
         "Features": [
           "Backlit",
           "144Hz",
@@ -492,7 +444,7 @@
         "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       },
       {
-        "Price": 950.0,
+        "Price": 930.00,
         "Features": [
           "DDR5",
           "Backlit RGB",
@@ -505,7 +457,7 @@
         "Label": "GIGABYTE RTX 4060, i7-12650H, 16GB RAM, 15.6FHD, 512GB SSD"
       },
       {
-        "Price": 990.0,
+        "Price": 950.00,
         "Features": [
           "Backlit",
           "IPS",
@@ -516,7 +468,7 @@
         "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
       },
       {
-        "Price": 850.0,
+        "Price": 825.00,
         "Features": [
           "GAMER",
           "IPS",
@@ -838,7 +790,7 @@
     ],
     "Alarma": [
       {
-        "Price": 220.00,
+        "Price": 210.00,
         "Features": [
           "Soporta línea",
           "4x Movimiento",
