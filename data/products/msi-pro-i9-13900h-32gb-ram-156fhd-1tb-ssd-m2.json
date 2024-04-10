@@ -10,7 +10,7 @@
     "/images/products/msi-pro-i9-13900h-32gb-ram-156fhd-1tb-ssd-m2-6.webp",
     "/images/products/msi-pro-i9-13900h-32gb-ram-156fhd-1tb-ssd-m2-7.webp"
   ],
-  "Description": "Marca:  GIGABYTE\nModelo:  G5 KF5\nColor: Classic Black\nScreen: 15.6\"FHD 144 Hz, IPS-Level\nSO:  Windows 11 Home\n\nCPU       i9 13900H Processor\nRAM\t32GB, Max 64GB DDR4-3200 (2 Slots)\nGPU\tUp to Intel® Iris® Xe graphics\nSTORAGE \t1TB M.2 SSD (1x slot NVMe PCIe Gen4)\n\nCOMMUNICATION\nWi-Fi 6E 802.11 ax\nBluetooth         v5.3\nAudio\t            2x 2W Speaker\nAudio Jack\t1x Mic-in/Headphone-out Combo Jack\nWEBCAM\tHD type (30fps, 720p)\nKEYBOARD\tSingle Backlit Keyboard (White)\n\nPOWER\nAC Adapter: 90w \nBattery: Lithium-Ion  4celdas (hasta 6 horas de duración de la batería)\nDimensions (W x D x H): 14.20\" x 9.40\" x 0.94\"\nWeight: 4.39 lbs\n\nPORTS\t\n1x USB Type-C 3.2 Gen2/ DP with PD charging\n3x Type-A USB 3.2 Gen2\n1x Micro SD Card Reader\n1x HDMI™ 2.1 (4K @ 60Hz)\n\n\nLA MEJOR OPCIÓN para PROFESIONALES: Desarrolladores, Ciberneticos, ESTUDIANTES de Ingenierias, Programación etc..",
+  "Description": "Marca:  MSI\nModelo: 15HB13M-010US\nColor: Classic Black\nScreen: 15.6\"FHD 144 Hz, IPS-Level\nSO:  Windows 11 Home\n\nCPU       i9 13900H Processor\nRAM\t32GB, Max 64GB DDR4-3200 (2 Slots)\nGPU\tUp to Intel® Iris® Xe graphics\nSTORAGE \t1TB M.2 SSD (1x slot NVMe PCIe Gen4)\n\nCOMMUNICATION\nWi-Fi 6E 802.11 ax\nBluetooth         v5.3\nAudio\t            2x 2W Speaker\nAudio Jack\t1x Mic-in/Headphone-out Combo Jack\nWEBCAM\tHD type (30fps, 720p)\nKEYBOARD\tSingle Backlit Keyboard (White)\n\nPOWER\nAC Adapter: 90w \nBattery: Lithium-Ion  4celdas (hasta 6 horas de duración de la batería)\nDimensions (W x D x H): 14.20\" x 9.40\" x 0.94\"\nWeight: 4.39 lbs\n\nPORTS\t\n1x USB Type-C 3.2 Gen2/ DP with PD charging\n3x Type-A USB 3.2 Gen2\n1x Micro SD Card Reader\n1x HDMI™ 2.1 (4K @ 60Hz)\n\n\nLA MEJOR OPCIÓN para PROFESIONALES: Desarrolladores, Ciberneticos, ESTUDIANTES de Ingenierias, Programación etc..",
   "Price": 950.00,
   "Features": [
     "Backlit",
@@ -18,6 +18,6 @@
     "NVMe"
   ],
   "Date": "2023-10-23T13:08:00.5369718-04:00",
-  "Update": "2024-03-15T16:45:01.6556767-04:00",
+  "Update": "2024-04-09T23:55:20.7245562-04:00",
   "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
 }
