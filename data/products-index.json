@@ -15,6 +15,45 @@
         "Label": "LEGO Classic 11019"
       },
       {
+        "Price": 52.00,
+        "Features": [
+          "80 Blocks",
+          "+1 Año",
+          "Educativo",
+          "Niño",
+          "Niña"
+        ],
+        "Date": "2023-09-16T12:57:24.0529082-04:00",
+        "Update": "2024-02-08T17:00:02.7543734-05:00",
+        "Label": "MEGA Blocks DH62 ROSA"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "500 piezas",
+          "+4 Años",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2023-09-02T12:57:52.0708591-04:00",
+        "Update": "2024-02-09T15:35:50.8183028-05:00",
+        "Label": "LEGO Classic 11013"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "484 piezas",
+          "+4 Años",
+          "Educativo",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2023-09-02T12:57:47.1671374-04:00",
+        "Update": "2024-02-09T15:35:50.835491-05:00",
+        "Label": "LEGO Classic 10696 + Caja"
+      },
+      {
         "Price": 90.00,
         "Features": [
           "950 piezas",
@@ -42,6 +81,19 @@
         "Label": "LEGO Classic 11011"
       },
       {
+        "Price": 53.00,
+        "Features": [
+          "80 Blocks",
+          "+1 Año",
+          "Educativo",
+          "Niño",
+          "Niña"
+        ],
+        "Date": "2023-09-02T12:58:02.9079573-04:00",
+        "Update": "2024-02-09T15:35:50.9031874-05:00",
+        "Label": "MEGA Blocks DH63 AZUL"
+      },
+      {
         "Price": 85.00,
         "Features": [
           "171 piezas",
@@ -66,33 +118,6 @@
         "Date": "2023-09-06T00:54:47.1421539-04:00",
         "Update": "2024-02-09T16:44:51.1553337-05:00",
         "Label": "Castillo Princesa"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "500 piezas",
-          "Ojos y Ruedas",
-          "+4 Años",
-          "Educativo",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2023-09-02T12:57:52.0708591-04:00",
-        "Update": "2024-04-02T12:44:33.8519265-04:00",
-        "Label": "LEGO Classic 11013"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "484 piezas",
-          "35 colores",
-          "+4 Años",
-          "Educativo",
-          "Niños"
-        ],
-        "Date": "2023-09-02T12:57:47.1671374-04:00",
-        "Update": "2024-04-02T12:44:33.8690243-04:00",
-        "Label": "LEGO Classic 10696 + Caja"
       }
     ],
     "Muñeca": [
@@ -176,6 +201,83 @@
         "Label": "Tablero Battleship"
       }
     ],
+    "Vehículo": [
+      {
+        "Price": 57.00,
+        "Features": [
+          "Luces",
+          "Sonido",
+          "Fricción",
+          "+3 Años",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:32:54.6935702-05:00",
+        "Update": "2024-03-15T17:32:50.2179161-04:00",
+        "Label": "COMBO Carros de Policía . Ambulancia + Patrulla + Helicóptero"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Fricción",
+          "Niño"
+        ],
+        "Date": "2024-02-01T15:44:25.6423826-05:00",
+        "Update": "2024-03-15T17:35:55.3894634-04:00",
+        "Label": "COMBO Joyin 18 Carritos"
+      },
+      {
+        "Price": 73.00,
+        "Features": [
+          "Luces",
+          "Sonido",
+          "xFricción",
+          "+3 Años",
+          "Niño"
+        ],
+        "Date": "2023-07-22T19:23:28.6972686-04:00",
+        "Update": "2024-03-16T09:49:22.1852316-04:00",
+        "Label": "COMBO Carros de Rescate . Ambulancia + Bombero + Helicóptero + 10x Figuras"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "Luces",
+          "Sonido",
+          "x Fricción",
+          "+3 Años",
+          "Niño"
+        ],
+        "Date": "2023-07-22T19:23:33.956195-04:00",
+        "Update": "2024-03-16T09:51:15.6590549-04:00",
+        "Label": "COMBO Camiones Rescate . Helicóptero +2x Bomberos"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Luces",
+          "Sonido",
+          "x Fricción",
+          "+3 Años",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:00.4938877-05:00",
+        "Update": "2024-03-16T09:51:15.6805413-04:00",
+        "Label": "COMBO Camiones de Ciudad . Basura + Bombero + Elevador Pluma + Volteo"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "Luces",
+          "Sonido",
+          "x Fricción",
+          "+3 Años",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:32:57.1848232-05:00",
+        "Update": "2024-03-16T09:51:15.7003506-04:00",
+        "Label": "COMBO Camiones de Bomberos. Bomberos + Ambulancia + Helicóptero"
+      }
+    ],
     "Lanza Dardos": [
       {
         "Price": 67.00,
@@ -244,84 +346,6 @@
         "Update": "2024-03-16T09:59:44.5296892-04:00",
         "Label": "Nerf Ultra Three"
       }
-    ],
-    "Vehículo": [
-      {
-        "Price": 65.00,
-        "Features": [
-          "Luces",
-          "Sonido",
-          "x Fricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:00.4938877-05:00",
-        "Update": "2024-03-16T09:51:15.6805413-04:00",
-        "Label": "COMBO Camiones de Ciudad . Basura + Bombero + Elevador Pluma + Volteo"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "Luces",
-          "Sonido",
-          "x Fricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:32:57.1848232-05:00",
-        "Update": "2024-03-16T09:51:15.7003506-04:00",
-        "Label": "COMBO Camiones de Bomberos. Bomberos + Ambulancia + Helicóptero"
-      },
-      {
-        "Price": 57.00,
-        "Features": [
-          "Luces",
-          "Sonido",
-          "Fricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:32:54.6935702-05:00",
-        "Update": "2024-03-23T11:31:05.3047831-04:00",
-        "Label": "COMBO 3 en 1. Ambulancia + Patrulla Policía + Helicóptero"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "Luces",
-          "Sonido",
-          "x Fricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2023-07-22T19:23:33.956195-04:00",
-        "Update": "2024-03-23T11:33:29.0335651-04:00",
-        "Label": "COMBO Camion Rescate . Helicóptero + 2 Bomberos"
-      },
-      {
-        "Price": 73.00,
-        "Features": [
-          "Camion",
-          "Luces",
-          "Sonido",
-          "xFricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2023-07-22T19:23:28.6972686-04:00",
-        "Update": "2024-03-23T11:33:51.0073828-04:00",
-        "Label": "COMBO Ambulancia + Bombero + Helicóptero + 10x Figuras"
-      },
-      {
-        "Price": 35.00,
-        "Features": [
-          "Fricción",
-          "Niño"
-        ],
-        "Date": "2024-02-01T15:44:25.6423826-05:00",
-        "Update": "2024-04-02T12:54:52.5388072-04:00",
-        "Label": "COMBO Joyin 18 Carritos"
-      }
     ]
   },
   "Barbería": {
@@ -336,6 +360,28 @@
         "Date": "2023-08-19T17:49:34.3506879-04:00",
         "Update": "2024-02-06T22:29:28.6485053-05:00",
         "Label": "Capa de Barberia"
+      }
+    ],
+    "Afeitadora": [
+      {
+        "Price": 117.00,
+        "Features": [
+          "Recargable",
+          "Black",
+          "Afeita"
+        ],
+        "Date": "2023-08-26T12:13:18.6466728-04:00",
+        "Update": "2024-02-06T22:29:28.7214424-05:00",
+        "Label": "Andis 17300 RESURGE"
+      },
+      {
+        "Price": 66.00,
+        "Features": [
+          "Inalámbrica"
+        ],
+        "Date": "2024-03-01T23:25:39.3248025-05:00",
+        "Update": "2024-03-12T13:49:04.9311797-04:00",
+        "Label": "Philips Norelco Shaver 2300"
       }
     ],
     "Rasuradora": [
@@ -354,6 +400,17 @@
     ],
     "Patillera": [
       {
+        "Price": 115.00,
+        "Features": [
+          "INALAMBRICA + BASE DE CARGA",
+          "Detailer",
+          "Cuchillas en T"
+        ],
+        "Date": "2023-08-19T17:49:46.8626933-04:00",
+        "Update": "2024-03-11T11:35:35.4579708-04:00",
+        "Label": "Maquina de Pelar WAHL Retro T-Cut"
+      },
+      {
         "Price": 95.00,
         "Features": [
           "Trimmer"
@@ -367,61 +424,46 @@
         "Features": [
           "Profesional",
           "Trimmer",
-          "RASURADORA",
           "5 \""
         ],
         "Date": "2024-02-27T11:04:19.9633021-05:00",
-        "Update": "2024-04-02T11:38:39.3352354-04:00",
+        "Update": "2024-03-12T13:35:47.1433632-04:00",
         "Label": "Wahl Detailer 5 Star"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "INALAMBRICA + BASE DE CARGA",
-          "Detailer",
-          "Trimmer",
-          "Rasuradora",
-          "Cuchillas en T"
-        ],
-        "Date": "2023-08-19T17:49:46.8626933-04:00",
-        "Update": "2024-04-02T11:40:01.5046785-04:00",
-        "Label": "Maquina de Pelar WAHL Retro T-Cut"
-      }
-    ],
-    "Afeitadora": [
-      {
-        "Price": 66.00,
-        "Features": [
-          "Inalámbrica"
-        ],
-        "Date": "2024-03-01T23:25:39.3248025-05:00",
-        "Update": "2024-03-12T13:49:04.9311797-04:00",
-        "Label": "Philips Norelco Shaver 2300"
       }
     ],
     "Máquina de Pelar": [
       {
         "Price": 75.00,
         "Features": [
-          "11 Peines",
-          "Tijeras",
-          "Cuchillas Autoafilables"
+          "11 Peines de Colores",
+          "Tijeras"
         ],
         "Date": "2024-03-01T23:26:27.8789544-05:00",
-        "Update": "2024-04-02T11:37:05.3447884-04:00",
+        "Update": "2024-03-12T13:22:20.9219331-04:00",
         "Label": "Wahl Color Pro"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "Barberos",
+          "Professional",
+          "5 Star"
+        ],
+        "Date": "2023-08-19T17:49:42.9568078-04:00",
+        "Update": "2024-03-12T13:42:05.9203557-04:00",
+        "Label": "COMBO Wahl Legend + Hero Trimmer"
       },
       {
         "Price": 110.00,
         "Features": [
           "Cero Total",
           "Ultra Trimming",
-          "Rasura",
+          "Outlining",
           "Delinear",
           "V5000"
         ],
         "Date": "2023-08-19T17:49:44.9270431-04:00",
-        "Update": "2024-04-02T11:40:01.5205395-04:00",
+        "Update": "2024-03-15T16:40:53.1477869-04:00",
         "Label": "Wahl Balding 5-Star Profesional"
       },
       {
@@ -430,7 +472,7 @@
           "16 Piezas"
         ],
         "Date": "2024-02-27T11:04:15.9623475-05:00",
-        "Update": "2024-04-02T11:41:15.2171987-04:00",
+        "Update": "2024-03-15T16:40:53.1748873-04:00",
         "Label": "Wahl HomeCut"
       }
     ]
@@ -438,7 +480,7 @@
   "Electrónica": {
     "Laptop": [
       {
-        "Price": 1335.00,
+        "Price": 1450.0,
         "Features": [
           "Backlit",
           "144Hz",
@@ -450,7 +492,7 @@
         "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
       },
       {
-        "Price": 930.00,
+        "Price": 950.0,
         "Features": [
           "DDR5",
           "Backlit RGB",
@@ -459,11 +501,22 @@
           "G5 KF5"
         ],
         "Date": "2023-12-07T11:41:21.3838685-05:00",
-        "Update": "2024-03-28T10:19:46.4917163-04:00",
+        "Update": "2024-03-15T16:45:01.6402769-04:00",
         "Label": "GIGABYTE RTX 4060, i7-12650H, 16GB RAM, 15.6FHD, 512GB SSD"
       },
       {
-        "Price": 825.00,
+        "Price": 990.0,
+        "Features": [
+          "Backlit",
+          "IPS",
+          "NVMe"
+        ],
+        "Date": "2023-10-23T13:08:00.5369718-04:00",
+        "Update": "2024-03-15T16:45:01.6556767-04:00",
+        "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
+      },
+      {
+        "Price": 850.0,
         "Features": [
           "GAMER",
           "IPS",
@@ -472,19 +525,8 @@
           "GF63 12VE-066US"
         ],
         "Date": "2023-11-16T20:24:36.5443561-05:00",
-        "Update": "2024-04-02T12:32:33.4370637-04:00",
-        "Label": "MSI RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
-      },
-      {
-        "Price": 950.00,
-        "Features": [
-          "Backlit",
-          "IPS",
-          "NVMe"
-        ],
-        "Date": "2023-10-23T13:08:00.5369718-04:00",
-        "Update": "2024-04-02T12:33:44.5543441-04:00",
-        "Label": "MSI PRO i9 - 13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
+        "Update": "2024-03-15T16:45:01.671287-04:00",
+        "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
       }
     ],
     "Laptop Componentes": [
@@ -796,7 +838,7 @@
     ],
     "Alarma": [
       {
-        "Price": 210.00,
+        "Price": 220.00,
         "Features": [
           "Soporta línea",
           "4x Movimiento",
@@ -821,26 +863,6 @@
         "Date": "2024-02-06T14:02:01.1962435-05:00",
         "Update": "2024-03-19T16:20:40.3807356-04:00",
         "Label": "Alarma Inalámbrica. 8x Componentes"
-      }
-    ]
-  },
-  "Otros": {
-    "Piscina": [
-      {
-        "Price": 470.00,
-        "Features": [],
-        "Date": "2024-03-26T11:59:16.3151401-04:00",
-        "Update": "2024-04-02T12:54:52.5540236-04:00",
-        "Label": "Piscina Bestway Steel Pro Max 12 pies"
-      },
-      {
-        "Price": 650.00,
-        "Features": [
-          "Gris"
-        ],
-        "Date": "2024-03-26T11:59:18.4503144-04:00",
-        "Update": "2024-04-02T12:55:05.6584253-04:00",
-        "Label": "Piscina Bestway Steel Pro MAX, 14 pies"
       }
     ]
   }
