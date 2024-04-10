@@ -844,6 +844,13 @@
         "Date": "2024-03-01T23:25:57.4157746-05:00",
         "Update": "2024-04-10T00:19:48.3491176-04:00",
         "Label": "Sensor de Movimiento Inalámbrico 433mhz, 2x Bateria AA"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2024-02-06T14:02:08.109843-05:00",
+        "Update": "2024-04-10T00:34:29.1425136-04:00",
+        "Label": "Sensor de Apertura (Alarma 3,3,2)"
       }
     ]
   }
