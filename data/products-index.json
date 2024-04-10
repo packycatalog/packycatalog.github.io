@@ -457,17 +457,6 @@
         "Label": "GIGABYTE RTX 4060, i7-12650H, 16GB RAM, 15.6FHD, 512GB SSD"
       },
       {
-        "Price": 950.00,
-        "Features": [
-          "Backlit",
-          "IPS",
-          "NVMe"
-        ],
-        "Date": "2023-10-23T13:08:00.5369718-04:00",
-        "Update": "2024-03-15T16:45:01.6556767-04:00",
-        "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
-      },
-      {
         "Price": 825.00,
         "Features": [
           "GAMER",
@@ -479,6 +468,17 @@
         "Date": "2023-11-16T20:24:36.5443561-05:00",
         "Update": "2024-03-15T16:45:01.671287-04:00",
         "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
+      },
+      {
+        "Price": 950.00,
+        "Features": [
+          "Backlit",
+          "IPS",
+          "NVMe"
+        ],
+        "Date": "2023-10-23T13:08:00.5369718-04:00",
+        "Update": "2024-04-09T23:55:20.7245562-04:00",
+        "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
       }
     ],
     "Laptop Componentes": [
