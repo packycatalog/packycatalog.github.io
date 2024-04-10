@@ -1,0 +1,15 @@
+{
+  "Category": "Seguridad",
+  "SubCategory": "Alarma",
+  "Images": [
+    "/images/products/sensor-de-apertura-alarma-332-1.webp",
+    "/images/products/sensor-de-apertura-alarma-332-2.webp",
+    "/images/products/sensor-de-apertura-alarma-332-3.webp"
+  ],
+  "Description": "Incluye\n1x Batería 3V (CR2032)\n\nAl abrirse la puerta o ventana a la que este instalado, dispara la alarma",
+  "Price": 10.00,
+  "Features": [],
+  "Date": "2024-02-06T14:02:08.109843-05:00",
+  "Update": "2024-04-10T00:34:29.1425136-04:00",
+  "Label": "Sensor de Apertura (Alarma 3,3,2)"
+}
