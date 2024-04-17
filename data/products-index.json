@@ -385,19 +385,6 @@
         "Label": "Wahl Color Pro"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "Cero Total",
-          "Ultra Trimming",
-          "Outlining",
-          "Delinear",
-          "V5000"
-        ],
-        "Date": "2023-08-19T17:49:44.9270431-04:00",
-        "Update": "2024-03-15T16:40:53.1477869-04:00",
-        "Label": "Wahl Balding 5-Star Profesional"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "16 Piezas"
@@ -416,17 +403,6 @@
         "Date": "2023-08-19T17:49:40.5185-04:00",
         "Update": "2024-04-15T09:58:39.6833318-04:00",
         "Label": "Wahl Legend 5 Star"
-      }
-    ],
-    "Afeitadora": [
-      {
-        "Price": 66.00,
-        "Features": [
-          "Inalámbrica"
-        ],
-        "Date": "2024-03-01T23:25:39.3248025-05:00",
-        "Update": "2024-03-12T13:49:04.9311797-04:00",
-        "Label": "Philips Norelco Shaver 2300"
       }
     ]
   },
