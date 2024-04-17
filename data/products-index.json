@@ -409,7 +409,7 @@
   "Electrónica": {
     "Laptop": [
       {
-        "Price": 1335.00,
+        "Price": 1275.00,
         "Features": [
           "Backlit",
           "144Hz",
@@ -434,7 +434,7 @@
         "Label": "GIGABYTE RTX 4060, i7-12650H, 16GB RAM, 15.6FHD, 512GB SSD"
       },
       {
-        "Price": 950.00,
+        "Price": 935.00,
         "Features": [
           "Backlit",
           "IPS",
@@ -445,7 +445,7 @@
         "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
       },
       {
-        "Price": 825.00,
+        "Price": 795.00,
         "Features": [
           "GAMER",
           "IPS",
@@ -772,7 +772,7 @@
         "Label": "Alarma Inalámbrica. 22x Componentes"
       },
       {
-        "Price": 150.00,
+        "Price": 120.00,
         "Features": [
           "Sporta línea",
           "WiFi",
