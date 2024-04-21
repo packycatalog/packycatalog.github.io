@@ -458,127 +458,6 @@
         "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
       }
     ],
-    "Laptop Componentes": [
-      {
-        "Price": 55.00,
-        "Features": [
-          "SSD 2.5",
-          "530/470"
-        ],
-        "Date": "2023-10-16T08:58:43.7124996-04:00",
-        "Update": "2024-02-05T00:53:58.2724665-05:00",
-        "Label": "Team Group CX1 480GB"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "RAM",
-          "DDR4",
-          "3200MHz",
-          "C40"
-        ],
-        "Date": "2023-08-16T11:47:54.867386-04:00",
-        "Update": "2024-02-05T13:19:24.6725414-05:00",
-        "Label": "Team Elite 16GB DDR4"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "RAM",
-          "DDR5",
-          "4800MHz",
-          "C40"
-        ],
-        "Date": "2024-01-05T17:25:12.7041664-05:00",
-        "Update": "2024-02-05T13:19:24.6927248-05:00",
-        "Label": "Team Elite 16GB DDR5"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "RAM",
-          "3200MHz",
-          "C18"
-        ],
-        "Date": "2023-10-15T12:56:25.0943105-04:00",
-        "Update": "2024-02-05T13:21:55.2726382-05:00",
-        "Label": "Patriot Viper Steel 32GB DDR4"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "RAM",
-          "3200MHz",
-          "C22"
-        ],
-        "Date": "2023-10-15T12:56:30.844215-04:00",
-        "Update": "2024-02-05T13:21:55.286522-05:00",
-        "Def": true,
-        "Label": "T-CREATE Classic 16GB DDR4"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "Memoria RAM",
-          "DDR5",
-          "5600MHz",
-          "C46"
-        ],
-        "Date": "2024-01-05T17:25:08.9605817-05:00",
-        "Update": "2024-02-06T13:12:17.0766032-05:00",
-        "Label": "Crucial 24GB"
-      },
-      {
-        "Price": 40.00,
-        "Features": [
-          "DDR4",
-          "4800MHz"
-        ],
-        "Date": "2024-01-05T17:25:10.8955968-05:00",
-        "Update": "2024-02-06T13:12:17.0965627-05:00",
-        "Label": "Samsung 8GB"
-      },
-      {
-        "Price": 22.00,
-        "Features": [
-          "RAM",
-          "DDR4",
-          "3200MHz",
-          "C19"
-        ],
-        "Date": "2023-08-16T11:47:44.2147086-04:00",
-        "Update": "2024-02-06T13:12:17.1274774-05:00",
-        "Label": "Samsung 4GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "540/470 Mbs",
-          "400TBW",
-          "SATA 3"
-        ],
-        "Date": "2024-02-06T13:30:23.2846642-05:00",
-        "Update": "2024-02-06T13:58:50.2601359-05:00",
-        "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [],
-        "Date": "2024-02-06T13:31:34.9961125-05:00",
-        "Update": "2024-02-06T13:58:50.3227107-05:00",
-        "Label": "SSD M.2 - TeamGroup T-Force Gaming Cardea Z44L 1TB (3500/3000, 600TBW)"
-      },
-      {
-        "Price": 80.00,
-        "Features": [
-          "3200mhz",
-          "C22"
-        ],
-        "Date": "2024-02-06T22:24:12.1867029-05:00",
-        "Update": "2024-03-15T16:30:20.6787673-04:00",
-        "Label": "RAM CORSAIR Vengeance Sodimm 32GB DDR4"
-      }
-    ],
     "Laptop Accesorios": [
       {
         "Price": 25.00,
@@ -743,6 +622,117 @@
         "Date": "2024-02-06T22:24:38.6575545-05:00",
         "Update": "2024-03-15T16:30:20.7100615-04:00",
         "Label": "MicroSD Team Group 32GB + Adapter"
+      }
+    ],
+    "Laptop Componentes": [
+      {
+        "Price": 55.00,
+        "Features": [
+          "RAM",
+          "DDR4",
+          "3200MHz",
+          "C40"
+        ],
+        "Date": "2023-08-16T11:47:54.867386-04:00",
+        "Update": "2024-02-05T13:19:24.6725414-05:00",
+        "Label": "Team Elite 16GB DDR4"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "RAM",
+          "DDR5",
+          "4800MHz",
+          "C40"
+        ],
+        "Date": "2024-01-05T17:25:12.7041664-05:00",
+        "Update": "2024-02-05T13:19:24.6927248-05:00",
+        "Label": "Team Elite 16GB DDR5"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "RAM",
+          "3200MHz",
+          "C18"
+        ],
+        "Date": "2023-10-15T12:56:25.0943105-04:00",
+        "Update": "2024-02-05T13:21:55.2726382-05:00",
+        "Label": "Patriot Viper Steel 32GB DDR4"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "RAM",
+          "3200MHz",
+          "C22"
+        ],
+        "Date": "2023-10-15T12:56:30.844215-04:00",
+        "Update": "2024-02-05T13:21:55.286522-05:00",
+        "Def": true,
+        "Label": "T-CREATE Classic 16GB DDR4"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "Memoria RAM",
+          "DDR5",
+          "5600MHz",
+          "C46"
+        ],
+        "Date": "2024-01-05T17:25:08.9605817-05:00",
+        "Update": "2024-02-06T13:12:17.0766032-05:00",
+        "Label": "Crucial 24GB"
+      },
+      {
+        "Price": 40.00,
+        "Features": [
+          "DDR4",
+          "4800MHz"
+        ],
+        "Date": "2024-01-05T17:25:10.8955968-05:00",
+        "Update": "2024-02-06T13:12:17.0965627-05:00",
+        "Label": "Samsung 8GB"
+      },
+      {
+        "Price": 22.00,
+        "Features": [
+          "RAM",
+          "DDR4",
+          "3200MHz",
+          "C19"
+        ],
+        "Date": "2023-08-16T11:47:44.2147086-04:00",
+        "Update": "2024-02-06T13:12:17.1274774-05:00",
+        "Label": "Samsung 4GB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "540/470 Mbs",
+          "400TBW",
+          "SATA 3"
+        ],
+        "Date": "2024-02-06T13:30:23.2846642-05:00",
+        "Update": "2024-02-06T13:58:50.2601359-05:00",
+        "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [],
+        "Date": "2024-02-06T13:31:34.9961125-05:00",
+        "Update": "2024-02-06T13:58:50.3227107-05:00",
+        "Label": "SSD M.2 - TeamGroup T-Force Gaming Cardea Z44L 1TB (3500/3000, 600TBW)"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "3200mhz",
+          "C22"
+        ],
+        "Date": "2024-02-06T22:24:12.1867029-05:00",
+        "Update": "2024-03-15T16:30:20.6787673-04:00",
+        "Label": "RAM CORSAIR Vengeance Sodimm 32GB DDR4"
       }
     ]
   },
