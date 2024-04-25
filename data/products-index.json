@@ -407,57 +407,6 @@
     ]
   },
   "Electrónica": {
-    "Laptop": [
-      {
-        "Price": 1275.00,
-        "Features": [
-          "Backlit",
-          "144Hz",
-          "IPS",
-          "GF6612831"
-        ],
-        "Date": "2024-01-04T13:51:16.2950497-05:00",
-        "Update": "2024-01-25T12:57:59.0538902-05:00",
-        "Label": "MSI Katana RTX 3070 Ti, i9-12900H, 32GB* RAM, 15.6FHD, 1TB SSD"
-      },
-      {
-        "Price": 930.00,
-        "Features": [
-          "DDR5",
-          "Backlit RGB",
-          "144Hz",
-          "IPS",
-          "G5 KF5"
-        ],
-        "Date": "2023-12-07T11:41:21.3838685-05:00",
-        "Update": "2024-03-15T16:45:01.6402769-04:00",
-        "Label": "GIGABYTE RTX 4060, i7-12650H, 16GB RAM, 15.6FHD, 512GB SSD"
-      },
-      {
-        "Price": 935.00,
-        "Features": [
-          "Backlit",
-          "IPS",
-          "NVMe"
-        ],
-        "Date": "2023-10-23T13:08:00.5369718-04:00",
-        "Update": "2024-04-09T23:55:20.7245562-04:00",
-        "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
-      },
-      {
-        "Price": 795.00,
-        "Features": [
-          "GAMER",
-          "IPS",
-          "144Hz",
-          "Backlit",
-          "+ Enfriamiento"
-        ],
-        "Date": "2023-11-16T20:24:36.5443561-05:00",
-        "Update": "2024-04-15T10:02:13.8347518-04:00",
-        "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
-      }
-    ],
     "Laptop Accesorios": [
       {
         "Price": 25.00,
@@ -607,13 +556,6 @@
         "Label": "Mouse Pad Corsair MM300"
       },
       {
-        "Price": 15.00,
-        "Features": [],
-        "Date": "2024-02-06T22:24:32.7529466-05:00",
-        "Update": "2024-03-15T16:30:20.694329-04:00",
-        "Label": "MicroSD - Patriot 64GB Class 10/UHS-I (U1) 80MB/S (PSF64GMDC10)"
-      },
-      {
         "Price": 10.00,
         "Features": [
           "100MB/s",
@@ -733,6 +675,45 @@
         "Date": "2024-02-06T22:24:12.1867029-05:00",
         "Update": "2024-03-15T16:30:20.6787673-04:00",
         "Label": "RAM CORSAIR Vengeance Sodimm 32GB DDR4"
+      }
+    ],
+    "Laptop": [
+      {
+        "Price": 930.00,
+        "Features": [
+          "DDR5",
+          "Backlit RGB",
+          "144Hz",
+          "IPS",
+          "G5 KF5"
+        ],
+        "Date": "2023-12-07T11:41:21.3838685-05:00",
+        "Update": "2024-03-15T16:45:01.6402769-04:00",
+        "Label": "GIGABYTE RTX 4060, i7-12650H, 16GB RAM, 15.6FHD, 512GB SSD"
+      },
+      {
+        "Price": 935.00,
+        "Features": [
+          "Backlit",
+          "IPS",
+          "NVMe"
+        ],
+        "Date": "2023-10-23T13:08:00.5369718-04:00",
+        "Update": "2024-04-09T23:55:20.7245562-04:00",
+        "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
+      },
+      {
+        "Price": 795.00,
+        "Features": [
+          "GAMER",
+          "IPS",
+          "144Hz",
+          "Backlit",
+          "+ Enfriamiento"
+        ],
+        "Date": "2023-11-16T20:24:36.5443561-05:00",
+        "Update": "2024-04-15T10:02:13.8347518-04:00",
+        "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
       }
     ]
   },
