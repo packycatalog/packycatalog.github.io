@@ -54,7 +54,7 @@
         "Label": "LEGO Classic 11015"
       },
       {
-        "Price": 125.00,
+        "Price": 120.00,
         "Features": [
           "1500 piezas",
           "39 colores",
@@ -68,7 +68,7 @@
         "Label": "LEGO Classic 11011"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "171 piezas",
           "Rosa",
@@ -84,7 +84,7 @@
     ],
     "Muñeca": [
       {
-        "Price": 75.00,
+        "Price": 70.00,
         "Features": [
           "38cm",
           "Chupetes",
@@ -96,7 +96,7 @@
         "Label": "Bebés LUKE & LUCY"
       },
       {
-        "Price": 59.00,
+        "Price": 55.00,
         "Features": [
           "Ojos Grandes",
           "+3 Años",
@@ -107,7 +107,7 @@
         "Label": "Kindi Kids Princesa Rubia"
       },
       {
-        "Price": 63.00,
+        "Price": 58.00,
         "Features": [
           "Ojos Grandes",
           "+3 Años",
@@ -120,7 +120,7 @@
     ],
     "Educativo": [
       {
-        "Price": 25.00,
+        "Price": 22.00,
         "Features": [
           "78 piezas",
           "+3 Años",
@@ -149,7 +149,7 @@
     ],
     "Juego de mesa": [
       {
-        "Price": 55.00,
+        "Price": 53.00,
         "Features": [
           "Batalla Naval",
           "2 Jugadores",
@@ -232,7 +232,7 @@
     ],
     "Lanza Dardos": [
       {
-        "Price": 67.00,
+        "Price": 62.00,
         "Features": [
           "Pistola",
           "Curva 360",
@@ -245,7 +245,7 @@
         "Label": "Nerf Rival Curve"
       },
       {
-        "Price": 40.00,
+        "Price": 35.00,
         "Features": [
           "Pistola",
           "Ráfaga",
@@ -260,7 +260,7 @@
         "Label": "Nerf N-Strike Elite Strongarm"
       },
       {
-        "Price": 49.00,
+        "Price": 45.00,
         "Features": [
           "Pistola",
           "Precisión Avanzada",
@@ -273,7 +273,7 @@
         "Label": "NERF Rival Vision XXII-800"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [
           "Pistola",
           "Código Videojuego",
@@ -285,7 +285,7 @@
         "Label": "NERF Roblox MM2"
       },
       {
-        "Price": 63.00,
+        "Price": 58.00,
         "Features": [
           "Pistola",
           "Ráfaga",
