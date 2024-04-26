@@ -80,18 +80,6 @@
         "Date": "2023-09-02T12:57:43.759136-04:00",
         "Update": "2024-02-09T15:44:41.4023033-05:00",
         "Label": "Castillo de princesa"
-      },
-      {
-        "Price": 63.00,
-        "Features": [
-          "Luces LED de estrellas",
-          "Rosa",
-          "+ 2 Años",
-          "Niña"
-        ],
-        "Date": "2023-09-06T00:54:47.1421539-04:00",
-        "Update": "2024-02-09T16:44:51.1553337-05:00",
-        "Label": "Castillo Princesa"
       }
     ],
     "Muñeca": [
@@ -567,18 +555,6 @@
       }
     ],
     "Laptop Componentes": [
-      {
-        "Price": 55.00,
-        "Features": [
-          "RAM",
-          "DDR4",
-          "3200MHz",
-          "C40"
-        ],
-        "Date": "2023-08-16T11:47:54.867386-04:00",
-        "Update": "2024-02-05T13:19:24.6725414-05:00",
-        "Label": "Team Elite 16GB DDR4"
-      },
       {
         "Price": 69.00,
         "Features": [
