@@ -736,20 +736,6 @@
         "Label": "Alarma Inalámbrica. 22x Componentes"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "Sporta línea",
-          "WiFi",
-          "2x Movimento",
-          "2x Apertura",
-          "2x Controles",
-          "5x RFID"
-        ],
-        "Date": "2024-02-06T14:02:01.1962435-05:00",
-        "Update": "2024-03-19T16:20:40.3807356-04:00",
-        "Label": "Alarma Inalámbrica. 8x Componentes"
-      },
-      {
         "Price": 20.00,
         "Features": [],
         "Date": "2024-02-06T14:02:06.3567139-05:00",
@@ -775,6 +761,20 @@
         "Label": "Sensor de Apertura (Alarma 3,3,2)"
       },
       {
+        "Price": 110.00,
+        "Features": [
+          "Sporta línea",
+          "WiFi",
+          "2x Movimento",
+          "2x Apertura",
+          "2x Controles",
+          "5x RFID"
+        ],
+        "Date": "2024-02-06T14:02:01.1962435-05:00",
+        "Update": "2024-05-01T17:44:03.9666735-04:00",
+        "Label": "Alarma Inalámbrica. 8x Componentes"
+      },
+      {
         "Price": 180.00,
         "Features": [
           "WiFi",
@@ -783,7 +783,7 @@
           "4x Controles"
         ],
         "Date": "2024-03-19T15:40:24.441877-04:00",
-        "Update": "2024-05-01T17:22:57.0543255-04:00",
+        "Update": "2024-05-01T17:44:03.992949-04:00",
         "Label": "Alarma Inalámbrica. 12x Componentes"
       }
     ],
