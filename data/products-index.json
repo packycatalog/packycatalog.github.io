@@ -770,6 +770,20 @@
         "Def": true,
         "Label": "Sensor de Apertura (Alarma 3,3,2)"
       }
+    ],
+    "Cámara": [
+      {
+        "Price": 175.00,
+        "Features": [
+          "5MP",
+          "Alarma Inteligente",
+          "Grabación x movimiento",
+          "Micro SD"
+        ],
+        "Date": "2024-04-30T17:29:47.1665361-04:00",
+        "Update": "2024-05-01T10:39:00.1800687-04:00",
+        "Label": "Cámara Videovigilancia Reolink [RLC-510WA]"
+      }
     ]
   }
 }
