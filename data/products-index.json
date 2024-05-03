@@ -732,6 +732,32 @@
         "Update": "2024-05-03T13:57:12.3548409-04:00",
         "Label": "Cell Samsung Galaxy A25 5G 6GB 128GB [A256E/DSN] Blue Black"
       }
+    ],
+    "Otros": [
+      {
+        "Price": 6.00,
+        "Features": [
+          "DataTraveler",
+          "100 G3",
+          "USB 3.0"
+        ],
+        "Date": "2023-08-16T09:46:42.1083883-04:00",
+        "Update": "2024-05-03T14:03:33.0941252-04:00",
+        "Label": "Flash USB - Kingston 32GB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "USB 3.2",
+          "HDD",
+          "SDD",
+          "SHDD"
+        ],
+        "Date": "2023-08-16T09:46:51.7650723-04:00",
+        "Update": "2024-05-03T14:03:33.1822616-04:00",
+        "Def": true,
+        "Label": "Externo 2.5 Seagate FireCuda Gaming RGB 2TB"
+      }
     ]
   },
   "Seguridad": {
