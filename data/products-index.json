@@ -695,6 +695,43 @@
         "Update": "2024-04-15T10:02:13.8347518-04:00",
         "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
       }
+    ],
+    "Celular": [
+      {
+        "Price": 195.00,
+        "Features": [
+          "6GB",
+          "128GB",
+          "DualSim",
+          "4G"
+        ],
+        "Date": "2024-05-03T13:49:57.4666952-04:00",
+        "Update": "2024-05-03T13:57:12.3086251-04:00",
+        "Label": "Cell Samsung Galaxy A15 6GB 128GB [A155M/DSN] Blue Black"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "6GB",
+          "128GB",
+          "DualSim",
+          "4G"
+        ],
+        "Date": "2024-05-03T13:49:58.995488-04:00",
+        "Update": "2024-05-03T13:57:12.3258296-04:00",
+        "Label": "Cell Samsung Galaxy A15 6GB 128GB [A155M/DSN] Light Blue"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "6GB",
+          "128GB",
+          "DualSim"
+        ],
+        "Date": "2024-05-03T13:50:00.7014945-04:00",
+        "Update": "2024-05-03T13:57:12.3548409-04:00",
+        "Label": "Cell Samsung Galaxy A25 5G 6GB 128GB [A256E/DSN] Blue Black"
+      }
     ]
   },
   "Seguridad": {
