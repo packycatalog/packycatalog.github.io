@@ -1,0 +1,21 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/cell-samsung-galaxy-a15-6gb-128gb-a155mdsn-light-b-md0sf2-1.webp",
+    "/images/products/cell-samsung-galaxy-a15-6gb-128gb-a155mdsn-light-b-md0sf2-2.webp",
+    "/images/products/cell-samsung-galaxy-a15-6gb-128gb-a155mdsn-light-b-md0sf2-3.webp",
+    "/images/products/cell-samsung-galaxy-a15-6gb-128gb-a155mdsn-light-b-md0sf2-4.webp"
+  ],
+  "Description": "",
+  "Price": 195.00,
+  "Features": [
+    "6GB",
+    "128GB",
+    "DualSim",
+    "4G"
+  ],
+  "Date": "2024-05-03T13:49:58.995488-04:00",
+  "Update": "2024-05-03T13:57:12.3258296-04:00",
+  "Label": "Cell Samsung Galaxy A15 6GB 128GB [A155M/DSN] Light Blue"
+}
