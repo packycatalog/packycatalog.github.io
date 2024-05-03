@@ -740,14 +740,6 @@
         "Label": "Sensor de Movimiento Inalámbrico 433mhz, 2x Bateria AA"
       },
       {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2024-02-06T14:02:08.109843-05:00",
-        "Update": "2024-04-10T00:34:29.1425136-04:00",
-        "Def": true,
-        "Label": "Sensor de Apertura (Alarma 3,3,2)"
-      },
-      {
         "Price": 110.00,
         "Features": [
           "Sporta línea",
