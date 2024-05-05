@@ -708,7 +708,7 @@
         "Label": "Externo 2.5 Seagate FireCuda Gaming RGB 2TB"
       }
     ],
-    "Cell": [
+    "Celular": [
       {
         "Price": 195.00,
         "Features": [
@@ -716,7 +716,7 @@
           "[A155M/DSN]"
         ],
         "Date": "2024-05-03T13:49:57.4666952-04:00",
-        "Update": "2024-05-05T13:25:06.6532065-04:00",
+        "Update": "2024-05-05T13:27:29.9558717-04:00",
         "Label": "Cell Samsung Galaxy A15 (2024) 6GB RAM 128GB Blue Black"
       },
       {
@@ -727,7 +727,7 @@
           "[A155M/DSN]"
         ],
         "Date": "2024-05-03T13:49:58.995488-04:00",
-        "Update": "2024-05-05T13:25:06.6712902-04:00",
+        "Update": "2024-05-05T13:27:29.9752696-04:00",
         "Label": "Cell Samsung Galaxy A15 (2024) 6GB RAM/128GB AMOLED Light Blue"
       },
       {
@@ -738,7 +738,7 @@
           "[A256E/DSN]"
         ],
         "Date": "2024-05-03T13:50:00.7014945-04:00",
-        "Update": "2024-05-05T13:25:06.6900424-04:00",
+        "Update": "2024-05-05T13:27:29.9937522-04:00",
         "Label": "Cell Samsung Galaxy A25 5G 6GB 128GB Blue Black"
       }
     ]
