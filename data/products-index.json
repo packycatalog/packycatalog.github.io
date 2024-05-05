@@ -710,17 +710,6 @@
     ],
     "Celular": [
       {
-        "Price": 195.00,
-        "Features": [
-          "Dual SIM",
-          "4G",
-          "[A155M/DSN]"
-        ],
-        "Date": "2024-05-03T13:49:58.995488-04:00",
-        "Update": "2024-05-04T15:58:01.1719394-04:00",
-        "Label": "Cell Samsung Galaxy A15 6GB 128GB Light Blue"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "Dual SIM",
@@ -739,6 +728,17 @@
         "Date": "2024-05-03T13:49:57.4666952-04:00",
         "Update": "2024-05-05T12:23:58.116513-04:00",
         "Label": "Cell Samsung Galaxy A15 (2024) 6GB RAM/128GB AMOLED Blue Black"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Dual SIM",
+          "4G",
+          "[A155M/DSN]"
+        ],
+        "Date": "2024-05-03T13:49:58.995488-04:00",
+        "Update": "2024-05-05T12:25:01.8669161-04:00",
+        "Label": "Cell Samsung Galaxy A15 (2024) 6GB RAM/128GB AMOLED Light Blue"
       }
     ]
   },
