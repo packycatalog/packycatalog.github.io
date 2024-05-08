@@ -680,19 +680,6 @@
         "Date": "2023-08-16T09:46:42.1083883-04:00",
         "Update": "2024-05-03T14:03:33.0941252-04:00",
         "Label": "Flash USB - Kingston 32GB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "USB 3.2",
-          "HDD",
-          "SDD",
-          "SHDD"
-        ],
-        "Date": "2023-08-16T09:46:51.7650723-04:00",
-        "Update": "2024-05-03T14:03:33.1822616-04:00",
-        "Def": true,
-        "Label": "Externo 2.5 Seagate FireCuda Gaming RGB 2TB"
       }
     ],
     "Celular": [
