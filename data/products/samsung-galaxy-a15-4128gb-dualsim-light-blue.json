@@ -1,0 +1,31 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-a15-4128gb-dualsim-light-blue-1.webp"
+  ],
+  "Description": "",
+  "Price": 160.00,
+  "Features": [
+    "6.5\"",
+    "50+5+2MP Triple",
+    "13MP Front",
+    "25W",
+    "Super AMOLED",
+    "5000mAh",
+    "90Hz",
+    "800nits",
+    "396ppi",
+    "Mediatek Helio G99",
+    "1080p@30fps",
+    "Jack 3.5",
+    "Fingerprint",
+    "3G-LTE",
+    "300Mbps",
+    "A155F/DSN",
+    "2023 Diciembre"
+  ],
+  "Date": "2024-05-10T15:16:51.4208325-04:00",
+  "Update": "2024-05-10T15:23:36.2566346-04:00",
+  "Label": "Samsung Galaxy A15 4+128GB DualSim Light Blue"
+}
