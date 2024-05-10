@@ -684,30 +684,6 @@
     ],
     "Celular": [
       {
-        "Price": 240.00,
-        "Features": [
-          "6.5\"",
-          "50+8+2MP Triple",
-          "13MP Front",
-          "25W",
-          "Super AMOLED",
-          "5000mAh",
-          "120Hz",
-          "1000nits",
-          "396ppi",
-          "Exynos 1280",
-          "4K@30fps",
-          "Jack 3.5",
-          "Fingerprint",
-          "3G-LTE-5G",
-          "A256E/DSN",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-05-03T13:50:00.7014945-04:00",
-        "Update": "2024-05-10T15:23:36.220706-04:00",
-        "Label": "Samsung Galaxy A25 5G 6GB+128GB DualSim Blue Black"
-      },
-      {
         "Price": 145.00,
         "Features": [],
         "Date": "2024-05-10T15:16:45.453792-04:00",
@@ -850,6 +826,30 @@
         "Label": "Samsung Galaxy A15 4+128GB DualSim Light Blue"
       },
       {
+        "Price": 240.00,
+        "Features": [
+          "6.5\"",
+          "50+8+2MP Triple",
+          "13MP Front",
+          "Exynos 1280",
+          "396ppi",
+          "Super AMOLED",
+          "120Hz",
+          "1000nits",
+          "25W",
+          "4K@30fps",
+          "5000mAh",
+          "3G-LTE-5G",
+          "Jack 3.5",
+          "Fingerprint",
+          "A256E/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-05-03T13:50:00.7014945-04:00",
+        "Update": "2024-05-10T15:47:47.0679131-04:00",
+        "Label": "Samsung Galaxy A25 5G 6GB+128GB DualSim Blue Black"
+      },
+      {
         "Price": 230.00,
         "Features": [
           "6.67\"",
@@ -872,7 +872,7 @@
           "2024 Enero"
         ],
         "Date": "2024-05-10T15:16:58.8713407-04:00",
-        "Update": "2024-05-10T15:41:57.6702071-04:00",
+        "Update": "2024-05-10T15:47:47.0983417-04:00",
         "Label": "Xiaomi Redmi Note 13 8+256GB Midnight Black"
       }
     ]
