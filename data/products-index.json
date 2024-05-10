@@ -684,34 +684,6 @@
     ],
     "Celular": [
       {
-        "Price": 145.00,
-        "Features": [],
-        "Date": "2024-05-10T15:16:45.453792-04:00",
-        "Update": "2024-05-10T15:23:36.2207375-04:00",
-        "Label": "Cell - Samsung Galaxy A05s 4/64GB [A057F/DS] Black"
-      },
-      {
-        "Price": 145.00,
-        "Features": [],
-        "Date": "2024-05-10T15:16:46.5366989-04:00",
-        "Update": "2024-05-10T15:23:36.2207485-04:00",
-        "Label": "Cell - Samsung Galaxy A05s 4/64GB [A057F/DS] Light Violet"
-      },
-      {
-        "Price": 145.00,
-        "Features": [],
-        "Date": "2024-05-10T15:16:48.0367719-04:00",
-        "Update": "2024-05-10T15:23:36.2207565-04:00",
-        "Label": "Cell - Samsung Galaxy A05s 4/64GB [A057F/DS] Silver"
-      },
-      {
-        "Price": 150.00,
-        "Features": [],
-        "Date": "2024-05-10T15:16:52.9512619-04:00",
-        "Update": "2024-05-10T15:23:36.2566741-04:00",
-        "Label": "Cell - Samsung Galaxy M14 4/64GB [M145F/DS] Sappire Blue"
-      },
-      {
         "Price": 140.00,
         "Features": [],
         "Date": "2024-05-10T15:16:54.6347045-04:00",
@@ -874,6 +846,98 @@
         "Date": "2024-05-10T15:16:58.8713407-04:00",
         "Update": "2024-05-10T15:47:47.0983417-04:00",
         "Label": "Xiaomi Redmi Note 13 8+256GB Midnight Black"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:45.453792-04:00",
+        "Update": "2024-05-10T16:07:56.8809847-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB Black"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:46.5366989-04:00",
+        "Update": "2024-05-10T16:07:56.8984659-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB Light Violet"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:48.0367719-04:00",
+        "Update": "2024-05-10T16:07:56.9182928-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB Silver"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "M145F/DS",
+          "2024 Marzo"
+        ],
+        "Date": "2024-05-10T15:16:52.9512619-04:00",
+        "Update": "2024-05-10T16:07:56.9453948-04:00",
+        "Label": "Samsung Galaxy M14 4+64GB Sappire Blue"
       }
     ]
   },
