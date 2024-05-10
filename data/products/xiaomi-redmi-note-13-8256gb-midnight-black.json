@@ -1,0 +1,32 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/xiaomi-redmi-note-13-8256gb-midnight-black-1.webp"
+  ],
+  "Description": "",
+  "Price": 230.00,
+  "Features": [
+    "6.67\"",
+    "108+8+2MP",
+    "16MP Front",
+    "Snapdragon 685",
+    "395ppi",
+    "AMOLED",
+    "120Hz",
+    "1000nits",
+    "33W",
+    "1080p@30fps",
+    "Gorilla Glass 3",
+    "IP54",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "23129RA5FL",
+    "2024 Enero"
+  ],
+  "Date": "2024-05-10T15:16:58.8713407-04:00",
+  "Update": "2024-05-10T15:41:57.6702071-04:00",
+  "Label": "Xiaomi Redmi Note 13 8+256GB Midnight Black"
+}
