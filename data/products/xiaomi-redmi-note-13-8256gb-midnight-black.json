@@ -2,7 +2,11 @@
   "Category": "Electrónica",
   "SubCategory": "Celular",
   "Images": [
-    "/images/products/xiaomi-redmi-note-13-8256gb-midnight-black-1.webp"
+    "/images/products/xiaomi-redmi-note-13-8256gb-midnight-black-1.webp",
+    "/images/products/xiaomi-redmi-note-13-8256gb-midnight-black-2.webp",
+    "/images/products/xiaomi-redmi-note-13-8256gb-midnight-black-3.webp",
+    "/images/products/xiaomi-redmi-note-13-8256gb-midnight-black-4.webp",
+    "/images/products/xiaomi-redmi-note-13-8256gb-midnight-black-5.webp"
   ],
   "Description": "",
   "Price": 230.00,
@@ -27,6 +31,6 @@
     "2024 Enero"
   ],
   "Date": "2024-05-10T15:16:58.8713407-04:00",
-  "Update": "2024-05-10T15:41:57.6702071-04:00",
+  "Update": "2024-05-10T15:47:47.0983417-04:00",
   "Label": "Xiaomi Redmi Note 13 8+256GB Midnight Black"
 }
