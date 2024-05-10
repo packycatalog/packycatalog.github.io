@@ -1,0 +1,33 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/cell-samsung-galaxy-a15-6gb128gb-dualsim-light-blu-df6aa0-1.webp",
+    "/images/products/cell-samsung-galaxy-a15-6gb128gb-dualsim-light-blu-df6aa0-2.webp",
+    "/images/products/cell-samsung-galaxy-a15-6gb128gb-dualsim-light-blu-df6aa0-3.webp",
+    "/images/products/cell-samsung-galaxy-a15-6gb128gb-dualsim-light-blu-df6aa0-4.webp"
+  ],
+  "Description": "",
+  "Price": 175.00,
+  "Features": [
+    "6.5\"",
+    "50+5+2MP Triple",
+    "13MP Front",
+    "25W",
+    "Super AMOLED",
+    "5000mAh",
+    "90Hz",
+    "800nits",
+    "396ppi",
+    "Mediatek Helio G99",
+    "Jack 3.5",
+    "Fingerprint",
+    "2G-3G-4G",
+    "300Mbps",
+    "A155M/DSN",
+    "2023 Diciembre"
+  ],
+  "Date": "2024-05-03T13:49:58.995488-04:00",
+  "Update": "2024-05-10T09:55:25.4936295-04:00",
+  "Label": "Cell Samsung Galaxy A15 6GB+128GB DualSim Light Blue"
+}
