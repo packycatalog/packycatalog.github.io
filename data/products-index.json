@@ -705,8 +705,8 @@
           "2023 Diciembre"
         ],
         "Date": "2024-05-03T13:49:57.4666952-04:00",
-        "Update": "2024-05-10T10:04:22.9688771-04:00",
-        "Label": "Cell Samsung Galaxy A15 6GB+128GB DualSim Blue Black"
+        "Update": "2024-05-10T15:23:36.1837904-04:00",
+        "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black"
       },
       {
         "Price": 175.00,
@@ -730,8 +730,8 @@
           "2023 Diciembre"
         ],
         "Date": "2024-05-03T13:49:58.995488-04:00",
-        "Update": "2024-05-10T10:04:22.9887794-04:00",
-        "Label": "Cell Samsung Galaxy A15 6GB+128GB DualSim Light Blue"
+        "Update": "2024-05-10T15:23:36.2016285-04:00",
+        "Label": "Samsung Galaxy A15 6+128GB DualSim Light Blue"
       },
       {
         "Price": 240.00,
@@ -754,8 +754,107 @@
           "2023 Diciembre"
         ],
         "Date": "2024-05-03T13:50:00.7014945-04:00",
-        "Update": "2024-05-10T10:04:23.0076176-04:00",
-        "Label": "Cell Samsung Galaxy A25 5G 6GB+128GB DualSim Blue Black"
+        "Update": "2024-05-10T15:23:36.220706-04:00",
+        "Label": "Samsung Galaxy A25 5G 6GB+128GB DualSim Blue Black"
+      },
+      {
+        "Price": 145.00,
+        "Features": [],
+        "Date": "2024-05-10T15:16:45.453792-04:00",
+        "Update": "2024-05-10T15:23:36.2207375-04:00",
+        "Label": "Cell - Samsung Galaxy A05s 4/64GB [A057F/DS] Black"
+      },
+      {
+        "Price": 145.00,
+        "Features": [],
+        "Date": "2024-05-10T15:16:46.5366989-04:00",
+        "Update": "2024-05-10T15:23:36.2207485-04:00",
+        "Label": "Cell - Samsung Galaxy A05s 4/64GB [A057F/DS] Light Violet"
+      },
+      {
+        "Price": 145.00,
+        "Features": [],
+        "Date": "2024-05-10T15:16:48.0367719-04:00",
+        "Update": "2024-05-10T15:23:36.2207565-04:00",
+        "Label": "Cell - Samsung Galaxy A05s 4/64GB [A057F/DS] Silver"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "6.5\"",
+          "50+5+2MP Triple",
+          "13MP Front",
+          "25W",
+          "Super AMOLED",
+          "5000mAh",
+          "90Hz",
+          "800nits",
+          "396ppi",
+          "Mediatek Helio G99",
+          "1080p@30fps",
+          "Jack 3.5",
+          "Fingerprint",
+          "3G-LTE",
+          "300Mbps",
+          "A155F/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-05-10T15:16:49.4752287-04:00",
+        "Update": "2024-05-10T15:23:36.2386562-04:00",
+        "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "6.5\"",
+          "50+5+2MP Triple",
+          "13MP Front",
+          "25W",
+          "Super AMOLED",
+          "5000mAh",
+          "90Hz",
+          "800nits",
+          "396ppi",
+          "Mediatek Helio G99",
+          "1080p@30fps",
+          "Jack 3.5",
+          "Fingerprint",
+          "3G-LTE",
+          "300Mbps",
+          "A155F/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-05-10T15:16:51.4208325-04:00",
+        "Update": "2024-05-10T15:23:36.2566346-04:00",
+        "Label": "Samsung Galaxy A15 4+128GB DualSim Light Blue"
+      },
+      {
+        "Price": 150.00,
+        "Features": [],
+        "Date": "2024-05-10T15:16:52.9512619-04:00",
+        "Update": "2024-05-10T15:23:36.2566741-04:00",
+        "Label": "Cell - Samsung Galaxy M14 4/64GB [M145F/DS] Sappire Blue"
+      },
+      {
+        "Price": 140.00,
+        "Features": [],
+        "Date": "2024-05-10T15:16:54.6347045-04:00",
+        "Update": "2024-05-10T15:23:36.2566823-04:00",
+        "Label": "Cell - Xiaomi Redmi Note 11E 4/128GB [22041219C] Black"
+      },
+      {
+        "Price": 140.00,
+        "Features": [],
+        "Date": "2024-05-10T15:16:56.4407056-04:00",
+        "Update": "2024-05-10T15:23:36.2566902-04:00",
+        "Label": "Cell - Xiaomi Redmi Note 11E 4/128GB [22041219C] Silver"
+      },
+      {
+        "Price": 230.00,
+        "Features": [],
+        "Date": "2024-05-10T15:16:58.8713407-04:00",
+        "Update": "2024-05-10T15:23:36.2566983-04:00",
+        "Label": "Xiaomi Redmi Note 13 8/256GB [23129RASFL] Midnight Black"
       }
     ]
   },
