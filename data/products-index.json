@@ -118,35 +118,6 @@
         "Label": "Kindi Kids Arcoiris + Accesorios"
       }
     ],
-    "Educativo": [
-      {
-        "Price": 22.00,
-        "Features": [
-          "78 piezas",
-          "+3 Años",
-          "Educativo",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2023-09-02T12:58:06.049714-04:00",
-        "Update": "2024-02-09T18:12:08.241064-05:00",
-        "Label": "JCREN Letras Magnéticas, Números y Símbolos Matemáticos"
-      },
-      {
-        "Price": 12.00,
-        "Features": [
-          "LCD",
-          "22cm",
-          "Lápiz óptico",
-          "+2 Años",
-          "Niña",
-          "Niño"
-        ],
-        "Date": "2024-01-25T16:33:08.7600689-05:00",
-        "Update": "2024-03-16T09:27:34.970912-04:00",
-        "Label": "Tableta de Escritura"
-      }
-    ],
     "Juego de mesa": [
       {
         "Price": 53.00,
@@ -215,6 +186,22 @@
         "Date": "2024-01-25T16:32:57.1848232-05:00",
         "Update": "2024-03-16T09:51:15.7003506-04:00",
         "Label": "COMBO Camiones de Bomberos. Bomberos + Ambulancia + Helicóptero"
+      }
+    ],
+    "Educativo": [
+      {
+        "Price": 12.00,
+        "Features": [
+          "LCD",
+          "22cm",
+          "Lápiz óptico",
+          "+2 Años",
+          "Niña",
+          "Niño"
+        ],
+        "Date": "2024-01-25T16:33:08.7600689-05:00",
+        "Update": "2024-03-16T09:27:34.970912-04:00",
+        "Label": "Tableta de Escritura"
       }
     ],
     "Lanza Dardos": [
@@ -1013,20 +1000,6 @@
         "Date": "2024-03-01T23:25:57.4157746-05:00",
         "Update": "2024-04-10T00:19:48.3491176-04:00",
         "Label": "Sensor de Movimiento Inalámbrico 433mhz, 2x Bateria AA"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "Sporta línea",
-          "WiFi",
-          "2x Movimento",
-          "2x Apertura",
-          "2x Controles",
-          "5x RFID"
-        ],
-        "Date": "2024-02-06T14:02:01.1962435-05:00",
-        "Update": "2024-05-01T17:44:03.9666735-04:00",
-        "Label": "Alarma Inalámbrica. 8x Componentes"
       },
       {
         "Price": 180.00,
