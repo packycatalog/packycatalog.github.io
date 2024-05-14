@@ -1102,5 +1102,22 @@
         "Label": "Cámara Videovigilancia Reolink [RLC-810WA]"
       }
     ]
+  },
+  "Otros": {
+    "Contadora": [
+      {
+        "Price": 195.00,
+        "Features": [
+          "UV/MG/IR/DD/DBL/HLF/CHN,",
+          "conteo de valores",
+          "añadir",
+          "lotes",
+          "Pantalla LCD extra"
+        ],
+        "Date": "2024-02-07T10:16:39.8075858-05:00",
+        "Update": "2024-05-14T12:33:34.0493323-04:00",
+        "Label": "Contadora de Billetes VEVOR USD/EUR"
+      }
+    ]
   }
 }
