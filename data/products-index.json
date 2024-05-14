@@ -1047,6 +1047,20 @@
         "Date": "2024-04-30T17:29:47.1665361-04:00",
         "Update": "2024-05-01T18:52:14.1842122-04:00",
         "Label": "Cámara Videovigilancia Reolink [RLC-510WA]"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "2K",
+          "Alarma",
+          "Visión Nocturna",
+          "Audio",
+          "IP65",
+          "Wifi"
+        ],
+        "Date": "2024-05-02T14:41:36.9265145-04:00",
+        "Update": "2024-05-14T11:03:31.9278482-04:00",
+        "Label": "Cámara Videovigilancia GNCC"
       }
     ]
   }
