@@ -1033,6 +1033,31 @@
         "Date": "2024-02-06T14:02:08.109843-05:00",
         "Update": "2024-05-14T10:31:15.5092615-04:00",
         "Label": "Sensor de Apertura"
+      },
+      {
+        "Price": 20.00,
+        "Features": [
+          "433MHz",
+          "EV1527",
+          "PIR",
+          "Batería 9v (Incluida)"
+        ],
+        "Date": "2024-05-08T12:46:54.9316664-04:00",
+        "Update": "2024-05-14T12:27:39.4006466-04:00",
+        "Label": "Sensor de movimiento Inalámbrico + Antena Externa"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "GSM",
+          "WiFi",
+          "1x Movimento",
+          "1x Apertura",
+          "2x Controles"
+        ],
+        "Date": "2024-05-01T17:13:55.1702473-04:00",
+        "Update": "2024-05-14T12:27:39.4332357-04:00",
+        "Label": "Alarma Inalámbrica 7x Componentes"
       }
     ],
     "Cámara": [
@@ -1061,6 +1086,20 @@
         "Date": "2024-05-02T14:41:36.9265145-04:00",
         "Update": "2024-05-14T11:03:31.9278482-04:00",
         "Label": "Cámara Videovigilancia GNCC"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "4K UHD/8MP",
+          "Alarma Inteligente",
+          "Grabación x movimiento",
+          "MicroSD",
+          "Audio",
+          "Impermeable IP67"
+        ],
+        "Date": "2024-05-01T17:48:49.0768902-04:00",
+        "Update": "2024-05-14T12:27:39.3693559-04:00",
+        "Label": "Cámara Videovigilancia Reolink [RLC-810WA]"
       }
     ]
   }
