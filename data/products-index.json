@@ -411,17 +411,6 @@
         "Label": "Team Elite 16GB DDR5"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "RAM",
-          "3200MHz",
-          "C18"
-        ],
-        "Date": "2023-10-15T12:56:25.0943105-04:00",
-        "Update": "2024-02-05T13:21:55.2726382-05:00",
-        "Label": "Patriot Viper Steel 32GB DDR4"
-      },
-      {
         "Price": 60.00,
         "Features": [
           "RAM",
@@ -652,19 +641,6 @@
         "Date": "2023-10-23T13:08:00.5369718-04:00",
         "Update": "2024-04-09T23:55:20.7245562-04:00",
         "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
-      },
-      {
-        "Price": 775.00,
-        "Features": [
-          "GAMER",
-          "IPS",
-          "144Hz",
-          "Backlit",
-          "+ Enfriamiento"
-        ],
-        "Date": "2023-11-16T20:24:36.5443561-05:00",
-        "Update": "2024-04-15T10:02:13.8347518-04:00",
-        "Label": "MSI Thin RTX 4050, i7-12650H, 16GB RAM, 15.6FHD, 512SSD"
       }
     ],
     "Otros": [
