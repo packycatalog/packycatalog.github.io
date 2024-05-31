@@ -1044,6 +1044,33 @@
         "Update": "2024-05-14T12:33:34.0493323-04:00",
         "Label": "Contadora de Billetes VEVOR USD/EUR"
       }
+    ],
+    "Piscina": [
+      {
+        "Price": 470.00,
+        "Features": [
+          "Piscina",
+          "Gris",
+          "inoxidable",
+          "PVC3",
+          "330 galones"
+        ],
+        "Date": "2024-05-30T14:01:23.8832779-04:00",
+        "Update": "2024-05-31T19:57:51.8432808-04:00",
+        "Label": "Bestway Steel Pro Max 12'(3.65m x 76.2cm)"
+      },
+      {
+        "Price": 650.00,
+        "Features": [
+          "Gris",
+          "Ovalada",
+          "PVC3",
+          "Inoxidable"
+        ],
+        "Date": "2024-05-30T14:01:28.7923279-04:00",
+        "Update": "2024-05-31T19:57:51.8662201-04:00",
+        "Label": "Bestway Steel Pro MAX, 14ft x 33in (4.27m x 83.82cm)"
+      }
     ]
   }
 }
