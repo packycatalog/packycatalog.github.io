@@ -609,19 +609,6 @@
         "Label": "MicroSD Team Group 32GB + Adapter"
       }
     ],
-    "Laptop": [
-      {
-        "Price": 950.00,
-        "Features": [
-          "Backlit",
-          "IPS",
-          "NVMe"
-        ],
-        "Date": "2023-10-23T13:08:00.5369718-04:00",
-        "Update": "2024-04-09T23:55:20.7245562-04:00",
-        "Label": "MSI PRO i9-13900H, 32GB RAM, 15.6FHD, 1TB SSD M.2"
-      }
-    ],
     "Otros": [
       {
         "Price": 6.00,
