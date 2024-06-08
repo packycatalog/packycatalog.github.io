@@ -1,0 +1,30 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-a05-464gb-dualsim-black-1.webp",
+    "/images/products/samsung-galaxy-a05-464gb-dualsim-black-2.webp",
+    "/images/products/samsung-galaxy-a05-464gb-dualsim-black-3.webp",
+    "/images/products/samsung-galaxy-a05-464gb-dualsim-black-4.webp",
+    "/images/products/samsung-galaxy-a05-464gb-dualsim-black-5.webp"
+  ],
+  "Description": "",
+  "Price": 125.00,
+  "Features": [
+    "6.7\"",
+    "50+2MP",
+    "8MP Front",
+    "Mediatek MT6769V/CZ Helio G85",
+    "262ppi",
+    "PLS LCD",
+    "25W",
+    "1080p@30/60fps",
+    "5000mAh",
+    "3G-LTE",
+    "A05F/DS",
+    "2023 Octubre"
+  ],
+  "Date": "2024-06-08T07:41:11.7454698-04:00",
+  "Update": "2024-06-08T09:04:37.3906704-04:00",
+  "Label": "Samsung Galaxy A05 4+64GB DualSim Black"
+}
