@@ -945,12 +945,19 @@
         "Label": "Cover Samsung Galaxy A05s / M14 / A14"
       },
       {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-06-08T10:19:35.2943993-04:00",
+        "Update": "2024-06-08T10:36:54.6094332-04:00",
+        "Label": "Cover Samsung Galaxy A05"
+      },
+      {
         "Price": 140.00,
         "Features": [
           "2311DNR14I"
         ],
         "Date": "2024-06-08T08:30:25.6778796-04:00",
-        "Update": "2024-06-08T10:36:54.5709768-04:00",
+        "Update": "2024-06-08T10:40:47.196173-04:00",
         "Label": "Xiaomi Redmi Note 13C 4+128GB DualSim Starfrost White"
       },
       {
@@ -959,15 +966,8 @@
           "2311DNR14I"
         ],
         "Date": "2024-06-08T08:35:09.7815093-04:00",
-        "Update": "2024-06-08T10:36:54.5893211-04:00",
+        "Update": "2024-06-08T10:40:47.2184075-04:00",
         "Label": "Xiaomi Redmi Note 13C 4+128GB DualSim Starshine Green"
-      },
-      {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-06-08T10:19:35.2943993-04:00",
-        "Update": "2024-06-08T10:36:54.6094332-04:00",
-        "Label": "Cover Samsung Galaxy A05"
       }
     ]
   },
