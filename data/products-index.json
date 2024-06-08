@@ -923,13 +923,6 @@
         "Label": "Cover Samsung Galaxy A05s / M14 / A14"
       },
       {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-06-08T10:19:35.2943993-04:00",
-        "Update": "2024-06-08T10:36:54.6094332-04:00",
-        "Label": "Cover Samsung Galaxy A05"
-      },
-      {
         "Price": 20.00,
         "Features": [
           "Cargador",
@@ -1013,6 +1006,13 @@
         "Date": "2024-06-08T08:35:09.7815093-04:00",
         "Update": "2024-06-08T18:05:46.0804672-04:00",
         "Label": "Xiaomi Redmi Note 13C 4+128GB DualSim Starshine Green"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-06-08T10:19:35.2943993-04:00",
+        "Update": "2024-06-08T18:18:03.847139-04:00",
+        "Label": "Cover Samsung Galaxy A05"
       }
     ]
   },
