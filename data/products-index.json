@@ -802,19 +802,6 @@
         "Label": "Xiaomi Redmi Note 11E 4+128GB DualSim Silver"
       },
       {
-        "Price": 20.00,
-        "Features": [
-          "Cargador",
-          "USB-C",
-          "25W",
-          "[EP-TA800]",
-          "Black"
-        ],
-        "Date": "2024-05-26T13:16:19.1549423-04:00",
-        "Update": "2024-05-28T14:05:00.3718806-04:00",
-        "Label": "Samsung Super Charger"
-      },
-      {
         "Price": 3.00,
         "Features": [],
         "Date": "2024-05-26T13:29:18.1399409-04:00",
@@ -968,6 +955,19 @@
         "Date": "2024-06-08T08:35:09.7815093-04:00",
         "Update": "2024-06-08T10:40:47.2184075-04:00",
         "Label": "Xiaomi Redmi Note 13C 4+128GB DualSim Starshine Green"
+      },
+      {
+        "Price": 20.00,
+        "Features": [
+          "Cargador",
+          "USB-C",
+          "25W",
+          "[EP-TA800]",
+          "Black"
+        ],
+        "Date": "2024-05-26T13:16:19.1549423-04:00",
+        "Update": "2024-06-08T17:57:45.4724767-04:00",
+        "Label": "Samsung Super Charger"
       }
     ]
   },
