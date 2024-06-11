@@ -911,6 +911,13 @@
         "Label": "Samsung Super Charger"
       },
       {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-06-08T10:19:35.2943993-04:00",
+        "Update": "2024-06-08T18:18:03.847139-04:00",
+        "Label": "Cover Samsung Galaxy A05"
+      },
+      {
         "Price": 140.00,
         "Features": [
           "6.64\"",
@@ -931,8 +938,8 @@
           "2024 Enero"
         ],
         "Date": "2024-06-08T08:26:04.232994-04:00",
-        "Update": "2024-06-08T18:05:46.037111-04:00",
-        "Label": "Xiaomi Redmi Note 13C 4+128GB DualSim Stardust Black"
+        "Update": "2024-06-11T12:43:05.0623489-04:00",
+        "Label": "Xiaomi Redmi 13C 4+128GB DualSim Stardust Black"
       },
       {
         "Price": 140.00,
@@ -955,8 +962,8 @@
           "2024 Enero"
         ],
         "Date": "2024-06-08T08:30:25.6778796-04:00",
-        "Update": "2024-06-08T18:05:46.0590681-04:00",
-        "Label": "Xiaomi Redmi Note 13C 4+128GB DualSim Starfrost White"
+        "Update": "2024-06-11T12:43:05.0847861-04:00",
+        "Label": "Xiaomi Redmi 13C 4+128GB DualSim Starfrost White"
       },
       {
         "Price": 140.00,
@@ -979,15 +986,8 @@
           "2024 Enero"
         ],
         "Date": "2024-06-08T08:35:09.7815093-04:00",
-        "Update": "2024-06-08T18:05:46.0804672-04:00",
-        "Label": "Xiaomi Redmi Note 13C 4+128GB DualSim Starshine Green"
-      },
-      {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-06-08T10:19:35.2943993-04:00",
-        "Update": "2024-06-08T18:18:03.847139-04:00",
-        "Label": "Cover Samsung Galaxy A05"
+        "Update": "2024-06-11T12:43:05.1075699-04:00",
+        "Label": "Xiaomi Redmi 13C 4+128GB DualSim Starshine Green"
       }
     ]
   },
