@@ -1,0 +1,19 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/generic-super-charger-1.webp"
+  ],
+  "Description": "",
+  "Price": 5.00,
+  "Features": [
+    "Cargador",
+    "USB-C",
+    "25W",
+    "[EP-TA800]",
+    "White"
+  ],
+  "Date": "2024-06-13T19:29:25.6362916-04:00",
+  "Update": "2024-06-13T19:40:35.0137-04:00",
+  "Label": "Generic Super Charger"
+}
