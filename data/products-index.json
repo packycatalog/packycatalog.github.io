@@ -762,35 +762,6 @@
         "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Midnight Black"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "6.7\"",
-          "50+2MP",
-          "8MP Front",
-          "Mediatek MT6769V/CZ Helio G85",
-          "262ppi",
-          "PLS LCD",
-          "25W",
-          "1080p@30/60fps",
-          "5000mAh",
-          "3G-LTE",
-          "A05F/DS",
-          "2023 Octubre"
-        ],
-        "Date": "2024-06-08T07:41:11.7454698-04:00",
-        "Update": "2024-06-08T09:04:37.3906704-04:00",
-        "Label": "Samsung Galaxy A05 4+64GB DualSim Black"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "A05F/DS"
-        ],
-        "Date": "2024-06-08T07:41:03.8821567-04:00",
-        "Update": "2024-06-08T09:04:37.410658-04:00",
-        "Label": "Samsung Galaxy A05 4+128GB DualSim Black"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "6.67\"",
@@ -844,6 +815,46 @@
         "Label": "Cover Samsung Galaxy A05"
       },
       {
+        "Price": 125.00,
+        "Features": [
+          "6.7\"",
+          "50+2MP",
+          "8MP Front",
+          "Mediatek MT6769V/CZ Helio G85",
+          "262ppi",
+          "PLS LCD",
+          "25W",
+          "1080p@30/60fps",
+          "5000mAh",
+          "3G-LTE",
+          "A055F/DS",
+          "2023 Octubre"
+        ],
+        "Date": "2024-06-08T07:41:11.7454698-04:00",
+        "Update": "2024-06-13T17:56:04.9139724-04:00",
+        "Label": "Samsung Galaxy A05 4+64GB DualSim Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2MP",
+          "8MP Front",
+          "Mediatek MT6769V/CZ Helio G85",
+          "262ppi",
+          "PLS LCD",
+          "25W",
+          "1080p@30/60fps",
+          "5000mAh",
+          "3G-LTE",
+          "A055F/DS",
+          "2023 Octubre"
+        ],
+        "Date": "2024-06-08T07:41:03.8821567-04:00",
+        "Update": "2024-06-13T17:56:04.9346514-04:00",
+        "Label": "Samsung Galaxy A05 4+128GB DualSim Black"
+      },
+      {
         "Price": 130.00,
         "Features": [
           "6.64\"",
@@ -860,11 +871,11 @@
           "5000mAh",
           "3G-LTE",
           "Fingerprint",
-          "Noviembre 2023",
-          "2024 Enero"
+          "2311DRN14I",
+          "Noviembre 2023"
         ],
         "Date": "2024-06-08T08:26:04.232994-04:00",
-        "Update": "2024-06-11T12:43:05.0623489-04:00",
+        "Update": "2024-06-13T17:56:04.9552806-04:00",
         "Label": "Xiaomi Redmi 13C 4+128GB DualSim Stardust Black"
       },
       {
@@ -884,11 +895,11 @@
           "5000mAh",
           "3G-LTE",
           "Fingerprint",
-          "Noviembre 2023",
-          "2024 Enero"
+          "2311DRN14I",
+          "Noviembre 2023"
         ],
         "Date": "2024-06-08T08:30:25.6778796-04:00",
-        "Update": "2024-06-11T12:43:05.0847861-04:00",
+        "Update": "2024-06-13T17:56:04.9741105-04:00",
         "Label": "Xiaomi Redmi 13C 4+128GB DualSim Starfrost White"
       },
       {
@@ -908,11 +919,11 @@
           "5000mAh",
           "3G-LTE",
           "Fingerprint",
-          "Noviembre 2023",
-          "2024 Enero"
+          "2311DRN14I",
+          "Noviembre 2023"
         ],
         "Date": "2024-06-08T08:35:09.7815093-04:00",
-        "Update": "2024-06-11T12:43:05.1075699-04:00",
+        "Update": "2024-06-13T17:56:04.9948582-04:00",
         "Label": "Xiaomi Redmi 13C 4+128GB DualSim Starshine Green"
       }
     ]
