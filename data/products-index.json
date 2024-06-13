@@ -952,6 +952,32 @@
         "Label": "Samsung Galaxy A15 4+128GB DualSim Light Blue"
       },
       {
+        "Price": 205.00,
+        "Features": [
+          "6.67\"",
+          "108+8+2MP",
+          "16MP Front",
+          "Snapdragon 685",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "33W",
+          "1080p@30fps",
+          "Gorilla Glass 3",
+          "IP54",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "23129RA5FL",
+          "2024 Enero"
+        ],
+        "Date": "2024-06-08T08:10:50.0877071-04:00",
+        "Update": "2024-06-13T19:28:40.2854294-04:00",
+        "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Ice Blue"
+      },
+      {
         "Price": 150.00,
         "Features": [
           "6.5\"",
@@ -973,8 +999,34 @@
           "2023 Diciembre"
         ],
         "Date": "2024-06-13T18:06:30.7064859-04:00",
-        "Update": "2024-06-13T18:17:04.5422353-04:00",
-        "Label": "Samsung Galaxy A15 4+128GB DualSim Yellow [A155F/DSN]"
+        "Update": "2024-06-13T19:28:40.3032037-04:00",
+        "Label": "Samsung Galaxy A15 4+128GB DualSim Yellow"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "6.67\"",
+          "108+8+2MP",
+          "16MP Front",
+          "Snapdragon 685",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "33W",
+          "1080p@30fps",
+          "Gorilla Glass 3",
+          "IP54",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "23129RA5FL",
+          "2024 Enero"
+        ],
+        "Date": "2024-06-13T18:26:56.0297232-04:00",
+        "Update": "2024-06-13T19:28:40.3223726-04:00",
+        "Label": "Xiaomi Redmi Note 13 6+128GB Midnight Black"
       }
     ]
   },
