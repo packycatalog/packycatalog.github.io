@@ -263,20 +263,6 @@
         "Label": "Capa de Barberia"
       }
     ],
-    "Rasuradora": [
-      {
-        "Price": 66.00,
-        "Features": [
-          "Inalámbrica",
-          "Autoafilable",
-          "18 Piezas",
-          "3h"
-        ],
-        "Date": "2024-03-01T23:25:40.9331894-05:00",
-        "Update": "2024-03-05T23:34:58.7967839-05:00",
-        "Label": "Philips Norelco S5000"
-      }
-    ],
     "Patillera": [
       {
         "Price": 115.00,
@@ -560,16 +546,6 @@
         "Date": "2024-02-06T22:24:24.9816392-05:00",
         "Update": "2024-03-05T23:13:53.4223305-05:00",
         "Label": "Memoria Flash TEAM Group 128GB"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Gaming",
-          "RGB"
-        ],
-        "Date": "2024-02-07T10:17:34.9184703-05:00",
-        "Update": "2024-03-11T12:09:56.144833-04:00",
-        "Label": "Headset Asus ROG Fusion II 300"
       },
       {
         "Price": 10.00,
