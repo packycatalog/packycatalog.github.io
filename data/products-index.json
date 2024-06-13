@@ -1027,6 +1027,19 @@
         "Date": "2024-06-13T18:26:56.0297232-04:00",
         "Update": "2024-06-13T19:28:40.3223726-04:00",
         "Label": "Xiaomi Redmi Note 13 6+128GB Midnight Black"
+      },
+      {
+        "Price": 5.00,
+        "Features": [
+          "Cargador",
+          "USB-C",
+          "25W",
+          "[EP-TA800]",
+          "White"
+        ],
+        "Date": "2024-06-13T19:29:25.6362916-04:00",
+        "Update": "2024-06-13T19:40:35.0137-04:00",
+        "Label": "Generic Super Charger"
       }
     ]
   },
