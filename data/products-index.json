@@ -781,13 +781,6 @@
         "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Mint Green"
       },
       {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-05-26T13:16:03.848485-04:00",
-        "Update": "2024-06-08T10:36:54.548011-04:00",
-        "Label": "Cover Samsung Galaxy A05s / M14 / A14"
-      },
-      {
         "Price": 20.00,
         "Features": [
           "Cargador",
@@ -1040,6 +1033,20 @@
         "Date": "2024-05-26T13:29:18.1399409-04:00",
         "Update": "2024-06-16T12:14:29.1663208-04:00",
         "Label": "Mica Samsung Galaxy A25, A04s, A14, A24, A34, A54 5G"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-05-26T13:16:03.848485-04:00",
+        "Update": "2024-06-16T12:32:02.0436965-04:00",
+        "Label": "Cover Samsung Galaxy A05s / M14 / A14"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-06-16T12:24:57.1698796-04:00",
+        "Update": "2024-06-16T12:32:02.0799835-04:00",
+        "Label": "Cover Samsung Galaxy A15"
       }
     ]
   },
