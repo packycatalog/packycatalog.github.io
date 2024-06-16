@@ -1,0 +1,17 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/cover-samsung-galaxy-a15-1.webp",
+    "/images/products/cover-samsung-galaxy-a15-2.webp",
+    "/images/products/cover-samsung-galaxy-a15-3.webp",
+    "/images/products/cover-samsung-galaxy-a15-4.webp",
+    "/images/products/cover-samsung-galaxy-a15-5.webp"
+  ],
+  "Description": "",
+  "Price": 5.00,
+  "Features": [],
+  "Date": "2024-06-16T12:24:57.1698796-04:00",
+  "Update": "2024-06-16T12:32:02.0799835-04:00",
+  "Label": "Cover Samsung Galaxy A15"
+}
