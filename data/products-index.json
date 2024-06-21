@@ -1032,6 +1032,31 @@
         "Label": "Cover Samsung Galaxy A14 4G/ A14 5G"
       },
       {
+        "Price": 160.00,
+        "Features": [
+          "6.5\"",
+          "50+5+2MP",
+          "13MP Front",
+          "Mediatek Helio G99",
+          "396ppi",
+          "Super AMOLED",
+          "90Hz",
+          "800nits",
+          "25W",
+          "1080p@30fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "300Mbps",
+          "A155M/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-06-21T16:04:26.2099771-04:00",
+        "Update": "2024-06-21T16:41:18.9491462-04:00",
+        "Label": "Samsung Galaxy A15 6+128GB DualSim Yellow"
+      },
+      {
         "Price": 150.00,
         "Features": [
           "6.5\"",
@@ -1053,8 +1078,8 @@
           "2023 Diciembre"
         ],
         "Date": "2024-06-21T16:13:08.64572-04:00",
-        "Update": "2024-06-21T16:25:08.0141553-04:00",
-        "Label": "Samsung Galaxy A15 4+128GB Blue Black"
+        "Update": "2024-06-21T16:41:18.9678821-04:00",
+        "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black"
       }
     ]
   },
