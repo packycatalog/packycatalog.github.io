@@ -1,0 +1,31 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-a15-4128gb-blue-black-1.webp"
+  ],
+  "Description": "",
+  "Price": 150.00,
+  "Features": [
+    "6.5\"",
+    "50+5+2MP",
+    "13MP Front",
+    "Mediatek Helio G99",
+    "396ppi",
+    "Super AMOLED",
+    "90Hz",
+    "800nits",
+    "25W",
+    "1080p@30fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "300Mbps",
+    "A155M/DSN",
+    "2023 Diciembre"
+  ],
+  "Date": "2024-06-21T16:13:08.64572-04:00",
+  "Update": "2024-06-21T16:25:08.0141553-04:00",
+  "Label": "Samsung Galaxy A15 4+128GB Blue Black"
+}
