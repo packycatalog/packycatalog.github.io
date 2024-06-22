@@ -1090,30 +1090,6 @@
         "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black"
       },
       {
-        "Price": 240.00,
-        "Features": [
-          "6.5\"",
-          "50+8+2MP Triple",
-          "13MP Front",
-          "Exynos 1280",
-          "396ppi",
-          "Super AMOLED",
-          "120Hz",
-          "1000nits",
-          "25W",
-          "4K@30fps",
-          "5000mAh",
-          "3G-LTE-5G",
-          "Jack 3.5",
-          "Fingerprint",
-          "A256E/DSN",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-06-21T16:32:39.9440485-04:00",
-        "Update": "2024-06-21T17:08:42.261333-04:00",
-        "Label": "Samsung Galaxy A25 5G 8+256GB DualSim Blue"
-      },
-      {
         "Price": 345.00,
         "Features": [
           "6.6\"",
@@ -1183,6 +1159,30 @@
         "Date": "2024-06-21T17:13:51.6955247-04:00",
         "Update": "2024-06-21T22:43:36.3711861-04:00",
         "Label": "Xiaomi Redmi Note 13 Pro 12+512GB DualSim Midnight Black"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "6.5\"",
+          "50+8+2MP Triple",
+          "13MP Front",
+          "Exynos 1280",
+          "396ppi",
+          "Super AMOLED",
+          "120Hz",
+          "1000nits",
+          "25W",
+          "4K@30fps",
+          "5000mAh",
+          "3G-LTE-5G",
+          "Jack 3.5",
+          "Fingerprint",
+          "A256E/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-06-21T16:32:39.9440485-04:00",
+        "Update": "2024-06-22T12:59:26.7772029-04:00",
+        "Label": "Samsung Galaxy A25 5G 8+256GB DualSim Blue"
       }
     ]
   },
