@@ -822,19 +822,6 @@
         "Label": "Xiaomi Redmi Note 13 6+128GB Midnight Black"
       },
       {
-        "Price": 13.00,
-        "Features": [
-          "Cargador",
-          "USB-C",
-          "25W",
-          "[EP-TA800]",
-          "White"
-        ],
-        "Date": "2024-06-13T19:29:25.6362916-04:00",
-        "Update": "2024-06-13T19:40:35.0137-04:00",
-        "Label": "Generic Super Charger"
-      },
-      {
         "Price": 7.00,
         "Features": [],
         "Date": "2024-06-16T12:24:57.1698796-04:00",
@@ -994,19 +981,6 @@
         "Label": "Samsung Galaxy A25 5G 8+256GB DualSim Blue"
       },
       {
-        "Price": 10.00,
-        "Features": [
-          "Cargador",
-          "USB-C",
-          "20W",
-          "[A2305]",
-          "White"
-        ],
-        "Date": "2024-06-21T22:52:33.3995775-04:00",
-        "Update": "2024-06-22T23:14:38.5766755-04:00",
-        "Label": "Generic Super Charger"
-      },
-      {
         "Price": 7.00,
         "Features": [
           "Transparente"
@@ -1014,6 +988,37 @@
         "Date": "2024-05-26T14:13:06.3974492-04:00",
         "Update": "2024-06-24T13:42:45.943122-04:00",
         "Label": "Cover Samsung A15, A25"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "Cargador",
+          "USB-C",
+          "[EP-TA800]",
+          "White"
+        ],
+        "Date": "2024-06-13T19:29:25.6362916-04:00",
+        "Update": "2024-06-26T18:20:12.2062729-04:00",
+        "Label": "Generic Super Charger 25W"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "Cargador",
+          "USB-C",
+          "[A2305]",
+          "White"
+        ],
+        "Date": "2024-06-21T22:52:33.3995775-04:00",
+        "Update": "2024-06-26T18:20:12.2344984-04:00",
+        "Label": "Generic Super Charger 20W"
+      },
+      {
+        "Price": 3.00,
+        "Features": [],
+        "Date": "2024-06-24T13:43:54.9076731-04:00",
+        "Update": "2024-06-26T18:20:12.2858342-04:00",
+        "Label": "Mica Samsung A15"
       }
     ]
   },
