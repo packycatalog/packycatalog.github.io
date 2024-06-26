@@ -306,24 +306,6 @@
         "Label": "Wahl HomeCut"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "Professional",
-          "ORIGINAL (USA)",
-          "v9000"
-        ],
-        "Date": "2023-08-19T17:49:40.5185-04:00",
-        "Update": "2024-04-15T09:58:39.6833318-04:00",
-        "Label": "Wahl Legend 5 Star"
-      },
-      {
-        "Price": 110.00,
-        "Features": [],
-        "Date": "2024-04-10T00:42:05.5387003-04:00",
-        "Update": "2024-05-01T11:11:01.4265734-04:00",
-        "Label": "Clipper - Wahl Legend [8147]"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "INALAMBRICA",
@@ -571,31 +553,6 @@
     ],
     "Celular": [
       {
-        "Price": 160.00,
-        "Features": [
-          "6.5\"",
-          "50+5+2MP",
-          "13MP Front",
-          "Mediatek Helio G99",
-          "396ppi",
-          "Super AMOLED",
-          "90Hz",
-          "800nits",
-          "25W",
-          "1080p@30fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "300Mbps",
-          "A155M/DSN",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-05-03T13:49:57.4666952-04:00",
-        "Update": "2024-05-10T15:41:57.6159801-04:00",
-        "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black"
-      },
-      {
         "Price": 210.00,
         "Features": [
           "6.5\"",
@@ -618,29 +575,6 @@
         "Date": "2024-05-03T13:50:00.7014945-04:00",
         "Update": "2024-05-10T15:47:47.0679131-04:00",
         "Label": "Samsung Galaxy A25 5G 6GB+128GB DualSim Blue Black"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "A057F/DS",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-05-10T15:16:45.453792-04:00",
-        "Update": "2024-05-10T16:14:22.0466986-04:00",
-        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black"
       },
       {
         "Price": 135.00,
@@ -811,30 +745,6 @@
         "Date": "2024-06-08T07:41:03.8821567-04:00",
         "Update": "2024-06-13T17:56:04.9346514-04:00",
         "Label": "Samsung Galaxy A05 4+128GB DualSim Black"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "6.64\"",
-          "50+2MP",
-          "8MP Front",
-          "Helio G85",
-          "260ppi",
-          "IPS LCD",
-          "900Hz",
-          "450nits",
-          "18W",
-          "1080p@30fps",
-          "Gorilla Glass",
-          "5000mAh",
-          "3G-LTE",
-          "Fingerprint",
-          "2311DRN14I",
-          "Noviembre 2023"
-        ],
-        "Date": "2024-06-08T08:30:25.6778796-04:00",
-        "Update": "2024-06-13T17:56:04.9741105-04:00",
-        "Label": "Xiaomi Redmi 13C 4+128GB DualSim Starfrost White"
       },
       {
         "Price": 130.00,
