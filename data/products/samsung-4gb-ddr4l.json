@@ -1,0 +1,18 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/samsung-4gb-ddr4l-1.webp",
+    "/images/products/samsung-4gb-ddr4l-2.webp"
+  ],
+  "Description": "RAM: 4 GB DDR4\nMarca: SAMSUNG\nModelo: M471A5244CB0-CWE\nSistema operativo: Windows 10\nDimensiones del paquete: 6,73 x 4,29 x 1,42 pulgadas\nColor: Negro, verde\nTipo de memoria del equipo: DDR4 SDRAM\nLatencia CAS: 19. Color del producto: negro, verde.\nFrecuencia de memoria: 2666 MHz. Tipo de módulo de memoria: 260 pines SO-DIMM\nPeso del artículo: 0.81 onzas",
+  "Price": 22.00,
+  "Features": [
+    "RAM",
+    "3200MHz",
+    "C19"
+  ],
+  "Date": "2023-08-16T11:47:44.2147086-04:00",
+  "Update": "2024-06-27T15:21:30.746241-04:00",
+  "Label": "Samsung 4GB DDR4L"
+}
