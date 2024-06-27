@@ -1,0 +1,19 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/corsair-vengeance-sodimm-32gb-ddr4l-1.webp",
+    "/images/products/corsair-vengeance-sodimm-32gb-ddr4l-2.webp",
+    "/images/products/corsair-vengeance-sodimm-32gb-ddr4l-3.webp"
+  ],
+  "Description": "Model\nBrand: CORSAIR\nSeries: Vengeance\nModel: CMSX32GX4M1A3200C22\n\n\nDetails\nCapacity: 32GB\nType: 260-Pin DDR4 SO-DIMM\nSpeed: DDR4 3200 (PC4 25600)\nCAS Latency: 22\nTiming: 22-22-22-53\nVoltage: 1.20V",
+  "Price": 80.00,
+  "Features": [
+    "RAM",
+    "3200mhz",
+    "C22"
+  ],
+  "Date": "2024-02-06T22:24:12.1867029-05:00",
+  "Update": "2024-06-27T15:21:30.7791353-04:00",
+  "Label": "Corsair Vengeance Sodimm 32GB DDR4L"
+}
