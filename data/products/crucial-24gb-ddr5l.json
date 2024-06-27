@@ -1,0 +1,25 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/crucial-24gb-ddr5l-1.webp",
+    "/images/products/crucial-24gb-ddr5l-2.webp",
+    "/images/products/crucial-24gb-ddr5l-3.webp",
+    "/images/products/crucial-24gb-ddr5l-4.webp",
+    "/images/products/crucial-24gb-ddr5l-5.webp",
+    "/images/products/crucial-24gb-ddr5l-6.webp",
+    "/images/products/crucial-24gb-ddr5l-7.webp",
+    "/images/products/crucial-24gb-ddr5l-8.webp",
+    "/images/products/crucial-24gb-ddr5l-9.webp"
+  ],
+  "Description": "Model: CT24G56C46S5\nBrand: Crucial\nSeries: DDR5 Classic\nCapacity: 24GB\nType: 262-Pin DDR5 SO-DIMM\nSpeed: DDR5 5600 (PC5 44800)\nCAS Latency: 46\nVoltage: 1.10V\nECC: No\nRecommend Use: Compatible with 12th & 13th Gen Intel Core and AMD Ryzen 6000 Series laptops",
+  "Price": 90.00,
+  "Features": [
+    "RAM",
+    "5600MHz",
+    "C46"
+  ],
+  "Date": "2024-01-05T17:25:08.9605817-05:00",
+  "Update": "2024-06-27T15:24:34.1506458-04:00",
+  "Label": "Crucial 24GB DDR5L"
+}
