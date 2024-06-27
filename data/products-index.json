@@ -378,18 +378,6 @@
         "Label": "Samsung 8GB"
       },
       {
-        "Price": 22.00,
-        "Features": [
-          "RAM",
-          "DDR4",
-          "3200MHz",
-          "C19"
-        ],
-        "Date": "2023-08-16T11:47:44.2147086-04:00",
-        "Update": "2024-02-06T13:12:17.1274774-05:00",
-        "Label": "Samsung 4GB"
-      },
-      {
         "Price": 45.00,
         "Features": [
           "540/470 Mbs",
@@ -424,6 +412,17 @@
         "Update": "2024-06-27T15:09:43.2086436-04:00",
         "Def": true,
         "Label": "DDR4L Samsung 8GB 3200MHz"
+      },
+      {
+        "Price": 22.00,
+        "Features": [
+          "RAM",
+          "3200MHz",
+          "C19"
+        ],
+        "Date": "2023-08-16T11:47:44.2147086-04:00",
+        "Update": "2024-06-27T15:17:59.2265971-04:00",
+        "Label": "Samsung 4GB DDR4"
       }
     ],
     "Laptop Accesorios": [
