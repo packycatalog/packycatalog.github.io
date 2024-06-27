@@ -1,0 +1,16 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/samsung-8gb-3200mhz-ddr4l-1.webp"
+  ],
+  "Description": "",
+  "Price": 30.00,
+  "Features": [
+    "RAM"
+  ],
+  "Date": "2024-05-26T13:16:09.1276428-04:00",
+  "Update": "2024-06-27T15:21:30.8141165-04:00",
+  "Def": true,
+  "Label": "Samsung 8GB 3200MHz DDR4L"
+}
