@@ -1,0 +1,24 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/team-elite-16gb-ddr5l-1.webp",
+    "/images/products/team-elite-16gb-ddr5l-2.webp",
+    "/images/products/team-elite-16gb-ddr5l-3.webp",
+    "/images/products/team-elite-16gb-ddr5l-4.webp",
+    "/images/products/team-elite-16gb-ddr5l-5.webp",
+    "/images/products/team-elite-16gb-ddr5l-6.webp",
+    "/images/products/team-elite-16gb-ddr5l-7.webp",
+    "/images/products/team-elite-16gb-ddr5l-8.webp"
+  ],
+  "Description": "Model\nBrand: Team\nSeries: Elite\nModel: TED516G4800C40D-S01\nPart Number: TED516G4800C40D-S01\n\n\nDetails\nCapacity: 16GB\nType: 262-Pin DDR5 SO-DIMM\nSpeed: DDR5 4800 (PC4 38400)\nCAS Latency: 40\nTiming: 40-39-39\nVoltage: 1.10V\nECC: No",
+  "Price": 69.00,
+  "Features": [
+    "RAM",
+    "4800MHz",
+    "C40"
+  ],
+  "Date": "2024-01-05T17:25:12.7041664-05:00",
+  "Update": "2024-06-27T15:24:34.1244668-04:00",
+  "Label": "Team Elite 16GB DDR5L"
+}
