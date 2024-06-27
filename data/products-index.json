@@ -344,18 +344,6 @@
         "Label": "Team Elite 16GB DDR5"
       },
       {
-        "Price": 60.00,
-        "Features": [
-          "RAM",
-          "3200MHz",
-          "C22"
-        ],
-        "Date": "2023-10-15T12:56:30.844215-04:00",
-        "Update": "2024-02-05T13:21:55.286522-05:00",
-        "Def": true,
-        "Label": "T-CREATE Classic 16GB DDR4"
-      },
-      {
         "Price": 90.00,
         "Features": [
           "Memoria RAM",
@@ -366,16 +354,6 @@
         "Date": "2024-01-05T17:25:08.9605817-05:00",
         "Update": "2024-02-06T13:12:17.0766032-05:00",
         "Label": "Crucial 24GB"
-      },
-      {
-        "Price": 40.00,
-        "Features": [
-          "DDR4",
-          "4800MHz"
-        ],
-        "Date": "2024-01-05T17:25:10.8955968-05:00",
-        "Update": "2024-02-06T13:12:17.0965627-05:00",
-        "Label": "Samsung 8GB"
       },
       {
         "Price": 45.00,
@@ -396,22 +374,26 @@
         "Label": "SSD M.2 - TeamGroup T-Force Gaming Cardea Z44L 1TB (3500/3000, 600TBW)"
       },
       {
-        "Price": 80.00,
+        "Price": 60.00,
         "Features": [
-          "3200mhz",
+          "RAM",
+          "3200MHz",
           "C22"
         ],
-        "Date": "2024-02-06T22:24:12.1867029-05:00",
-        "Update": "2024-03-15T16:30:20.6787673-04:00",
-        "Label": "RAM CORSAIR Vengeance Sodimm 32GB DDR4"
+        "Date": "2023-10-15T12:56:30.844215-04:00",
+        "Update": "2024-06-27T15:21:30.6774365-04:00",
+        "Def": true,
+        "Label": "T-CREATE Classic 16GB DDR4L"
       },
       {
-        "Price": 30.00,
-        "Features": [],
-        "Date": "2024-05-26T13:16:09.1276428-04:00",
-        "Update": "2024-06-27T15:09:43.2086436-04:00",
-        "Def": true,
-        "Label": "DDR4L Samsung 8GB 3200MHz"
+        "Price": 40.00,
+        "Features": [
+          "RAM",
+          "4800MHz"
+        ],
+        "Date": "2024-01-05T17:25:10.8955968-05:00",
+        "Update": "2024-06-27T15:21:30.7108534-04:00",
+        "Label": "Samsung 8GB DDR4L"
       },
       {
         "Price": 22.00,
@@ -421,8 +403,29 @@
           "C19"
         ],
         "Date": "2023-08-16T11:47:44.2147086-04:00",
-        "Update": "2024-06-27T15:17:59.2265971-04:00",
-        "Label": "Samsung 4GB DDR4"
+        "Update": "2024-06-27T15:21:30.746241-04:00",
+        "Label": "Samsung 4GB DDR4L"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "RAM",
+          "3200mhz",
+          "C22"
+        ],
+        "Date": "2024-02-06T22:24:12.1867029-05:00",
+        "Update": "2024-06-27T15:21:30.7791353-04:00",
+        "Label": "Corsair Vengeance Sodimm 32GB DDR4L"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "RAM"
+        ],
+        "Date": "2024-05-26T13:16:09.1276428-04:00",
+        "Update": "2024-06-27T15:21:30.8141165-04:00",
+        "Def": true,
+        "Label": "Samsung 8GB 3200MHz DDR4L"
       }
     ],
     "Laptop Accesorios": [
