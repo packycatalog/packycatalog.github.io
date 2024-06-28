@@ -1021,6 +1021,54 @@
         "Discount": 25.0,
         "Def": true,
         "Label": "Samsung A05s"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "6.5\"",
+          "50+5+2MP",
+          "13MP Front",
+          "Mediatek Helio G99",
+          "396ppi",
+          "Super AMOLED",
+          "90Hz",
+          "800nits",
+          "25W",
+          "1080p@30fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "300Mbps",
+          "A155M/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-05-03T13:49:57.4666952-04:00",
+        "Update": "2024-06-28T18:11:25.6224132-04:00",
+        "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:45.453792-04:00",
+        "Update": "2024-06-28T18:11:25.6462601-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black"
       }
     ]
   },
