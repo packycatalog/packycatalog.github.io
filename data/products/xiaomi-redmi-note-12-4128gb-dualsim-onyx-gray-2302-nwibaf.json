@@ -1,0 +1,29 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/xiaomi-redmi-note-12-4128gb-dualsim-onyx-gray-2302-nwibaf-1.webp"
+  ],
+  "Description": "",
+  "Price": 170.00,
+  "Features": [
+    "6.67\"",
+    "50+8+2MP",
+    "13MP Front",
+    "Qualcomm SM6225 Snapdragon 685",
+    "395ppi",
+    "AMOLED",
+    "120Hz",
+    "700nits",
+    "33W",
+    "1080p@30fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "2023 Marzo"
+  ],
+  "Date": "2024-06-28T20:06:06.7631512-04:00",
+  "Update": "2024-06-28T20:57:48.2965713-04:00",
+  "Label": "Xiaomi Redmi Note 12 4+128GB DualSim Onyx Gray [23028RA60L]"
+}
