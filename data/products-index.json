@@ -974,15 +974,6 @@
         "Label": "Samsung Galaxy A25 5G 8+256GB DualSim Blue"
       },
       {
-        "Price": 7.00,
-        "Features": [
-          "Transparente"
-        ],
-        "Date": "2024-05-26T14:13:06.3974492-04:00",
-        "Update": "2024-06-24T13:42:45.943122-04:00",
-        "Label": "Cover Samsung A15, A25"
-      },
-      {
         "Price": 15.00,
         "Features": [
           "Cargador",
@@ -1205,6 +1196,15 @@
         "Date": "2024-06-28T20:21:25.9629115-04:00",
         "Update": "2024-06-28T20:57:48.3284827-04:00",
         "Label": "Xiaomi Redmi Note 12 4+128GB DualSim Ice Blue [23028RA60L]"
+      },
+      {
+        "Price": 7.00,
+        "Features": [
+          "Transparente"
+        ],
+        "Date": "2024-05-26T14:13:06.3974492-04:00",
+        "Update": "2024-06-28T20:58:18.6210721-04:00",
+        "Label": "Cover Samsung A15"
       }
     ]
   },
