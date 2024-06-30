@@ -1,0 +1,28 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-a05s-464gb-dualsim-black-a057fds-1.webp"
+  ],
+  "Description": "",
+  "Price": 135.00,
+  "Features": [
+    "6.7\"",
+    "50+2+2MP",
+    "13MP Front",
+    "Snapdragon 680",
+    "394ppi",
+    "PLS LCD",
+    "90Hz",
+    "25W",
+    "1080p@60fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "2023 Septiembre"
+  ],
+  "Date": "2024-05-10T15:16:45.453792-04:00",
+  "Update": "2024-06-30T17:12:08.449392-04:00",
+  "Label": "Samsung Galaxy A05s 4+64GB DualSim Black [A057F/DS]"
+}
