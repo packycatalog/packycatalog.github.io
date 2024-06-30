@@ -767,13 +767,6 @@
         "Label": "Xiaomi Redmi Note 13 6+128GB Midnight Black"
       },
       {
-        "Price": 7.00,
-        "Features": [],
-        "Date": "2024-05-26T13:16:03.848485-04:00",
-        "Update": "2024-06-21T16:02:21.9554727-04:00",
-        "Label": "Cover Samsung Galaxy A14 4G/ A14 5G"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "6.5\"",
@@ -919,44 +912,11 @@
         "Label": "Samsung Galaxy A25 5G 8+256GB DualSim Blue"
       },
       {
-        "Price": 15.00,
-        "Features": [
-          "Cargador",
-          "USB-C",
-          "[EP-TA800]",
-          "White"
-        ],
-        "Date": "2024-06-13T19:29:25.6362916-04:00",
-        "Update": "2024-06-26T18:20:12.2062729-04:00",
-        "Label": "Generic Super Charger 25W"
-      },
-      {
-        "Price": 10.00,
-        "Features": [
-          "Cargador",
-          "USB-C",
-          "[A2305]",
-          "White"
-        ],
-        "Date": "2024-06-21T22:52:33.3995775-04:00",
-        "Update": "2024-06-26T18:20:12.2344984-04:00",
-        "Label": "Generic Super Charger 20W"
-      },
-      {
         "Price": 3.00,
         "Features": [],
         "Date": "2024-06-24T13:43:54.9076731-04:00",
         "Update": "2024-06-26T18:20:12.2858342-04:00",
         "Label": "Mica Samsung A15"
-      },
-      {
-        "Price": 110.00,
-        "Features": [],
-        "Date": "2024-06-28T10:38:19.7648733-04:00",
-        "Update": "2024-06-28T10:40:23.7448226-04:00",
-        "Discount": 25.0,
-        "Def": true,
-        "Label": "Samsung A05s"
       },
       {
         "Price": 165.00,
@@ -1150,6 +1110,55 @@
         "Date": "2024-05-26T14:13:06.3974492-04:00",
         "Update": "2024-06-28T20:58:18.6210721-04:00",
         "Label": "Cover Samsung A15"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-05-26T13:16:03.848485-04:00",
+        "Update": "2024-06-30T16:24:32.2748261-04:00",
+        "Label": "Cover Samsung Galaxy A14 4G, A14 5G"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "USB-C"
+        ],
+        "Date": "2024-06-13T19:29:25.6362916-04:00",
+        "Update": "2024-06-30T16:24:32.3137941-04:00",
+        "Label": "Cargador Generic Super Charger 25W White [EP-TA800]"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "USB-C"
+        ],
+        "Date": "2024-06-21T22:52:33.3995775-04:00",
+        "Update": "2024-06-30T16:24:32.3372024-04:00",
+        "Label": "Cargador Generic Super Charger 20W White [A2305]"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-06-28T10:38:19.7648733-04:00",
+        "Update": "2024-06-30T16:24:32.3726208-04:00",
+        "Discount": 25.0,
+        "Def": true,
+        "Label": "Samsung A05s [A057F/DS]"
       }
     ]
   },
