@@ -1,0 +1,29 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-a35-5g-8256gb-dualsim-awesome-navy--29juza-1.webp"
+  ],
+  "Description": "",
+  "Price": 345.00,
+  "Features": [
+    "6.6\"",
+    "50+8+5MP",
+    "13MP Front",
+    "Exynos 1380",
+    "390ppi",
+    "Super AMOLED",
+    "120Hz",
+    "1000nits",
+    "25W",
+    "1080p@30fps",
+    "5000mAh",
+    "3G-LTE-5G",
+    "Fingerprint",
+    "A356E/DS",
+    "2024 Marzo"
+  ],
+  "Date": "2024-06-21T22:27:31.0342336-04:00",
+  "Update": "2024-06-30T17:19:58.506285-04:00",
+  "Label": "Samsung Galaxy A35 5G 8+256GB DualSim Awesome Navy [A356E/DS]"
+}
