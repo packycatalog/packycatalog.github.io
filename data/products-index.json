@@ -468,33 +468,11 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 40.00,
-        "Features": [],
-        "Date": "2024-01-05T17:25:10.8955968-05:00",
-        "Update": "2024-06-30T17:38:48.0467646-04:00",
-        "Label": "RAM DDR4L Samsung 8GB 4800MHz"
-      },
-      {
-        "Price": 22.00,
-        "Features": [],
-        "Date": "2023-08-16T11:47:44.2147086-04:00",
-        "Update": "2024-06-30T17:38:48.065378-04:00",
-        "Label": "RAM DDR4L Samsung 4GB 3200MHz C19"
-      },
-      {
         "Price": 80.00,
         "Features": [],
         "Date": "2024-02-06T22:24:12.1867029-05:00",
         "Update": "2024-06-30T17:38:48.0857054-04:00",
         "Label": "RAM DDR4L Corsair Vengeance Sodimm 32GB 3200MHz C22"
-      },
-      {
-        "Price": 30.00,
-        "Features": [],
-        "Date": "2024-05-26T13:16:09.1276428-04:00",
-        "Update": "2024-06-30T17:38:48.105998-04:00",
-        "Def": true,
-        "Label": "RAM DDR4L Samsung 8GB 3200MHz"
       },
       {
         "Price": 90.00,
@@ -517,6 +495,28 @@
         "Update": "2024-06-30T17:53:01.8433208-04:00",
         "Def": true,
         "Label": "RAM DDR4L T-CREATE Classic 16GB 3200MHz C22"
+      },
+      {
+        "Price": 40.00,
+        "Features": [],
+        "Date": "2024-01-05T17:25:10.8955968-05:00",
+        "Update": "2024-06-30T18:01:20.3065023-04:00",
+        "Label": "RAM DDR4L Samsung 8GB 4800MHz"
+      },
+      {
+        "Price": 22.00,
+        "Features": [],
+        "Date": "2023-08-16T11:47:44.2147086-04:00",
+        "Update": "2024-06-30T18:01:20.3299884-04:00",
+        "Label": "RAM DDR4L Samsung 4GB 3200MHz C19"
+      },
+      {
+        "Price": 30.00,
+        "Features": [],
+        "Date": "2024-05-26T13:16:09.1276428-04:00",
+        "Update": "2024-06-30T18:01:20.3787601-04:00",
+        "Def": true,
+        "Label": "RAM DDR4L Samsung 8GB 3200MHz"
       }
     ],
     "Celular": [
