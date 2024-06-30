@@ -343,19 +343,6 @@
       },
       {
         "Price": 23.00,
-        "Features": [
-          "Mouse",
-          "Inalámbirco",
-          "2.4 GHz",
-          "1000 DP",
-          "Gris Swift"
-        ],
-        "Date": "2023-07-16T15:30:40.3880006-04:00",
-        "Update": "2024-02-06T13:15:06.2727129-05:00",
-        "Label": "Logitech M185"
-      },
-      {
-        "Price": 23.00,
         "Features": [],
         "Date": "2024-02-04T17:26:55.8309617-05:00",
         "Update": "2024-02-06T13:28:35.0808876-05:00",
@@ -384,31 +371,6 @@
         "Label": "Mini Displayport"
       },
       {
-        "Price": 5.00,
-        "Features": [
-          "MicroSD",
-          "Adapter",
-          "80MB/s",
-          "TUSDH16GCL10U03"
-        ],
-        "Date": "2024-01-25T11:53:23.9176268-05:00",
-        "Update": "2024-02-06T13:29:23.1646189-05:00",
-        "Label": "microSD Team Elite 16GB"
-      },
-      {
-        "Price": 23.00,
-        "Features": [
-          "Mouse",
-          "Wireless",
-          "2.4GHz",
-          "Opctical",
-          "Gray"
-        ],
-        "Date": "2024-01-11T13:06:32.3766642-05:00",
-        "Update": "2024-02-06T14:00:58.1951762-05:00",
-        "Label": "Logitech M325"
-      },
-      {
         "Price": 7.00,
         "Features": [
           "C171",
@@ -431,18 +393,45 @@
         "Label": "Memoria Flash TEAM Group 128GB"
       },
       {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2024-02-06T22:24:30.2992989-05:00",
-        "Update": "2024-03-13T17:29:33.6115984-04:00",
-        "Label": "MicroSD ADATA 64GB"
+        "Price": 23.00,
+        "Features": [
+          "Inalámbirco",
+          "2.4GHz",
+          "1000 DP"
+        ],
+        "Date": "2023-07-16T15:30:40.3880006-04:00",
+        "Update": "2024-06-30T18:27:22.4651292-04:00",
+        "Label": "Mouse Wireless Logitech M185 Gris Swift"
       },
       {
-        "Price": 45.00,
-        "Features": [],
-        "Date": "2023-07-15T20:29:09.7905522-04:00",
-        "Update": "2024-03-15T16:30:20.6629177-04:00",
-        "Label": "Mouse Pad Corsair MM300"
+        "Price": 5.00,
+        "Features": [
+          "80MB/s",
+          "TUSDH16GCL10U03"
+        ],
+        "Date": "2024-01-25T11:53:23.9176268-05:00",
+        "Update": "2024-06-30T18:27:22.4835011-04:00",
+        "Label": "MicroSD Team Elite 16GB + Adapter"
+      },
+      {
+        "Price": 23.00,
+        "Features": [
+          "Inalámbrico",
+          "2.4GHz",
+          "Opctical"
+        ],
+        "Date": "2024-01-11T13:06:32.3766642-05:00",
+        "Update": "2024-06-30T18:27:22.5018024-04:00",
+        "Label": "Mouse Wireless Logitech M325 Gray"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "100MB/s"
+        ],
+        "Date": "2024-02-06T22:24:30.2992989-05:00",
+        "Update": "2024-06-30T18:27:22.5202666-04:00",
+        "Label": "MicroSD ADATA 64GB + Adapter"
       },
       {
         "Price": 7.00,
@@ -451,7 +440,7 @@
           "Class 10"
         ],
         "Date": "2024-02-06T22:24:38.6575545-05:00",
-        "Update": "2024-03-15T16:30:20.7100615-04:00",
+        "Update": "2024-06-30T18:27:22.5633673-04:00",
         "Label": "MicroSD Team Group 32GB + Adapter"
       }
     ],
