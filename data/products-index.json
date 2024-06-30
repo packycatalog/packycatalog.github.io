@@ -505,18 +505,18 @@
         "Label": "RAM DDR4L Samsung 8GB 3200MHz"
       },
       {
-        "Price": 69.00,
-        "Features": [],
-        "Date": "2024-01-05T17:25:12.7041664-05:00",
-        "Update": "2024-06-30T17:38:48.1262345-04:00",
-        "Label": "RAM DDR5L Team Elite 16GB 4800MHz C40"
-      },
-      {
         "Price": 90.00,
         "Features": [],
         "Date": "2024-01-05T17:25:08.9605817-05:00",
         "Update": "2024-06-30T17:47:22.0180636-04:00",
         "Label": "RAM DDR5L Crucial 24GB 5600MHz C46"
+      },
+      {
+        "Price": 69.00,
+        "Features": [],
+        "Date": "2024-01-05T17:25:12.7041664-05:00",
+        "Update": "2024-06-30T17:51:17.8742812-04:00",
+        "Label": "RAM DDR5L Team Elite 16GB 4800MHz C40"
       }
     ],
     "Celular": [
