@@ -676,46 +676,6 @@
         "Label": "Cover Samsung Galaxy A05"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "6.7\"",
-          "50+2MP",
-          "8MP Front",
-          "Mediatek MT6769V/CZ Helio G85",
-          "262ppi",
-          "PLS LCD",
-          "25W",
-          "1080p@30/60fps",
-          "5000mAh",
-          "3G-LTE",
-          "A055F/DS",
-          "2023 Octubre"
-        ],
-        "Date": "2024-06-08T07:41:11.7454698-04:00",
-        "Update": "2024-06-13T17:56:04.9139724-04:00",
-        "Label": "Samsung Galaxy A05 4+64GB DualSim Black"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2MP",
-          "8MP Front",
-          "Mediatek MT6769V/CZ Helio G85",
-          "262ppi",
-          "PLS LCD",
-          "25W",
-          "1080p@30/60fps",
-          "5000mAh",
-          "3G-LTE",
-          "A055F/DS",
-          "2023 Octubre"
-        ],
-        "Date": "2024-06-08T07:41:03.8821567-04:00",
-        "Update": "2024-06-13T17:56:04.9346514-04:00",
-        "Label": "Samsung Galaxy A05 4+128GB DualSim Black"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "6.5\"",
@@ -1159,6 +1119,44 @@
         "Discount": 25.0,
         "Def": true,
         "Label": "Samsung A05s [A057F/DS]"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "6.7\"",
+          "50+2MP",
+          "8MP Front",
+          "Mediatek MT6769V/CZ Helio G85",
+          "262ppi",
+          "PLS LCD",
+          "25W",
+          "1080p@30/60fps",
+          "5000mAh",
+          "3G-LTE",
+          "2023 Octubre"
+        ],
+        "Date": "2024-06-08T07:41:11.7454698-04:00",
+        "Update": "2024-06-30T16:36:10.6885855-04:00",
+        "Label": "Samsung Galaxy A05 4+64GB DualSim Black [A055F/DS]"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2MP",
+          "8MP Front",
+          "Mediatek MT6769V/CZ Helio G85",
+          "262ppi",
+          "PLS LCD",
+          "25W",
+          "1080p@30/60fps",
+          "5000mAh",
+          "3G-LTE",
+          "2023 Octubre"
+        ],
+        "Date": "2024-06-08T07:41:03.8821567-04:00",
+        "Update": "2024-06-30T16:36:10.7131165-04:00",
+        "Label": "Samsung Galaxy A05 4+128GB DualSim Black [A055F/DS]"
       }
     ]
   },
