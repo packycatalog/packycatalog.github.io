@@ -468,14 +468,6 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 60.00,
-        "Features": [],
-        "Date": "2023-10-15T12:56:30.844215-04:00",
-        "Update": "2024-06-30T17:38:48.0252988-04:00",
-        "Def": true,
-        "Label": "RAM DDR4L T-CREATE Classic 16GB 3200MHz C22"
-      },
-      {
         "Price": 40.00,
         "Features": [],
         "Date": "2024-01-05T17:25:10.8955968-05:00",
@@ -517,6 +509,14 @@
         "Date": "2024-01-05T17:25:12.7041664-05:00",
         "Update": "2024-06-30T17:51:17.8742812-04:00",
         "Label": "RAM DDR5L Team Elite 16GB 4800MHz C40"
+      },
+      {
+        "Price": 60.00,
+        "Features": [],
+        "Date": "2023-10-15T12:56:30.844215-04:00",
+        "Update": "2024-06-30T17:53:01.8433208-04:00",
+        "Def": true,
+        "Label": "RAM DDR4L T-CREATE Classic 16GB 3200MHz C22"
       }
     ],
     "Celular": [
