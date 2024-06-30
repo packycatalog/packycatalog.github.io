@@ -1,0 +1,29 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-a25-5g-8256gb-dualsim-blue-a256edsn-1.webp"
+  ],
+  "Description": "",
+  "Price": 235.00,
+  "Features": [
+    "6.5\"",
+    "50+8+2MP Triple",
+    "13MP Front",
+    "Exynos 1280",
+    "396ppi",
+    "Super AMOLED",
+    "120Hz",
+    "1000nits",
+    "25W",
+    "4K@30fps",
+    "5000mAh",
+    "3G-LTE-5G",
+    "Jack 3.5",
+    "Fingerprint",
+    "2023 Diciembre"
+  ],
+  "Date": "2024-06-21T16:32:39.9440485-04:00",
+  "Update": "2024-06-30T17:19:58.5410884-04:00",
+  "Label": "Samsung Galaxy A25 5G 8+256GB DualSim Blue [A256E/DSN]"
+}
