@@ -371,28 +371,6 @@
         "Label": "Mini Displayport"
       },
       {
-        "Price": 7.00,
-        "Features": [
-          "C171",
-          "USB 2.0"
-        ],
-        "Date": "2024-02-06T22:24:18.376163-05:00",
-        "Update": "2024-03-05T23:13:53.4019426-05:00",
-        "Label": "Memoria Flash TEAM Group 8GB"
-      },
-      {
-        "Price": 20.00,
-        "Features": [
-          "C175",
-          "USB 3.2",
-          "Gen 1",
-          "100MB/s"
-        ],
-        "Date": "2024-02-06T22:24:24.9816392-05:00",
-        "Update": "2024-03-05T23:13:53.4223305-05:00",
-        "Label": "Memoria Flash TEAM Group 128GB"
-      },
-      {
         "Price": 23.00,
         "Features": [
           "Inalámbirco",
@@ -442,6 +420,26 @@
         "Date": "2024-02-06T22:24:38.6575545-05:00",
         "Update": "2024-06-30T18:27:22.5633673-04:00",
         "Label": "MicroSD Team Group 32GB + Adapter"
+      },
+      {
+        "Price": 7.00,
+        "Features": [
+          "Memoria USB"
+        ],
+        "Date": "2024-02-06T22:24:18.376163-05:00",
+        "Update": "2024-06-30T18:46:23.6400205-04:00",
+        "Label": "Memoria Flash Team Group 8GB C171 USB 2.0 [TC1718GB01]"
+      },
+      {
+        "Price": 20.00,
+        "Features": [
+          "Memoria USB",
+          "Gen 1",
+          "100MB/s"
+        ],
+        "Date": "2024-02-06T22:24:24.9816392-05:00",
+        "Update": "2024-06-30T18:46:23.6659873-04:00",
+        "Label": "Memoria Flash Team Group 128GB C175 USB 3.2 [TC1753128GB01]"
       }
     ],
     "Laptop Componentes": [
