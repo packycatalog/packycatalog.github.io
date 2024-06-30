@@ -546,13 +546,6 @@
     ],
     "Celular": [
       {
-        "Price": 9.00,
-        "Features": [],
-        "Date": "2024-06-08T10:19:35.2943993-04:00",
-        "Update": "2024-06-08T18:18:03.847139-04:00",
-        "Label": "Cover Samsung Galaxy A05"
-      },
-      {
         "Price": 3.00,
         "Features": [],
         "Date": "2024-06-24T13:43:54.9076731-04:00",
@@ -694,22 +687,6 @@
         "Date": "2024-06-28T20:21:25.9629115-04:00",
         "Update": "2024-06-28T20:57:48.3284827-04:00",
         "Label": "Xiaomi Redmi Note 12 4+128GB DualSim Ice Blue [23028RA60L]"
-      },
-      {
-        "Price": 7.00,
-        "Features": [
-          "Transparente"
-        ],
-        "Date": "2024-05-26T14:13:06.3974492-04:00",
-        "Update": "2024-06-28T20:58:18.6210721-04:00",
-        "Label": "Cover Samsung A15"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
-        "Date": "2024-05-26T13:16:03.848485-04:00",
-        "Update": "2024-06-30T16:24:32.2748261-04:00",
-        "Label": "Cover Samsung Galaxy A14 4G, A14 5G"
       },
       {
         "Price": 15.00,
@@ -1144,6 +1121,27 @@
         "Date": "2024-06-21T16:32:39.9440485-04:00",
         "Update": "2024-06-30T17:19:58.5410884-04:00",
         "Label": "Samsung Galaxy A25 5G 8+256GB DualSim Blue [A256E/DSN]"
+      },
+      {
+        "Price": 9.00,
+        "Features": [],
+        "Date": "2024-06-08T10:19:35.2943993-04:00",
+        "Update": "2024-06-30T17:27:37.8799107-04:00",
+        "Label": "Cover Samsung Galaxy A05, 2 Piezas Transparente y Negro"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-05-26T14:13:06.3974492-04:00",
+        "Update": "2024-06-30T17:27:37.8999357-04:00",
+        "Label": "Cover Samsung A15 Transparente"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-05-26T13:16:03.848485-04:00",
+        "Update": "2024-06-30T17:27:37.92143-04:00",
+        "Label": "Cover Samsung Galaxy A14 4G, A14 5G, 2 Piezas Transparente y Negro"
       }
     ]
   },
