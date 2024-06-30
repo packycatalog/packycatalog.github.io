@@ -1,0 +1,25 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Accesorios",
+  "Images": [
+    "/images/products/mouse-wireless-logitech-m325-gray-1.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-2.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-3.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-4.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-5.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-6.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-7.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-8.webp",
+    "/images/products/mouse-wireless-logitech-m325-gray-9.webp"
+  ],
+  "Description": "Dimensiones del mouse (altura x ancho x profundidad): 2.24 pulgadas (57 mm) x 3.73 pulgadas (94.7 mm) x 1.54 pulgadas (39.1 mm).",
+  "Price": 23.00,
+  "Features": [
+    "Inalámbrico",
+    "2.4GHz",
+    "Opctical"
+  ],
+  "Date": "2024-01-11T13:06:32.3766642-05:00",
+  "Update": "2024-06-30T18:27:22.5018024-04:00",
+  "Label": "Mouse Wireless Logitech M325 Gray"
+}
