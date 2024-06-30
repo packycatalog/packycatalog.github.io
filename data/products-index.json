@@ -469,79 +469,54 @@
       },
       {
         "Price": 60.00,
-        "Features": [
-          "RAM",
-          "3200MHz",
-          "C22"
-        ],
+        "Features": [],
         "Date": "2023-10-15T12:56:30.844215-04:00",
-        "Update": "2024-06-27T15:21:30.6774365-04:00",
+        "Update": "2024-06-30T17:38:48.0252988-04:00",
         "Def": true,
-        "Label": "T-CREATE Classic 16GB DDR4L"
+        "Label": "RAM DDR4L T-CREATE Classic 16GB 3200MHz C22"
       },
       {
         "Price": 40.00,
-        "Features": [
-          "RAM",
-          "4800MHz"
-        ],
+        "Features": [],
         "Date": "2024-01-05T17:25:10.8955968-05:00",
-        "Update": "2024-06-27T15:21:30.7108534-04:00",
-        "Label": "Samsung 8GB DDR4L"
+        "Update": "2024-06-30T17:38:48.0467646-04:00",
+        "Label": "RAM DDR4L Samsung 8GB 4800MHz"
       },
       {
         "Price": 22.00,
-        "Features": [
-          "RAM",
-          "3200MHz",
-          "C19"
-        ],
+        "Features": [],
         "Date": "2023-08-16T11:47:44.2147086-04:00",
-        "Update": "2024-06-27T15:21:30.746241-04:00",
-        "Label": "Samsung 4GB DDR4L"
+        "Update": "2024-06-30T17:38:48.065378-04:00",
+        "Label": "RAM DDR4L Samsung 4GB 3200MHz C19"
       },
       {
         "Price": 80.00,
-        "Features": [
-          "RAM",
-          "3200mhz",
-          "C22"
-        ],
+        "Features": [],
         "Date": "2024-02-06T22:24:12.1867029-05:00",
-        "Update": "2024-06-27T15:21:30.7791353-04:00",
-        "Label": "Corsair Vengeance Sodimm 32GB DDR4L"
+        "Update": "2024-06-30T17:38:48.0857054-04:00",
+        "Label": "RAM DDR4L Corsair Vengeance Sodimm 32GB 3200MHz C22"
       },
       {
         "Price": 30.00,
-        "Features": [
-          "RAM"
-        ],
+        "Features": [],
         "Date": "2024-05-26T13:16:09.1276428-04:00",
-        "Update": "2024-06-27T15:21:30.8141165-04:00",
+        "Update": "2024-06-30T17:38:48.105998-04:00",
         "Def": true,
-        "Label": "Samsung 8GB 3200MHz DDR4L"
+        "Label": "RAM DDR4L Samsung 8GB 3200MHz"
       },
       {
         "Price": 69.00,
-        "Features": [
-          "RAM",
-          "4800MHz",
-          "C40"
-        ],
+        "Features": [],
         "Date": "2024-01-05T17:25:12.7041664-05:00",
-        "Update": "2024-06-27T15:24:34.1244668-04:00",
-        "Label": "Team Elite 16GB DDR5L"
+        "Update": "2024-06-30T17:38:48.1262345-04:00",
+        "Label": "RAM DDR5L Team Elite 16GB 4800MHz C40"
       },
       {
         "Price": 90.00,
-        "Features": [
-          "RAM",
-          "5600MHz",
-          "C46"
-        ],
+        "Features": [],
         "Date": "2024-01-05T17:25:08.9605817-05:00",
-        "Update": "2024-06-27T15:24:34.1506458-04:00",
-        "Label": "Crucial 24GB DDR5L"
+        "Update": "2024-06-30T17:38:48.1453585-04:00",
+        "Label": "RAM DDR5L Crucial 24GB 5600MHz C46"
       }
     ],
     "Celular": [
