@@ -1,0 +1,33 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-a15-6128gb-dualsim-blue-black-a155m-9721si-1.webp",
+    "/images/products/samsung-galaxy-a15-6128gb-dualsim-blue-black-a155m-9721si-2.webp",
+    "/images/products/samsung-galaxy-a15-6128gb-dualsim-blue-black-a155m-9721si-3.webp",
+    "/images/products/samsung-galaxy-a15-6128gb-dualsim-blue-black-a155m-9721si-4.webp"
+  ],
+  "Description": "",
+  "Price": 165.00,
+  "Features": [
+    "6.5\"",
+    "50+5+2MP",
+    "13MP Front",
+    "Mediatek Helio G99",
+    "396ppi",
+    "Super AMOLED",
+    "90Hz",
+    "800nits",
+    "25W",
+    "1080p@30fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "300Mbps",
+    "2023 Diciembre"
+  ],
+  "Date": "2024-05-03T13:49:57.4666952-04:00",
+  "Update": "2024-06-30T17:15:51.8098432-04:00",
+  "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black [A155M/DSN]"
+}
