@@ -1,0 +1,29 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-m14-464gb-dualsim-sappire-blue-m145-mb8rw5-1.webp"
+  ],
+  "Description": "",
+  "Price": 135.00,
+  "Features": [
+    "6.7\"",
+    "50+2+2MP",
+    "13MP Front",
+    "Snapdragon 680",
+    "394ppi",
+    "PLS LCD",
+    "90Hz",
+    "25W",
+    "1080p@60fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "2024 Marzo"
+  ],
+  "Date": "2024-05-10T15:16:52.9512619-04:00",
+  "Update": "2024-06-30T17:15:51.664754-04:00",
+  "Def": true,
+  "Label": "Samsung Galaxy M14 4+64GB DualSim Sappire Blue [M145F/DS]"
+}
