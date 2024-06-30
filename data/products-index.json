@@ -468,13 +468,6 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 80.00,
-        "Features": [],
-        "Date": "2024-02-06T22:24:12.1867029-05:00",
-        "Update": "2024-06-30T17:38:48.0857054-04:00",
-        "Label": "RAM DDR4L Corsair Vengeance Sodimm 32GB 3200MHz C22"
-      },
-      {
         "Price": 90.00,
         "Features": [],
         "Date": "2024-01-05T17:25:08.9605817-05:00",
@@ -517,6 +510,13 @@
         "Update": "2024-06-30T18:01:20.3787601-04:00",
         "Def": true,
         "Label": "RAM DDR4L Samsung 8GB 3200MHz"
+      },
+      {
+        "Price": 80.00,
+        "Features": [],
+        "Date": "2024-02-06T22:24:12.1867029-05:00",
+        "Update": "2024-06-30T18:05:53.3203522-04:00",
+        "Label": "RAM DDR4L Corsair Vengeance Sodimm 32GB 3200MHz C22"
       }
     ],
     "Celular": [
