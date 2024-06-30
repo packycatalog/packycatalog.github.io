@@ -904,29 +904,6 @@
         "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "A057F/DS",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-05-10T15:16:45.453792-04:00",
-        "Update": "2024-06-28T18:11:25.6462601-04:00",
-        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "6.67\"",
@@ -1157,6 +1134,28 @@
         "Date": "2024-06-08T07:41:03.8821567-04:00",
         "Update": "2024-06-30T16:36:10.7131165-04:00",
         "Label": "Samsung Galaxy A05 4+128GB DualSim Black [A055F/DS]"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:45.453792-04:00",
+        "Update": "2024-06-30T17:12:08.449392-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black [A057F/DS]"
       }
     ]
   },
