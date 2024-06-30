@@ -1,0 +1,17 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Laptop Componentes",
+  "Images": [
+    "/images/products/ram-ddr4l-t-create-classic-16gb-3200mhz-c22-1.webp",
+    "/images/products/ram-ddr4l-t-create-classic-16gb-3200mhz-c22-2.webp",
+    "/images/products/ram-ddr4l-t-create-classic-16gb-3200mhz-c22-3.webp",
+    "/images/products/ram-ddr4l-t-create-classic-16gb-3200mhz-c22-4.webp"
+  ],
+  "Description": "Model\nBrand: Team\nSeries: T-CREATE CLASSIC\nModel: TTCCD432G3200HC22DC-S01\n\nDetails\nCapacity: 16GB\nType: 260-Pin DDR4 SO-DIMM\nSpeed: DDR4 3200 (PC4 25600)\nCAS Latency: 22\nTiming: 22-22-22-52\nVoltage: 1.20V\nECC: No\nFeatures: Timeless classic with eye-catching features\n\n10 layer-board with professional anti-interference design\n\nCustomized high-temperature resistant capacitor\n\nMultitasking for better efficiency",
+  "Price": 60.00,
+  "Features": [],
+  "Date": "2023-10-15T12:56:30.844215-04:00",
+  "Update": "2024-06-30T17:38:48.0252988-04:00",
+  "Def": true,
+  "Label": "RAM DDR4L T-CREATE Classic 16GB 3200MHz C22"
+}
