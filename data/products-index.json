@@ -440,6 +440,16 @@
         "Date": "2024-02-06T22:24:24.9816392-05:00",
         "Update": "2024-06-30T18:46:23.6659873-04:00",
         "Label": "Memoria Flash Team Group 128GB C175 USB 3.2 [TC1753128GB01]"
+      },
+      {
+        "Price": 20.00,
+        "Features": [
+          "Memoria USB",
+          "Gen 1"
+        ],
+        "Date": "2024-06-30T18:35:14.2360135-04:00",
+        "Update": "2024-06-30T20:12:16.0152467-04:00",
+        "Label": "Memoria Flash Team Group 128GB C186 USB 3.2 [TC1863128GB01]"
       }
     ],
     "Laptop Componentes": [
@@ -1104,6 +1114,13 @@
         "Date": "2024-05-26T13:16:03.848485-04:00",
         "Update": "2024-06-30T17:27:37.92143-04:00",
         "Label": "Cover Samsung Galaxy A14 4G, A14 5G, 2 Piezas Transparente y Negro"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-05-26T13:29:22.5302244-04:00",
+        "Update": "2024-06-30T20:12:16.0465588-04:00",
+        "Label": "Mica Líquida NANO Hi-Tech"
       }
     ]
   },
