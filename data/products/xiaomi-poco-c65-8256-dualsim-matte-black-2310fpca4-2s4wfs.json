@@ -1,0 +1,32 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/xiaomi-poco-c65-8256-dualsim-matte-black-2310fpca4-2s4wfs-1.webp",
+    "/images/products/xiaomi-poco-c65-8256-dualsim-matte-black-2310fpca4-2s4wfs-2.webp",
+    "/images/products/xiaomi-poco-c65-8256-dualsim-matte-black-2310fpca4-2s4wfs-3.webp",
+    "/images/products/xiaomi-poco-c65-8256-dualsim-matte-black-2310fpca4-2s4wfs-4.webp",
+    "/images/products/xiaomi-poco-c65-8256-dualsim-matte-black-2310fpca4-2s4wfs-5.webp",
+    "/images/products/xiaomi-poco-c65-8256-dualsim-matte-black-2310fpca4-2s4wfs-6.webp"
+  ],
+  "Description": "Dimensiones del producto: 7,87 x 5,91 x 5,51 pulgadas\nNúmero de modelo del producto: c65\nBaterias: 1 Polímero de litio necesaria(s), incluida(s)\nOS: MIUI 14 para POCO, basado en Android 12\nRAM: 8GB\nTecnologías de comunicación inalámbrica: Conexión Wi-Fi\nCaracterísticas especiales: GPS integrado\nOtras características de la cámara: Frontal\nPuerto de audio: 3.5 mm\nFactor de forma: Smartphone\nColor: ROM global negra 256GB\nClasificación de potencia de la batería: 5000 Vatios-hora\nPhone Talk Time: 23 Horas\n¿Qué hay en la caja?: Eyector de bandeja SIM, Cargador de coche rápido 33w, Funda del teléfono, Cable USB, Expulsor de bandeja SIM, Funda para teléfono\nFabricante: Xiaomi\nTamaño del área de visualización de la pantalla con pie: 6,74 Pulgadas\nRam Memory Installed Size: 8 GB\nCapacidad: 5000 Miliamperios Hora\nPeso: 190 Gramos\nTiempo de carga: 120 Minutos",
+  "Price": 170.00,
+  "Features": [
+    "6.74\"",
+    "50+2MP",
+    "8MP Front",
+    "MediaTek Helio G36",
+    "Gorilla Glass",
+    "IPS",
+    "90Hz",
+    "600 nits (HBM)",
+    "1080p@30fps",
+    "5000 mAh",
+    "Fingerprint",
+    "Wi-Fi 802.11",
+    "2023 July"
+  ],
+  "Date": "2024-07-05T19:31:45.8128948-04:00",
+  "Update": "2024-07-05T20:33:16.4973173-04:00",
+  "Label": "Xiaomi POCO C65 8/256 DualSim Matte Black [2310FPCA41]"
+}
