@@ -1,0 +1,34 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/xiaomi-poco-m5-dualsm-6128-green-1.webp",
+    "/images/products/xiaomi-poco-m5-dualsm-6128-green-2.webp",
+    "/images/products/xiaomi-poco-m5-dualsm-6128-green-3.webp",
+    "/images/products/xiaomi-poco-m5-dualsm-6128-green-4.webp",
+    "/images/products/xiaomi-poco-m5-dualsm-6128-green-5.webp"
+  ],
+  "Description": "",
+  "Price": 180.00,
+  "Features": [
+    "6.58\"",
+    "50+2+2MP",
+    "5MP Front",
+    "Mediatek Helio G99",
+    "401ppi",
+    "IPS",
+    "90Hz",
+    "500 nits",
+    "18W",
+    "1080p@30fps",
+    "5000mAh",
+    "3G-LTE",
+    "Fingerprint",
+    "Gorilla Glass 3",
+    "22071219CG",
+    "2022 Septiembre"
+  ],
+  "Date": "2024-07-05T19:31:34.0952125-04:00",
+  "Update": "2024-07-07T18:39:34.8560498-04:00",
+  "Label": "Xiaomi POCO M5 DualSm 6+128 Green"
+}
