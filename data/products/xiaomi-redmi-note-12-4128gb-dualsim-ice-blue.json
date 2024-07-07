@@ -1,0 +1,30 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/xiaomi-redmi-note-12-4128gb-dualsim-ice-blue-1.webp"
+  ],
+  "Description": "",
+  "Price": 165.00,
+  "Features": [
+    "6.67\"",
+    "50+8+2MP",
+    "13MP Front",
+    "Qualcomm SM6225 Snapdragon 685",
+    "395ppi",
+    "AMOLED",
+    "120Hz",
+    "700nits",
+    "33W",
+    "1080p@30fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "23028RA60L",
+    "2023 Marzo"
+  ],
+  "Date": "2024-06-28T20:21:25.9629115-04:00",
+  "Update": "2024-07-07T18:27:52.4378632-04:00",
+  "Label": "Xiaomi Redmi Note 12 4+128GB DualSim Ice Blue"
+}
