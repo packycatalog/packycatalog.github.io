@@ -461,135 +461,6 @@
         "Label": "Cargador Generic Super Charger 20W White [A2305]"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "6.7\"",
-          "50+2MP",
-          "8MP Front",
-          "Mediatek MT6769V/CZ Helio G85",
-          "262ppi",
-          "PLS LCD",
-          "25W",
-          "1080p@30/60fps",
-          "5000mAh",
-          "3G-LTE",
-          "2023 Octubre"
-        ],
-        "Date": "2024-06-08T07:41:11.7454698-04:00",
-        "Update": "2024-06-30T16:36:10.6885855-04:00",
-        "Label": "Samsung Galaxy A05 4+64GB DualSim Black [A055F/DS]"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2MP",
-          "8MP Front",
-          "Mediatek MT6769V/CZ Helio G85",
-          "262ppi",
-          "PLS LCD",
-          "25W",
-          "1080p@30/60fps",
-          "5000mAh",
-          "3G-LTE",
-          "2023 Octubre"
-        ],
-        "Date": "2024-06-08T07:41:03.8821567-04:00",
-        "Update": "2024-06-30T16:36:10.7131165-04:00",
-        "Label": "Samsung Galaxy A05 4+128GB DualSim Black [A055F/DS]"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-05-10T15:16:45.453792-04:00",
-        "Update": "2024-06-30T17:12:08.449392-04:00",
-        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black [A057F/DS]"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-05-10T15:16:48.0367719-04:00",
-        "Update": "2024-06-30T17:15:51.6475487-04:00",
-        "Label": "Samsung Galaxy A05s 4+64GB DualSim Silver [A057F/DS]"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2024 Marzo"
-        ],
-        "Date": "2024-05-10T15:16:52.9512619-04:00",
-        "Update": "2024-06-30T17:15:51.664754-04:00",
-        "Def": true,
-        "Label": "Samsung Galaxy M14 4+64GB DualSim Sappire Blue [M145F/DS]"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "6.5\"",
-          "50+5+2MP",
-          "13MP Front",
-          "Mediatek Helio G99",
-          "396ppi",
-          "Super AMOLED",
-          "90Hz",
-          "800nits",
-          "25W",
-          "1080p@30fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "300Mbps",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-06-13T18:06:30.7064859-04:00",
-        "Update": "2024-06-30T17:15:51.6945937-04:00",
-        "Label": "Samsung Galaxy A15 4+128GB DualSim Yellow [A155M/DSN]"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "6.5\"",
@@ -612,30 +483,6 @@
         "Date": "2024-06-21T16:04:26.2099771-04:00",
         "Update": "2024-06-30T17:15:51.7690533-04:00",
         "Label": "Samsung Galaxy A15 6+128GB DualSim Yellow [A155M/DSN]"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "6.5\"",
-          "50+5+2MP",
-          "13MP Front",
-          "Mediatek Helio G99",
-          "396ppi",
-          "Super AMOLED",
-          "90Hz",
-          "800nits",
-          "25W",
-          "1080p@30fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "300Mbps",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-06-21T16:13:08.64572-04:00",
-        "Update": "2024-06-30T17:15:51.7907806-04:00",
-        "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black [A155M/DSN]"
       },
       {
         "Price": 165.00,
@@ -779,23 +626,6 @@
         "Date": "2024-05-26T13:29:22.5302244-04:00",
         "Update": "2024-06-30T20:12:16.0465588-04:00",
         "Label": "Mica Líquida NANO Hi-Tech"
-      },
-      {
-        "Price": 150.00,
-        "Features": [
-          "6.56\"",
-          "50+2+2MP",
-          "5MP Front",
-          "MediaTek Helio G36",
-          "TFT LCD",
-          "90Hz",
-          "1080p@30fps",
-          "Fingerprint",
-          "2023 July"
-        ],
-        "Date": "2024-07-05T19:31:14.6979997-04:00",
-        "Update": "2024-07-05T20:33:16.4792097-04:00",
-        "Label": "Honor X6a 4/128 DualSim Cover Mica Midnight Black [WDY-LX2]"
       },
       {
         "Price": 165.00,
@@ -1237,6 +1067,184 @@
         "Date": "2024-07-05T19:31:26.8720497-04:00",
         "Update": "2024-07-07T19:32:51.7959084-04:00",
         "Label": "One Plus 10T 5G 8+256 Moonstone Black + Mica"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "6.7\"",
+          "50+2MP",
+          "8MP Front",
+          "Mediatek MT6769V/CZ Helio G85",
+          "262ppi",
+          "PLS LCD",
+          "25W",
+          "1080p@30/60fps",
+          "5000mAh",
+          "3G-LTE",
+          "A055F/DS",
+          "2023 Octubre"
+        ],
+        "Date": "2024-06-08T07:41:11.7454698-04:00",
+        "Update": "2024-07-07T19:46:48.6521672-04:00",
+        "Label": "Samsung Galaxy A05 4+64GB DualSim Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2MP",
+          "8MP Front",
+          "Mediatek MT6769V/CZ Helio G85",
+          "262ppi",
+          "PLS LCD",
+          "25W",
+          "1080p@30/60fps",
+          "5000mAh",
+          "3G-LTE",
+          "A055F/DS",
+          "2023 Octubre"
+        ],
+        "Date": "2024-06-08T07:41:03.8821567-04:00",
+        "Update": "2024-07-07T19:46:48.6893868-04:00",
+        "Label": "Samsung Galaxy A05 4+128GB DualSim Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:45.453792-04:00",
+        "Update": "2024-07-07T19:46:48.7479769-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:48.0367719-04:00",
+        "Update": "2024-07-07T19:46:48.7836786-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB DualSim Silver"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS LCD",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "M145F/DS",
+          "2024 Marzo"
+        ],
+        "Date": "2024-05-10T15:16:52.9512619-04:00",
+        "Update": "2024-07-07T19:46:48.8170752-04:00",
+        "Def": true,
+        "Label": "Samsung Galaxy M14 4+64GB DualSim Sappire Blue"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "6.5\"",
+          "50+5+2MP",
+          "13MP Front",
+          "Mediatek Helio G99",
+          "396ppi",
+          "Super AMOLED",
+          "90Hz",
+          "800nits",
+          "25W",
+          "1080p@30fps",
+          "300Mbps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A155M/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-06-13T18:06:30.7064859-04:00",
+        "Update": "2024-07-07T19:46:48.8519297-04:00",
+        "Label": "Samsung Galaxy A15 4+128GB DualSim Yellow"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "6.5\"",
+          "50+5+2MP",
+          "13MP Front",
+          "Mediatek Helio G99",
+          "396ppi",
+          "Super AMOLED",
+          "90Hz",
+          "800nits",
+          "300Mbps",
+          "25W",
+          "1080p@30fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A155M/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-06-21T16:13:08.64572-04:00",
+        "Update": "2024-07-07T19:46:48.8846293-04:00",
+        "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "6.56\"",
+          "50+2+2MP",
+          "5MP Front",
+          "MediaTek Helio G36",
+          "TFT LCD",
+          "90Hz",
+          "1080p@30fps",
+          "Fingerprint",
+          "WDY-LX2",
+          "2023 July"
+        ],
+        "Date": "2024-07-05T19:31:14.6979997-04:00",
+        "Update": "2024-07-07T19:46:48.9193246-04:00",
+        "Label": "Honor X6a 4/128 DualSim Midnight Black + Cover, Mica"
       }
     ],
     "Laptop Componentes": [
