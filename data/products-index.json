@@ -443,30 +443,6 @@
         "Label": "Mica Samsung A15"
       },
       {
-        "Price": 270.00,
-        "Features": [
-          "6.67\"",
-          "200+8+2MP",
-          "16MP Front",
-          "Mediatek Helio G99 Ultra",
-          "395ppi",
-          "AMOLED",
-          "120Hz",
-          "1000nits",
-          "67W",
-          "1080p@30/60fps",
-          "Gorilla Glass 5",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2024 Enero"
-        ],
-        "Date": "2024-06-28T18:12:52.7815713-04:00",
-        "Update": "2024-06-28T20:57:48.1689656-04:00",
-        "Label": "Xiaomi Redmi Note 13 Pro 8+256GB DualSim Midnight Black [23117RA68G]"
-      },
-      {
         "Price": 15.00,
         "Features": [
           "USB-C"
@@ -733,32 +709,6 @@
         "Label": "Samsung Galaxy A25 5G 6GB+128GB DualSim Blue Black [A256E/DSN]"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "6.67\"",
-          "108+8+2MP",
-          "16MP Front",
-          "Snapdragon 685",
-          "395ppi",
-          "AMOLED",
-          "120Hz",
-          "1000nits",
-          "33W",
-          "1080p@30fps",
-          "Gorilla Glass 3",
-          "IP54",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "23129RA5FL",
-          "2024 Enero"
-        ],
-        "Date": "2024-06-08T08:19:45.2199787-04:00",
-        "Update": "2024-06-30T17:19:58.4710051-04:00",
-        "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Mint Green [23129RA5FL]"
-      },
-      {
         "Price": 340.00,
         "Features": [
           "6.6\"",
@@ -802,30 +752,6 @@
         "Date": "2024-06-21T22:27:31.0342336-04:00",
         "Update": "2024-06-30T17:19:58.506285-04:00",
         "Label": "Samsung Galaxy A35 5G 8+256GB DualSim Awesome Navy [A356E/DS]"
-      },
-      {
-        "Price": 335.0,
-        "Features": [
-          "6.67\"",
-          "200+8+2MP",
-          "16MP Front",
-          "Mediatek Helio G99 Ultra",
-          "395ppi",
-          "AMOLED",
-          "120Hz",
-          "1000nits",
-          "67W",
-          "1080p@30/60fps",
-          "Gorilla Glass 5",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2024 Enero"
-        ],
-        "Date": "2024-06-21T17:13:51.6955247-04:00",
-        "Update": "2024-06-30T17:19:58.5234225-04:00",
-        "Label": "Xiaomi Redmi Note 13 Pro 12+512GB DualSim Midnight Black [23117RA68G]"
       },
       {
         "Price": 230.00,
@@ -1069,99 +995,6 @@
         "Label": "Xiaomi Redmi Note 12 4+128GB DualSim Ice Blue"
       },
       {
-        "Price": 170.00,
-        "Features": [
-          "6.74\"",
-          "50+2MP",
-          "8MP Front",
-          "MediaTek Helio G36",
-          "Gorilla Glass",
-          "IPS",
-          "90Hz",
-          "600 nits (HBM)",
-          "1080p@30fps",
-          "5000 mAh",
-          "Fingerprint",
-          "2310FPCA41",
-          "2023 July"
-        ],
-        "Date": "2024-07-05T19:31:45.8128948-04:00",
-        "Update": "2024-07-07T18:35:13.2195201-04:00",
-        "Label": "Xiaomi POCO C65 8/256 DualSim Matte Black"
-      },
-      {
-        "Price": 170.00,
-        "Features": [
-          "6.74\"",
-          "50+ 2MP",
-          "8MP front",
-          "Mediatek Helio G85",
-          "Gorilla Glass",
-          "IPS LCD",
-          "600 nits (HBM)",
-          "Wi-Fi 802.11",
-          "5000mAh",
-          "18W wired, PD",
-          "1080p@30fps",
-          "Fingerprint",
-          "2310FPCA41",
-          "2023 Noviembre"
-        ],
-        "Date": "2024-07-05T19:31:39.3637374-04:00",
-        "Update": "2024-07-07T18:35:13.2542136-04:00",
-        "Label": "Xiaomi POCO C65 8/256 DualSim Pastel Blue"
-      },
-      {
-        "Price": 190.00,
-        "Features": [
-          "6.67\"",
-          "108+8+2MP",
-          "16MP Front",
-          "Snapdragon 685",
-          "395ppi",
-          "AMOLED",
-          "120Hz",
-          "1000nits",
-          "33W",
-          "1080p@30fps",
-          "Gorilla Glass 3",
-          "IP54",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "23129RA5FL",
-          "2024 Enero"
-        ],
-        "Date": "2024-06-13T18:26:56.0297232-04:00",
-        "Update": "2024-07-07T18:36:18.7531726-04:00",
-        "Label": "Xiaomi Redmi Note 13 6+128GB Midnight Black"
-      },
-      {
-        "Price": 180.00,
-        "Features": [
-          "6.58\"",
-          "50+2+2MP",
-          "5MP Front",
-          "Mediatek Helio G99",
-          "401ppi",
-          "IPS",
-          "90Hz",
-          "500 nits",
-          "18W",
-          "1080p@30fps",
-          "5000mAh",
-          "3G-LTE",
-          "Fingerprint",
-          "Gorilla Glass 3",
-          "22071219CG",
-          "2022 Septiembre"
-        ],
-        "Date": "2024-07-05T19:31:34.0952125-04:00",
-        "Update": "2024-07-07T18:36:18.7920272-04:00",
-        "Label": "Xiaomi POCO M5 6+128 Green"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "6.67\"",
@@ -1186,6 +1019,175 @@
         "Date": "2024-05-10T15:16:58.8713407-04:00",
         "Update": "2024-07-07T18:37:21.2232353-04:00",
         "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Midnight Black"
+      },
+      {
+        "Price": 270.00,
+        "Features": [
+          "6.67\"",
+          "200+8+2MP",
+          "16MP Front",
+          "Mediatek Helio G99 Ultra",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "67W",
+          "1080p@30/60fps",
+          "Gorilla Glass 5",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "23117RA68G",
+          "2024 Enero"
+        ],
+        "Date": "2024-06-28T18:12:52.7815713-04:00",
+        "Update": "2024-07-07T18:39:34.723144-04:00",
+        "Label": "Xiaomi Redmi Note 13 Pro 8+256GB DualSim Midnight Black"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "6.67\"",
+          "108+8+2MP",
+          "16MP Front",
+          "Snapdragon 685",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "33W",
+          "1080p@30fps",
+          "Gorilla Glass 3",
+          "IP54",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "23129RA5FL",
+          "2024 Enero"
+        ],
+        "Date": "2024-06-13T18:26:56.0297232-04:00",
+        "Update": "2024-07-07T18:39:34.7563876-04:00",
+        "Label": "Xiaomi Redmi Note 13 6+128GB DualSim Midnight Black"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "6.67\"",
+          "108+8+2MP",
+          "16MP Front",
+          "Snapdragon 685",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "33W",
+          "1080p@30fps",
+          "Gorilla Glass 3",
+          "IP54",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "23129RA5FL",
+          "2024 Enero"
+        ],
+        "Date": "2024-06-08T08:19:45.2199787-04:00",
+        "Update": "2024-07-07T18:39:34.7924889-04:00",
+        "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Mint Green"
+      },
+      {
+        "Price": 335.0,
+        "Features": [
+          "6.67\"",
+          "200+8+2MP",
+          "16MP Front",
+          "Mediatek Helio G99 Ultra",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "67W",
+          "1080p@30/60fps",
+          "Gorilla Glass 5",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "23117RA68G",
+          "2024 Enero"
+        ],
+        "Date": "2024-06-21T17:13:51.6955247-04:00",
+        "Update": "2024-07-07T18:39:34.8241379-04:00",
+        "Label": "Xiaomi Redmi Note 13 Pro 12+512GB DualSim Midnight Black"
+      },
+      {
+        "Price": 180.00,
+        "Features": [
+          "6.58\"",
+          "50+2+2MP",
+          "5MP Front",
+          "Mediatek Helio G99",
+          "401ppi",
+          "IPS",
+          "90Hz",
+          "500 nits",
+          "18W",
+          "1080p@30fps",
+          "5000mAh",
+          "3G-LTE",
+          "Fingerprint",
+          "Gorilla Glass 3",
+          "22071219CG",
+          "2022 Septiembre"
+        ],
+        "Date": "2024-07-05T19:31:34.0952125-04:00",
+        "Update": "2024-07-07T18:39:34.8560498-04:00",
+        "Label": "Xiaomi POCO M5 DualSm 6+128 Green"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "6.74\"",
+          "50+2MP",
+          "8MP Front",
+          "MediaTek Helio G36",
+          "Gorilla Glass",
+          "IPS",
+          "90Hz",
+          "600 nits (HBM)",
+          "1080p@30fps",
+          "5000 mAh",
+          "Fingerprint",
+          "2310FPCA41",
+          "2023 July"
+        ],
+        "Date": "2024-07-05T19:31:45.8128948-04:00",
+        "Update": "2024-07-07T18:39:34.8882922-04:00",
+        "Label": "Xiaomi POCO C65 8+256 DualSim Matte Black"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "6.74\"",
+          "50+ 2MP",
+          "8MP front",
+          "Mediatek Helio G85",
+          "Gorilla Glass",
+          "IPS LCD",
+          "600 nits (HBM)",
+          "Wi-Fi 802.11",
+          "5000mAh",
+          "18W wired, PD",
+          "1080p@30fps",
+          "Fingerprint",
+          "2310FPCA41",
+          "2023 Noviembre"
+        ],
+        "Date": "2024-07-05T19:31:39.3637374-04:00",
+        "Update": "2024-07-07T18:39:34.9208701-04:00",
+        "Label": "Xiaomi POCO C65 8+256 DualSim Pastel Blue"
       }
     ],
     "Laptop Componentes": [
