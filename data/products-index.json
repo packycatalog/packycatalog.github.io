@@ -946,27 +946,6 @@
         "Label": "Honor X6a 4/128 DualSim Cover Mica Midnight Black [WDY-LX2]"
       },
       {
-        "Price": 170.00,
-        "Features": [
-          "6.74\"",
-          "50+2MP",
-          "8MP Front",
-          "MediaTek Helio G36",
-          "Gorilla Glass",
-          "IPS",
-          "90Hz",
-          "600 nits (HBM)",
-          "1080p@30fps",
-          "5000 mAh",
-          "Fingerprint",
-          "Wi-Fi 802.11",
-          "2023 July"
-        ],
-        "Date": "2024-07-05T19:31:45.8128948-04:00",
-        "Update": "2024-07-05T20:33:16.4973173-04:00",
-        "Label": "Xiaomi POCO C65 8/256 DualSim Matte Black [2310FPCA41]"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "6.5\"",
@@ -1021,24 +1000,6 @@
         "Date": "2024-06-08T08:26:04.232994-04:00",
         "Update": "2024-07-05T20:54:27.0774688-04:00",
         "Label": "Xiaomi Redmi 13C 4+128GB DualSim Stardust Black"
-      },
-      {
-        "Price": 170.00,
-        "Features": [
-          "6.74\"",
-          "Gorilla Glass",
-          "IPS LCD",
-          "600 nits (HBM)",
-          "50+ 2MP",
-          "8MP front",
-          "1080p@30fps",
-          "MT6769Z Helio G85",
-          "Wi-Fi 802.11",
-          "18W wired, PD"
-        ],
-        "Date": "2024-07-05T19:31:39.3637374-04:00",
-        "Update": "2024-07-07T18:14:40.410286-04:00",
-        "Label": "Xiaomi POCO C65 8/256 Pastel Blue [2310FPCA41]"
       },
       {
         "Price": 180.00,
@@ -1179,6 +1140,49 @@
         "Date": "2024-06-28T20:21:25.9629115-04:00",
         "Update": "2024-07-07T18:27:52.4378632-04:00",
         "Label": "Xiaomi Redmi Note 12 4+128GB DualSim Ice Blue"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "6.74\"",
+          "50+2MP",
+          "8MP Front",
+          "MediaTek Helio G36",
+          "Gorilla Glass",
+          "IPS",
+          "90Hz",
+          "600 nits (HBM)",
+          "1080p@30fps",
+          "5000 mAh",
+          "Fingerprint",
+          "2310FPCA41",
+          "2023 July"
+        ],
+        "Date": "2024-07-05T19:31:45.8128948-04:00",
+        "Update": "2024-07-07T18:35:13.2195201-04:00",
+        "Label": "Xiaomi POCO C65 8/256 DualSim Matte Black"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "6.74\"",
+          "50+ 2MP",
+          "8MP front",
+          "Mediatek Helio G85",
+          "Gorilla Glass",
+          "IPS LCD",
+          "600 nits (HBM)",
+          "Wi-Fi 802.11",
+          "5000mAh",
+          "18W wired, PD",
+          "1080p@30fps",
+          "Fingerprint",
+          "2310FPCA41",
+          "2023 Noviembre"
+        ],
+        "Date": "2024-07-05T19:31:39.3637374-04:00",
+        "Update": "2024-07-07T18:35:13.2542136-04:00",
+        "Label": "Xiaomi POCO C65 8/256 DualSim Pastel Blue"
       }
     ],
     "Laptop Componentes": [
