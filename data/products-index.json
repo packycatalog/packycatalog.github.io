@@ -461,30 +461,6 @@
         "Label": "Cargador Generic Super Charger 20W White [A2305]"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-06-28T10:38:19.7648733-04:00",
-        "Update": "2024-06-30T16:24:32.3726208-04:00",
-        "Discount": 25.0,
-        "Def": true,
-        "Label": "Samsung A05s [A057F/DS]"
-      },
-      {
         "Price": 125.00,
         "Features": [
           "6.7\"",
@@ -1214,6 +1190,28 @@
         "Date": "2024-06-08T08:10:50.0877071-04:00",
         "Update": "2024-07-07T18:40:34.9090253-04:00",
         "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Ice Blue"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "6.8\"",
+          "108+5+2MP",
+          "8MP Front",
+          "Snapdragon 680 4G",
+          "389ppi",
+          "IPS",
+          "90Hz",
+          "850nits",
+          "35W",
+          "1080p@30fps",
+          "3G-LTE",
+          "Fingerprint",
+          "CLK-LX2",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-07-05T19:31:20.2475062-04:00",
+        "Update": "2024-07-07T19:14:37.1340766-04:00",
+        "Label": "Honor X7b 8+256 DualSim Midnight Black"
       }
     ],
     "Laptop Componentes": [
