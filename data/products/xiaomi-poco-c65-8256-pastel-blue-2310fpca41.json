@@ -2,7 +2,10 @@
   "Category": "Electrónica",
   "SubCategory": "Celular",
   "Images": [
-    "/images/products/xiaomi-poco-c65-8256-pastel-blue-2310fpca41-1.webp"
+    "/images/products/xiaomi-poco-c65-8256-pastel-blue-2310fpca41-1.webp",
+    "/images/products/xiaomi-poco-c65-8256-pastel-blue-2310fpca41-2.webp",
+    "/images/products/xiaomi-poco-c65-8256-pastel-blue-2310fpca41-3.webp",
+    "/images/products/xiaomi-poco-c65-8256-pastel-blue-2310fpca41-4.webp"
   ],
   "Description": "",
   "Price": 170.00,
@@ -19,6 +22,6 @@
     "18W wired, PD"
   ],
   "Date": "2024-07-05T19:31:39.3637374-04:00",
-  "Update": "2024-07-06T08:39:36.8853458-04:00",
+  "Update": "2024-07-07T18:14:40.410286-04:00",
   "Label": "Xiaomi POCO C65 8/256 Pastel Blue [2310FPCA41]"
 }
