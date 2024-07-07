@@ -1,0 +1,29 @@
+{
+  "Category": "Electrónica",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/xiaomi-redmi-note-11-4g-4128gb-dualsim-sea-blue-1.webp"
+  ],
+  "Description": "",
+  "Price": 140.00,
+  "Features": [
+    "6.5\"",
+    "50+8+2MP",
+    "8MP Front",
+    "Mediatek MT6769H Helio G88",
+    "405ppi",
+    "LCD",
+    "90Hz",
+    "18W",
+    "1080p@30fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "21121119SC",
+    "2021 Noviembre"
+  ],
+  "Date": "2024-06-28T18:57:21.4946833-04:00",
+  "Update": "2024-07-07T18:26:18.6258706-04:00",
+  "Label": "Xiaomi Redmi Note 11 4G 4+128GB DualSim Sea Blue"
+}
