@@ -751,31 +751,6 @@
           "3G-LTE",
           "Jack 3.5",
           "Fingerprint",
-          "2024 Enero"
-        ],
-        "Date": "2024-05-10T15:16:58.8713407-04:00",
-        "Update": "2024-06-30T17:19:58.4533637-04:00",
-        "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Midnight Black [23129RA5FL]"
-      },
-      {
-        "Price": 205.00,
-        "Features": [
-          "6.67\"",
-          "108+8+2MP",
-          "16MP Front",
-          "Snapdragon 685",
-          "395ppi",
-          "AMOLED",
-          "120Hz",
-          "1000nits",
-          "33W",
-          "1080p@30fps",
-          "Gorilla Glass 3",
-          "IP54",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
           "23129RA5FL",
           "2024 Enero"
         ],
@@ -1185,6 +1160,32 @@
         "Date": "2024-07-05T19:31:34.0952125-04:00",
         "Update": "2024-07-07T18:36:18.7920272-04:00",
         "Label": "Xiaomi POCO M5 6+128 Green"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "6.67\"",
+          "108+8+2MP",
+          "16MP Front",
+          "Snapdragon 685",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "33W",
+          "1080p@30fps",
+          "Gorilla Glass 3",
+          "IP54",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "23129RA5FL",
+          "2024 Enero"
+        ],
+        "Date": "2024-05-10T15:16:58.8713407-04:00",
+        "Update": "2024-07-07T18:37:21.2232353-04:00",
+        "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Midnight Black"
       }
     ],
     "Laptop Componentes": [
