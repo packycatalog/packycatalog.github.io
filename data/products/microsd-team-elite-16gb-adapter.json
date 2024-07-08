@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Accesorios",
+  "Category": "Teléfonos",
+  "SubCategory": "MicroSD",
   "Images": [
     "/images/products/microsd-team-elite-16gb-adapter-1.webp",
     "/images/products/microsd-team-elite-16gb-adapter-2.webp",
@@ -13,6 +13,6 @@
     "TUSDH16GCL10U03"
   ],
   "Date": "2024-01-25T11:53:23.9176268-05:00",
-  "Update": "2024-06-30T18:27:22.4835011-04:00",
-  "Label": "MicroSD Team Elite 16GB + Adapter"
+  "Update": "2024-07-08T16:16:32.0878124-04:00",
+  "Label": "MicroSD Team Elite 16GB +Adapter"
 }
