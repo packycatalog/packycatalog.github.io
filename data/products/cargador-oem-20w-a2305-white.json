@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Celular",
+  "Category": "Teléfonos",
+  "SubCategory": "Cargador",
   "Images": [
     "/images/products/cargador-oem-20w-a2305-white-1.webp",
     "/images/products/cargador-oem-20w-a2305-white-2.webp"
@@ -12,6 +12,6 @@
     "USB-C"
   ],
   "Date": "2024-06-21T22:52:33.3995775-04:00",
-  "Update": "2024-07-08T15:35:22.1264147-04:00",
+  "Update": "2024-07-08T16:08:36.6109484-04:00",
   "Label": "Cargador OEM 20W A2305 White"
 }
