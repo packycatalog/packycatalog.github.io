@@ -436,7 +436,7 @@
     ],
     "Celular": [
       {
-        "Price": 3.00,
+        "Price": 5.00,
         "Features": [],
         "Date": "2024-06-24T13:43:54.9076731-04:00",
         "Update": "2024-06-26T18:20:12.2858342-04:00",
@@ -461,7 +461,7 @@
         "Label": "Cargador Generic Super Charger 20W White [A2305]"
       },
       {
-        "Price": 7.00,
+        "Price": 5.00,
         "Features": [],
         "Date": "2024-05-26T13:29:22.5302244-04:00",
         "Update": "2024-06-30T20:12:16.0465588-04:00",
@@ -1288,6 +1288,13 @@
         "Date": "2024-07-07T20:41:06.0528889-04:00",
         "Update": "2024-07-08T15:16:56.8923711-04:00",
         "Label": "Cover OEM C02 Samsung Galaxy A05s, M14"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-07-07T20:41:12.1683174-04:00",
+        "Update": "2024-07-08T15:24:00.765724-04:00",
+        "Label": "Cover OEM C02 Xiaomi Redmi 13C"
       }
     ],
     "Laptop Componentes": [
