@@ -1295,6 +1295,41 @@
         "Date": "2024-02-07T10:16:36.0023367-05:00",
         "Update": "2024-07-08T15:35:22.1627403-04:00",
         "Label": "Cargador Aukey 20W PA-Y20S Black"
+      },
+      {
+        "Price": 155.00,
+        "Features": [],
+        "Date": "2024-07-08T15:36:17.2186092-04:00",
+        "Update": "2024-07-08T15:55:56.6396439-04:00",
+        "Label": "Headphone Beats Solo3 Wireless A1796 Gloss White"
+      },
+      {
+        "Price": 175.00,
+        "Features": [],
+        "Date": "2024-07-08T15:36:19.811445-04:00",
+        "Update": "2024-07-08T15:55:56.6787073-04:00",
+        "Label": "Headphone Bose SoundLink Wireless II White"
+      },
+      {
+        "Price": 6.00,
+        "Features": [
+          "14mm",
+          "20Hz-20KHz",
+          "32omz",
+          "Plastico",
+          "1.2m",
+          "107dB"
+        ],
+        "Date": "2024-07-08T15:36:31.5877444-04:00",
+        "Update": "2024-07-08T15:55:56.7164182-04:00",
+        "Label": "Earphone 1HORA USB-C AUT124 Black"
+      },
+      {
+        "Price": 15.00,
+        "Features": [],
+        "Date": "2024-07-08T15:36:33.8392379-04:00",
+        "Update": "2024-07-08T15:55:56.7546376-04:00",
+        "Label": "Earphone Xiaomi J18 Wireless with Microphone Bt"
       }
     ],
     "Laptop Componentes": [
