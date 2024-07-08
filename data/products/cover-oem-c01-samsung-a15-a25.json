@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Celular",
+  "Category": "Teléfonos",
+  "SubCategory": "Forro",
   "Images": [
     "/images/products/cover-oem-c01-samsung-a15-a25-1.webp",
     "/images/products/cover-oem-c01-samsung-a15-a25-2.webp"
@@ -9,6 +9,6 @@
   "Price": 5.00,
   "Features": [],
   "Date": "2024-05-26T14:13:06.3974492-04:00",
-  "Update": "2024-07-08T15:16:56.7158983-04:00",
+  "Update": "2024-07-08T16:11:07.3269283-04:00",
   "Label": "Cover OEM C01 Samsung A15, A25"
 }
