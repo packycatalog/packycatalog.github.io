@@ -536,52 +536,6 @@
           "3G-LTE",
           "Jack 3.5",
           "Fingerprint",
-          "A057F/DS",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-05-10T15:16:45.453792-04:00",
-        "Update": "2024-07-07T19:46:48.7479769-04:00",
-        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "A057F/DS",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-05-10T15:16:48.0367719-04:00",
-        "Update": "2024-07-07T19:46:48.7836786-04:00",
-        "Label": "Samsung Galaxy A05s 4+64GB DualSim Silver"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS LCD",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
           "M145F/DS",
           "2024 Marzo"
         ],
@@ -1271,6 +1225,52 @@
         "Date": "2024-06-08T07:41:03.8821567-04:00",
         "Update": "2024-07-08T12:51:41.190209-04:00",
         "Label": "Samsung Galaxy A05 4+128GB DualSim Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "393ppi",
+          "PLS",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:45.453792-04:00",
+        "Update": "2024-07-08T12:54:39.4920431-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB DualSim Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "393ppi",
+          "PLS",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A057F/DS",
+          "2023 Septiembre"
+        ],
+        "Date": "2024-05-10T15:16:48.0367719-04:00",
+        "Update": "2024-07-08T12:54:39.5240697-04:00",
+        "Label": "Samsung Galaxy A05s 4+64GB DualSim Silver"
       }
     ],
     "Laptop Componentes": [
