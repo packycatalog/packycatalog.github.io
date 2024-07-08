@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Celular",
+  "Category": "Teléfonos",
+  "SubCategory": "Mica",
   "Images": [
     "/images/products/mica-lquida-nano-hi-tech-1.webp",
     "/images/products/mica-lquida-nano-hi-tech-2.webp",
@@ -10,6 +10,6 @@
   "Price": 5.00,
   "Features": [],
   "Date": "2024-05-26T13:29:22.5302244-04:00",
-  "Update": "2024-06-30T20:12:16.0465588-04:00",
+  "Update": "2024-07-08T16:11:07.2193093-04:00",
   "Label": "Mica Líquida NANO Hi-Tech"
 }
