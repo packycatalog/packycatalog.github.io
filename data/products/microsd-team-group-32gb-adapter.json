@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Accesorios",
+  "Category": "Teléfonos",
+  "SubCategory": "MicroSD",
   "Images": [
     "/images/products/microsd-team-group-32gb-adapter-1.webp",
     "/images/products/microsd-team-group-32gb-adapter-2.webp",
@@ -13,6 +13,6 @@
     "Class 10"
   ],
   "Date": "2024-02-06T22:24:38.6575545-05:00",
-  "Update": "2024-06-30T18:27:22.5633673-04:00",
-  "Label": "MicroSD Team Group 32GB + Adapter"
+  "Update": "2024-07-08T16:16:32.1570687-04:00",
+  "Label": "MicroSD Team Group 32GB +Adapter"
 }
