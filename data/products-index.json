@@ -972,6 +972,26 @@
         "Date": "2024-07-08T16:38:01.8940553-04:00",
         "Update": "2024-07-08T16:42:40.4240875-04:00",
         "Label": "MicroSD Team Group 32GB Color"
+      },
+      {
+        "Price": 18.00,
+        "Features": [
+          "80MBs",
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:37:56.1095254-04:00",
+        "Update": "2024-07-08T16:43:33.2016816-04:00",
+        "Label": "MicroSD Samsung Pro 64GB +Adaptador"
+      },
+      {
+        "Price": 14.00,
+        "Features": [
+          "80MBs",
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:38:10.6092215-04:00",
+        "Update": "2024-07-08T16:43:33.2017322-04:00",
+        "Label": "MicroSD Team Group 64GB"
       }
     ]
   },
@@ -1417,6 +1437,20 @@
         "Date": "2023-08-19T17:49:38.9743409-04:00",
         "Update": "2024-05-14T10:31:15.5281018-04:00",
         "Label": "Wahl"
+      },
+      {
+        "Price": 175.00,
+        "Features": [],
+        "Date": "2024-07-04T19:55:54.3799379-04:00",
+        "Update": "2024-07-08T16:43:33.1068082-04:00",
+        "Label": "Clipper - Wahl Professional 5 Start Senior Cordless +Base [8504-400] Caja Negra"
+      },
+      {
+        "Price": 150.00,
+        "Features": [],
+        "Date": "2024-07-04T19:55:51.232962-04:00",
+        "Update": "2024-07-08T16:43:33.1412738-04:00",
+        "Label": "Wahl Professional 5 Start Senior Cordless [8504-400] Caja Gris"
       }
     ]
   },
