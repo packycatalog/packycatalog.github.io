@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Accesorios",
+  "Category": "Teléfonos",
+  "SubCategory": "MicroSD",
   "Images": [
     "/images/products/microsd-adata-64gb-adapter-1.webp",
     "/images/products/microsd-adata-64gb-adapter-2.webp",
@@ -13,6 +13,6 @@
     "100MB/s"
   ],
   "Date": "2024-02-06T22:24:30.2992989-05:00",
-  "Update": "2024-06-30T18:27:22.5202666-04:00",
-  "Label": "MicroSD ADATA 64GB + Adapter"
+  "Update": "2024-07-08T16:16:32.1229712-04:00",
+  "Label": "MicroSD ADATA 64GB +Adapter"
 }
