@@ -910,30 +910,32 @@
       {
         "Price": 5.00,
         "Features": [
-          "80MB/s",
+          "80MBs",
+          "Class10",
           "TUSDH16GCL10U03"
         ],
         "Date": "2024-01-25T11:53:23.9176268-05:00",
-        "Update": "2024-07-08T16:16:32.0878124-04:00",
+        "Update": "2024-07-08T16:37:34.2765796-04:00",
         "Label": "MicroSD Team Elite 16GB +Adapter"
       },
       {
         "Price": 10.00,
         "Features": [
-          "100MB/s"
+          "100MBs",
+          "Class10"
         ],
         "Date": "2024-02-06T22:24:30.2992989-05:00",
-        "Update": "2024-07-08T16:16:32.1229712-04:00",
+        "Update": "2024-07-08T16:37:34.3105882-04:00",
         "Label": "MicroSD ADATA 64GB +Adapter"
       },
       {
         "Price": 7.00,
         "Features": [
-          "100MB/s",
-          "Class 10"
+          "100MBs",
+          "Class10"
         ],
         "Date": "2024-02-06T22:24:38.6575545-05:00",
-        "Update": "2024-07-08T16:16:32.1570687-04:00",
+        "Update": "2024-07-08T16:37:34.3470176-04:00",
         "Label": "MicroSD Team Group 32GB +Adapter"
       }
     ]
