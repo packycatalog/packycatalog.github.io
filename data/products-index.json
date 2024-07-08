@@ -463,13 +463,6 @@
       {
         "Price": 7.00,
         "Features": [],
-        "Date": "2024-05-26T13:16:03.848485-04:00",
-        "Update": "2024-06-30T17:27:37.92143-04:00",
-        "Label": "Cover Samsung Galaxy A14 4G, A14 5G, 2 Piezas Transparente y Negro"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
         "Date": "2024-05-26T13:29:22.5302244-04:00",
         "Update": "2024-06-30T20:12:16.0465588-04:00",
         "Label": "Mica Líquida NANO Hi-Tech"
@@ -1220,20 +1213,6 @@
         "Label": "Cover OEM C03 Samsung Galaxy A05"
       },
       {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-05-26T14:13:06.3974492-04:00",
-        "Update": "2024-07-08T15:11:19.5839414-04:00",
-        "Label": "Cover OEM C01 Samsung A15, A25"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
-        "Date": "2024-05-26T13:16:14.9764448-04:00",
-        "Update": "2024-07-08T15:11:19.6293152-04:00",
-        "Label": "Cover OEM C02 Samsug Galaxy A15, A25"
-      },
-      {
         "Price": 335.0,
         "Features": [
           "6.67\"",
@@ -1281,6 +1260,34 @@
         "Date": "2024-07-05T19:31:34.0952125-04:00",
         "Update": "2024-07-08T15:11:19.6988086-04:00",
         "Label": "Xiaomi POCO M5 6+128GB DualSim Green +Cover +Mica"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-05-26T14:13:06.3974492-04:00",
+        "Update": "2024-07-08T15:16:56.7158983-04:00",
+        "Label": "Cover OEM C01 Samsung A15, A25"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-05-26T13:16:14.9764448-04:00",
+        "Update": "2024-07-08T15:16:56.8033849-04:00",
+        "Label": "Cover OEM C02 Samsung Galaxy A15, A25"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-07-07T20:41:03.5824458-04:00",
+        "Update": "2024-07-08T15:16:56.8476826-04:00",
+        "Label": "Cover OEM C02 Samsung Galaxy A05"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-07-07T20:41:06.0528889-04:00",
+        "Update": "2024-07-08T15:16:56.8923711-04:00",
+        "Label": "Cover OEM C02 Samsung Galaxy A05s, M14"
       }
     ],
     "Laptop Componentes": [
