@@ -1271,13 +1271,6 @@
       {
         "Price": 7.00,
         "Features": [],
-        "Date": "2024-05-26T13:16:14.9764448-04:00",
-        "Update": "2024-07-08T15:16:56.8033849-04:00",
-        "Label": "Cover OEM C02 Samsung Galaxy A15, A25"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
         "Date": "2024-07-07T20:41:03.5824458-04:00",
         "Update": "2024-07-08T15:16:56.8476826-04:00",
         "Label": "Cover OEM C02 Samsung Galaxy A05"
@@ -1285,16 +1278,23 @@
       {
         "Price": 7.00,
         "Features": [],
-        "Date": "2024-07-07T20:41:06.0528889-04:00",
-        "Update": "2024-07-08T15:16:56.8923711-04:00",
-        "Label": "Cover OEM C02 Samsung Galaxy A05s, M14"
+        "Date": "2024-07-07T20:41:12.1683174-04:00",
+        "Update": "2024-07-08T15:27:05.4490905-04:00",
+        "Label": "Cover OEM C02 Xiaomi Redmi 13C"
       },
       {
         "Price": 7.00,
         "Features": [],
-        "Date": "2024-07-07T20:41:12.1683174-04:00",
-        "Update": "2024-07-08T15:24:00.765724-04:00",
-        "Label": "Cover OEM C02 Xiaomi Redmi 13C"
+        "Date": "2024-05-26T13:16:14.9764448-04:00",
+        "Update": "2024-07-08T15:27:05.4917308-04:00",
+        "Label": "Cover OEM C02 Samsung Galaxy A15, A25"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-07-07T20:41:06.0528889-04:00",
+        "Update": "2024-07-08T15:27:05.5379464-04:00",
+        "Label": "Cover OEM C02 Samsung Galaxy A05s, M14"
       }
     ],
     "Laptop Componentes": [
