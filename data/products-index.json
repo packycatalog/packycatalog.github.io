@@ -443,24 +443,6 @@
         "Label": "Mica Samsung A15"
       },
       {
-        "Price": 15.00,
-        "Features": [
-          "USB-C"
-        ],
-        "Date": "2024-06-13T19:29:25.6362916-04:00",
-        "Update": "2024-06-30T16:24:32.3137941-04:00",
-        "Label": "Cargador Generic Super Charger 25W White [EP-TA800]"
-      },
-      {
-        "Price": 10.00,
-        "Features": [
-          "USB-C"
-        ],
-        "Date": "2024-06-21T22:52:33.3995775-04:00",
-        "Update": "2024-06-30T16:24:32.3372024-04:00",
-        "Label": "Cargador Generic Super Charger 20W White [A2305]"
-      },
-      {
         "Price": 5.00,
         "Features": [],
         "Date": "2024-05-26T13:29:22.5302244-04:00",
@@ -516,18 +498,6 @@
         "Date": "2024-07-05T19:31:39.3637374-04:00",
         "Update": "2024-07-08T12:44:38.6796401-04:00",
         "Label": "Xiaomi POCO C65 8+256GB DualSim Pastel Blue +Mica"
-      },
-      {
-        "Price": 10.00,
-        "Features": [
-          "Cargador",
-          "USB - C",
-          "20W",
-          "[PA - Y20S]"
-        ],
-        "Date": "2024-02-07T10:16:36.0023367-05:00",
-        "Update": "2024-07-08T12:47:20.0003458-04:00",
-        "Label": "Aukey Charger"
       },
       {
         "Price": 125.00,
@@ -1295,6 +1265,36 @@
         "Date": "2024-07-07T20:41:06.0528889-04:00",
         "Update": "2024-07-08T15:27:05.5379464-04:00",
         "Label": "Cover OEM C02 Samsung Galaxy A05s, M14"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "Super Charger",
+          "USB-C"
+        ],
+        "Date": "2024-06-13T19:29:25.6362916-04:00",
+        "Update": "2024-07-08T15:35:22.0903963-04:00",
+        "Label": "Cargador OEM 25W EP-TA800 White"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "Super Charger",
+          "USB-C"
+        ],
+        "Date": "2024-06-21T22:52:33.3995775-04:00",
+        "Update": "2024-07-08T15:35:22.1264147-04:00",
+        "Label": "Cargador OEM 20W A2305 White"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "USB-C",
+          "Super Charger"
+        ],
+        "Date": "2024-02-07T10:16:36.0023367-05:00",
+        "Update": "2024-07-08T15:35:22.1627403-04:00",
+        "Label": "Cargador Aukey 20W PA-Y20S Black"
       }
     ],
     "Laptop Componentes": [
