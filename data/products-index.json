@@ -937,6 +937,41 @@
         "Date": "2024-02-06T22:24:38.6575545-05:00",
         "Update": "2024-07-08T16:37:34.3470176-04:00",
         "Label": "MicroSD Team Group 32GB +Adapter"
+      },
+      {
+        "Price": 5.00,
+        "Features": [
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:37:42.3076259-04:00",
+        "Update": "2024-07-08T16:42:40.3818601-04:00",
+        "Label": "MicroSD ADATA 16GB Suelta"
+      },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2024-07-08T16:37:44.3991625-04:00",
+        "Update": "2024-07-08T16:42:40.3818874-04:00",
+        "Label": "MicroSD ADATA 32GB Suelta"
+      },
+      {
+        "Price": 8.00,
+        "Features": [
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:37:46.8995029-04:00",
+        "Update": "2024-07-08T16:42:40.3819072-04:00",
+        "Label": "MicroSD Kingston 32GB Suelta"
+      },
+      {
+        "Price": 9.00,
+        "Features": [
+          "80MBs",
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:38:01.8940553-04:00",
+        "Update": "2024-07-08T16:42:40.4240875-04:00",
+        "Label": "MicroSD Team Group 32GB Color"
       }
     ]
   },
