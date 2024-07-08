@@ -461,20 +461,6 @@
         "Label": "Cargador Generic Super Charger 20W White [A2305]"
       },
       {
-        "Price": 9.00,
-        "Features": [],
-        "Date": "2024-06-08T10:19:35.2943993-04:00",
-        "Update": "2024-06-30T17:27:37.8799107-04:00",
-        "Label": "Cover Samsung Galaxy A05, 2 Piezas Transparente y Negro"
-      },
-      {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-05-26T14:13:06.3974492-04:00",
-        "Update": "2024-06-30T17:27:37.8999357-04:00",
-        "Label": "Cover Samsung A15 Transparente"
-      },
-      {
         "Price": 7.00,
         "Features": [],
         "Date": "2024-05-26T13:16:03.848485-04:00",
@@ -487,13 +473,6 @@
         "Date": "2024-05-26T13:29:22.5302244-04:00",
         "Update": "2024-06-30T20:12:16.0465588-04:00",
         "Label": "Mica Líquida NANO Hi-Tech"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
-        "Date": "2024-05-26T13:16:14.9764448-04:00",
-        "Update": "2024-07-05T20:54:27.056445-04:00",
-        "Label": "Cover - OEM C02 Samsung Galaxy A15 / A25"
       },
       {
         "Price": 170.00,
@@ -544,30 +523,6 @@
         "Date": "2024-07-05T19:31:39.3637374-04:00",
         "Update": "2024-07-08T12:44:38.6796401-04:00",
         "Label": "Xiaomi POCO C65 8+256GB DualSim Pastel Blue +Mica"
-      },
-      {
-        "Price": 180.00,
-        "Features": [
-          "6.58\"",
-          "50+2+2MP",
-          "5MP Front",
-          "Helio G99",
-          "401ppi",
-          "IPS",
-          "90Hz",
-          "500nits",
-          "18W",
-          "1080p@30fps",
-          "5000mAh",
-          "Gorilla Glass 3",
-          "3G-LTE",
-          "Fingerprint",
-          "22071219CG",
-          "2022 Septiembre"
-        ],
-        "Date": "2024-07-05T19:31:34.0952125-04:00",
-        "Update": "2024-07-08T12:44:57.5963626-04:00",
-        "Label": "Xiaomi POCO M5 6+128GB DualSim Green +Mica +Cover"
       },
       {
         "Price": 10.00,
@@ -1210,31 +1165,6 @@
         "Label": "Samsung Galaxy A35 5G 8+256GB DualSim Awesome Navy"
       },
       {
-        "Price": 335.0,
-        "Features": [
-          "6.67\"",
-          "200+8+2MP",
-          "16MP Front",
-          "Helio G99 Ultra",
-          "395ppi",
-          "AMOLED",
-          "120Hz",
-          "1000nits",
-          "67W",
-          "1080p@60fps",
-          "Gorilla Glass 5",
-          "5000mAh",
-          "3G-LTE",
-          "Fingerprint",
-          "Jack 3.5",
-          "23117RA68G",
-          "2024 Enero"
-        ],
-        "Date": "2024-06-21T17:13:51.6955247-04:00",
-        "Update": "2024-07-08T14:47:34.8351543-04:00",
-        "Label": "Xiaomi Redmi Note 13 Pro 12+512GB DualSim Midnight Black + Cover +Mica"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "6.8\"",
@@ -1281,6 +1211,76 @@
         "Date": "2024-07-05T19:31:26.8720497-04:00",
         "Update": "2024-07-08T14:47:34.9060196-04:00",
         "Label": "OnePlus 10T 5G 8+256GB Moonstone Black"
+      },
+      {
+        "Price": 9.00,
+        "Features": [],
+        "Date": "2024-06-08T10:19:35.2943993-04:00",
+        "Update": "2024-07-08T15:11:19.5382137-04:00",
+        "Label": "Cover OEM C03 Samsung Galaxy A05"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-05-26T14:13:06.3974492-04:00",
+        "Update": "2024-07-08T15:11:19.5839414-04:00",
+        "Label": "Cover OEM C01 Samsung A15, A25"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-05-26T13:16:14.9764448-04:00",
+        "Update": "2024-07-08T15:11:19.6293152-04:00",
+        "Label": "Cover OEM C02 Samsug Galaxy A15, A25"
+      },
+      {
+        "Price": 335.0,
+        "Features": [
+          "6.67\"",
+          "200+8+2MP",
+          "16MP Front",
+          "Helio G99 Ultra",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "67W",
+          "1080p@60fps",
+          "Gorilla Glass 5",
+          "5000mAh",
+          "3G-LTE",
+          "Fingerprint",
+          "Jack 3.5",
+          "23117RA68G",
+          "2024 Enero"
+        ],
+        "Date": "2024-06-21T17:13:51.6955247-04:00",
+        "Update": "2024-07-08T15:11:19.6647522-04:00",
+        "Label": "Xiaomi Redmi Note 13 Pro 12+512GB DualSim Midnight Black +Cover +Mica"
+      },
+      {
+        "Price": 180.00,
+        "Features": [
+          "6.58\"",
+          "50+2+2MP",
+          "5MP Front",
+          "Helio G99",
+          "401ppi",
+          "IPS",
+          "90Hz",
+          "500nits",
+          "18W",
+          "1080p@30fps",
+          "5000mAh",
+          "Gorilla Glass 3",
+          "3G-LTE",
+          "Fingerprint",
+          "22071219CG",
+          "2022 Septiembre"
+        ],
+        "Date": "2024-07-05T19:31:34.0952125-04:00",
+        "Update": "2024-07-08T15:11:19.6988086-04:00",
+        "Label": "Xiaomi POCO M5 6+128GB DualSim Green +Cover +Mica"
       }
     ],
     "Laptop Componentes": [
