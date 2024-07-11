@@ -714,30 +714,6 @@
         "Label": "Honor X7b 8+256GB DualSim Midnight Black +Cover +Mica"
       },
       {
-        "Price": 330.00,
-        "Features": [
-          "6.7\"",
-          "50+8+2MP",
-          "16MP Front",
-          "4K@60fps",
-          "Snapdragon 8+ Gen 1",
-          "394ppp",
-          "Fluid AMOLED",
-          "120Hz",
-          "HDR10+",
-          "Gorilla Glass 5",
-          "150W",
-          "4800mAh",
-          "3G-LTE-5G",
-          "Fingerprint",
-          "CPH2417",
-          "2022 Agosto"
-        ],
-        "Date": "2024-07-05T19:31:26.8720497-04:00",
-        "Update": "2024-07-08T16:08:37.8364677-04:00",
-        "Label": "OnePlus 10T 5G 8+256GB Moonstone Black"
-      },
-      {
         "Price": 335.0,
         "Features": [
           "6.67\"",
@@ -810,6 +786,30 @@
         "Date": "2024-07-09T16:58:49.1256423-04:00",
         "Update": "2024-07-09T17:55:49.6396668-04:00",
         "Label": "Xiaomi Redmi Note 13 Pro+ 5G 12/512GB DualSim Midnight Black +Cover"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "6.7\"",
+          "50+8+2MP",
+          "16MP Front",
+          "4K@60fps",
+          "Snapdragon 8+ Gen 1",
+          "394ppp",
+          "Fluid AMOLED",
+          "120Hz",
+          "HDR10+",
+          "Gorilla Glass 5",
+          "150W",
+          "4800mAh",
+          "3G-LTE-5G",
+          "Fingerprint",
+          "CPH2417",
+          "2022 Agosto"
+        ],
+        "Date": "2024-07-05T19:31:26.8720497-04:00",
+        "Update": "2024-07-11T10:06:13.3722669-04:00",
+        "Label": "OnePlus 10T 5G 8+128GB Moonstone Black"
       }
     ],
     "Auricular": [
