@@ -264,6 +264,7 @@
         ],
         "Date": "2024-06-28T18:35:52.3533498-04:00",
         "Update": "2024-07-08T16:08:37.1504337-04:00",
+        "Def": true,
         "Label": "Xiaomi Redmi Note 11 4G 4+128GB DualSim Pebble White +Cover +Mica"
       },
       {
@@ -287,6 +288,7 @@
         ],
         "Date": "2024-06-28T18:57:21.4946833-04:00",
         "Update": "2024-07-08T16:08:37.1833917-04:00",
+        "Def": true,
         "Label": "Xiaomi Redmi Note 11 4G 4+128GB DualSim Sea Blue +Cover +Mica"
       },
       {
@@ -433,6 +435,7 @@
         ],
         "Date": "2024-06-28T19:12:13.9749737-04:00",
         "Update": "2024-07-08T16:08:37.3816504-04:00",
+        "Def": true,
         "Label": "Xiaomi Redmi Note 11 4G 6+128GB DualSim Pebble White +Cover +Mica"
       },
       {
@@ -1314,19 +1317,6 @@
       }
     ],
     "Vehículo": [
-      {
-        "Price": 69.00,
-        "Features": [
-          "Luces",
-          "Sonido",
-          "xFricción",
-          "+3 Años",
-          "Niño"
-        ],
-        "Date": "2023-07-22T19:23:28.6972686-04:00",
-        "Update": "2024-03-16T09:49:22.1852316-04:00",
-        "Label": "COMBO Carros de Rescate . Ambulancia + Bombero + Helicóptero + 10x Figuras"
-      },
       {
         "Price": 59.00,
         "Features": [
