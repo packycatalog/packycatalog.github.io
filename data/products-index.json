@@ -813,6 +813,30 @@
         "Date": "2024-07-05T19:31:26.8720497-04:00",
         "Update": "2024-07-11T10:06:13.3722669-04:00",
         "Label": "OnePlus 10T 5G 8+128GB Moonstone Black"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "6.7\"",
+          "50+8+2MP",
+          "16MP Front",
+          "4K@60fps",
+          "Snapdragon 8+ Gen 1",
+          "394ppp",
+          "Fluid AMOLED",
+          "120Hz",
+          "HDR10+",
+          "Gorilla Glass 5",
+          "150W",
+          "4800mAh",
+          "3G-LTE-5G",
+          "Fingerprint",
+          "CPH2417",
+          "2022 Agosto"
+        ],
+        "Date": "2024-07-11T09:59:05.2344539-04:00",
+        "Update": "2024-07-12T00:04:49.4315726-04:00",
+        "Label": "OnePlus 10T 5G 8+128GB Jade Green"
       }
     ],
     "Auricular": [
@@ -1103,6 +1127,13 @@
         "Date": "2024-05-01T17:13:55.1702473-04:00",
         "Update": "2024-05-14T12:27:39.4332357-04:00",
         "Label": "Alarma Inalámbrica 7x Componentes"
+      },
+      {
+        "Price": 12.00,
+        "Features": [],
+        "Date": "2024-02-06T14:02:09.11442-05:00",
+        "Update": "2024-07-12T00:04:49.3646761-04:00",
+        "Label": "Control (Alarma 3,3,2)"
       }
     ],
     "Cámara": [
