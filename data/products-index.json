@@ -976,15 +976,6 @@
         "Label": "MicroSD ADATA 32GB Suelta"
       },
       {
-        "Price": 8.00,
-        "Features": [
-          "Class10"
-        ],
-        "Date": "2024-07-08T16:37:46.8995029-04:00",
-        "Update": "2024-07-08T16:42:40.3819072-04:00",
-        "Label": "MicroSD Kingston 32GB Suelta"
-      },
-      {
         "Price": 9.00,
         "Features": [
           "80MBs",
@@ -1022,6 +1013,15 @@
         "Date": "2024-07-08T16:37:42.3076259-04:00",
         "Update": "2024-07-14T14:30:19.0761897-04:00",
         "Label": "MicroSD ADATA 16GB Suelta"
+      },
+      {
+        "Price": 8.00,
+        "Features": [
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:37:46.8995029-04:00",
+        "Update": "2024-07-14T14:40:27.0835402-04:00",
+        "Label": "MicroSD Kingston 32GB Suelta"
       }
     ],
     "PowerBank": [
