@@ -986,16 +986,6 @@
         "Label": "MicroSD Samsung Pro 64GB +Adaptador"
       },
       {
-        "Price": 14.00,
-        "Features": [
-          "80MBs",
-          "Class10"
-        ],
-        "Date": "2024-07-08T16:38:10.6092215-04:00",
-        "Update": "2024-07-08T16:43:33.2017322-04:00",
-        "Label": "MicroSD Team Group 64GB"
-      },
-      {
         "Price": 5.00,
         "Features": [
           "Class10"
@@ -1022,6 +1012,16 @@
         "Date": "2024-07-08T16:38:01.8940553-04:00",
         "Update": "2024-07-14T15:36:24.477391-04:00",
         "Label": "MicroSD Team Group 32GB Color"
+      },
+      {
+        "Price": 14.00,
+        "Features": [
+          "80MBs",
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:38:10.6092215-04:00",
+        "Update": "2024-07-14T15:46:49.8467558-04:00",
+        "Label": "MicroSD Team Group 64GB"
       }
     ],
     "PowerBank": [
