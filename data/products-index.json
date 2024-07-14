@@ -969,15 +969,6 @@
         "Label": "MicroSD Team Group 32GB +Adapter"
       },
       {
-        "Price": 5.00,
-        "Features": [
-          "Class10"
-        ],
-        "Date": "2024-07-08T16:37:42.3076259-04:00",
-        "Update": "2024-07-08T16:42:40.3818601-04:00",
-        "Label": "MicroSD ADATA 16GB Suelta"
-      },
-      {
         "Price": 13.00,
         "Features": [],
         "Date": "2024-07-08T16:37:44.3991625-04:00",
@@ -1022,6 +1013,15 @@
         "Date": "2024-07-08T16:38:10.6092215-04:00",
         "Update": "2024-07-08T16:43:33.2017322-04:00",
         "Label": "MicroSD Team Group 64GB"
+      },
+      {
+        "Price": 5.00,
+        "Features": [
+          "Class10"
+        ],
+        "Date": "2024-07-08T16:37:42.3076259-04:00",
+        "Update": "2024-07-14T14:30:19.0761897-04:00",
+        "Label": "MicroSD ADATA 16GB Suelta"
       }
     ],
     "PowerBank": [
