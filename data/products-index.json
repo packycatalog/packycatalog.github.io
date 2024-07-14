@@ -938,17 +938,6 @@
     ],
     "MicroSD": [
       {
-        "Price": 5.00,
-        "Features": [
-          "80MBs",
-          "Class10",
-          "TUSDH16GCL10U03"
-        ],
-        "Date": "2024-01-25T11:53:23.9176268-05:00",
-        "Update": "2024-07-08T16:37:34.2765796-04:00",
-        "Label": "MicroSD Team Elite 16GB +Adapter"
-      },
-      {
         "Price": 10.00,
         "Features": [
           "100MBs",
@@ -957,16 +946,6 @@
         "Date": "2024-02-06T22:24:30.2992989-05:00",
         "Update": "2024-07-08T16:37:34.3105882-04:00",
         "Label": "MicroSD ADATA 64GB +Adapter"
-      },
-      {
-        "Price": 7.00,
-        "Features": [
-          "100MBs",
-          "Class10"
-        ],
-        "Date": "2024-02-06T22:24:38.6575545-05:00",
-        "Update": "2024-07-08T16:37:34.3470176-04:00",
-        "Label": "MicroSD Team Group 32GB +Adapter"
       },
       {
         "Price": 13.00,
@@ -1022,6 +1001,28 @@
         "Date": "2024-07-08T16:38:10.6092215-04:00",
         "Update": "2024-07-14T15:46:49.8467558-04:00",
         "Label": "MicroSD Team Group 64GB"
+      },
+      {
+        "Price": 5.00,
+        "Features": [
+          "80MBs",
+          "Class10",
+          "TUSDH16GCL10U03"
+        ],
+        "Date": "2024-01-25T11:53:23.9176268-05:00",
+        "Update": "2024-07-14T17:21:52.5782917-04:00",
+        "Label": "MicroSD Team Group 16GB +Adapter"
+      },
+      {
+        "Price": 7.00,
+        "Features": [
+          "100MBs",
+          "Class10",
+          "TUSDH32GCL10U03"
+        ],
+        "Date": "2024-02-06T22:24:38.6575545-05:00",
+        "Update": "2024-07-14T17:21:52.6116578-04:00",
+        "Label": "MicroSD Team Group 32GB +Adapter"
       }
     ],
     "PowerBank": [
@@ -1458,14 +1459,14 @@
         "Price": 175.00,
         "Features": [],
         "Date": "2024-07-04T19:55:54.3799379-04:00",
-        "Update": "2024-07-08T16:43:33.1068082-04:00",
-        "Label": "Clipper - Wahl Professional 5 Start Senior Cordless +Base [8504-400] Caja Negra"
+        "Update": "2024-07-14T17:21:52.6544023-04:00",
+        "Label": "Clipper Wahl Professional 5 Start Senior Cordless +Base [8504-400] Caja Negra"
       },
       {
         "Price": 150.00,
         "Features": [],
         "Date": "2024-07-04T19:55:51.232962-04:00",
-        "Update": "2024-07-08T16:43:33.1412738-04:00",
+        "Update": "2024-07-14T17:21:52.6870574-04:00",
         "Label": "Wahl Professional 5 Start Senior Cordless [8504-400] Caja Gris"
       }
     ]
