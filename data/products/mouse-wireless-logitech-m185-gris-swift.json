@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Accesorios",
+  "Category": "Laptops",
+  "SubCategory": "Accesorios",
   "Images": [
     "/images/products/mouse-wireless-logitech-m185-gris-swift-1.webp",
     "/images/products/mouse-wireless-logitech-m185-gris-swift-2.webp",
@@ -17,6 +17,6 @@
     "1000 DP"
   ],
   "Date": "2023-07-16T15:30:40.3880006-04:00",
-  "Update": "2024-06-30T18:27:22.4651292-04:00",
+  "Update": "2024-07-17T22:40:38.4428814-04:00",
   "Label": "Mouse Wireless Logitech M185 Gris Swift"
 }
