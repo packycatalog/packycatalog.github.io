@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Componentes",
+  "Category": "Laptops",
+  "SubCategory": "Componentes",
   "Images": [
     "/images/products/ram-ddr4l-samsung-8gb-4800mhz-1.webp"
   ],
@@ -8,6 +8,6 @@
   "Price": 40.00,
   "Features": [],
   "Date": "2024-01-05T17:25:10.8955968-05:00",
-  "Update": "2024-06-30T18:01:20.3065023-04:00",
+  "Update": "2024-07-17T22:40:38.3770406-04:00",
   "Label": "RAM DDR4L Samsung 8GB 4800MHz"
 }
