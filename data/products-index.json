@@ -1447,6 +1447,24 @@
         "Def": true,
         "Label": "RAM DDR4L Samsung 8GB 3200MHz"
       }
+    ],
+    "Empresarial": [
+      {
+        "Price": 590.00,
+        "Features": [
+          "15.6\" FHD",
+          "i5-1235U",
+          "16GB DDR4",
+          "1TB SSD M.2",
+          "250nits",
+          "W11 Pro",
+          "38Wh",
+          "Business Black"
+        ],
+        "Date": "2024-07-17T22:33:31.8280998-04:00",
+        "Update": "2024-07-17T23:15:01.8518341-04:00",
+        "Label": "Lenovo 2023 V15 15.6FHD i5-12350U 16GB 1TB M.2 82TT00A6RM"
+      }
     ]
   },
   "Otros": {
