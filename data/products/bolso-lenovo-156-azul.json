@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Accesorios",
+  "Category": "Laptops",
+  "SubCategory": "Accesorios",
   "Images": [
     "/images/products/bolso-lenovo-156-azul-1.webp",
     "/images/products/bolso-lenovo-156-azul-2.webp",
@@ -15,6 +15,6 @@
   "Price": 23.00,
   "Features": [],
   "Date": "2024-02-04T17:26:55.8309617-05:00",
-  "Update": "2024-02-06T13:28:35.0808876-05:00",
+  "Update": "2024-07-17T22:40:38.243163-04:00",
   "Label": "Bolso Lenovo 15.6\" Azul"
 }
