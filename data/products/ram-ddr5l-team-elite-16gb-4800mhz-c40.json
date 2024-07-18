@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Componentes",
+  "Category": "Laptops",
+  "SubCategory": "Componentes",
   "Images": [
     "/images/products/ram-ddr5l-team-elite-16gb-4800mhz-c40-1.webp",
     "/images/products/ram-ddr5l-team-elite-16gb-4800mhz-c40-2.webp",
@@ -16,6 +16,6 @@
   "Price": 69.00,
   "Features": [],
   "Date": "2024-01-05T17:25:12.7041664-05:00",
-  "Update": "2024-06-30T17:51:17.8742812-04:00",
+  "Update": "2024-07-17T22:40:38.3443622-04:00",
   "Label": "RAM DDR5L Team Elite 16GB 4800MHz C40"
 }
