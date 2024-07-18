@@ -149,29 +149,6 @@
         "Label": "Samsung Galaxy A05s 4+64GB DualSim Black"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "393ppi",
-          "PLS",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "A057F/DS",
-          "2023 Septiembre"
-        ],
-        "Date": "2024-05-10T15:16:48.0367719-04:00",
-        "Update": "2024-07-08T16:08:36.9303552-04:00",
-        "Label": "Samsung Galaxy A05s 4+64GB DualSim Silver"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "6.5\"",
@@ -244,7 +221,7 @@
         "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black"
       },
       {
-        "Price": 140.00,
+        "Price": 130.00,
         "Features": [
           "6.5\"",
           "50+8+2MP",
@@ -268,7 +245,7 @@
         "Label": "Xiaomi Redmi Note 11 4G 4+128GB DualSim Pebble White +Cover +Mica"
       },
       {
-        "Price": 140.00,
+        "Price": 130.00,
         "Features": [
           "6.5\"",
           "50+8+2MP",
@@ -994,7 +971,6 @@
         "Features": [],
         "Date": "2024-02-06T14:02:06.3567139-05:00",
         "Update": "2024-04-10T00:19:48.3303728-04:00",
-        "Def": true,
         "Label": "Sensor de Movimiento (Alarma 3,3,2)"
       },
       {
