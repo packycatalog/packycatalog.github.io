@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Accesorios",
+  "Category": "Laptops",
+  "SubCategory": "Accesorios",
   "Images": [
     "/images/products/bolso-lenovo-156-negro-1.webp",
     "/images/products/bolso-lenovo-156-negro-2.webp",
@@ -13,6 +13,6 @@
   "Price": 23.00,
   "Features": [],
   "Date": "2024-02-04T17:26:58.5612555-05:00",
-  "Update": "2024-02-06T13:28:35.095244-05:00",
+  "Update": "2024-07-17T22:40:38.2767736-04:00",
   "Label": "Bolso Lenovo 15.6\" Negro"
 }
