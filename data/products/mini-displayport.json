@@ -1,6 +1,6 @@
 {
-  "Category": "Electrónica",
-  "SubCategory": "Laptop Accesorios",
+  "Category": "Laptops",
+  "SubCategory": "Accesorios",
   "Images": [
     "/images/products/mini-displayport-1.webp",
     "/images/products/mini-displayport-2.webp",
@@ -22,6 +22,6 @@
     "HDR HDCP"
   ],
   "Date": "2024-02-04T17:27:22.4535485-05:00",
-  "Update": "2024-02-06T13:28:35.1094785-05:00",
+  "Update": "2024-07-17T22:40:38.3110165-04:00",
   "Label": "Mini Displayport"
 }
