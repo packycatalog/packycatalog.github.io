@@ -1371,6 +1371,84 @@
       }
     ]
   },
+  "Laptops": {
+    "Accesorios": [
+      {
+        "Price": 23.00,
+        "Features": [],
+        "Date": "2024-02-04T17:26:55.8309617-05:00",
+        "Update": "2024-07-17T22:40:38.243163-04:00",
+        "Label": "Bolso Lenovo 15.6\" Azul"
+      },
+      {
+        "Price": 23.00,
+        "Features": [],
+        "Date": "2024-02-04T17:26:58.5612555-05:00",
+        "Update": "2024-07-17T22:40:38.2767736-04:00",
+        "Label": "Bolso Lenovo 15.6\" Negro"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "DP 1.4",
+          "3ft",
+          "8K 60Hz",
+          "4K 144Hz",
+          "1080p 240Hz",
+          "HBR3 32.4Gbps",
+          "HDR HDCP"
+        ],
+        "Date": "2024-02-04T17:27:22.4535485-05:00",
+        "Update": "2024-07-17T22:40:38.3110165-04:00",
+        "Label": "Mini Displayport"
+      },
+      {
+        "Price": 23.00,
+        "Features": [
+          "Inalámbirco",
+          "2.4GHz",
+          "1000 DP"
+        ],
+        "Date": "2023-07-16T15:30:40.3880006-04:00",
+        "Update": "2024-07-17T22:40:38.4428814-04:00",
+        "Label": "Mouse Wireless Logitech M185 Gris Swift"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "Memoria USB",
+          "Gen 1"
+        ],
+        "Date": "2024-06-30T18:35:14.2360135-04:00",
+        "Update": "2024-07-17T22:40:38.4758152-04:00",
+        "Label": "Memoria Flash Team Group 128GB C186 USB 3.2 [TC1863128GB01]"
+      }
+    ],
+    "Componentes": [
+      {
+        "Price": 69.00,
+        "Features": [],
+        "Date": "2024-01-05T17:25:12.7041664-05:00",
+        "Update": "2024-07-17T22:40:38.3443622-04:00",
+        "Label": "RAM DDR5L Team Elite 16GB 4800MHz C40"
+      },
+      {
+        "Price": 40.00,
+        "Features": [],
+        "Date": "2024-01-05T17:25:10.8955968-05:00",
+        "Update": "2024-07-17T22:40:38.3770406-04:00",
+        "Label": "RAM DDR4L Samsung 8GB 4800MHz"
+      },
+      {
+        "Price": 30.00,
+        "Features": [],
+        "Date": "2024-05-26T13:16:09.1276428-04:00",
+        "Update": "2024-07-17T22:40:38.4102465-04:00",
+        "Def": true,
+        "Label": "RAM DDR4L Samsung 8GB 3200MHz"
+      }
+    ]
+  },
   "Otros": {
     "Piscina": [
       {
