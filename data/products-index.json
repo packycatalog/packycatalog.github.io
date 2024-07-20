@@ -1249,15 +1249,6 @@
         "Label": "Wahl Color Pro"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "16 Piezas"
-        ],
-        "Date": "2024-02-27T11:04:15.9623475-05:00",
-        "Update": "2024-03-15T16:40:53.1748873-04:00",
-        "Label": "Wahl HomeCut"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "INALAMBRICA",
@@ -1280,18 +1271,32 @@
         "Label": "Wahl"
       },
       {
+        "Price": 65.00,
+        "Features": [
+          "16 Piezas",
+          "79449-700"
+        ],
+        "Date": "2024-02-27T11:04:15.9623475-05:00",
+        "Update": "2024-07-20T18:29:42.6201413-04:00",
+        "Label": "Wahl HomeCut"
+      },
+      {
         "Price": 175.00,
-        "Features": [],
+        "Features": [
+          "8504-400"
+        ],
         "Date": "2024-07-04T19:55:54.3799379-04:00",
-        "Update": "2024-07-14T17:21:52.6544023-04:00",
-        "Label": "Clipper Wahl Professional 5 Start Senior Cordless +Base [8504-400] Caja Negra"
+        "Update": "2024-07-20T18:29:42.6529622-04:00",
+        "Label": "Senior Inalámbrica +Base Wahl Professional 5 Star"
       },
       {
         "Price": 150.00,
-        "Features": [],
+        "Features": [
+          "8504-400"
+        ],
         "Date": "2024-07-04T19:55:51.232962-04:00",
-        "Update": "2024-07-14T17:21:52.6870574-04:00",
-        "Label": "Wahl Professional 5 Start Senior Cordless [8504-400] Caja Gris"
+        "Update": "2024-07-20T18:29:42.6853287-04:00",
+        "Label": "Wahl Professional 5 Star Senior Inalárica"
       }
     ]
   },
