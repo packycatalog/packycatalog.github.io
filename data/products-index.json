@@ -963,6 +963,19 @@
         "Date": "2024-02-06T14:02:09.11442-05:00",
         "Update": "2024-07-12T00:04:49.3646761-04:00",
         "Label": "Control (Alarma 3,3,2)"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "GSM",
+          "WiFi",
+          "3x Movimiento",
+          "3x Apertura",
+          "2x Controles"
+        ],
+        "Date": "2024-02-06T14:01:59.2834708-05:00",
+        "Update": "2024-07-20T18:17:35.4312226-04:00",
+        "Label": "Alarma Inalámbrica. 11x Componentes"
       }
     ],
     "Cámara": [
