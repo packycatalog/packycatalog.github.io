@@ -1,0 +1,20 @@
+{
+  "Category": "Barbería",
+  "SubCategory": "Máquina de Pelar",
+  "Images": [
+    "/images/products/wahl-professional-5-star-senior-inalrica-1.webp",
+    "/images/products/wahl-professional-5-star-senior-inalrica-2.webp",
+    "/images/products/wahl-professional-5-star-senior-inalrica-3.webp",
+    "/images/products/wahl-professional-5-star-senior-inalrica-4.webp",
+    "/images/products/wahl-professional-5-star-senior-inalrica-5.webp",
+    "/images/products/wahl-professional-5-star-senior-inalrica-6.webp"
+  ],
+  "Description": "",
+  "Price": 150.00,
+  "Features": [
+    "8504-400"
+  ],
+  "Date": "2024-07-04T19:55:51.232962-04:00",
+  "Update": "2024-07-20T18:29:42.6853287-04:00",
+  "Label": "Wahl Professional 5 Star Senior Inalárica"
+}
