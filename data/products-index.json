@@ -631,6 +631,78 @@
         "Date": "2024-07-11T09:59:05.2344539-04:00",
         "Update": "2024-07-12T00:04:49.4315726-04:00",
         "Label": "OnePlus 10T 5G 8+128GB Jade Green"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "M145F/DS",
+          "2024 Marzo"
+        ],
+        "Date": "2024-05-10T15:16:52.9512619-04:00",
+        "Update": "2024-07-20T23:30:40.0691464-04:00",
+        "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "6.67\"",
+          "108+8+2MP",
+          "16MP Front",
+          "Snapdragon 685",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "33W",
+          "Gorilla Glass 3",
+          "IP54",
+          "5000mAh",
+          "1080p@30fps",
+          "Fingerprint",
+          "Jack 3.5",
+          "3G-LTE",
+          "23129RA5FL",
+          "2024 Enero"
+        ],
+        "Date": "2024-07-20T23:03:16.1975141-04:00",
+        "Update": "2024-07-20T23:30:40.1033072-04:00",
+        "Label": "Xiaomi Redmi Note 13 6+128GB DualSim Mint Green +Cover +Mica"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "M145F/DS",
+          "2024 Marzo"
+        ],
+        "Date": "2024-07-20T23:18:38.4363359-04:00",
+        "Update": "2024-07-20T23:30:40.1364437-04:00",
+        "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Artic Blue"
       }
     ],
     "Auricular": [
