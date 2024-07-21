@@ -1,0 +1,29 @@
+{
+  "Category": "Teléfonos",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/samsung-galaxy-m14-4g-464gb-dualsim-artic-blue-1.webp"
+  ],
+  "Description": "",
+  "Price": 135.00,
+  "Features": [
+    "6.7\"",
+    "50+2+2MP",
+    "13MP Front",
+    "Snapdragon 680",
+    "394ppi",
+    "PLS",
+    "90Hz",
+    "25W",
+    "1080p@60fps",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "M145F/DS",
+    "2024 Marzo"
+  ],
+  "Date": "2024-07-20T23:18:38.4363359-04:00",
+  "Update": "2024-07-20T23:30:40.1364437-04:00",
+  "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Artic Blue"
+}
