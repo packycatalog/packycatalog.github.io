@@ -633,29 +633,6 @@
         "Label": "OnePlus 10T 5G 8+128GB Jade Green"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "M145F/DS",
-          "2024 Marzo"
-        ],
-        "Date": "2024-05-10T15:16:52.9512619-04:00",
-        "Update": "2024-07-20T23:30:40.0691464-04:00",
-        "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "6.67\"",
@@ -703,6 +680,29 @@
         "Date": "2024-07-20T23:18:38.4363359-04:00",
         "Update": "2024-07-21T10:55:18.1536983-04:00",
         "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Artic Blue"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "6.7\"",
+          "50+2+2MP",
+          "13MP Front",
+          "Snapdragon 680",
+          "394ppi",
+          "PLS",
+          "90Hz",
+          "25W",
+          "1080p@60fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "M145F/DS",
+          "2024 Marzo"
+        ],
+        "Date": "2024-05-10T15:16:52.9512619-04:00",
+        "Update": "2024-07-21T10:56:26.8219164-04:00",
+        "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue"
       }
     ],
     "Auricular": [
