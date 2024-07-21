@@ -296,30 +296,6 @@
         "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Ice Blue +Cover +Mica"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "6.5\"",
-          "50+8+2MP",
-          "8MP Front",
-          "Helio G88",
-          "405ppi",
-          "LCD",
-          "90Hz",
-          "18W",
-          "1080p@30fps",
-          "5000mAh",
-          "3G-LTE",
-          "Fingerprint",
-          "Jack 3.5",
-          "21121119SC",
-          "2021 Noviembre"
-        ],
-        "Date": "2024-06-28T19:12:13.9749737-04:00",
-        "Update": "2024-07-08T16:08:37.3816504-04:00",
-        "Def": true,
-        "Label": "Xiaomi Redmi Note 11 4G 6+128GB DualSim Pebble White +Cover +Mica"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "6.67\"",
@@ -931,6 +907,7 @@
         ],
         "Date": "2024-05-01T17:13:55.1702473-04:00",
         "Update": "2024-05-14T12:27:39.4332357-04:00",
+        "Def": true,
         "Label": "Alarma Inalámbrica 7x Componentes"
       },
       {
