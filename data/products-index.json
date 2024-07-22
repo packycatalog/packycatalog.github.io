@@ -1299,28 +1299,6 @@
         "Label": "Capa de Barberia"
       }
     ],
-    "Patillera": [
-      {
-        "Price": 115.00,
-        "Features": [
-          "INALAMBRICA + BASE DE CARGA",
-          "Detailer",
-          "Cuchillas en T"
-        ],
-        "Date": "2023-08-19T17:49:46.8626933-04:00",
-        "Update": "2024-03-11T11:35:35.4579708-04:00",
-        "Label": "Maquina de Pelar WAHL Retro T-Cut"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "Trimmer"
-        ],
-        "Date": "2024-02-27T11:04:13.2919219-05:00",
-        "Update": "2024-03-12T13:32:18.4894135-04:00",
-        "Label": "Wahl Professional 5 Star Hero Corded."
-      }
-    ],
     "Máquina de Pelar": [
       {
         "Price": 60.00,
@@ -1331,17 +1309,6 @@
         "Date": "2024-03-01T23:26:27.8789544-05:00",
         "Update": "2024-03-12T13:22:20.9219331-04:00",
         "Label": "Wahl Color Pro"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "INALAMBRICA",
-          "+100 Minute Run Time"
-        ],
-        "Date": "2024-04-29T19:32:04.8217071-04:00",
-        "Update": "2024-05-01T11:14:42.0297516-04:00",
-        "Def": true,
-        "Label": "Wahl Legend Professional 5 Star"
       },
       {
         "Price": 65.00,
@@ -1374,13 +1341,46 @@
         "Label": "Senior Inalámbrica +Base Wahl Professional 5 Star"
       },
       {
+        "Price": 155.00,
+        "Features": [
+          "Inalámbrica",
+          "+100 Minute Run Time"
+        ],
+        "Date": "2024-04-29T19:32:04.8217071-04:00",
+        "Update": "2024-07-22T14:04:38.2094704-04:00",
+        "Def": true,
+        "Label": "Wahl Legend Professional 5 Star"
+      },
+      {
         "Price": 150.00,
         "Features": [
           "8504-400"
         ],
         "Date": "2024-07-04T19:55:51.232962-04:00",
-        "Update": "2024-07-20T18:29:42.6853287-04:00",
-        "Label": "Wahl Professional 5 Star Senior Inalárica"
+        "Update": "2024-07-22T14:04:38.24308-04:00",
+        "Label": "Wahl Professional 5 Star Senior Inalámbrica"
+      }
+    ],
+    "Patillera": [
+      {
+        "Price": 115.00,
+        "Features": [
+          "Inalámbrica + Base de carga",
+          "Detailer",
+          "Cuchillas en T"
+        ],
+        "Date": "2023-08-19T17:49:46.8626933-04:00",
+        "Update": "2024-07-22T14:04:38.1382335-04:00",
+        "Label": "Maquina de Pelar WAHL Retro T-Cut"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "Trimmer"
+        ],
+        "Date": "2024-02-27T11:04:13.2919219-05:00",
+        "Update": "2024-07-22T14:04:38.1731654-04:00",
+        "Label": "Wahl Professional 5 Star Hero Corded"
       }
     ]
   },
