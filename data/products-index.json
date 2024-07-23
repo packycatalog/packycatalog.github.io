@@ -751,14 +751,6 @@
         "Label": "Samsung Galaxy A55 8+128GB DualSim Awesome Navy"
       },
       {
-        "Price": 125.00,
-        "Features": [],
-        "Date": "2024-07-22T14:34:16.4662772-04:00",
-        "Update": "2024-07-22T14:47:54.0470545-04:00",
-        "Discount": 17.0,
-        "Label": "Samsung Galaxy A05 4+64GB DualSim Black + Cover OEM C02 Samsung Galaxy A05 + Cargador OEM 20W A2305 White"
-      },
-      {
         "Price": 135.00,
         "Features": [],
         "Date": "2024-07-22T14:43:39.8286445-04:00",
@@ -781,6 +773,14 @@
         "Update": "2024-07-23T12:06:25.2112941-04:00",
         "Discount": 12.0,
         "Label": "Samsung Galaxy A05 4+128GB DualSim Black + Cargador + Cover"
+      },
+      {
+        "Price": 125.00,
+        "Features": [],
+        "Date": "2024-07-22T14:34:16.4662772-04:00",
+        "Update": "2024-07-23T12:07:08.3473762-04:00",
+        "Discount": 17.0,
+        "Label": "Samsung Galaxy A05 4+64GB DualSim Black + Cover + Cargador"
       }
     ],
     "Auricular": [
