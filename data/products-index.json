@@ -2,7 +2,7 @@
   "Teléfonos": {
     "Cargador": [
       {
-        "Price": 15.00,
+        "Price": 12.00,
         "Features": [
           "Super Charger",
           "USB-C"
@@ -10,16 +10,6 @@
         "Date": "2024-06-13T19:29:25.6362916-04:00",
         "Update": "2024-07-08T16:08:36.5721753-04:00",
         "Label": "Cargador OEM 25W EP-TA800 White"
-      },
-      {
-        "Price": 10.00,
-        "Features": [
-          "Super Charger",
-          "USB-C"
-        ],
-        "Date": "2024-06-21T22:52:33.3995775-04:00",
-        "Update": "2024-07-08T16:08:36.6109484-04:00",
-        "Label": "Cargador OEM 20W A2305 White"
       },
       {
         "Price": 12.00,
@@ -512,7 +502,7 @@
         "Label": "Honor X7b 8+256GB DualSim Midnight Black +Cover +Mica"
       },
       {
-        "Price": 335.0,
+        "Price": 320.00,
         "Features": [
           "6.67\"",
           "200+8+2MP",
@@ -561,7 +551,7 @@
         "Label": "Xiaomi POCO M5 6+128GB DualSim Green +Cover +Mica"
       },
       {
-        "Price": 420.00,
+        "Price": 410.00,
         "Features": [
           "6.67\"",
           "200+8+2MP",
@@ -1183,7 +1173,7 @@
     ],
     "Juego de mesa": [
       {
-        "Price": 52.00,
+        "Price": 50.00,
         "Features": [
           "Batalla Naval",
           "2 Jugadores",
@@ -1477,7 +1467,7 @@
     ],
     "Empresarial": [
       {
-        "Price": 590.00,
+        "Price": 585.00,
         "Features": [
           "15.6FHD",
           "R7-5700U",
@@ -1492,7 +1482,7 @@
         "Label": "Lenovo IdeaPad"
       },
       {
-        "Price": 565.00,
+        "Price": 550.00,
         "Features": [
           "15.6\" FHD",
           "i5-1235U",
