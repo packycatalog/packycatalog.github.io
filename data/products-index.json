@@ -1473,23 +1473,6 @@
     ],
     "Empresarial": [
       {
-        "Price": 565.00,
-        "Features": [
-          "15.6\" FHD",
-          "i5-1235U",
-          "16GB RAM",
-          "1TB SSD",
-          "250nits",
-          "W11 Pro",
-          "38Wh",
-          "Black",
-          "82TT00A6RM"
-        ],
-        "Date": "2024-07-17T22:33:31.8280998-04:00",
-        "Update": "2024-07-24T17:05:47.2091606-04:00",
-        "Label": "Lenovo V15"
-      },
-      {
         "Price": 590.00,
         "Features": [
           "15.6FHD",
@@ -1503,6 +1486,20 @@
         "Date": "2024-07-17T22:33:38.134351-04:00",
         "Update": "2024-07-24T17:08:29.457333-04:00",
         "Label": "Lenovo IdeaPad"
+      },
+      {
+        "Price": 565.00,
+        "Features": [
+          "15.6\" FHD",
+          "i5-1235U",
+          "16GB RAM",
+          "1TB SSD",
+          "250nits",
+          "W11 Pro"
+        ],
+        "Date": "2024-07-17T22:33:31.8280998-04:00",
+        "Update": "2024-07-25T11:55:06.493188-04:00",
+        "Label": "Lenovo V15"
       }
     ]
   },
@@ -1513,13 +1510,13 @@
         "Features": [
           "Piscina",
           "Gris",
-          "inoxidable",
+          "Inoxidable",
           "PVC3",
           "330 galones"
         ],
         "Date": "2024-05-30T14:01:23.8832779-04:00",
-        "Update": "2024-05-31T19:57:51.8432808-04:00",
-        "Label": "Bestway Steel Pro Max 12'(3.65m x 76.2cm)"
+        "Update": "2024-07-25T11:55:06.422223-04:00",
+        "Label": "Bestway Steel Pro Max 12' (3.65m x 76.2cm)"
       },
       {
         "Price": 650.00,
@@ -1530,7 +1527,7 @@
           "Inoxidable"
         ],
         "Date": "2024-05-30T14:01:28.7923279-04:00",
-        "Update": "2024-05-31T19:57:51.8662201-04:00",
+        "Update": "2024-07-25T11:55:06.4577991-04:00",
         "Label": "Bestway Steel Pro MAX, 14ft x 33in (4.27m x 83.82cm)"
       }
     ]
