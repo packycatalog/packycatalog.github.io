@@ -1311,37 +1311,6 @@
     ],
     "Máquina de Pelar": [
       {
-        "Price": 60.00,
-        "Features": [
-          "11 Peines de Colores",
-          "Tijeras"
-        ],
-        "Date": "2024-03-01T23:26:27.8789544-05:00",
-        "Update": "2024-03-12T13:22:20.9219331-04:00",
-        "Label": "Wahl Color Pro"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "12 Peines de Colores",
-          "Palanca Ajustable",
-          "Autoafilable"
-        ],
-        "Date": "2023-08-19T17:49:38.9743409-04:00",
-        "Update": "2024-05-14T10:31:15.5281018-04:00",
-        "Label": "Wahl"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "16 Piezas",
-          "79449-700"
-        ],
-        "Date": "2024-02-27T11:04:15.9623475-05:00",
-        "Update": "2024-07-20T18:29:42.6201413-04:00",
-        "Label": "Wahl HomeCut"
-      },
-      {
         "Price": 175.00,
         "Features": [
           "8504-400"
@@ -1362,13 +1331,48 @@
         "Label": "Wahl Legend Professional 5 Star"
       },
       {
+        "Price": 60.00,
+        "Features": [
+          "+11 Peines de Colores",
+          "+Tijeras",
+          "Autoafilable",
+          "79300 - 001"
+        ],
+        "Date": "2024-03-01T23:26:27.8789544-05:00",
+        "Update": "2024-07-25T12:32:33.355209-04:00",
+        "Label": "Wahl Color Pro"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "+12 Peines de Colores",
+          "Palanca Ajustable",
+          "Autoafilable",
+          "79722"
+        ],
+        "Date": "2023-08-19T17:49:38.9743409-04:00",
+        "Update": "2024-07-25T12:32:33.4009443-04:00",
+        "Label": "Wahl"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "16 Piezas",
+          "Palanca Ajustable",
+          "79449-700"
+        ],
+        "Date": "2024-02-27T11:04:15.9623475-05:00",
+        "Update": "2024-07-25T12:32:33.4389148-04:00",
+        "Label": "Wahl HomeCut"
+      },
+      {
         "Price": 150.00,
         "Features": [
           "8504-400"
         ],
         "Date": "2024-07-04T19:55:51.232962-04:00",
-        "Update": "2024-07-22T14:04:38.24308-04:00",
-        "Label": "Wahl Professional 5 Star Senior Inalámbrica"
+        "Update": "2024-07-25T12:32:33.4755016-04:00",
+        "Label": "Wahl Senior Profesional 5 Star Inalámbrica"
       }
     ],
     "Patillera": [
