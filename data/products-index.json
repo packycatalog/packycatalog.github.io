@@ -47,7 +47,7 @@
     ],
     "Celular": [
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "6.74\"",
           "50+2MP",
@@ -72,7 +72,7 @@
         "Label": "Xiaomi POCO C65 8+256GB DualSim Matte Black +Mica"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "6.74\"",
           "50+2MP",
@@ -236,7 +236,7 @@
         "Label": "Xiaomi Redmi 13C 4+128GB DualSim Stardust Black"
       },
       {
-        "Price": 150.00,
+        "Price": 140.00,
         "Features": [
           "6.56\"",
           "50+2+2MP",
@@ -437,7 +437,7 @@
         "Label": "Xiaomi Redmi Note 13 Pro 8+256GB DualSim Midnight Black +Cover +Mica"
       },
       {
-        "Price": 310.00,
+        "Price": 300.00,
         "Features": [
           "6.6\"",
           "50+8+5MP",
@@ -462,7 +462,7 @@
         "Label": "Samsung Galaxy A35 5G 8+256GB DualSim Awesome Ice blue"
       },
       {
-        "Price": 310.00,
+        "Price": 300.00,
         "Features": [
           "6.6\"",
           "50+8+5MP",
@@ -610,7 +610,7 @@
         "Label": "OnePlus 10T 5G 8+128GB Jade Green"
       },
       {
-        "Price": 185.00,
+        "Price": 180.00,
         "Features": [
           "6.67\"",
           "108+8+2MP",
@@ -1004,7 +1004,7 @@
         "Label": "Sensor de Movimiento Inalámbrico 433mhz, 2x Bateria AA"
       },
       {
-        "Price": 180.00,
+        "Price": 170.00,
         "Features": [
           "WiFi",
           "1x Movimento",
@@ -1118,7 +1118,7 @@
   "Juguetes": {
     "Construcción": [
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "950 piezas",
           "+4 Años",
@@ -1131,7 +1131,7 @@
         "Label": "LEGO Classic 11015"
       },
       {
-        "Price": 120.00,
+        "Price": 115.00,
         "Features": [
           "1500 piezas",
           "39 colores",
@@ -1147,7 +1147,7 @@
     ],
     "Muñeca": [
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "38cm",
           "Chupetes",
@@ -1159,7 +1159,7 @@
         "Label": "Bebés LUKE & LUCY"
       },
       {
-        "Price": 55.00,
+        "Price": 50.00,
         "Features": [
           "Ojos Grandes",
           "+3 Años",
@@ -1170,7 +1170,7 @@
         "Label": "Kindi Kids Princesa Rubia"
       },
       {
-        "Price": 58.00,
+        "Price": 53.00,
         "Features": [
           "Ojos Grandes",
           "+3 Años",
@@ -1183,7 +1183,7 @@
     ],
     "Juego de mesa": [
       {
-        "Price": 53.00,
+        "Price": 52.00,
         "Features": [
           "Batalla Naval",
           "2 Jugadores",
@@ -1199,7 +1199,7 @@
     ],
     "Lanza Dardos": [
       {
-        "Price": 62.00,
+        "Price": 57.00,
         "Features": [
           "Pistola",
           "Curva 360",
@@ -1212,7 +1212,7 @@
         "Label": "Nerf Rival Curve"
       },
       {
-        "Price": 35.00,
+        "Price": 33.00,
         "Features": [
           "Pistola",
           "Ráfaga",
@@ -1227,7 +1227,7 @@
         "Label": "Nerf N-Strike Elite Strongarm"
       },
       {
-        "Price": 45.00,
+        "Price": 42.00,
         "Features": [
           "Pistola",
           "Precisión Avanzada",
@@ -1240,7 +1240,7 @@
         "Label": "NERF Rival Vision XXII-800"
       },
       {
-        "Price": 55.00,
+        "Price": 50.00,
         "Features": [
           "Pistola",
           "Código Videojuego",
@@ -1252,7 +1252,7 @@
         "Label": "NERF Roblox MM2"
       },
       {
-        "Price": 58.00,
+        "Price": 53.00,
         "Features": [
           "Pistola",
           "Ráfaga",
@@ -1268,7 +1268,7 @@
     ],
     "Vehículo": [
       {
-        "Price": 59.00,
+        "Price": 54.00,
         "Features": [
           "Luces",
           "Sonido",
@@ -1281,7 +1281,7 @@
         "Label": "COMBO Camiones Rescate . Helicóptero +2x Bomberos"
       },
       {
-        "Price": 59.00,
+        "Price": 54.00,
         "Features": [
           "Luces",
           "Sonido",
