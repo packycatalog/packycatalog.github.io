@@ -12,16 +12,6 @@
         "Label": "Cargador OEM 25W EP-TA800 White"
       },
       {
-        "Price": 12.00,
-        "Features": [
-          "USB-C",
-          "Super Charger"
-        ],
-        "Date": "2024-02-07T10:16:36.0023367-05:00",
-        "Update": "2024-07-08T16:08:36.7199401-04:00",
-        "Label": "Cargador Aukey 20W PA-Y20S Black"
-      },
-      {
         "Price": 20.00,
         "Features": [
           "Cargador",
@@ -276,7 +266,7 @@
         "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Ice Blue +Cover +Mica"
       },
       {
-        "Price": 185.00,
+        "Price": 180.00,
         "Features": [
           "6.67\"",
           "108+8+2MP",
@@ -832,13 +822,6 @@
         "Date": "2024-05-26T13:16:14.9764448-04:00",
         "Update": "2024-07-08T16:11:07.3613293-04:00",
         "Label": "Cover OEM C02 Samsung Galaxy A15, A25"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
-        "Date": "2024-07-07T20:41:03.5824458-04:00",
-        "Update": "2024-07-08T16:11:07.3983329-04:00",
-        "Label": "Cover OEM C02 Samsung Galaxy A05"
       },
       {
         "Price": 7.00,
