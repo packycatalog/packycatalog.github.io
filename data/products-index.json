@@ -467,30 +467,6 @@
         "Label": "Xiaomi Redmi Note 13 Pro 12+512GB DualSim Midnight Black +Cover +Mica"
       },
       {
-        "Price": 170.00,
-        "Features": [
-          "6.58\"",
-          "50+2+2MP",
-          "5MP Front",
-          "Helio G99",
-          "401ppi",
-          "IPS",
-          "90Hz",
-          "500nits",
-          "18W",
-          "1080p@30fps",
-          "5000mAh",
-          "Gorilla Glass 3",
-          "3G-LTE",
-          "Fingerprint",
-          "22071219CG",
-          "2022 Septiembre"
-        ],
-        "Date": "2024-07-05T19:31:34.0952125-04:00",
-        "Update": "2024-07-08T16:08:37.9166953-04:00",
-        "Label": "Xiaomi POCO M5 6+128GB DualSim Green +Cover +Mica"
-      },
-      {
         "Price": 410.00,
         "Features": [
           "6.67\"",
@@ -757,6 +733,30 @@
         "Date": "2024-07-05T19:31:39.3637374-04:00",
         "Update": "2024-07-28T16:59:25.0873863-04:00",
         "Label": "Xiaomi POCO C65 8+256GB DualSim Pastel Blue"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "6.58\"",
+          "50+2+2MP",
+          "5MP Front",
+          "Helio G99",
+          "401ppi",
+          "IPS",
+          "90Hz",
+          "500nits",
+          "18W",
+          "1080p@30fps",
+          "5000mAh",
+          "Gorilla Glass 3",
+          "3G-LTE",
+          "Fingerprint",
+          "22071219CG",
+          "2022 Septiembre"
+        ],
+        "Date": "2024-07-05T19:31:34.0952125-04:00",
+        "Update": "2024-07-28T17:04:35.4045564-04:00",
+        "Label": "Xiaomi POCO M5 6+128GB DualSim Green"
       }
     ],
     "Auricular": [
