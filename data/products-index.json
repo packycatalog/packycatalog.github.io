@@ -27,56 +27,6 @@
     ],
     "Celular": [
       {
-        "Price": 140.00,
-        "Features": [
-          "6.74\"",
-          "50+2MP",
-          "8MP Front",
-          "Helio G85",
-          "260ppi",
-          "IPS",
-          "90Hz",
-          "600 nits",
-          "18W",
-          "1080p@30fps",
-          "Gorilla Glass",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2310FPCA4I",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-07-05T19:31:45.8128948-04:00",
-        "Update": "2024-07-08T16:08:36.6460612-04:00",
-        "Label": "Xiaomi POCO C65 8+256GB DualSim Matte Black +Mica"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "6.74\"",
-          "50+2MP",
-          "8MP Front",
-          "Helio G85",
-          "260ppi",
-          "IPS",
-          "90Hz",
-          "600 nits",
-          "18W",
-          "1080p@30fps",
-          "Gorilla Glass",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "2310FPCA4I",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-07-05T19:31:39.3637374-04:00",
-        "Update": "2024-07-08T16:08:36.6828498-04:00",
-        "Label": "Xiaomi POCO C65 8+256GB DualSim Pastel Blue +Mica"
-      },
-      {
         "Price": 125.00,
         "Features": [
           "6.7\"",
@@ -757,6 +707,56 @@
         "Discount": 25.0,
         "Def": true,
         "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue + Cargador + Cover + Audífonos"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "6.74\"",
+          "50+2MP",
+          "8MP Front",
+          "Helio G85",
+          "260ppi",
+          "IPS",
+          "90Hz",
+          "600 nits",
+          "18W",
+          "1080p@30fps",
+          "Gorilla Glass",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "2310FPCA4I",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-07-05T19:31:45.8128948-04:00",
+        "Update": "2024-07-28T16:59:25.0540742-04:00",
+        "Label": "Xiaomi POCO C65 8+256GB DualSim Matte Black"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "6.74\"",
+          "50+2MP",
+          "8MP Front",
+          "Helio G85",
+          "260ppi",
+          "IPS",
+          "90Hz",
+          "600 nits",
+          "18W",
+          "1080p@30fps",
+          "Gorilla Glass",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "2310FPCA4I",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-07-05T19:31:39.3637374-04:00",
+        "Update": "2024-07-28T16:59:25.0873863-04:00",
+        "Label": "Xiaomi POCO C65 8+256GB DualSim Pastel Blue"
       }
     ],
     "Auricular": [
