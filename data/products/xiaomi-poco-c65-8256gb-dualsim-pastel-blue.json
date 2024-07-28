@@ -1,0 +1,34 @@
+{
+  "Category": "Teléfonos",
+  "SubCategory": "Celular",
+  "Images": [
+    "/images/products/xiaomi-poco-c65-8256gb-dualsim-pastel-blue-1.webp",
+    "/images/products/xiaomi-poco-c65-8256gb-dualsim-pastel-blue-2.webp",
+    "/images/products/xiaomi-poco-c65-8256gb-dualsim-pastel-blue-3.webp",
+    "/images/products/xiaomi-poco-c65-8256gb-dualsim-pastel-blue-4.webp"
+  ],
+  "Description": "",
+  "Price": 140.00,
+  "Features": [
+    "6.74\"",
+    "50+2MP",
+    "8MP Front",
+    "Helio G85",
+    "260ppi",
+    "IPS",
+    "90Hz",
+    "600 nits",
+    "18W",
+    "1080p@30fps",
+    "Gorilla Glass",
+    "5000mAh",
+    "3G-LTE",
+    "Jack 3.5",
+    "Fingerprint",
+    "2310FPCA4I",
+    "2023 Diciembre"
+  ],
+  "Date": "2024-07-05T19:31:39.3637374-04:00",
+  "Update": "2024-07-28T16:59:25.0873863-04:00",
+  "Label": "Xiaomi POCO C65 8+256GB DualSim Pastel Blue"
+}
