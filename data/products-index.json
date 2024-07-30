@@ -51,28 +51,6 @@
         "Price": 135.00,
         "Features": [
           "6.7\"",
-          "50+2MP",
-          "8MP Front",
-          "Helio G85",
-          "262ppi",
-          "PLS",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack3.5",
-          "A055F/DS",
-          "2023 Octubre"
-        ],
-        "Date": "2024-06-08T07:41:03.8821567-04:00",
-        "Update": "2024-07-08T16:08:36.7926526-04:00",
-        "Def": true,
-        "Label": "Samsung Galaxy A05 4+128GB DualSim Black"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "6.7\"",
           "50+2+2MP",
           "13MP Front",
           "Snapdragon 680",
@@ -826,13 +804,6 @@
         "Date": "2024-06-08T10:19:35.2943993-04:00",
         "Update": "2024-07-08T16:11:07.2917554-04:00",
         "Label": "Cover OEM C03 Samsung Galaxy A05"
-      },
-      {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-05-26T14:13:06.3974492-04:00",
-        "Update": "2024-07-08T16:11:07.3269283-04:00",
-        "Label": "Cover OEM C01 Samsung A15, A25"
       },
       {
         "Price": 7.00,
