@@ -638,14 +638,6 @@
         "Label": "Samsung Galaxy A05s 4+64GB DualSim Black + Cargador + Cover + Audífonos"
       },
       {
-        "Price": 125.00,
-        "Features": [],
-        "Date": "2024-07-22T14:34:16.4662772-04:00",
-        "Update": "2024-07-28T16:24:20.4694529-04:00",
-        "Discount": 33.0,
-        "Label": "Samsung Galaxy A05 4+64GB DualSim Black + Cover + Cargador + Audífonos"
-      },
-      {
         "Price": 165.00,
         "Features": [],
         "Date": "2024-07-28T16:10:15.2323923-04:00",
@@ -735,6 +727,14 @@
         "Date": "2024-07-05T19:31:34.0952125-04:00",
         "Update": "2024-07-28T17:04:35.4045564-04:00",
         "Label": "Xiaomi POCO M5 6+128GB DualSim Green"
+      },
+      {
+        "Price": 125.00,
+        "Features": [],
+        "Date": "2024-07-22T14:34:16.4662772-04:00",
+        "Update": "2024-07-31T10:30:55.7261391-04:00",
+        "Discount": 25.0,
+        "Label": "Samsung Galaxy A05 4+64GB DualSim Black + Cargador + Cover + Audífonos"
       }
     ],
     "Auricular": [
@@ -818,6 +818,13 @@
         "Date": "2024-07-07T20:41:06.0528889-04:00",
         "Update": "2024-07-08T16:11:07.4326469-04:00",
         "Label": "Cover OEM C02 Samsung Galaxy A05s, M14"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2024-07-07T20:41:03.5824458-04:00",
+        "Update": "2024-07-31T10:30:17.3049464-04:00",
+        "Label": "Cover OEM C02 Samsung Galaxy A05"
       }
     ],
     "MicroSD": [
