@@ -500,14 +500,6 @@
         "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black"
       },
       {
-        "Price": 155.00,
-        "Features": [],
-        "Date": "2024-07-28T15:54:58.9532456-04:00",
-        "Update": "2024-07-28T15:58:21.8017411-04:00",
-        "Discount": 23.0,
-        "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black + Cover + Cargador + Audífonos"
-      },
-      {
         "Price": 135.00,
         "Features": [],
         "Date": "2024-07-22T14:43:39.8286445-04:00",
@@ -588,6 +580,14 @@
         "Update": "2024-07-31T10:30:55.7261391-04:00",
         "Discount": 25.0,
         "Label": "Samsung Galaxy A05 4+64GB DualSim Black + Cargador + Cover + Audífonos"
+      },
+      {
+        "Price": 155.00,
+        "Features": [],
+        "Date": "2024-07-28T15:54:58.9532456-04:00",
+        "Update": "2024-08-06T19:08:03.5007549-04:00",
+        "Discount": 25.0,
+        "Label": "Samsung Galaxy A15 4+128GB DualSim Blue Black + Cover + Cargador + Audífonos"
       }
     ],
     "Auricular": [
