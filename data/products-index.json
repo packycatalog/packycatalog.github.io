@@ -95,31 +95,6 @@
         "Label": "Samsung Galaxy A15 6+128GB DualSim Light Blue"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "6.5\"",
-          "50+5+2MP",
-          "13MP Front",
-          "Helio G99",
-          "396ppi",
-          "Super AMOLED",
-          "90Hz",
-          "800nits",
-          "25W",
-          "1080p@30fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "A155M/DSN",
-          "2023 Diciembre"
-        ],
-        "Date": "2024-05-03T13:49:57.4666952-04:00",
-        "Update": "2024-07-08T16:08:37.2495053-04:00",
-        "Def": true,
-        "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "6.74\"",
@@ -396,30 +371,6 @@
       },
       {
         "Price": 135.00,
-        "Features": [
-          "6.7\"",
-          "50+2+2MP",
-          "13MP Front",
-          "Snapdragon 680",
-          "394ppi",
-          "PLS",
-          "90Hz",
-          "25W",
-          "1080p@60fps",
-          "5000mAh",
-          "3G-LTE",
-          "Jack 3.5",
-          "Fingerprint",
-          "M145F/DS",
-          "2024 Marzo"
-        ],
-        "Date": "2024-05-10T15:16:52.9512619-04:00",
-        "Update": "2024-07-21T10:56:26.8219164-04:00",
-        "Def": true,
-        "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue"
-      },
-      {
-        "Price": 135.00,
         "Features": [],
         "Date": "2024-07-22T14:57:38.3144601-04:00",
         "Update": "2024-07-23T12:06:25.1778225-04:00",
@@ -464,7 +415,6 @@
         "Date": "2024-07-28T16:16:26.4026194-04:00",
         "Update": "2024-07-28T16:24:20.5429306-04:00",
         "Discount": 25.0,
-        "Def": true,
         "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue + Cargador + Cover + Audífonos"
       },
       {
@@ -538,7 +488,6 @@
         "Date": "2024-07-28T16:10:15.2323923-04:00",
         "Update": "2024-08-06T19:10:24.5107605-04:00",
         "Discount": 25.0,
-        "Def": true,
         "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black + Cargador + Cover + Audífonos"
       }
     ],
