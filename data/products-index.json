@@ -440,6 +440,78 @@
         "Update": "2024-08-06T19:10:24.5107605-04:00",
         "Discount": 25.0,
         "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black + Cargador + Cover + Audífonos"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "6.5\"",
+          "50+5+2MP",
+          "13MP Front",
+          "Helio G99",
+          "396ppi",
+          "Super AMOLED",
+          "90Hz",
+          "800nits",
+          "25W",
+          "1080p@30fps",
+          "5000mAh",
+          "3G-LTE",
+          "Jack 3.5",
+          "Fingerprint",
+          "A155M/DSN",
+          "2023 Diciembre"
+        ],
+        "Date": "2024-05-03T13:49:57.4666952-04:00",
+        "Update": "2024-08-13T23:13:57.4180144-04:00",
+        "Label": "Samsung Galaxy A15 6+128GB DualSim Blue Black"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "6.67\"",
+          "108+8+2MP",
+          "16MP Front",
+          "Snapdragon 685",
+          "395ppi",
+          "AMOLED",
+          "120Hz",
+          "1000nits",
+          "33W",
+          "Gorilla Glass 3",
+          "IP54",
+          "5000mAh",
+          "1080p@30fps",
+          "Fingerprint",
+          "Jack 3.5",
+          "3G-LTE",
+          "23129RA5FL",
+          "2024 Enero"
+        ],
+        "Date": "2024-05-10T15:16:58.8713407-04:00",
+        "Update": "2024-08-13T23:13:57.4562835-04:00",
+        "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Midnight Black +Cover +Mica"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "6.6\"",
+          "50+12+5MP",
+          "32MP Front",
+          "Exynos 1480",
+          "399ppi",
+          "Super AMOLED",
+          "120Hz",
+          "1000nits",
+          "25W",
+          "5000mAh",
+          "3G-LTE-5G",
+          "Fingerprint",
+          "A556E/DS",
+          "2024 Marzo"
+        ],
+        "Date": "2024-07-21T10:58:38.4187161-04:00",
+        "Update": "2024-08-13T23:13:57.5086997-04:00",
+        "Label": "Samsung Galaxy A55 8+128GB DualSim Awesome Navy"
       }
     ],
     "Auricular": [
@@ -966,6 +1038,15 @@
         "Date": "2024-01-25T16:32:57.1848232-05:00",
         "Update": "2024-03-16T09:51:15.7003506-04:00",
         "Label": "COMBO Camiones de Bomberos. Bomberos + Ambulancia + Helicóptero"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "carcasa de metal, +60 min, 2.4G, 1:22 niños, adultos y niñas"
+        ],
+        "Date": "2024-06-30T19:55:56.819068-04:00",
+        "Update": "2024-08-13T23:13:57.3814027-04:00",
+        "Label": "Carro de control remoto DEERC DE70"
       }
     ]
   },
