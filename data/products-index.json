@@ -97,7 +97,7 @@
         "Label": "Xiaomi Redmi 13C 4+128GB DualSim Stardust Black"
       },
       {
-        "Price": 140.00,
+        "Price": 130.00,
         "Features": [
           "6.56\"",
           "50+2+2MP",
@@ -171,7 +171,7 @@
         "Label": "Xiaomi Redmi Note 13 8+256GB DualSim Mint Green +Cover +Mica"
       },
       {
-        "Price": 215.00,
+        "Price": 195.00,
         "Features": [
           "6.8\"",
           "108+5+2MP",
@@ -221,7 +221,7 @@
         "Label": "Xiaomi Redmi Note 13 Pro 12+512GB DualSim Midnight Black +Cover +Mica"
       },
       {
-        "Price": 330.00,
+        "Price": 325.00,
         "Features": [
           "6.7\"",
           "50+8+2MP",
@@ -344,7 +344,7 @@
         "Label": "Xiaomi POCO C65 8+256GB DualSim Matte Black"
       },
       {
-        "Price": 170.00,
+        "Price": 160.00,
         "Features": [
           "6.58\"",
           "50+2+2MP",
@@ -1206,7 +1206,7 @@
     ],
     "Empresarial": [
       {
-        "Price": 550.00,
+        "Price": 520.0,
         "Features": [
           "15.6\" FHD",
           "i5-1235U",
