@@ -316,6 +316,7 @@
         "Date": "2024-07-28T16:16:26.4026194-04:00",
         "Update": "2024-07-28T16:24:20.5429306-04:00",
         "Discount": 25.0,
+        "Def": true,
         "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue + Cargador + Cover + Audífonos"
       },
       {
@@ -484,6 +485,7 @@
         ],
         "Date": "2024-07-20T23:18:38.4363359-04:00",
         "Update": "2024-08-14T12:20:29.3171211-04:00",
+        "Def": true,
         "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Artic Blue"
       },
       {
@@ -507,6 +509,7 @@
         ],
         "Date": "2024-05-10T15:16:52.9512619-04:00",
         "Update": "2024-08-14T12:20:29.359597-04:00",
+        "Def": true,
         "Label": "Samsung Galaxy M14 4G 4+64GB DualSim Sappire Blue"
       }
     ],
