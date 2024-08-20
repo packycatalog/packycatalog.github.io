@@ -1,15 +1,1 @@
-{
-  "Category": "Teléfonos",
-  "SubCategory": "Mica",
-  "Images": [
-    "/images/products/mica-oem-samsung-galaxy-a15-1.webp",
-    "/images/products/mica-oem-samsung-galaxy-a15-2.webp",
-    "/images/products/mica-oem-samsung-galaxy-a15-3.webp"
-  ],
-  "Description": "",
-  "Price": 7.00,
-  "Features": [],
-  "Date": "2024-06-24T13:43:54.9076731-04:00",
-  "Update": "2024-07-08T16:11:07.1853344-04:00",
-  "Label": "Mica OEM Samsung Galaxy A15"
-}
+{"Category":"Teléfonos","SubCategory":"Mica","Images":["/images/products/mica-oem-samsung-galaxy-a15-1.webp","/images/products/mica-oem-samsung-galaxy-a15-2.webp","/images/products/mica-oem-samsung-galaxy-a15-3.webp"],"Description":"","Price":7.00,"Features":[],"Date":"2024-06-24T13:43:54.9076731-04:00","Update":"2024-07-08T16:11:07.1853344-04:00","Label":"Mica OEM Samsung Galaxy A15"}
