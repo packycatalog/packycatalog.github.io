@@ -1,16 +1,1 @@
-{
-  "Category": "Laptops",
-  "SubCategory": "Accesorios",
-  "Images": [
-    "/images/products/memoria-flash-team-group-128gb-c186-usb-32-tc18631-8xx2kd-1.webp"
-  ],
-  "Description": "",
-  "Price": 170.00,
-  "Features": [
-    "Memoria USB",
-    "Gen 1"
-  ],
-  "Date": "2024-06-30T18:35:14.2360135-04:00",
-  "Update": "2024-07-17T22:40:38.4758152-04:00",
-  "Label": "Memoria Flash Team Group 128GB C186 USB 3.2 [TC1863128GB01]"
-}
+{"Category":"Laptops","SubCategory":"Accesorios","Images":["/images/products/memoria-flash-team-group-128gb-c186-usb-32-tc18631-8xx2kd-1.webp"],"Description":"","Price":170.00,"Features":["Memoria USB","Gen 1"],"Date":"2024-06-30T18:35:14.2360135-04:00","Update":"2024-07-17T22:40:38.4758152-04:00","Label":"Memoria Flash Team Group 128GB C186 USB 3.2 [TC1863128GB01]"}
