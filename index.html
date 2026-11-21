@@ -140,7 +140,7 @@ h2{font-family:var(--fhead);font-size:17px;letter-spacing:-.01em;margin:26px 0 1
 @media(min-width:900px){.lay2{grid-template-columns:minmax(0,1fr) 360px;gap:24px;align-items:start}.lay2>.side{position:sticky;top:72px;max-height:calc(100vh - 84px);overflow:auto}
  .lay2.bl2{grid-template-columns:360px minmax(0,1fr)}.bl2 .bsec{margin-top:0}
  .bpk .box{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:28px}.bpk .box>.br:nth-child(2){border-top:0;padding-top:0}.bpk .box>.br:nth-last-child(2):nth-child(odd){padding-bottom:0}.bpk .acts{max-width:360px}}
-.bl2{gap:0}
+@media(max-width:899px){.bl2{gap:0}}
 .side .tot:first-child{border-top:0;padding-top:0;margin-top:0}
 .bint,.cartbox>p,.ap{max-width:70ch}
 .ci{display:grid;grid-template-columns:64px 1fr auto;gap:6px 12px;align-items:center;padding:14px 0;border-top:1px solid var(--soft)}
@@ -396,6 +396,11 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 [data-theme] .hk,[data-theme] .hs,[data-theme] .ht{margin:0}
 [data-theme] .hs:empty,[data-theme] .hk:empty{display:none}
 [data-theme] .hn,[data-theme] #hero>i{display:none}
+[data-theme] .chip.on{background:var(--bg);border-color:var(--bg);color:var(--on)}
+[data-theme] #kws .chip.on{background:var(--ink);color:#fff}
+[data-theme] .use{border-radius:min(var(--r),14px)}
+[data-theme] .bchg{border-radius:min(var(--r),9px)}
+[data-theme] .br img,[data-theme] .br .ph,[data-theme] .ci img{border-radius:min(var(--r),8px)}
 [data-theme] .kick{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 [data-theme] .acts .btn,[data-theme] .acts .two .btn{min-width:0;white-space:normal;line-height:1.15;text-align:center}
 [data-theme] .pv h1{overflow-wrap:anywhere}
@@ -410,7 +415,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 @media(prefers-reduced-motion:reduce){[data-theme] *,[data-theme] *::before,[data-theme] *::after{animation:none!important;transition:none!important}}
 @font-face{font-family:TF;src:url(fonts/bricolage.woff2) format("woff2");font-weight:400 800;font-display:swap}
 [data-theme=mercado]{--bg:#e8441f;--on:#fff;--ft:#1f1410;--fton:#ffe9c7;--ink:#1f1410;--ink2:#3d2a20;--ink3:#523a2c;--mut:#8a6b55;--mut2:#b89d87;--line:#ecd6b6;--bd:#cdb190;
---page:#fff3df;--soft:#ffe6c2;--soft2:#ffdba8;--r:14px;--r2:18px;--acc:#e8441f;--y:#ffc629;--hot:#fff;--hotbg:#e8441f;--ok:#1f1410;--okbg:#ffc629;
+--page:#fff3df;--soft:#ffe6c2;--soft2:#ffdba8;--r:14px;--r2:18px;--acc:#e8441f;--y:#ffc629;--hot:#c81e1e;--hotbg:#fde0d8;--ok:#1f1410;--okbg:#ffc629;
 --font:TF,system-ui,"Segoe UI",Roboto,sans-serif}
 [data-theme=mercado] body{background:radial-gradient(rgba(232,68,31,.08) 1.5px,transparent 1.7px) 0 0/18px 18px,var(--page)}
 [data-theme=mercado] #note{background:var(--ink);color:var(--y);box-shadow:none;font-weight:700}
@@ -419,7 +424,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 background:radial-gradient(circle at 13px 0,var(--bg) 12.5px,transparent 13px) 0 0/52px 15px repeat-x,radial-gradient(circle at 13px 0,var(--y) 12.5px,transparent 13px) 26px 0/52px 15px repeat-x}
 [data-theme=mercado] main{padding-top:14px}
 [data-theme=mercado] .brand{text-transform:none;letter-spacing:-.035em;font-weight:500;font-size:25px}
-[data-theme=mercado] .brand b{font-weight:800;color:var(--y)}
+[data-theme=mercado] .brand b{font-weight:800;color:#ffe27a}
 [data-theme=mercado] .search input{height:42px;background:#fff;border:0;border-radius:999px;color:var(--ink);font-weight:500}
 [data-theme=mercado] .search>svg{color:var(--ink);top:12px}
 [data-theme=mercado] #hero{margin:16px 0 10px;padding:30px 22px 32px;border-radius:20px;color:#fff;overflow:visible;
@@ -453,6 +458,7 @@ clip-path:polygon(50% 0%,58.7% 12%,71.7% 5%,74.3% 19.5%,89.1% 18.8%,85.1% 33.1%,
 @media(hover:hover){[data-theme=mercado] .card:hover{transform:translateY(-3px) rotate(-.4deg);box-shadow:0 8px 0 var(--line)}}
 [data-theme=mercado] .info{border-top:0}
 [data-theme=mercado] .b1,[data-theme=mercado] .b2{font-weight:800;border-radius:4px;transform:rotate(-4deg);box-shadow:0 2px 0 rgba(31,20,16,.25)}
+[data-theme=mercado] .b2{background:var(--bg);color:#fff}
 [data-theme=mercado] .kick{display:block;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--bg)}
 [data-theme=mercado] .name{font-weight:700;font-size:15.5px;letter-spacing:-.01em}
 [data-theme=mercado] .feat{-webkit-line-clamp:1}
