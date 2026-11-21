@@ -467,7 +467,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 header,#note{padding-left:var(--tbl);padding-right:var(--tbr);-webkit-app-region:drag;app-region:drag}
 header a,header button,header input,#searchBox,#accMenu,#note a,#note button{-webkit-app-region:no-drag;app-region:no-drag}}
 
-#hero,.kick,#fBrand{display:none}
+#hero,.kick{display:none}
 [data-theme] #hero{display:block;position:relative;margin:14px 0 6px;overflow:hidden;overflow:clip}
 [data-theme] .hk,[data-theme] .hs,[data-theme] .ht{margin:0}
 [data-theme] .hs:empty,[data-theme] .hk:empty{display:none}
@@ -676,7 +676,7 @@ background:radial-gradient(circle at 13px 15px,var(--ft) 12.5px,transparent 13px
  <section id="vAcc" hidden></section>
 </main>
 <footer id="contacto"><div class="wrap">
- <div id="fBrand"></div><div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
+ <div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
 </div></footer>
 <button id="top" hidden aria-label="Subir"></button>
 <button id="wa" hidden aria-label="WhatsApp"></button>
@@ -1321,9 +1321,8 @@ function chrome(){
   (se&&SEA===-1?IC[se.i].replace("<svg",'<svg class="sei"'):"");
  $("note").hidden=!nt;$("note").className=se?"se":"";
  $("note").firstChild.innerHTML=(se&&nt?IC[se.i]:"")+esc(nt);sePaint(sk);
- $("fBrand").innerHTML='<div class="fbn">'+bnm(2)+"</div>"+(M.Tagline?'<p class="fbt">'+esc(M.Tagline)+"</p>":"");
- $("fFoot").textContent=M.Foot||"";
- $("fCopy").textContent="© "+new Date().getFullYear()+" "+(M.Title||"");
+ $("fFoot").textContent=M.Foot||"";$("fFoot").hidden=!M.Foot;
+ $("fCopy").textContent="© "+new Date().getFullYear()+" "+(M.Title||"")+(M.Tagline?" · "+M.Tagline:"");
  $("wa").hidden=!(M.Cell>0);cartCount()}
 
  
