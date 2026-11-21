@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="mercado">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Packy Catalog</title>
 <link rel="manifest" href="app.webmanifest">
-<meta name="theme-color" content="#144272">
+<meta name="theme-color" content="#e8441f">
 <link rel="apple-touch-icon" href="images/icons/app-192.png">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Packy Catalog">
@@ -16,6 +16,7 @@
 <meta name="description" content="">
 <meta property="og:url" content="https://packycatalog.github.io/">
 <link rel="icon" type="image/png" href="images/icons/fav.png">
+<link rel="preload" href="fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
 <style>
 :root{--acc:#b42318;--bg:rgb(34,34,34);--on:#fff;--hd:var(--bg);--hdon:var(--on);--ft:var(--bg);--fton:var(--on);--card:#fff;--bd:#d0d5dd;--ink2:#344054;--ink3:#475467;--mut2:#98a2b3;--soft2:#e9ecf0;--r2:14px;--sh:rgba(16,24,40,.10);--font:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;--fbrand:var(--font);--fhead:var(--font);--ink:#14171c;--mut:#667085;--line:#e4e7ec;--page:#f4f5f7;--soft:#f1f3f6;--ok:#12715b;--okbg:#e3f3ec;--hot:#b42318;--hotbg:#fde9e7;--wa:#128c4a;--r:12px}
 *{box-sizing:border-box}
@@ -391,7 +392,96 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .nsls button svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 
 #hero,.kick{display:none}
-
+[data-theme] #hero{display:block;position:relative;margin:14px 0 6px;overflow:hidden}
+[data-theme] .hk,[data-theme] .hs,[data-theme] .ht{margin:0}
+[data-theme] .hs:empty,[data-theme] .hk:empty{display:none}
+[data-theme] .hn,[data-theme] #hero>i{display:none}
+[data-theme] .kick{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+[data-theme] .acts .btn,[data-theme] .acts .two .btn{min-width:0;white-space:normal;line-height:1.15;text-align:center}
+[data-theme] .pv h1{overflow-wrap:anywhere}
+@keyframes t-up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes t-pop{0%{opacity:0;transform:scale(.9)}70%{opacity:1;transform:scale(1.03)}100%{opacity:1;transform:none}}
+@keyframes t-fade{from{opacity:0}to{opacity:1}}
+@keyframes t-float{50%{transform:translateY(-12px) rotate(6deg)}}
+@keyframes t-blink{50%{opacity:0}}
+@keyframes t-wig{0%,100%{transform:rotate(10deg)}50%{transform:rotate(16deg) scale(1.05)}}
+[data-theme] .grid .card:nth-child(2){animation-delay:.05s}[data-theme] .grid .card:nth-child(3){animation-delay:.1s}[data-theme] .grid .card:nth-child(4){animation-delay:.15s}
+[data-theme] .grid .card:nth-child(5){animation-delay:.2s}[data-theme] .grid .card:nth-child(6){animation-delay:.25s}
+@media(prefers-reduced-motion:reduce){[data-theme] *,[data-theme] *::before,[data-theme] *::after{animation:none!important;transition:none!important}}
+@font-face{font-family:TF;src:url(fonts/bricolage.woff2) format("woff2");font-weight:400 800;font-display:swap}
+[data-theme=mercado]{--bg:#e8441f;--on:#fff;--ft:#1f1410;--fton:#ffe9c7;--ink:#1f1410;--ink2:#3d2a20;--ink3:#523a2c;--mut:#8a6b55;--mut2:#b89d87;--line:#ecd6b6;--bd:#cdb190;
+--page:#fff3df;--soft:#ffe6c2;--soft2:#ffdba8;--r:14px;--r2:18px;--acc:#e8441f;--y:#ffc629;--hot:#fff;--hotbg:#e8441f;--ok:#1f1410;--okbg:#ffc629;
+--font:TF,system-ui,"Segoe UI",Roboto,sans-serif}
+[data-theme=mercado] body{background:radial-gradient(rgba(232,68,31,.08) 1.5px,transparent 1.7px) 0 0/18px 18px,var(--page)}
+[data-theme=mercado] #note{background:var(--ink);color:var(--y);box-shadow:none;font-weight:700}
+[data-theme=mercado] header{box-shadow:none}
+[data-theme=mercado] header::after{content:"";position:absolute;left:0;right:0;top:100%;height:15px;pointer-events:none;filter:drop-shadow(0 3px 0 rgba(31,20,16,.14));
+background:radial-gradient(circle at 13px 0,var(--bg) 12.5px,transparent 13px) 0 0/52px 15px repeat-x,radial-gradient(circle at 13px 0,var(--y) 12.5px,transparent 13px) 26px 0/52px 15px repeat-x}
+[data-theme=mercado] main{padding-top:14px}
+[data-theme=mercado] .brand{text-transform:none;letter-spacing:-.035em;font-weight:500;font-size:25px}
+[data-theme=mercado] .brand b{font-weight:800;color:var(--y)}
+[data-theme=mercado] .search input{height:42px;background:#fff;border:0;border-radius:999px;color:var(--ink);font-weight:500}
+[data-theme=mercado] .search>svg{color:var(--ink);top:12px}
+[data-theme=mercado] #hero{margin:16px 0 10px;padding:30px 22px 32px;border-radius:20px;color:#fff;overflow:visible;
+background:radial-gradient(rgba(255,255,255,.2) 2px,transparent 2.3px) 0 0/15px 15px,linear-gradient(160deg,#f0562f,#d6360f)}
+[data-theme=mercado] .hk{display:inline-block;background:var(--ink);color:var(--y);font-size:12.5px;font-weight:700;padding:4px 12px;border-radius:6px;transform:rotate(-2deg)}
+[data-theme=mercado] .ht{margin-top:14px;font-size:clamp(40px,12vw,84px);line-height:.9;font-weight:800;letter-spacing:-.05em;max-width:78%}
+[data-theme=mercado] .ht b{font-weight:800;color:var(--ink);background:var(--y);padding:0 .12em;border-radius:.12em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+[data-theme=mercado] .hs{margin-top:16px;font-size:17px;font-weight:500;max-width:40ch}
+[data-theme=mercado] .hn{display:grid;place-content:center;justify-items:center;position:absolute;right:8px;top:-14px;width:104px;height:104px;background:var(--y);color:var(--ink);line-height:1;animation:t-wig 3.5s ease-in-out infinite;
+clip-path:polygon(50% 0%,58.7% 12%,71.7% 5%,74.3% 19.5%,89.1% 18.8%,85.1% 33.1%,98.7% 38.9%,89% 50%,98.7% 61.1%,85.1% 66.9%,89.1% 81.2%,74.3% 80.5%,71.7% 95%,58.7% 88%,50% 100%,41.3% 88%,28.3% 95%,25.7% 80.5%,10.9% 81.2%,14.9% 66.9%,1.3% 61.1%,11% 50%,1.3% 38.9%,14.9% 33.1%,10.9% 18.8%,25.7% 19.5%,28.3% 5%,41.3% 12%)}
+[data-theme=mercado] .hn b{font-size:27px;font-weight:800;letter-spacing:-.04em}
+[data-theme=mercado] .hn span{font-size:10.5px;font-weight:700;text-transform:uppercase;margin-top:2px}
+[data-theme=mercado] #cats{border-bottom:0;gap:8px;padding:12px 0 4px}
+[data-theme=mercado] #cats .chip{background:var(--soft2);border:0;border-radius:999px;padding:9px 18px;font-size:15px;font-weight:700;color:var(--ink)}
+[data-theme=mercado] #cats .chip.on{background:var(--bg);color:#fff}
+[data-theme=mercado] .chip{border:0;background:#fff;border-radius:999px;font-weight:600;box-shadow:0 2px 0 var(--line)}
+[data-theme=mercado] .chip.on{background:var(--ink)}
+[data-theme=mercado] #kws .chip{background:var(--soft);box-shadow:none;border-radius:6px}
+[data-theme=mercado] h2{width:fit-content;font-size:26px;font-weight:800;letter-spacing:-.04em;background:linear-gradient(transparent 58%,var(--y) 58%);padding:0 6px;margin-left:-6px}
+[data-theme=mercado] .grid{grid-template-columns:minmax(0,1fr);gap:12px}
+@media(min-width:720px){[data-theme=mercado] .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}}
+@media(min-width:1080px){[data-theme=mercado] .grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+[data-theme=mercado] .grid .card:nth-child(-n+12){animation:t-up .45s both}
+[data-theme=mercado] .grid .card{display:grid;grid-template-columns:128px minmax(0,1fr);position:relative}
+[data-theme=mercado] .grid .card.sk{aspect-ratio:auto;height:132px}
+[data-theme=mercado] .grid .card:not(.sk)::before,[data-theme=mercado] .grid .card:not(.sk)::after{content:"";position:absolute;left:119px;width:18px;height:18px;border-radius:50%;background:var(--page);z-index:1}
+[data-theme=mercado] .grid .card::before{top:-9px}[data-theme=mercado] .grid .card::after{bottom:-9px}
+[data-theme=mercado] .grid .pic{aspect-ratio:auto;height:100%;min-height:128px;border-right:2px dashed var(--bd)}
+[data-theme=mercado] .grid .info{padding:12px 14px}
+[data-theme=mercado] .card{border:0;border-radius:14px;box-shadow:0 3px 0 var(--line)}
+@media(hover:hover){[data-theme=mercado] .card:hover{transform:translateY(-3px) rotate(-.4deg);box-shadow:0 8px 0 var(--line)}}
+[data-theme=mercado] .info{border-top:0}
+[data-theme=mercado] .b1,[data-theme=mercado] .b2{font-weight:800;border-radius:4px;transform:rotate(-4deg);box-shadow:0 2px 0 rgba(31,20,16,.25)}
+[data-theme=mercado] .kick{display:block;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--bg)}
+[data-theme=mercado] .name{font-weight:700;font-size:15.5px;letter-spacing:-.01em}
+[data-theme=mercado] .feat{-webkit-line-clamp:1}
+[data-theme=mercado] .card .row{flex-wrap:wrap;gap:8px}
+[data-theme=mercado] .card .price{background:var(--y);font-size:20px;font-weight:800;letter-spacing:-.03em;line-height:1;padding:7px 10px 7px 20px;border-radius:5px;clip-path:polygon(12px 0,100% 0,100% 100%,12px 100%,0 50%)}
+[data-theme=mercado] .card .price .cur{color:var(--ink3)}
+[data-theme=mercado] .card .add{width:auto;height:36px;gap:5px;padding:0 15px;border:0;border-radius:999px;background:var(--ink);color:#fff;font-size:13.5px;font-weight:700;margin-left:auto}
+[data-theme=mercado] .card .add svg{width:16px;height:16px}
+[data-theme=mercado] .card .add::after{content:"Añadir"}
+[data-theme=mercado] .card .add.on{background:var(--bg)}
+[data-theme=mercado] .card .add.on::after{content:"En la cesta"}
+[data-theme=mercado] .hrow .card .add,[data-theme=mercado] .rel .card .add{flex:1 0 100%}
+[data-theme=mercado] .tile{border:0;box-shadow:0 3px 0 var(--line)}
+[data-theme=mercado] .tile span{border-top:0;background:var(--bg);color:#fff;text-align:center;font-weight:700}
+[data-theme=mercado] .bpromo{border:0;box-shadow:0 3px 0 var(--line)}
+[data-theme=mercado] .bpromo.big{background:var(--ink);color:#fff;border-radius:18px;padding:20px}
+[data-theme=mercado] .bpromo.big b{color:var(--y);font-size:20px;font-weight:800}
+[data-theme=mercado] .gal{border:0;box-shadow:0 4px 0 var(--line)}
+[data-theme=mercado] .box{border:0;box-shadow:0 4px 0 var(--line)}
+[data-theme=mercado] .pv h1{font-size:30px;font-weight:800;letter-spacing:-.04em;line-height:1.05}
+[data-theme=mercado] .pv .price{display:inline-block;background:var(--y);font-size:36px;font-weight:800;letter-spacing:-.04em;line-height:1;padding:10px 16px 10px 30px;border-radius:8px;clip-path:polygon(18px 0,100% 0,100% 100%,18px 100%,0 50%)}
+[data-theme=mercado] .pv .price .cur{color:var(--ink3)}
+[data-theme=mercado] .specs span{background:var(--soft);font-weight:600;border-radius:999px;padding:4px 12px}
+[data-theme=mercado] .btn{border-radius:999px;font-weight:800;height:50px;font-size:16px}
+[data-theme=mercado] .btn:not(.alt):not(.wa):not(.wao){box-shadow:0 4px 0 #b02f10}
+[data-theme=mercado] .qty,[data-theme=mercado] .nsel{border-radius:999px}
+[data-theme=mercado] footer{position:relative;margin-top:50px}
+[data-theme=mercado] footer::before{content:"";position:absolute;left:0;right:0;bottom:100%;height:15px;
+background:radial-gradient(circle at 13px 15px,var(--ft) 12.5px,transparent 13px) 0 0/26px 15px repeat-x}
 </style>
 </head>
 <body>
