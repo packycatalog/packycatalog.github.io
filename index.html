@@ -393,7 +393,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .nsls button>span{flex:1;min-width:0}.nsls button.on{background:var(--soft);font-weight:600}.nsls button:disabled{opacity:.4;cursor:default}
 .nsls button svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 
-#hero,.kick{display:none}
+#hero,.kick,#fBrand{display:none}
 [data-theme] #hero{display:block;position:relative;margin:14px 0 6px;overflow:hidden}
 [data-theme] .hk,[data-theme] .hs,[data-theme] .ht{margin:0}
 [data-theme] .hs:empty,[data-theme] .hk:empty{display:none}
@@ -526,7 +526,7 @@ background:radial-gradient(circle at 13px 15px,var(--ft) 12.5px,transparent 13px
  <section id="vAcc" hidden></section>
 </main>
 <footer id="contacto"><div class="wrap">
- <div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
+ <div id="fBrand"></div><div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
 </div></footer>
 <button id="top" hidden aria-label="Subir"></button>
 <button id="wa" hidden aria-label="WhatsApp"></button>
@@ -953,13 +953,12 @@ function chrome(){
  $("fCols").innerHTML=trust(false);
  var t=(M.Title||"").split(" "),h=Math.round(t.length/2);
  var se=season(),nt=se?(M.Season.text||se.t+(M.HeadNotification?" · "+M.HeadNotification:"")):M.HeadNotification||"";
- var la=M.Logo&&+M.LogoAt<=t.length?+M.LogoAt||0:0,lg=M.Logo?'<img class="bi'+(la?" in":"")+'" alt="" src="images/icons/logo.png?v='+esc(M.Logo)+'">':"",
-  wd=function(a,b){for(var s="",i=a;i<b;i++)s+=(i>a&&i+1!=la?" ":"")+(i+1==la?lg+esc(t[i].slice(1)):esc(t[i]));return s};
- if(la)$("brand").setAttribute("aria-label",M.Title);else $("brand").removeAttribute("aria-label");
- $("brand").innerHTML=(la?"":lg)+(t.length<2?"<b>"+wd(0,1)+"</b>":"<b>"+wd(0,h)+"</b>"+(h+1==la?"":" ")+wd(h,t.length))+
+ if(M.Logo&&+M.LogoAt>0&&+M.LogoAt<=t.length)$("brand").setAttribute("aria-label",M.Title);else $("brand").removeAttribute("aria-label");
+ $("brand").innerHTML=bnm(1)+
   (se?IC[se.i].replace("<svg",'<svg style="color:'+se.ic+'"'):"");
  $("note").hidden=!nt;$("note").className=se?"se":"";$("note").style.background=se?se.c:"";$("note").style.color=se?"#fff":"";
  $("note").firstChild.innerHTML=(se?IC.gift:"")+esc(nt);
+ $("fBrand").innerHTML='<div class="fbn">'+bnm(2)+"</div>"+(M.Tagline?'<p class="fbt">'+esc(M.Tagline)+"</p>":"");
  $("fFoot").textContent=M.Foot||"";
  $("fCopy").textContent="© "+new Date().getFullYear()+" "+(M.Title||"");
  $("wa").hidden=!(M.Cell>0);cartCount()}
@@ -1040,10 +1039,17 @@ var HOME={
   return r.length?"<section><h2>"+esc(b.title||"Novedades")+'</h2><div class="hrow">'+r.map(card).join("")+"</div></section>":""},
  trust:function(b){var t=trust(false);return t?(b.title?"<section><h2>"+esc(b.title)+"</h2>":"<section>")+'<div class="box trust htrust">'+t+"</div></section>":""}
 };
+
+
+function bnm(k){var t=(M.Title||"").split(" "),h=Math.round(t.length/2),la=M.Logo&&+M.LogoAt<=t.length?+M.LogoAt||0:0,
+  lg=M.Logo&&k==1?'<img class="bi'+(la?" in":"")+'" alt="" src="images/icons/logo.png?v='+esc(M.Logo)+'">':"",
+  sp=function(i){return i+1!=la?" ":k==2?'<span class="bns"> </span>':""},
+  wd=function(a,b){for(var s="",i=a;i<b;i++)s+=(i>a?sp(i):"")+(i+1==la?(k==2?'<span class="bnl">'+esc(t[i].charAt(0))+"</span>":lg)+esc(t[i].slice(1)):esc(t[i]));return s};
+ return(la?"":lg)+(t.length<2?"<b>"+wd(0,1)+"</b>":"<b>"+wd(0,h)+"</b>"+sp(h)+wd(h,t.length))}
 function hero(on){var e=$("hero"),t=(M.Title||"").split(" "),k=Math.round(t.length/2);e.hidden=!on||!document.documentElement.hasAttribute("data-theme");if(e.hidden||e.firstChild)return;
  var nc=cats.filter(function(c){return all.some(function(p){return p.Category===c.name})}).length;
  e.innerHTML='<div class="hin"><p class="hk">'+(all.length?all.length+" artículos"+(nc>1?" · "+nc+" categorías":""):"")+'</p><h1 class="ht">'+
-  (t.length<2?"<b>"+esc(t[0]||"")+"</b>":"<b>"+esc(t.slice(0,k).join(" "))+"</b> "+esc(t.slice(k).join(" ")))+'</h1><p class="hs">'+esc(M.Tagline||"")+
+  bnm(2)+'</h1><p class="hs">'+esc(M.Tagline||"")+
   '</p></div><div class="hn"><b>'+all.length+"</b><span>artículos</span></div><i></i><i></i>"}
 function home(on){hero(on);var h="",ks=[];if(on&&M.Home&&M.Home.blocks)M.Home.blocks.forEach(function(b){var x=HOME[b.k]?HOME[b.k](b):"";if(x){h+=x;ks.push(b.k)}});
  $("home").innerHTML=h;$("home").hidden=!h;$("allh").hidden=!h;
