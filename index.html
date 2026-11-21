@@ -1504,7 +1504,9 @@ function tabs(arm){var h=chip("Todos",!arm&&!F.category,"cat","");
 var LN=0,LK="",LR=[];
 function pgSize(){var c=1;try{c=getComputedStyle($("grid")).gridTemplateColumns.split(" ").filter(Boolean).length||1}catch(e){}return c*Math.ceil(24/c)}
 function moreTx(){return"Ver más <span>(quedan "+(LR.length-LN)+")</span>"}
-function more(b){var a=LR.slice(LN,LN+pgSize());LN+=a.length;b.insertAdjacentHTML("beforebegin",a.map(card).join(""));
+ 
+function cut(n){return LR.length-n<12?LR.length:n}
+function more(b){var a=LR.slice(LN,cut(LN+pgSize()));LN+=a.length;b.insertAdjacentHTML("beforebegin",a.map(card).join(""));
  if(LR.length>LN)b.innerHTML=moreTx();else b.remove()}
 function list(){
  tabs(false);
@@ -1527,7 +1529,7 @@ function list(){
  var res=pool.filter(function(p){if(F.feature&&p.f.indexOf(F.feature)<0)return false;for(var i=0;i<ws.length;i++)if(p.t.indexOf(ws[i])<0)return false;return true});
  res.sort(F.sort=="asc"?function(a,b){return a.Price-b.Price}:F.sort=="desc"?function(a,b){return b.Price-a.Price}:function(a,b){return b.u-a.u});
   
- var lk=[F.category,F.subcategory,F.feature,F.search,F.sort,hm].join("|");if(lk!=LK){LK=lk;LN=pgSize()}LR=res;
+ var lk=[F.category,F.subcategory,F.feature,F.search,F.sort,hm].join("|");if(lk!=LK){LK=lk;LN=pgSize()}LR=res;LN=cut(LN);
  $("grid").innerHTML=(!hm&&!F.category&&!F.feature&&!F.search&&res.length&&bList().length?bPromo():"")+res.slice(0,LN).map(card).join("")+
   (res.length>LN?'<button type="button" class="btn alt more" id="more">'+moreTx()+"</button>":"");
  if(TX)TX.q(F.search,$("qX"));else $("qX").hidden=true;
