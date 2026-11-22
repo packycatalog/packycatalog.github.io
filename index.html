@@ -381,6 +381,7 @@ footer p{margin:0 0 6px;opacity:.7}
 #accNm .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}#accNm .btn{margin-top:10px}#nmOk:disabled{opacity:.4;cursor:default}
 .adf select,.adf textarea,#accNm input{width:100%;border:1px solid var(--bd);border-radius:10px;padding:10px 12px;font:inherit;font-size:15px;background:var(--card);color:var(--ink)}
 .adf textarea{min-height:68px;resize:vertical;display:block}
+.adf textarea[data-ad="o"]{min-height:46px}.adf label .adop{font-size:inherit;opacity:.75}
 .adf .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}
 .adf .an:empty{display:none}
 .adf .btn{margin-top:10px}
@@ -1192,6 +1193,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):
   (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,a.p)+'</select><p class="an" data-ad="n">'+esc(shNote(a.p))+
    '</p><label>Municipio</label><select data-ad="m"'+dis+">"+op(G[a.p]||[],a.m)+'</select><div data-ad="zw">'+zw(a.p,a.m,a.z)+"</div>":"")+
   '<label>Dirección</label><textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
+  '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
   (ro?"":'<button class="btn adok" disabled>Guardar dirección</button>');
   
  function ps(){var b=q(".adps");if(!b)return;if(!g){b.hidden=true;return}var r=ptHave(g);b.hidden=false;
@@ -1220,10 +1222,10 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):
    function(er){btn.disabled=false;btn.classList.remove("on");toast(er&&er.code==1?"Sin permiso para la ubicación: elígela en el mapa":"No se pudo obtener tu ubicación: elígela en el mapa",3200)},
    {enableHighAccuracy:true,timeout:15000,maximumAge:60000})}
   
- function cur(){var o={d:q('[data-ad="d"]').value.trim()},p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
-  if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;return o}
+ function cur(){var o={d:q('[data-ad="d"]').value.trim()},ob=q('[data-ad="o"]').value.trim(),p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
+  if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;if(ob)o.o=ob;return o}
  function dirty(){var b=q(".adok");if(!b)return;var o=cur(),s=adGet();
-  b.disabled=(o.d||"")==(s.d||"")&&(o.p||"")==(s.p||"")&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
+  b.disabled=(o.d||"")==(s.d||"")&&(o.o||"")==(s.o||"")&&(o.p||"")==(s.p||"")&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
  ps();
  if(ro)return;
  if(g)ptGet(g).then(function(){if(e.isConnected)ps()});
@@ -2039,7 +2041,7 @@ function order(){
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
  var pk=dlOff()&&dlPk(),sh=pk?null:shOf(tot),ad=pk?{}:adGet();if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
- t+="\nTotal: $"+tot+" USD";if(pk)t+="\n\nEntrega: recoger en el local";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);
+ t+="\nTotal: $"+tot+" USD";if(pk)t+="\n\nEntrega: recoger en el local";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);if(ad.o)t+=(ad.p||ad.m||ad.d||gOk(ad.g)?"\n":"\n\n")+"Observación: "+ad.o;
  var E=pk?undefined:etHave(ad),eS=etSel();if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
   
  if(gOk(ad.g)&&!COMO&&!VAS&&M.Auth&&M.Auth.url)try{fetch(M.Auth.url+"/pedido",{method:"POST",keepalive:true,body:JSON.stringify({t:AC&&AC.t||"",a:ad,total:tot,
