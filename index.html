@@ -419,6 +419,8 @@ footer p{margin:0 0 6px;opacity:.7}
 #comoBar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#comoBar button{flex:none;border:0;border-radius:8px;background:var(--card);color:#1d2939;font:inherit;font-weight:700;padding:6px 12px;cursor:pointer}
 .adf label,#accNm label{display:block;font-size:12.5px;color:var(--mut);margin:10px 2px 4px}
 .adtw{position:relative}.adtw.sch textarea{padding-right:50px}
+.adfm{display:flex;align-items:center;gap:10px;margin:6px 0 2px;font-size:13px;color:var(--mut)}.adfm[hidden]{display:none}.adfm span{flex:1;min-width:0;overflow-wrap:anywhere}.adfm b{color:var(--ink);font-weight:600}
+.adfm button{flex:none;padding:5px 12px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;font-size:13px;font-weight:600;cursor:pointer}
 .adsd{position:absolute;top:6px;right:6px;display:flex;align-items:center;justify-content:center;width:36px;height:36px;padding:0;border:0;border-radius:8px;background:var(--soft);color:var(--ink);cursor:pointer}
 .adsd svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}@media(hover:hover){.adsd:hover{background:var(--soft2)}}
 #accNm .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}#accNm .btn{margin-top:10px}#nmOk:disabled{opacity:.4;cursor:default}
@@ -1575,6 +1577,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
    
   '<label>Dirección</label><div class="adtw'+(pt&&!ro?" sch":"")+'"><textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
   (pt&&!ro?'<button type="button" class="adsd" data-srd aria-label="Buscar en el mapa" title="Buscar en el mapa">'+IC.search+"</button>":"")+"</div>"+
+  (ro?"":'<div class="adfm" hidden></div>')+
    
   '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
   (ro?"":'<div class="adft"><button class="btn adok" disabled>Guardar dirección</button></div>');
@@ -1614,8 +1617,30 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
    map.addControl(new FC())}).catch(function(){box.innerHTML='<p class="an">No cargó el mapa: revisa la conexión</p>'})}
  
 
+ 
+
+
+
+ function adFmt(s){var t=String(s==null?"":s).replace(/[\s ]+/g," ").trim();if(!t)return t;
+ t=t.replace(/\s*&\s*/g," y ")
+  .replace(/\s*,?\s*(?:^|\s)(?:entre|entr|e\s*\/|e\.|btw)\s+/gi," / ").replace(/\s*\/\s*/g," / ")
+  .replace(/(^|[\s,])(?:#|n[º°o]\.?|no\.?|n[uú]m(?:ero)?\.?|nro\.?)\s*(?=\d)/gi,"$1#")
+  .replace(/#(\d+)\s?([a-z])(?=\s|,|$)/gi,function(_,n,l){return"#"+n+l.toUpperCase()})
+  .replace(/\s*,?\s*\b(?:esquina|esq)\b\.?\s*/gi," esq. ")
+  .replace(/\b(?:apto|apartamento|apt)\b\.?\s*(?=\S)/gi,"Apto. ").replace(/\b(?:edif|edificio)\b\.?\s*(?=\S)/gi,"Edif. ")
+  .replace(/(^|\/ |\by |esq\. )calle\s+(?=\d|[a-z](?:\s|$|,))/gi,"$1")
+  .replace(/\s*,\s*/g,", ").replace(/(,\s*)+/g,", ").replace(/^[\s,/]+|[\s,]+$/g,"").replace(/\s+/g," ");
+ if(t.indexOf("#")<0)t=t.replace(/^([^,/]*?\S)\s+(\d{3,}[a-z]?)(?=\s*(?:\/|,|$|Apto\.|Edif\.|esq\.))/i,function(a,st,n){return/\b(km|kil[oó]metro)\s*$/i.test(st)?a:st+" #"+n.toUpperCase()});
+ var SW={y:1,e:1,de:1,del:1,la:1,las:1,los:1,el:1,en:1,al:1,a:1,"esq.":1,km:1,entre:1};
+ function cap(seg,all){var k=0;return seg.replace(/[^\s/]+/g,function(w){var i=k++,lw=w.toLowerCase();if(w!==lw)return w;
+  if(/^\d+[a-z]$/.test(w))return w.toUpperCase();if(/^[\d#]/.test(w))return w;if(lw=="y"&&i)return w;if(w.length==1)return w.toUpperCase();
+  if(!all||SW[lw]&&i)return w;return w.charAt(0).toUpperCase()+w.slice(1)})}
+ return t.split(", ").map(function(g,i){var sx=/#|\/|esq\.|^\S+ y \S+$/.test(g),pl=i>0&&g.split(" ").length<=4&&!/\d/.test(g);
+  return cap(g,sx||pl)}).join(", ")}
+ function fm(){var b=q(".adfm"),d=q('[data-ad="d"]');if(!b||!d)return;var v=d.value.trim(),f=adFmt(v);b.hidden=!v||f===v;
+  if(!b.hidden)b.innerHTML="<span>Ordenada: <b>"+esc(f)+'</b></span><button type="button" data-fmt>Usar</button>'}
  var SR=[],SRK=-1,SRO=false,SRL=null,SRQ=null;
- function srAp(r){return r.t=="entre"||r.t=="esquina"||r.t=="lugar"?"":"Aproximado: "}
+ function srAp(r){return r.t=="numero"||r.t=="entre"||r.t=="esquina"||r.t=="lugar"?"":"Aproximado: "}
  function srDraw(){var L=q(".adsl");if(!L)return;L.hidden=false;
   
 
@@ -1671,7 +1696,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  if(g)ptGet(g).then(function(){if(e.isConnected)ps()});
  e.onchange=function(ev){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(p&&ev.target===p){m.innerHTML=op(G[p.value]||[],"",p.value);q('[data-ad="n"]').textContent=shNote(p.value)}
   if(p&&(ev.target===p||ev.target===m)){q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"");ps();var V=vr();if(map&&!g&&V&&gOk(V.c))map.setView(V.c,14)}dirty()};
- e.oninput=dirty;
+ e.oninput=function(){dirty();fm()};fm();
  var sri=q("[data-sr]");if(sri)sri.addEventListener("keydown",function(ev){if(ev.key=="Enter"){ev.preventDefault();sr()}});
   
   
@@ -1680,7 +1705,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  document.addEventListener("pointerdown",srOut,true);
  if(sri)sri.addEventListener("input",function(){if(sri.value.trim())return;SR=[];SRK=-1;SRO=false;srPins();var l=q(".adsl");if(l){l.innerHTML="";l.hidden=true}});
  var sqi=q("[data-sq]"),dta=q('[data-ad="d"]');
- if(sqi&&dta){sqi.addEventListener("input",function(){dta.value=sqi.value;dirty();if(!sqi.value.trim()){SR=[];SRK=-1;SRO=false;srPins();var l=q(".adsl");if(l){l.innerHTML="";l.hidden=true}}});
+ if(sqi&&dta){sqi.addEventListener("input",function(){dta.value=sqi.value;dirty();fm();if(!sqi.value.trim()){SR=[];SRK=-1;SRO=false;srPins();var l=q(".adsl");if(l){l.innerHTML="";l.hidden=true}}});
   sqi.addEventListener("keydown",function(ev){if(ev.key=="Enter"){ev.preventDefault();sr()}});
   dta.addEventListener("input",function(){sqi.value=dta.value})}
   
@@ -1689,6 +1714,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map")){var dv=q('[data-ad="d"]');dv=dv?dv.value.trim():"";if(dv.length>=2&&dv!=SRQ)sr();else{mapOpen().then(function(){if(e.isConnected&&SR.length>1)srPins(true)})}}else if(t.hasAttribute("data-clr"))setG(null);
   else if(t.hasAttribute("data-use")){setP(ptHave(g));ps();dirty()}
   else if(t.hasAttribute("data-srb"))sr();
+  else if(t.hasAttribute("data-fmt")){var df=q('[data-ad="d"]'),sf=q("[data-sq]");if(df){df.value=adFmt(df.value);if(sf)sf.value=df.value}dirty();fm()}
   else if(t.hasAttribute("data-srd")){var dd=q('[data-ad="d"]');if(dd&&dd.value.trim().length<2){dd.focus();return}sr();var sb=q(".adpb");if(sb)sb.scrollIntoView({block:"start",behavior:"smooth"})}else if(t.hasAttribute("data-sri"))srPick(+t.getAttribute("data-sri"));
   else if(t.hasAttribute("data-srv")){SRO=true;srDraw();srPins(true)}
   else if(t.classList.contains("adok")){fs(false);var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
